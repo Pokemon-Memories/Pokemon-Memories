@@ -1,13 +1,4 @@
-=== [gen6ultraassist] Ultra Assist/Merciless [Atk Assist: Seismitoad] ===
-
-Rayquaza @ White Herb  
-Ability: dragonheart  
-EVs: 4 HP / 252 Atk / 252 Spe  
-Jolly Nature  
-- Dragon Ascent  
-- Earthquake  
-- Triple Axel  
-- Dragon Dance  
+=== [gen6ultraassist] Ultra Assist/Destruction [EX-Yveltal] ===
 
 Porygon-Z @ Life Orb  
 Ability: formatdrive  
@@ -19,6 +10,318 @@ Jolly Nature
 - Avalanche  
 - mysteryspeed  
 
+Infernape (M) @ Expert Belt  
+Ability: Protean  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Flame Charge  
+- Close Combat  
+- Bolt Beak  
+- Flip Turn  
+
+Arceus-Fairy @ Pixie Plate  
+Ability: Multitype  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Fire Blast  
+- Agility  
+- Recover  
+
+Phione @ Choice Scarf  
+Ability: Hydration  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- compactstream  
+- Water Sport  
+- Sludge Wave  
+- U-turn  
+
+Celesteela @ Metal Coat  
+Ability: Filter  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Calm Nature  
+- royalturbulence  
+- Stealth Rock  
+- Leech Seed  
+- Withdraw  
+
+Yveltal @ assistdrive  
+Ability: Dark Aura  
+Shiny: Yes  
+EVs: 252 SpA  
+Quiet Nature  
+IVs: 0 Spe  
+- Dark Pulse  
+- Oblivion Wing  
+- Rock Slide  
+- Uproar  
+
+
+=== [gen6ultraassist] Ultra Assist/Spooky [EX-Calyrex Shadow] ===
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Stored Power  
+- Aura Sphere  
+- Venoshock  
+- Poltergeist  
+
+Arceus @ Kasib Berry  
+Ability: impervious  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Extreme Speed  
+- glacialstrike  
+- infinitevelocity  
+- heavendance  
+
+Celesteela @ Metal Coat  
+Ability: Filter  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Calm Nature  
+- royalturbulence  
+- Stealth Rock  
+- Leech Seed  
+- Withdraw  
+
+Articuno-Galar @ Sweet Apple  
+Ability: frostyveil  
+EVs: 252 HP / 252 Def  
+Bold Nature  
+IVs: 0 Atk  
+- Freezing Glare  
+- Grass Whistle  
+- Roost  
+- Teleport  
+
+Calyrex-Shadow @ assistdrive  
+Ability: Power Spot  
+EVs: 252 HP / 4 Atk / 252 SpA  
+Quiet Nature  
+IVs: 0 Atk / 0 Spe  
+- Psycho Boost  
+- Astral Barrage  
+- Dazzling Gleam  
+- Parting Shot  
+
+Shaymin-Sky @ Toxic Orb  
+Ability: Rivalry  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Apple Acid  
+- Surf  
+- Bullet Seed  
+- turbineturn  
+
+
+=== [gen6ultraassist] Ultra Assist/Resplendent Offense [SpA Assist: Bibarel] ===
+
+Meloetta @ Throat Spray  
+Ability: amplifier  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Synchronoise  
+- Echoed Voice  
+- Frost Breath  
+- fluttersong  
+
+Gengar (M) @ Gengarite  
+Ability: dyslexia  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- shattershade  
+- Focus Blast  
+- Venom Drench  
+- sludgeswitch  
+
+Landorus-Therian (M) @ Sweet Apple  
+Ability: Pacify  
+EVs: 252 HP / 252 Def / 4 Spe  
+Bold Nature  
+- Earth Power  
+- Stealth Rock  
+- U-turn  
+- expressheal  
+
+Arceus-Fairy @ Pixie Plate  
+Ability: Multitype  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Fire Blast  
+- Agility  
+- Recover  
+
+Mewtwo @ Prism Scale  
+Ability: hightenedmind  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Expanding Force  
+- Aura Sphere  
+- infernobeam  
+- Zap Cannon  
+
+Bibarel (M) @ assistdrive  
+Ability: Unaware  
+EVs: 252 SpA  
+Quiet Nature  
+IVs: 0 Spe  
+- Water Sport  
+- Shadow Ball  
+- Superpower  
+- Stealth Rock  
+
+
+=== [gen6ultraassist] Ultra Assist/Feathers of Providence [EX Ho-Oh] ===
+
+Rotom-Fan @ Choice Scarf  
+Ability: propeller  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Electro Ball  
+- Hurricane  
+- Trick  
+- Volt Switch  
+
+Landorus-Therian (M) @ Sweet Apple  
+Ability: Pacify  
+EVs: 252 HP / 252 Def / 4 Spe  
+Bold Nature  
+- Earth Power  
+- Rapid Spin  
+- U-turn  
+- expressheal  
+
+Zacian-Crowned @ Metal Coat  
+Ability: Intrepid Sword  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Twinkle Tackle  
+- Close Combat  
+- Wave Crash  
+- Agility  
+
+Celesteela @ Metal Coat  
+Ability: Filter  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Calm Nature  
+- royalturbulence  
+- Stealth Rock  
+- Leech Seed  
+- Withdraw  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- psychofire  
+- Ember  
+- Aurora Beam  
+- Recover  
+
+Ho-Oh @ assistdrive  
+Ability: Magic Guard  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Sacred Fire  
+- Dragon Breath  
+- Aromatic Mist  
+- flameswitch  
+
+
+=== [gen6ultraassist] Ultra Assist/The Aura is Mine [Hp Assist: Volcanion] ===
+
+Lucario (M) @ Cover Fossil  
+Ability: speedtouch  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- auradrain  
+- Close Combat  
+- Ice Punch  
+- Dragon Dance  
+
+Gengar (M) @ Gengarite  
+Ability: dyslexia  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- shattershade  
+- Focus Blast  
+- Venom Drench  
+- sludgeswitch  
+
+Arceus-Fairy @ Pixie Plate  
+Ability: Multitype  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Fire Blast  
+- Agility  
+- Recover  
+
+Articuno-Galar @ Sweet Apple  
+Ability: frostyveil  
+EVs: 252 HP / 252 Def  
+Bold Nature  
+IVs: 0 Atk  
+- Freezing Glare  
+- Grass Whistle  
+- Roost  
+- Teleport  
+
+Celesteela @ Metal Coat  
+Ability: Filter  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Calm Nature  
+- royalturbulence  
+- Stealth Rock  
+- Leech Seed  
+- Withdraw  
+
+Volcanion @ assistdrive  
+Ability: Water Absorb  
+EVs: 252 HP  
+Sassy Nature  
+IVs: 0 SpA / 0 Spe  
+- Steam Eruption  
+- Earth Power  
+- Flame Charge  
+- Withdraw  
+
+
+=== [gen6ultraassist] Ultra Assist/Merciless [Atk Assist: Slowking] ===
+
+Virizion @ Lax Incense  
+Ability: fullbloom  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+IVs: 0 Atk  
+- Giga Drain  
+- Focus Blast  
+- Flash Cannon  
+- Feather Dance  
+
+Darmanitan-Galar (M) @ Choice Scarf  
+Ability: Gorilla Tactics  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Icicle Crash  
+- Earthquake  
+- Superpower  
+- U-turn  
+
 Zygarde @ White Herb  
 Ability: Power Construct  
 EVs: 4 HP / 252 Atk / 252 Spe  
@@ -28,48 +331,48 @@ Jolly Nature
 - Cross Poison  
 - Dragon Dance  
 
-Arceus @ Payapa Berry  
+Arceus @ Roseli Berry  
 Ability: impervious  
 Shiny: Yes  
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
 - glacialstrike  
-- Earthquake  
+- infinitevelocity  
 - heavendance  
 
-Celebi @ Lax Incense  
+Vaporeon @ Leftovers  
 Ability: utilitylock  
-EVs: 4 HP / 252 SpA / 252 Spe  
+EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
-- Giga Drain  
+- Dragon Breath  
+- Yawn  
 - Stealth Rock  
-- Recover  
-- Teleport  
+- Withdraw  
 
-Seismitoad @ assistdrive  
-Ability: Water Absorb  
+Slowking (M) @ assistdrive  
+Ability: Regenerator  
+Shiny: Yes  
 EVs: 252 Atk  
 Brave Nature  
 IVs: 0 Spe  
-- Earth Power  
-- Close Combat  
-- Poison Jab  
-- Parting Shot  
+- Royal Punishment  
+- Toxic  
+- royalnourishment  
+- royalretreat  
 
 
-=== [gen6ultraassist] Ultra Assist/Mewtwo's Booster Energy [SpA Assist: Wigglytuff] ===
+=== [gen6ultraassist] Ultra Assist/Mewtwo's Hightened Mind [SpA Assist: Wigglytuff] ===
 
 Mewtwo @ Dawn Stone  
 Ability: hightenedmind  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-IVs: 0 Atk  
 - Expanding Force  
 - Aura Sphere  
-- Aurora Beam  
-- Energy Ball  
+- Water Sport  
+- Comeuppance  
 
 Dialga @ Sweet Apple  
 Ability: Regenerator  
@@ -82,7 +385,7 @@ IVs: 0 Atk
 - Shell Smash  
 
 Kyogre @ Choice Scarf  
-Ability: Antipathy  
+Ability: antipathy  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
 IVs: 0 Atk  
@@ -134,14 +437,14 @@ Jolly Nature
 - Aqua Step  
 
 Uxie @ Sweet Apple  
-Ability: Stamina  
+Ability: Natural Cure  
 Shiny: Yes  
 EVs: 140 Def / 252 SpD / 116 Spe  
 Calm Nature  
 - Mist Ball  
-- Aqua Soul  
+- aquasoul  
 - Amnesia  
-- Psychic Wind  
+- psychicwind  
 
 Arceus-Fairy @ Pixie Plate  
 Ability: Multitype  
@@ -161,7 +464,7 @@ Naive Nature
 - glacialstrike  
 - Freeze-Dry  
 - Ice Shard  
-- Frost Step  
+- froststep  
 
 Landorus-Therian (M) @ Sweet Apple  
 Ability: Regenerator  
@@ -172,7 +475,7 @@ Impish Nature
 - U-turn  
 - expressheal  
 
-Venusaur-Mega (M) @ assistdrive  
+Venusaur (M) @ assistdrive  
 Ability: Overgrow  
 EVs: 252 SpD  
 Sassy Nature  
@@ -230,7 +533,7 @@ EVs: 252 Atk / 4 Def / 252 Spe
 Jolly Nature  
 - Extreme Speed  
 - glacialstrike  
-- Earthquake  
+- infinitevelocity  
 - heavendance  
 
 Gallade @ assistdrive  
@@ -245,7 +548,7 @@ IVs: 0 Def / 0 Spe
 - Low Sweep  
 
 
-=== [gen6ultraassist] Ultra Assist/Chaos [SpA Assist: Spiritomb] ===
+=== [gen6ultraassist] Ultra Assist/Chaos [SpA Assist: Bibarel] ===
 
 Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
@@ -279,7 +582,8 @@ Timid Nature
 Bibarel (M) @ assistdrive  
 Ability: Unaware  
 EVs: 252 SpA  
-Modest Nature  
+Quiet Nature  
+IVs: 0 Spe  
 - Water Sport  
 - Shadow Ball  
 - Superpower  
@@ -355,10 +659,10 @@ Impish Nature
 - expressheal  
 
 Rotom-Wash @ Sweet Apple  
-Ability: Double Down  
+Ability: doubledown  
 EVs: 252 HP / 4 SpA / 252 SpD  
 Sassy Nature  
-- Aqua Soul  
+- aquasoul  
 - Toxic  
 - Recover  
 - Volt Switch  
@@ -428,7 +732,7 @@ IVs: 0 Spe
 === [gen6ultraassist] Ultra Assist/Eternal Life [EX Xerneas] ===
 
 Kyogre @ Choice Scarf  
-Ability: Antipathy  
+Ability: antipathy  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
 IVs: 0 Atk  
@@ -464,11 +768,11 @@ EVs: 252 Atk / 4 Def / 252 Spe
 Jolly Nature  
 - Extreme Speed  
 - glacialstrike  
-- Earthquake  
+- infinitevelocity  
 - heavendance  
 
 Registeel @ Sweet Apple  
-Ability: Double Down  
+Ability: doubledown  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Careful Nature  
 - regiball  
@@ -503,7 +807,7 @@ EVs: 4 HP / 252 SpA / 252 Spe
 Naive Nature  
 - Stored Power  
 - Aura Sphere  
-- Psychic Wind  
+- psychicwind  
 - Night Daze  
 
 Ho-Oh @ Sweet Apple  
@@ -850,7 +1154,7 @@ Jolly Nature
 === [gen6ubers] Lando Breaks the Ice [Lando-T, Ice] ===
 
 Landorus-Therian @ Ice Memory  
-Ability: Inveigle  
+Ability: inveigle  
 EVs: 4 HP / 252 SpD / 252 Spe  
 Jolly Nature  
 - Earthquake  
@@ -878,7 +1182,7 @@ Careful Nature
 - Aromatic Mist  
 
 Deoxys-Attack @ Life Orb  
-Ability: Antipathy  
+Ability: antipathy  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
 - Psycho Boost  
@@ -1064,7 +1368,7 @@ Timid Nature
 - psychofire  
 - Charge Beam  
 - Night Daze  
-- Psychic Wind  
+- psychicwind  
 
 Mewtwo @ Steel Memory  
 Ability: psychicpower  
@@ -1073,7 +1377,7 @@ Naive Nature
 - psychofire  
 - memoryblast  
 - Avalanche  
-- Psychic Wind  
+- psychicwind  
 
 Mewtwo @ Bug Memory  
 Ability: psychicpower  
@@ -1081,7 +1385,7 @@ EVs: 4 HP / 252 SpA / 252 Spe
 Timid Nature  
 - psychofire  
 - memoryblast  
-- Psychic Wind  
+- psychicwind  
 - Nasty Plot  
 
 
@@ -1106,7 +1410,7 @@ Adamant Nature
 - accelerate  
 
 Deoxys-Attack @ Life Orb  
-Ability: Antipathy  
+Ability: antipathy  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
 - Psycho Boost  
@@ -1177,7 +1481,7 @@ IVs: 0 Atk
 - Quiver Dance  
 
 Landorus-Therian @ Assault Vest  
-Ability: pacify  
+Ability: Pacify  
 EVs: 4 HP / 252 Def / 252 Spe  
 Impish Nature  
 - Earthquake  
@@ -1231,7 +1535,7 @@ Ability: Protean
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- royalpunishment  
+- Royal Punishment  
 - royalinversion  
 - Aura Sphere  
 - Gunk Shot  
@@ -1348,7 +1652,7 @@ Jolly Nature
 - Double Team  
 
 Salamence (M) @ Salamencite  
-Ability: pacify  
+Ability: Pacify  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Adamant Nature  
 - Body Slam  
@@ -1467,7 +1771,7 @@ IVs: 0 Atk
 - Uproar  
 
 Salamence (M) @ Salamencite  
-Ability: pacify  
+Ability: Pacify  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Adamant Nature  
 - Body Slam  
@@ -1574,7 +1878,7 @@ Jolly Nature
 - Flip Turn  
 
 Deoxys-Attack @ Life Orb  
-Ability: Antipathy  
+Ability: antipathy  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
 - Psycho Boost  
@@ -2339,7 +2643,7 @@ Lunala @ Ghost Memory
 Ability: Shadow Shield  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- Psychic Wind  
+- psychicwind  
 - Moongeist Beam  
 - Meteor Beam  
 - Magma Storm  
@@ -2831,7 +3135,7 @@ Calm Nature
 - sludgeswitch  
 
 Deoxys-Attack @ Life Orb  
-Ability: Antipathy  
+Ability: antipathy  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
 - Psycho Boost  
@@ -2981,7 +3285,7 @@ Bold Nature
 - Parting Shot  
 
 Landorus-Therian @ Assault Vest  
-Ability: Inveigle  
+Ability: inveigle  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Careful Nature  
 - Earthquake  
@@ -3091,7 +3395,7 @@ IVs: 0 Atk
 - Parting Shot  
 
 Landorus-Therian @ Assault Vest  
-Ability: pacify  
+Ability: Pacify  
 EVs: 252 HP / 252 Def / 4 Spe  
 Impish Nature  
 - Earthquake  
@@ -3145,7 +3449,7 @@ Ability: Protean
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- royalpunishment  
+- Royal Punishment  
 - royalinversion  
 - royalsnowstorm  
 - Gunk Shot  
@@ -3187,7 +3491,7 @@ Ability: Protean
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Adamant Nature  
-- royalpunishment  
+- Royal Punishment  
 - royalinversion  
 - royalsnowstorm  
 - Gunk Shot  
@@ -3245,7 +3549,7 @@ Timid Nature
 - Teeter Dance  
 
 Deoxys-Attack @ Life Orb  
-Ability: Antipathy  
+Ability: antipathy  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
 - Psycho Boost  
@@ -3350,7 +3654,7 @@ Ability: Protean
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- royalpunishment  
+- Royal Punishment  
 - royalinversion  
 - royalsnowstorm  
 - Gunk Shot  
@@ -3389,7 +3693,7 @@ IVs: 0 Atk
 - Parting Shot  
 
 Landorus-Therian @ Assault Vest  
-Ability: Inveigle  
+Ability: inveigle  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Careful Nature  
 - Earthquake  
@@ -3490,7 +3794,7 @@ IVs: 0 Atk
 - accelerate  
 
 Landorus-Therian @ Assault Vest  
-Ability: Inveigle  
+Ability: inveigle  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Careful Nature  
 - Earthquake  
@@ -3732,7 +4036,7 @@ Naive Nature
 - memoryblast  
 - Flash  
 - mineralcannon  
-- Psychic Wind  
+- psychicwind  
 
 Volcanion @ Damp Rock  
 Ability: Drizzle  
@@ -3911,7 +4215,7 @@ Timid Nature
 === [gen6ubers] Water, Water... [Carracosta, Water] ===
 
 Carracosta (M) @ Water Memory  
-Ability: Inveigle  
+Ability: inveigle  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -3940,7 +4244,7 @@ Timid Nature
 - Flip Turn  
 
 Landorus-Therian @ Assault Vest  
-Ability: Inveigle  
+Ability: inveigle  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Careful Nature  
 - Earthquake  
@@ -4039,7 +4343,7 @@ Mewtwo @ Psychic Memory
 Ability: psychicpower  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- Psychic Wind  
+- psychicwind  
 - psychicstorm  
 - Aura Sphere  
 - Dark Pulse  
@@ -4075,7 +4379,7 @@ Jolly Nature
 - Stone Edge  
 
 Landorus-Therian @ Assault Vest  
-Ability: Inveigle  
+Ability: inveigle  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Careful Nature  
 - Earthquake  
@@ -4271,7 +4575,7 @@ IVs: 0 Atk
 - Parting Shot  
 
 Landorus-Therian @ Assault Vest  
-Ability: pacify  
+Ability: Pacify  
 EVs: 252 HP / 252 Def / 4 Spe  
 Impish Nature  
 - Earthquake  
@@ -4303,7 +4607,7 @@ IVs: 0 Atk
 - Parting Shot  
 
 Landorus-Therian @ Assault Vest  
-Ability: pacify  
+Ability: Pacify  
 EVs: 252 HP / 252 Def / 4 Spe  
 Impish Nature  
 - Earthquake  
@@ -4408,7 +4712,7 @@ Mewtwo @ Psychic Memory
 Ability: psychicpower  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- Psychic Wind  
+- psychicwind  
 - psychicstorm  
 - Aura Sphere  
 - Dark Pulse  
@@ -4443,7 +4747,7 @@ Careful Nature
 - Shell Smash  
 
 Landorus-Therian @ White Herb  
-Ability: pacify  
+Ability: Pacify  
 EVs: 252 HP / 252 Def / 4 Spe  
 Impish Nature  
 - Earthquake  
@@ -4483,7 +4787,7 @@ Naive Nature
 - Charge  
 
 Landorus-Therian @ Assault Vest  
-Ability: pacify  
+Ability: Pacify  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Careful Nature  
 - Earthquake  
@@ -4631,7 +4935,7 @@ IVs: 0 Atk / 0 Spe
 - Parting Shot  
 
 Landorus-Therian @ Assault Vest  
-Ability: Inveigle  
+Ability: inveigle  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Careful Nature  
 - Earthquake  
@@ -4717,7 +5021,7 @@ Mewtwo @ Dark Memory
 Ability: psychicpower  
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
-- Psychic Wind  
+- psychicwind  
 - memoryblast  
 - Venoshock  
 - Aurora Beam  
@@ -4762,7 +5066,7 @@ Jolly Nature
 - Trailblaze  
 
 Landorus-Therian @ Assault Vest  
-Ability: pacify  
+Ability: Pacify  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Careful Nature  
 - Earthquake  
@@ -4821,7 +5125,7 @@ Hasty Nature
 - Shell Smash  
 
 Landorus-Therian (M) @ Flying Memory  
-Ability: Inveigle  
+Ability: inveigle  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Earthquake  
@@ -5059,7 +5363,7 @@ IVs: 0 Atk
 - Happy Hour  
 
 Landorus-Therian @ Assault Vest  
-Ability: pacify  
+Ability: Pacify  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Careful Nature  
 - Earthquake  
@@ -5199,7 +5503,7 @@ Naive Nature
 - memoryblast  
 - psychofire  
 - Venoshock  
-- Psychic Wind  
+- psychicwind  
 
 Dialga @ Sweet Apple  
 Ability: Regenerator  
@@ -5408,7 +5712,7 @@ Jolly Nature
 - Trailblaze  
 
 Landorus-Therian @ Assault Vest  
-Ability: pacify  
+Ability: Pacify  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Careful Nature  
 - Earthquake  
@@ -5508,7 +5812,7 @@ Naive Nature
 - memoryblast  
 - psychofire  
 - mineralcannon  
-- Psychic Wind  
+- psychicwind  
 
 Arceus @ Sweet Apple  
 Ability: Multitype  
@@ -5595,7 +5899,7 @@ Timid Nature
 - Stored Power  
 - Water Sport  
 - infernobeam  
-- Frost Step  
+- froststep  
 
 Bellsprout (M) @ Toxic Orb  
 Ability: Sheer Force  
@@ -5819,7 +6123,7 @@ Jolly Nature
 - Agility  
 
 Registeel @ Sweet Apple  
-Ability: Double Down  
+Ability: doubledown  
 EVs: 252 HP / 252 Def / 4 Spe  
 Impish Nature  
 - Rapid Spin  
@@ -5828,7 +6132,7 @@ Impish Nature
 - U-turn  
 
 Deoxys-Attack @ Protector  
-Ability: Antipathy  
+Ability: antipathy  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
 - Psycho Boost  
@@ -5856,7 +6160,7 @@ Timid Nature
 - psychofire  
 - Aura Sphere  
 - Comeuppance  
-- Psychic Wind  
+- psychicwind  
 
 Zoroark-Hisui (M) @ Spooky Plate  
 Ability: Tough Claws  
@@ -6041,7 +6345,7 @@ Modest Nature
 - Flip Turn  
 
 Deoxys-Attack @ Protector  
-Ability: Antipathy  
+Ability: antipathy  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
 - Psycho Boost  
@@ -6142,7 +6446,7 @@ IVs: 0 Atk
 - Stealth Rock  
 
 Landorus-Therian @ Grass Memory  
-Ability: pacify  
+Ability: Pacify  
 EVs: 252 HP / 108 Def / 144 SpD / 4 Spe  
 Impish Nature  
 - Earthquake  
@@ -6235,7 +6539,7 @@ Timid Nature
 - Flip Turn  
 
 Landorus-Therian @ Grass Memory  
-Ability: pacify  
+Ability: Pacify  
 EVs: 252 HP / 108 Def / 144 SpD / 4 Spe  
 Impish Nature  
 - Earthquake  
@@ -6473,7 +6777,7 @@ Ability: deepsea
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - royalturbulence  
-- Aqua Soul  
+- aquasoul  
 - Amnesia  
 - Roost  
 
@@ -6917,7 +7221,7 @@ Jolly Nature
 - Volt Switch  
 
 Landorus-Therian @ Grass Memory  
-Ability: Inveigle  
+Ability: inveigle  
 EVs: 252 HP / 108 Def / 144 SpD / 4 Spe  
 Impish Nature  
 - Earthquake  
@@ -7314,7 +7618,7 @@ Ability: Protean
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Adamant Nature  
-- royalpunishment  
+- Royal Punishment  
 - Thunder Punch  
 - Scale Shot  
 - Feint Attack  
