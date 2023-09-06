@@ -2,6 +2,8 @@ Pokemon Memories Developer Tier List
 Table of Contents
 Section A
 • Standard Ubers
+	• Highlights
+	• Viability Rankings
 	• Memorization Ratings
 	• Kyogre Check (Sponsors) Tier List
 	• Setpedia
@@ -10,8 +12,12 @@ Section A
 	• Quick Sets
 Section B
 • Ultra Assist
+	• Viability Rankings
+	• Pokemon Spotlight
 Section C
 • Limited Ubers 
+	• Highlights
+	• Viability Rankings
 	• History of the Format
 
 (160 Total)
@@ -1152,37 +1158,77 @@ Priority Values
 3: Pokemon may begin to experience difficulties without certain Type Shields
 4: Pokemon should be Prioritized for a Type Shield, either because the protection imparted will significantly benefit the Team as a whole, or because they need it to function properly
 
+Viability Rankings
 Standard Pokemon Tier List
 S-Tier 
 
 S+   
-Kyogre [Assists: EX Xerneas // Types: Normal, ??? // Priority: 3]
+Mewtwo [Assists: Hp, Def, SpA // Types: Dark, Ghost, Normal, ??? // Priority: 4]
 Arceus-Fairy [Assists: Hp, Def]
 Landorus-Therian [Assists: Any]
 
-S
-Zygarde-Complete [Assists: EX Xerneas]
-Zygarde [Assists: EX Xerneas]
-Gengar [Assists: SpA]
+S   
 Gengar-Mega [Assists: SpA]
-Dialga [Assists: Hp, Atk, SpA // Types: Fighting, Ground, Psychic // Priority: 1]
+Gengar [Assists: SpA]
 
 S-  
+Celesteela [Assists: Hp, EX Xerneas // Types: Fire, Water // Priority: 1]
 Arceus [Assists: Atk // Types: Fighting, Psychic, Normal, ??? // Priority: 1]
-Mewtwo [Assists: Hp, Def, SpA // Types: Dark, Ghost, Normal, ??? // Priority: 4]
+Dialga [Assists: Hp, Atk, SpA // Types: Fighting, Ground, Psychic // Priority: 1]
 
 A+
+Articuno-Galar [Assists: Hp, Def, SpD]
+Kyogre [Assists: EX Xerneas // Types: Normal, ??? // Priority: 3]
 Porygon [Assists: Atk, SpA]
 Shaymin-Sky [Assists: SpA // Types: Normal, ??? // Priority: 1]
 Arceus-Dark [Assists: SpA // Types: Fairy, Fighting // Priority: 2]
 
 A
+Zygarde-Complete [Assists: EX Xerneas]
+Zygarde [Assists: EX Xerneas]
 Hoopa-Unbound [Assists: Atk // Types: Ghost, Grass, Normal, ??? // Priority: 3]
 
 A-
 Rotom-Wash [Assists: Hp, Def, SpD]
 Vaporeon [Assists: Hp, Def, SpD]
 Bastiodon [Assists: Hp, Def // Types: Fighting, Ground, Water // Priority: 2]
+
+
+
+						 Pokemon Spotlight
+						      Mewtwo
+Description: Due to the volatility of the Tier, paired with the loss of Memorization, and the potential for opposing Assist States to disrupt Mewtwo's Machinations, it is not nearly as oppressive as it is in Standard Ubers, however, in no longer being the undisputed best, Mewtwo has gained the potential to tap into its recessive movepool to command strategies that its erstwhile responsibilities spared the aforementioned Tier from
+
+Sets
+All-Out Attacker (SpA Assist)
+Mewtwo @ Dawn Stone  
+Ability: hightenedmind  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Expanding Force  
+- Aura Sphere  
+- Water Sport  
+- Comeuppance
+
+Description: With a Special Attack Assist active, Mewtwo is able to approximate the power of its unassisted Adrenaline Orb sets, while further amplifying them with the power of Dawn Stone, and the accompanying Hightened Mind boost, respectively. Notably, Mewtwo is able to OHKO Dialga and Payapa Arceus with Aura Sphere; Arceus-Fairy, Landorus-Therian, Dyslexic Gengar, and Zygarde with a charged Expanding Force, Landorus-Therian, Hoopa-Unbound, Ho-Oh, and Zacian-Crowned with a full power Water Sport, and opposing Psychic-Types, such as enemy Mewtwo, and Uxie with Comeuppance. Due to the high level of commitment required to use this set, it is better to reserve it for the latter part of the game, where all of its potential answers are likely to be sufficiently weakened
+
+Checks and Counters
+Pokemon that outspeed Mewtwo, such as Porygon-Z, or Scarfed Pokemon may be able to deal enough damage to cripple the power of its Water Sport, allowing Pokemon that naturally resist or absorb its Psychic-Type moves, but aren't weak to Aura Sphere to serve as potential answers. Additionally, anything capable of stalling out Mewtwo's charged Expanding Force can also significantly reduce its power, provided that they possess the means of surviving the following hits. Naturally bulky Pokemon, such as Arceus-Fairy or Vaporeon, may be able to predict a Mewtwo switch and oppose it before its Expanding Force is charged. SpD Assists, and Psychic Type-Shields can also allow opponents to surprise and revenge K.O. these Mewtwo sets.
+
+StallTwo (Any Assist)
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- psychofire  
+- Ember  
+- Aurora Beam  
+- Recover
+
+Description: Psycho Fire allows Mewtwo to combine the benefits of its Psychic coverage and Aura Sphere, allowing it to obliterate Zacian-Crowned, Dialga, and Porygon-Z, while Aurora Beam ensures it can still nail Landorus-Therian and Zygarde, while hitting Ho-Oh hard. Players can opt to allocate some or all of the SpA EVs into one of its defensive stats, however the decline in power will be noticeable. Even without a defensive Assist Boost or the appropriate Type-Shields, Mewtwo is capable of out-stalling most of Heaven Dance Arceus' E-Killer sets with Ember, even when boosted by an Attack Assist--provided it burns Arceus before it sets up, however it may need investment, defensive Assists, or a Normal-Type Shield if it wants to stop Arceus that are dual-boosted (i.e. running an offensive Assist, in addition to a damage-boosting Item). Ember can also be used to cripple opposing Walls that expected to switch in against an Offensive Mewtwo, and can switch into an ally to absorb their attacks while their health gradually deteriorates. Recover is instrumental in out-stalling E-Killer and other powerful attackers, while also allowing Mewtwo to heal in the face of passive walls that either may not have the tools to handle it, or will likely attempt to pivot or hard-switch out to avoid getting nuked by Psycho Fire.
+
+Checks and Counters
+Opposing Dark-Type Pokemon match well against StallTwo, as even if they are running Physical Sets, Mewtwo cannot easily defeat them before it gets K.O.'d. Additionally, opposing Special Attackers may be able to impede Mewtwo's efforts if it cannot reliably K.O. them with its attacks. Life Orb Attack Assist Porygon-Z may be able to 2HKO Mewtwo in-spite of its Burn, which, in turn, forces Mewtwo to either nuke it with Psycho Fire, and potentially face the wrath of its Switch-In, or to switch out either before or after Porygon attacks, in hopes of finding another opportunity to stall, or use Recover, respectively. Mewtwo can run Taunt to ensure that opposing Walls are impaired, however it also wants to have enough coverage to justify its position on the Team, leaving Mewtwo vulnerable to a number of answers depending on what moves it eschews.
 =====================================================================================================================
 
 						     Section C     
@@ -1457,7 +1503,7 @@ Meloetta
 Once the only Pokemon capable of pushing both Calyrex-Shadow, and the powerful Mewtwo back. Entire games would be determined by each Team's management of their respective Mewtwos, Calyrexs, and Meloettas, with each Pokemon running gimmicky sets, such as EV-Invested Odd Incense Mewtwo, or Invested Weakness Policy Calyrex, specifically in hopes of checking it. The fall of a Trainer's Meloetta presaged the impending conclusion of the game
 
 Mewtwo
-While the Mewtwo of Pokemon Memories was actually substantially buffed compared to Pokemon Forces Mewtwo, this is only because Mewtwo is a Pokemon most sensitive to its environment, and needed the adaptations to maintain a level of viability. Where "Memories" Mewtwo is a big fish in an equally abundant pond, "Forces" Mewtwo was a moderately-sized fish in a pond that could not even approach being suited for its size. "Forces" Mewtwo did not have Water Sport, guaranteed charges on its Burst-Moves, or powerful Memory Formes, however it did possess the one thing that is easily the most dangerous asset that Mewtwo could ever wield: Centralization. The homogeneity of the Meta--paired with ScarfRex being rendered unviable by the same and only Pokemon that could stand up to the Genetic Menace--allowed for Mewtwo to annihilate nearly the entire Metagame with impunity. The only Pokemon capable of standing up to it was Meloetta, as Mewtwo did not possess any Special or non-contact Dark-Type Moves at the time, allowing the Specially Bulky Meloetta to switch into most of Mewtwo's attacks for one or more hits, and potentially retaliate with a KO as Mewtwo burned through a Turn trying to break Meloetta's Protector. Even Meloetta could be broken, however, as if the Mewtwo had another means of checking Caly-S--including its own Meloetta--it could simply run a Bug-Type Move to dispose of it, while running Odd Incense with Psystrike and a specific EV Investment allowed a healthy Mewtwo to always survive at least one crucial hit from Meloetta, and sweep the entire Team using a combination of Psystrike and Psycho Darts
+Despite lacking Hightened Mind, and having a more limited movepool in Forces, the more centralized metagame allowed Mewtwo to wield its greatest weapon, in consistency. Mewtwo, Calyrex-Shadow, and Meloetta collectively composed a Matchup-Triangle, of which Mewtwo received the most benefit, for while Scarfed Caly-S could theoretically check Mewtwo, it was countered by Meloetta, which was primarily used to check Mewtwo--who, in turn, could check the non-Scarfed Caly-S sets that were designed to answer Meloetta, while also potentially answering Meloetta itself with its Bug-Type Moves, should it so choose. Because of this, games ultimately revolved around the mangement of each player's respective Meloetta and Mewtwo, as the player who lost their Meloetta--and couldn't force and win the following Mewtwo Speed Tie--usually lost the game.
 
 Torterra
 For most of its existence, Flower Sweet did not discriminate between Mono-Grass Types, and Dual-Typed Pokemon, which, paired with Torterra's higher stats at the time, led to it arguably becoming even stronger than both Kyogre and Mewtwo. The Torterra mentioned in the Limited Ubers Tier List actually represents its estimated viability after the nerfs imposed upon Flower Sweet.
