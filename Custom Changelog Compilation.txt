@@ -11253,12 +11253,12 @@ Psychic Fangs
 Base Power: 85 -> 135
 --
 Psychic Infinity (New Move)
-Base Power: 200
+Base Power: 150
 Accuracy: 100
 Category: Physical
 Priority: +0
 Contact: Yes
-Effect: +100 BP for each Positive Stat Boost the opponent has
+Effect: +50 BP for each Positive Stat Boost the user has
 Power Ceiling: 1000 BP
 Conditions: Can only be used by Mega Mewtwo Y
 PP: 5
