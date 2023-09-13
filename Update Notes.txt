@@ -2108,15 +2108,25 @@ Pokemon
 
 
 Pokemon Memories v1.5.6
+Miscellaneous
+- Terminology
+	- Charge Moves renamed to Kinetic Moves in the Changelog
+
 Formats
 - Ultra Assist
 	- Banned Abilities
 		- Amplifier
 
+Abilities
+- Psychic Assault
+	- No longer boosts the Base Power of Burst-Moves
+
 Moves
 - Psychic Infinity
 	- Base Power: 200 -> 150
 	- Power Scaling: +100 -> +50
+- Psycho Darts
+	- Now receives a Power Boost from Psychic Assault
 - Psystrike
 	- Added Effect: +50 Base Power for each of the opponent's stat boosts.
 	- Power Ceiling: 300 BP
@@ -2126,6 +2136,7 @@ Moves
 - Vanishing Strike
 	- Base Power: 330 -> 220
 	- Effect: Doubled Power if user or target is Memorized -> x1.5 Power if any opposing Pokemon fainted last turn; Ignores opposing stat changes
+	- Now counts as a Kinetic Move
 
 Pokemon
 - Arceus
