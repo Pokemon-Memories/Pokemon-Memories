@@ -1158,32 +1158,38 @@ Priority Values
 3: Pokemon may begin to experience difficulties without certain Type Shields
 4: Pokemon should be Prioritized for a Type Shield, either because the protection imparted will significantly benefit the Team as a whole, or because they need it to function properly
 
+(23 Total - Ultra Assist)
+
 Viability Rankings
 Standard Pokemon Tier List
-S-Tier 
 
+S-Tier (9 Total) 
 S+   
-Mewtwo [Assists: Hp, Def, SpA // Types: Dark, Ghost, Normal, ??? // Priority: 4]
+Lugia [Assists: SpD // Types: Poison, Psychic // Priority: 1]
 Arceus-Fairy [Assists: Hp, Def]
 Landorus-Therian [Assists: Any]
 
 S   
 Gengar-Mega [Assists: SpA]
 Gengar [Assists: SpA]
+Mewtwo [Assists: Hp, Def, SpA // Types: Dark, Ghost, Normal, ??? // Priority: 4]
 
 S-  
 Celesteela [Assists: Hp, EX Xerneas // Types: Fire, Water // Priority: 1]
 Arceus [Assists: Atk // Types: Fighting, Psychic, Normal, ??? // Priority: 1]
 Dialga [Assists: Hp, Atk, SpA // Types: Fighting, Ground, Psychic // Priority: 1]
 
+A-Tier (14 Total)
 A+
 Articuno-Galar [Assists: Hp, Def, SpD]
-Kyogre [Assists: EX Xerneas // Types: Normal, ??? // Priority: 3]
+Tapu Koko [Assists: Atk]
 Porygon [Assists: Atk, SpA]
 Shaymin-Sky [Assists: SpA // Types: Normal, ??? // Priority: 1]
 Arceus-Dark [Assists: SpA // Types: Fairy, Fighting // Priority: 2]
 
 A
+Kyogre [Assists: EX Xerneas // Types: Normal, ??? // Priority: 3]
+Lucario-Mega [Assists: Atk]
 Zygarde-Complete [Assists: EX Xerneas]
 Zygarde [Assists: EX Xerneas]
 Hoopa-Unbound [Assists: Atk // Types: Ghost, Grass, Normal, ??? // Priority: 3]
@@ -1191,6 +1197,12 @@ Hoopa-Unbound [Assists: Atk // Types: Ghost, Grass, Normal, ??? // Priority: 3]
 A-
 Rotom-Wash [Assists: Hp, Def, SpD]
 Vaporeon [Assists: Hp, Def, SpD]
+
+B-Tier (2 Total)
+B+
+Calyrex-Shadow [Assists: Atk, SpA]
+
+B
 Bastiodon [Assists: Hp, Def // Types: Fighting, Ground, Water // Priority: 2]
 
 
