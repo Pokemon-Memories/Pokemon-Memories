@@ -1073,8 +1073,7 @@ Pokemon
 		- Tailwind
 		- Uproar
 	- Giratina-Origin
-		- Ability
-			- Telepathy -> Mold Breaker
+		- Ability: Telepathy -> Mold Breaker
 - Infernape
 	- Learnset Additions
 		- Aqua Step
@@ -1506,7 +1505,7 @@ Moves
 	- Pheromosa
 		- Pressure removed from Ability List
 
-Pokemon Memories v1.5.0 (8/27/23)
+Pokemon Memories v1.5.0 (8/27/23 - 8/30/23)
 General
 - New Mechanic Introduced: Ultra Assist
 - Description: Special Items known as Assist Drives allow the Holder to provide various benefits to their Team depending on their Typing and Stats. Some Pokemon will impart special benefits to the Team that normal Pokemon won't. The holder will faint after using this Item. This Item will not activate if the holder is the only or last Pokemon remaining in their party. This Item cannot be removed from the holder.
@@ -1549,6 +1548,633 @@ Moves
 - Dragon Tail
 	- Priority: 0 -> -6
 	- Secondary Effect (User): -1 Spe -> +1 Def (Caps at +1 Def)
+- Roar
+	- Secondary Effect (User): __ -> +1 SpD (Caps at +1 SpD)
 - Whirlwind
 	- Priority: 0 -> -1
 	- Secondary Effect (User): -2 Spe -> +1 Spe
+
+
+Pokemon Memories v1.5.1
+Pokemon
+- Hoopa
+	- Base Stats
+		- Hp: 80 -> 180
+		- Atk: 110 -> 240
+		- Def: 60 -> 220
+		- SpA: 150 -> 270
+		- SpD: 130 -> 240
+		- Spe: 70 -> 140
+	- Unbound Forme
+		- Hp: 180 -> 180
+		- Atk: 240 -> 358
+		- Def: 220 -> 150
+		- SpA: 270 -> 370
+		- SpD: 240 -> 180
+		- Spe: 140 -> 162
+	- Learnset Additions
+		- Autotomize
+		- Chaos Switch
+		- Close Combat
+		- Draco Meteor
+		- Dragon Breath
+		- Dragon Pulse
+		- Earth Power
+		- Expanding Force
+		- Malice Run
+		- Psychic Light
+		- Psycho Blitz
+		- Recompense
+		- Recover
+		- Spikes
+		- Stealth Rock
+		- Taunt
+		- Teleport
+
+Moves
+- Hyperspace Fury
+	- Base Power: 120 -> 180
+	- Secondary Effect: -1 User's Def -> The first Pokemon to be hit gets forced out; Activates once per Switch-In
+- Hyperspace Hole
+	- Base Power: 80 -> 120
+	- Additional Effect: Opponent loses 1/5 of their Hp for the next 3 Turns
+	- Type: Psychic -> Ghost
+
+
+Pokemon Memories v1.5.2
+General
+- Battle Restrictions
+	- Players are now limited to bringing either a Memory Disc, or Assist Drive to a game, and can no longer bring both
+
+Mechanics
+- Ultra Assist
+	- A Pokemon with an Assist Drive can no longer have their stats lowered by opposing Pokemon (This
+	- Assist State Boosts
+		- Hp Assist: 20% -> 10%
+		- Recessive (Non-Highest) Stats now receive a 10% Boost, in addition to the standard boosts from the Dominant (Highest) stat (e.g. A Pokemon with an Attack Assist State would receive the full boost from the Attack Bonus, as well as a 10% to their Special Attack; Hp Assist grants +10% to both Def and SpD, while the Hp Assist and Speed Assist do not grant a bonus).
+	- EX Mew
+		- Effect: x1.1 Base Power on all moves -> Mewtwo receives a 30% Upgrade to all of its stats (Excluding Hp)
+	- EX Rayquaza
+		- Effect: Havles the damage taken by certain moves when their respective Weather is active -> Opposing Dragon-Type and Fairy-Type Moves deal x0.67 Damage
+	- EX Shaymin (New)
+		- Implemented
+		- Effect: All of the Team's Grass-Type Pokemon restore 1/3 Max Hp upon switching out.
+Formats
+- "Ultra Assist" added as a New Format.
+	- Ultra Assist (i.e. Mechanic) has been banned from every singles Format, barring Anything Goes
+
+Abilities
+- Serene Grace
+	- Restoration (Standard): 1/16 -> 1/10
+	- Restoration (Memorized): 1/10 -> 1/9
+
+Moves
+- Echoed Voice
+	- Base Power: 120 -> 135
+- Flutter Song
+	- Implemented
+	- Base Power: 100
+	- Effect: Raises Speed by 1 stage
+	- Attrition: __ -> +1 Spe
+- Flutter Step
+	- Implemented
+- Ingrain
+	- Mechanics Reverted: Pokemon will now become trapped again upon successfully using this move
+- Jungle Healing
+	- Effect: Heals 25% Max Hp and Cures Status Conditions -> Pokemon loses 1/4 of their Max Hp, Cures their Status Conditions, and restores 1/16 of their Team's Max Hp for 10 Turns
+	- PP: 16 -> 2 (Static)
+- Memory Dance/Memory Heart/Memory Song
+	- Base Power: 120 -> 130
+- Mystery Cannon
+	- Base Power: 160 -> 150
+- Mystery Charge
+	- Base Power: 160 -> 150
+
+Pokemon
+Articuno-Galar
+	- Base Stats
+		- Hp: 170 -> 250
+Zapdos-Galar
+	- Base Stats
+		- SpA: 98 -> 178
+	- Learnset Additions
+		- Power-Up Punch
+Moltres-Galar
+	- Base Stats
+		- Def: 150 -> 190
+		- SpD: 165 -> 205
+Bastiodon
+	- Learnset Additions
+		- Recover
+		- Withdraw
+Hoopa
+	- Learnset Removals
+		- Double Team
+		- Malice Run
+Hydreigon
+	- Base Stats
+		- Def: 150 -> 200
+Infernape
+	- Base Stats
+		- Atk: 284 -> 294
+		- SpA: 284 -> 294
+	- Learnset Additions
+		- Wave Crash
+Jumpluff
+	- Base Stats
+		- Hp: 75 -> 265
+		- Atk: 55 -> 155
+		- Def: 70 -> 150
+		- SpA: 55 -> 195
+		- SpD: 95 -> 155
+		- Spe: 110 -> 160
+	- Abilities
+		- Leaf Guard -> Unaware
+	- Learnset Additions
+		- Apple Acid
+		- Circle Throw
+		- Dragon Tail
+		- Leaf Switch
+		- Rapid Spin
+		- Roar
+		- Stealth Rock
+		- Whirlwind
+		- Yawn
+	- Learnset Removals
+		- Grassy Terrain
+		- Return
+		- Synthesis
+Meloetta
+	- Learnset Additions
+		- Flutter Song
+		- Flutter Step
+		- Sparkling Aria
+Registeel
+	- Learnset Additions
+		- Ingrain
+		- Leech Seed
+Rotom
+	- Base Stats
+		- Hp: 130 -> 150
+		- Atk: 200 -> 270
+		- SpA: 200 -> 270
+		- Spe: 171 -> 181
+	- Heat Forme
+		- Hp: 130 -> 150
+		- Atk: 110 -> 262
+	- Wash Forme
+		- Atk: 210 -> 235
+		- Def: 177 -> 227
+		- SpA: 210 -> 235
+		- SpD: 217 -> 227
+	- Frost Forme
+		- Hp: 150 -> 80
+		- Def: 101 -> 221
+		- SpD: 121 -> 241
+	- Fan Forme
+		- Atk: 31 -> 200
+	- Mow Forme
+		- SpD: 4 -> 174
+Spiritomb
+	- Base Stats
+		- Hp: 50 -> 180
+		- Atk: 92 -> 222
+		- Def: 108 -> 198
+		- SpA: 92 -> 222
+		- SpD: 108 -> 198
+		- Spe: 35 -> 105
+	- Learnset Additions
+		- Dragon Breath
+		- Stealth Rock
+		- Uproar
+		- Withdraw
+Tropius
+	- Base Stats
+		- Hp: 99 -> 199
+		- Atk: 68 -> 228
+		- Def: 83 -> 203
+		- SpA: 72 -> 232
+		- SpD: 87 -> 207
+		- Spe: 51 -> 151
+	- Abilities
+		- Solar Power -> Mold Breaker
+	- Learnset Additions
+		- Aromatic Mist
+		- Leaf Switch
+		- Stone Edge
+		- Turbine Turn
+	- Learnset Removals
+		- Synthesis
+Urshifu
+	- Single Strike
+		- Base Stats
+			- Atk: 250 -> 300
+		- Learnset Additions
+			- Malice Run
+	- Rapid Strike
+		- Base Stats
+			- Atk: 250 -> 300
+		- Learnset Additions
+			- Aqua Step
+			- Flip Turn
+Zacian
+	- Mechanics
+		- No longer requires Rusted Sword to become Zacian-Crowned
+	- Learnset Additions
+		- Agility
+		- Wave Crash
+Zamazenta
+	- Mechanics
+		- No longer requires Rusted Shield to become Zamazenta-Crowned
+	- Learnset Additions
+		- Flip Kick
+		- Knock Off
+		- Rapid Spin
+Zarude
+	- Base Stats
+		- Hp: 105 -> 205 
+		- Atk: 120 -> 220
+		- Def: 105 -> 205
+		- SpA: 70 -> 170
+		- SpD: 95 -> 195
+		- Spe: 105 -> 175
+	- Dada Forme
+		- Atk: 220 -> 320
+		- Def: 205 -> 155
+		- SpA: 170 -> 270
+		- SpD: 195 -> 145
+	- Learnset Additions
+		- Chaos Switch
+		- Close Combat
+		- Dragon Tail
+		- Focus Blast
+		- Leaf Switch
+		- Power Trip
+		- Rapid Spin
+		- Rock Slide
+		- Stealth Rock
+		- Trailblaze
+	- Abilities
+		- Magic Bounce added to Ability List
+
+
+Pokemon Memories v1.5.3
+Mechanics
+Ultra Assist
+- Stat Boosts
+	- Hp Assist
+		- Damage Reduction: x0.9 -> x0.85
+- Ruleset
+	- Ampliier has been unbanned
+	- Drizzle/Tempest, Royal Submersion, and Sea Incense have been banned
+Item Penalty
+	- Choice Scarf
+		- Pokemon with an Attack or Special Attack Stat Assist will have x0.8 Attack, or Special Attack, respectively
+	- Sea Incense
+		Item will not activate the holder's Team's Assist States are active
+- Miscellaneous
+	- Corrected an error where the Def Boost granted a 50% Boost instead of a 40% Boost
+- Mechanics
+	- Pokemon an Assist Drive with a Base Speed Stat equal or below 100 will receive a x10000 Speed Multiplier and -10 Priority on all of their Moves
+	- Pokemon holding an Assist Drive with a Base Speed Stat over 100 have their Raw Speed Stat set to 100. This stat is still subject to EV, IV, and Nature Modifiers, and Pokemon will always Speed Tie if their EVs, IVs, and Nature are identical
+General
+- Miscellaneous
+	- Included a Table of Contents/Directory to assist in navigating the Changelog
+	- Included a Preliminary Tier List for the Ultra Assist Format
+Abilities
+Moody
+- Activation: End of each turn -> Once upon Switching In
+Pokemon
+Bibarel
+	- Base Stats
+		- Hp: 79 -> 179
+		- Atk: 85 -> 220
+		- Def: 60 -> 180
+		- SpA: 55 -> 220
+		- SpD: 60 -> 180
+		- Spe: 71 -> 151
+	- Learnset Additions
+		- Rapid Spin
+		- Stealth Rock
+		- Withdraw
+Dialga
+	- Learnset Additions
+		- Flash Cannon
+Infernape
+	- Learnset Additions
+		- Bolt Beak
+Unown
+	-Special Mechanic: Certain Unown have Special Types
+		-Unown-I: Bug/???
+		-Unown-J: Dark/???
+		-Unown-K: Dragon/???
+		-Unown-L: Electric/???
+		-Unown-M: Fairy/???
+		-Unown-N: Fighting/???
+		-Unown-O: Fire/???
+		-Unown-P: Flying/???
+		-Unown-Q: Ghost/???
+		-Unown-R: Grass/???
+		-Unown-S: Ground/???
+		-Unown-T: Ice/???
+		-Unown-U: Normal/???
+		-Unown-V: Poison/???
+		-Unown-W: Psychic/???
+		-Unown-X: Rock/???
+		-Unown-Y: Steel/???
+		-Unown-Z: Water/???
+		-Unown-!: Normal/???
+		-Unown-???: Normal/???
+	- Abilities
+		- Shadow Tag added to Ability Set
+	- Base Stats
+		- Hp: 48 -> 180
+		- Atk: 72 -> 180
+		- Def: 48 -> 180
+		- SpA: 72 -> 180
+		- SpD: 48 -> 180
+		- Spe: 48 -> 180
+	- Learnset Additions
+		- Memory Blast
+		- Parting Shot
+		- Perish Song
+
+
+Pokemon Memories v1.5.4
+Formats
+- Ultra Assist
+	- Tailwind is now banned from the Format
+Abilities
+Intrepid Sword
+	- Additional Effect: Pokemon with this Ability are immune to getting Burned, however they will retain the Burn Status if they received it prior to receiving this Ability
+Pokemon
+Azelf
+	- Abilities
+		- Antipathy added
+		- Pragmatic added
+	- Base Stats
+		- Hp: 145 -> 205
+	- Learnset Additions
+		- Agility
+		- Focus Blast
+		- Psycho Boost
+Cobalion
+	- Base Stats
+		- SpA: 140 -> 200
+	- Learnset Additions
+		- Nasty Plot
+Emboar
+	- Base Stats
+		- Hp: 110 -> 210
+		- Atk: 123 -> 253
+		- Def: 65 -> 225
+		- SpA: 100 -> 210
+		- SpD: 65 -> 215
+		- Spe: 65 -> 135
+	- Learnset Additions
+		- Agility
+		- Close Combat
+		- Eruption
+Giratina
+	- Learnset Additions
+		- Autotomize
+	- Origin Forme
+		- Giratina Origin no longer needs to hold a Griseous Orb
+Lapras
+	- Learnset Additions
+		- Withdraw
+Mesprit
+	- Abilities
+		- Serene Grace added
+		- Tinted Lens added
+	- Base Stats
+		- Atk: 105 -> 165
+	- Learnset Additions
+		- Psycho Boost
+Politoed
+	- Base Stats
+		- Hp: 90 -> 190
+		- Atk: 75 -> 105
+		- Def: 75 -> 175
+		- SpA: 90 -> 210
+		- SpD: 100 -> 200
+		- Spe: 70 -> 150
+	- Learnset Additions
+		- Rapid Spin
+		- Stealth Rock
+		- Withdraw
+Poliwrath
+	- Abilities
+		- Damp -> Guts
+	- Base Stats
+		- Hp: 90 -> 160
+		- Atk: 95 -> 205
+		- Def: 95 -> 195
+		- SpA: 70 -> 150
+		- SpD: 90 -> 170
+		- Spe: 70 -> 150
+	- Learnset Additions
+		- Aqua Leap
+		- Close Combat
+		- Flip Turn
+		- Howl
+		- Swords Dance
+Seismitoad
+	- Base Stats
+		- Hp: 105 -> 195
+		- Atk: 95 -> 255
+		- Def: 75 -> 205
+		- SpA: 85 -> 145
+		- SpD: 75 -> 145
+		- Spe: 74 -> 154
+	- Learnset Additions
+		- Agility
+		- Close Combat
+		- Parting Shot
+		- Power Trip
+		- Uproar
+		- Wave Crash
+Terrakion
+	- Base Stats
+		- Def: 240 -> 300
+Unown
+	- Unown-!
+		- Type: Normal/??? -> Fairy/Ground
+Uxie
+	- Abilities
+		- Dyslexic added
+		- Natural Cure added
+	- Base Stats
+		- SpA: 147 -> 207
+	- Learnset Additions
+		- Psycho Boost
+Virizion
+	- Base Stats
+		- Hp: 192 -> 232
+		- Def: 171 -> 191
+
+
+Pokemon Memories v1.5.5
+Ultra Assist
+- EX Calyrex-Shadow
+	- Effect: Changes Normal-Type and Psychic-Type Pokemon into Ghost-Type Pokemon
+- EX Groudon
+	- Effect: 
+- EX Ho-Oh
+	- No longer heals Pokemon with Frosty Veil, Regenerator, or Stamina
+- EX Meloetta
+	- Additional Effect: Opposing Sound-Moves fail
+- EX Mew
+	- Effect: x1.1 Base Power on all Moves -> All Psychic-Type Pokemon bounce opposing Status-Moves
+- EX Kyogre
+	- Effect: Opposing Water-Type and Steel-Type Moves have x0.67 Damage -> x1.2 Base Power on all Water-Type Moves. Power is not mitigated by the Pokemon's Choice Scarf
+- EX Lugia
+	- Damage Mitigation: x0.67 -> x0.5
+- EX Rayquaza
+	- Affected Types: Dragon/Fairy -> Electric/Fairy
+	- Damage Reduction: x0.67 -> x0.5
+- EX Shaymin
+	- No longer heals Pokemon with Frosty Veil, Regenerator, or Stamina
+- EX Yveltal
+	- Effect: Deducts 1/10 of the opponent's HP each turn -> Opponents cannot recover their HP for 10 Turns. This effect will always last until the opponent switches out, even after the Assist itself expires.
+Formats
+- Ultra Assist
+	- Memorization is now banned from this Format
+Abilities
+- Frosty Veil
+	- Hp Restored upon Switching Out: 1/4 -> 1/8
+- Full Bloom
+	- Changed the Notification received when opposing Super-Effective Attacks are turned into Neutral Hits
+- Intrepid Sword
+	- K.O.'s before Attack Boost drops: 1 -> 2
+Moves
+- Mind Blown
+	- Base Power: 190 -> 220
+	- Accuracy: 90% -> 100%
+- Thunderous Kick
+	- x1.5 Power if one of the Opponent's Pokemon fainted last turn
+Pokemon
+- Articuno-Galar
+	- Learnset Additions
+		- Royal Turbulence
+		- Whirlwind
+- Blacephalon
+	- Added Abilities
+		- Regenerator
+	- Learnset Additions
+		- Howl
+- Celesteela
+	- Ability Removals
+		- Stamina
+	- Learnset Removals
+		- Milk Drink
+		- Return
+		- Royal Retreat
+- Mewtwo
+	- Learnset Additions
+		- Ember
+- Nihilego
+	- Learnset Additions
+		- Meteor Beam
+		- Sludge Switch
+- Stakataka
+	- Ability Additions
+		- Filter
+	- Base Stats
+		- Hp: 61 -> 121
+		- Atk: 131 -> 231
+		- Def: 211 -> 401
+		- SpA: 53 -> 73
+		- SpD: 101 -> 161
+		- Spe: 13 -> 13
+	- Learnset Additions
+		- Haze
+		- Heal Block
+		- Mineral Cannon
+		- Rapid Spin
+		- Whirlwind
+		- Withdraw
+- Uxie
+	- Ability
+		- Stamina -> Ripen
+- Volcanion
+	- Base Stats
+		- SpD: 170 -> 190
+- Xurkitree
+	- Added Abilities
+		- Galvanize
+	- Learnset Additions
+		- Hyper Voice
+
+
+Pokemon Memories v1.5.6
+Formats
+- Ultra Assist
+	- Banned Abilities
+		- Amplifier
+
+Moves
+- Psychic Infinity
+	- Base Power: 200 -> 150
+	- Power Scaling: +100 -> +50
+- Psystrike
+	- Added Effect: +50 Base Power for each of the opponent's stat boosts.
+	- Power Ceiling: 300 BP
+- Punishment
+	- Power Scaling: +40 -> +60
+	- Ceiling: 300 -> 360
+- Vanishing Strike
+	- Base Power: 330 -> 220
+	- Effect: Doubled Power if user or target is Memorized -> x1.5 Power if any opposing Pokemon fainted last turn; Ignores opposing stat changes
+
+Pokemon
+- Arceus
+	- Learnset Additions
+		- Haze
+		- Taunt
+	- Learnset Removals
+		- Aqua Soul
+		- Mist Ball
+- Articuno-Galar
+	- Base Stats
+		- Atk: 45 -> 65
+		- Def: 195 -> 155
+- Cacturne
+	- Abilities
+		- Corrected an oversight where Cacturne did not have Adaptability, despite it being listed in the Changelog
+- Lugia
+	- Learnset Removals
+		- Double Team
+- Lunatone
+	- Base Stats
+		- Hp: 70 -> 160
+		- Atk: 55 -> 155
+		- Def: 65 -> 165
+		- SpA: 95 -> 235
+		- SpD: 85 -> 235
+		- Spe: 70 -> 110
+	- Learnset Additions
+		- Rapid Spin
+		- Recover
+		- Spikes
+		- Teleport
+- Solrock
+	- Base Stats
+		- Hp: 70 -> 160
+		- Atk: 95 -> 235
+		- Def: 85 -> 235
+		- SpA: 55 -> 155
+		- SpD: 65 -> 165
+		- Spe: 70 -> 110
+	- Learnset Additions
+		- Rapid Spin
+		- Recover
+		- Spikes
+		- Teleport
+- Unown
+	- New Unown Types
+		- Unown-G: Electric/Poison
+		- Unown-H: Psychic/Poison
+- Uxie
+	- Learnset Removals
+		- Double Team
