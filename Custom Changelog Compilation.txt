@@ -1374,7 +1374,7 @@ Psycho Force
 Effect: Multiplies damage of both Semi-Effective and Super-Effective Attacks by x1.5. Fairy-Type weakness is ignored, and Pokemon's moves do not make Contact. Poison Jab becomes Supercharged into Gunk Shot. Pokemon's Burst-Moves are always at Full Power. Immunity to having stats lowered under any circumstances. Incapacitates if user isn't Mewtwo.
 
 Psychic Assault
-Effect: Multiplies the power of moves with a Base Power equal or lesser than 120 by x1.5. Multiplies User's Attack Stat by x1.5. Pokemon's Burst-Moves are always at Full Power. Immunity to having stats lowered by the opponent. Incapacitates if user isn't Mewtwo.
+Effect: Multiplies the power of non-burst moves with a Base Power equal or lesser than 120 by x1.5. Multiplies User's Attack Stat by x1.5. Pokemon's Burst-Moves are always at Full Power. Immunity to having stats lowered by the opponent. Incapacitates if user isn't Mewtwo.
 ------------------------------------------------------------------------
 Charizard
 Hp: 78 -> 128 = +50
@@ -9173,7 +9173,7 @@ Thunder Wave
 Uproar
 ------------------------------------------------------------------------
 New Terminology
-Burst-Moves
+Burst Moves
 Description: Powerful Attacking moves that have their power reduced under certain conditions
 
 Dragon Energy
@@ -9187,8 +9187,8 @@ Venom Drench
 Water Sport
 Water Spout
 
-Charge-Moves
-Description: Non-Powerful Attacking moves, that have thier power increasd under certain conditions 
+Kinetic Moves
+Description: Attacking moves that have thier power increased under certain conditions 
 Beak Blast
 Bolt Beak
 Compensation
@@ -9211,6 +9211,7 @@ Shockwave
 Smelling Salts
 Spooky Revenge
 Stomping Tantrum
+Vanishing Strike
 Venoshock
 Wake-Up Slap
 Weather Ball
@@ -11346,7 +11347,7 @@ Accuracy: 100
 Category: Special
 Priority: +1
 Contact: No
-Effect: Usually moves first; Not boosted by Psychic Assault; Damage is halved if opponent has Psycho Force.
+Effect: Usually moves first; Damage is halved if opponent has Psycho Force.
 PP: 5
 Target: Normal
 Type: Psychic
@@ -13014,7 +13015,7 @@ Psycho Force
 Effect: Multiplies damage of both Semi-Effective and Super-Effective Attacks by x1.5. Fairy-Type weakness is ignored, and Pokemon's moves do not make Contact. Pokemon's Burst-Moves are always at Full Power. Immunity to having stats lowered under any circumstances. Ignores Mold Breaker. Incapacitates if user isn't Mewtwo.
 --
 Psychic Assault
-Effect: Multiplies the power of moves with a Base Power equal or lesser than 120 by x1.5. Multiplies User's Attack Stat by x1.5. Pokemon's Burst-Moves are always at Full Power. Immunity to having stats lowered by the opponent. Ignores Mold Breaker. Incapacitates if user isn't Mewtwo.
+Effect: Multiplies the power of non-burst moves with a Base Power equal or lesser than 120 by x1.5. Multiplies User's Attack Stat by x1.5. Pokemon's Burst-Moves are always at Full Power. Immunity to having stats lowered by the opponent. Ignores Mold Breaker. Incapacitates if user isn't Mewtwo.
 ------------------------------------------------------------------------
 Category: Rayquaza-Specific 
 --
