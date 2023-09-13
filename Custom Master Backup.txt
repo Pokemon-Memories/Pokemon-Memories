@@ -990,7 +990,7 @@ Mewtwo @ Mewtwonite Y
 Ability: psychicpower  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
-- Stored Power  
+- Expanding Force  
 - Aura Sphere  
 - psychicwind  
 - Night Daze  
@@ -8096,5 +8096,3 @@ Careful Nature
 - Earthquake  
 - Thunder Wave  
 - Shell Smash  
-
-
