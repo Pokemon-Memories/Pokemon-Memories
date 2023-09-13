@@ -377,7 +377,9 @@ Politoed
 Emboar
 Seismitoad
 Stakataka
-Total: 376
+Lunatone
+Solrock
+Total: 378
 ============================================================
 Base Stat Tier List
 ==============
@@ -632,6 +634,8 @@ Golisopod: 			BST: 1060
 Meteor Minior: 			BST: 1060
 Armaldo: 			BST: 1060
 Aurorus: 			BST: 1060
+Lunatone: 			BST: 1060
+Solrock: 			BST: 1060
 Porygon: 			BST: 1059
 Excadrill: 			BST: 1058
 Jolteon: 			BST: 1052
@@ -1124,6 +1128,8 @@ Arctovish: 110
 Goodra: 110
 Mega Mawile: 110
 Mawile: 110
+Lunatone: 110
+Solrock: 110
 ===============
 Category: 100s (20 Total)
 --
@@ -3821,6 +3827,7 @@ Earth Power
 Earthquake
 Giga Drain
 Grav Apple
+Haze
 Hurricane
 Leaf Switch
 Petal Blizzard
@@ -3832,6 +3839,7 @@ Spikes
 Stealth Rock
 Surf
 Synthesis
+Taunt
 Turbine Turn
 Withdraw
 
@@ -3866,8 +3874,6 @@ Agility
 Amnesia
 Aqua Charge
 Aqua Drain
-Aqua Soul
-Aqua Soul
 Ascending Power
 Block
 Body Press
@@ -3889,6 +3895,7 @@ Flame Burst
 Flash
 Frenzy Plant
 Glacial Strike
+Haze
 Healing Wish
 Heaven Dance
 Hydro Pump
@@ -3898,7 +3905,6 @@ Icicle Crash
 Infinite Velocity
 Liquidation
 Metal Burst
-Mist Ball
 Moonblast
 Moongeist Beam
 Mud Sport
@@ -3921,6 +3927,7 @@ Simple Beam
 Sludge Bomb
 Stored Power
 Sunsteel Strike
+Taunt
 Teleport
 Thermal Press
 Twinkle Tackle
@@ -5663,6 +5670,9 @@ Uproar
 Water Sport
 Wish
 Withdraw
+
+Unlearned
+Double Team
 
 Deep Sea
 Effect: Changes Pokemon into a Water/Flying Type upon Switching In; Opposing moves deal half Damage when Pokemon is at Full HP; Removes the Water-Type's Electric Weakness.
@@ -7410,6 +7420,9 @@ Psychic Wind
 Psycho Boost
 Psycho Fire
 
+Unlearned
+Double Team
+
 Azelf
 Hp: 75 -> 205 = +130
 Atk: 125 -> 285 = +160
@@ -8121,8 +8134,8 @@ Fly
 ------------------------------------------------------------------------
 Articuno-Galar   
 Hp: 90 -> 250 = +160
-Atk: 85 -> 25 = -60
-Def: 85 -> 195 = +110
+Atk: 85 -> 65 = -20
+Def: 85 -> 155 = +70
 SpA: 125 -> 255 = +130
 SpD: 100 -> 270 = +170
 Spe: 95 -> 165 = +70
@@ -8580,6 +8593,8 @@ Perish Song
 
 Special Mechanic
 Certain Unown have Special Types
+Unown-G: Electric/Poison
+Unown-H: Psychic/Poison
 Unown-I: Bug/???
 Unown-J: Dark/???
 Unown-K: Dragon/???
@@ -8688,6 +8703,34 @@ Mineral Cannon
 Rapid Spin
 Whirlwind
 Withdraw
+------------------------------------------------------------------------
+Lunatone    
+Hp: 70 -> 160 = +90
+Atk: 55 -> 155 = +100
+Def: 65 -> 165 = +100
+SpA: 95 -> 235 = +140
+SpD: 85 -> 235 = +150
+Spe: 70 -> 110 = +40
+BST: 440 -> 1060
+New Moves
+Rapid Spin
+Recover
+Spikes
+Teleport
+
+Solrock    
+Hp: 70 -> 160 = +90
+Atk: 95 -> 235 = +140
+Def: 85 -> 235 = +150
+SpA: 55 -> 155 = +100
+SpD: 65 -> 165 = +100
+Spe: 70 -> 110 = +40
+BST: 440 -> 1060
+New Moves
+Rapid Spin
+Recover
+Spikes
+Teleport
 =========================================================
 Template Stats
 Hp: 100
@@ -11336,11 +11379,13 @@ Base Power: 80 -> 130
 Psystrike
 Base Power: 100 -> 150
 Category: Varies (Special by default, Physical if attack stat is higher)
+Effect: Base Power increases by 50 for each of the opponent's stat boosts
+Power Ceiling: 300 BP
 --
 Punishment
 Base Power: 60
-Formula: +20 Power per boosted opposing stat -> +40 Power
-Threshold: 200 -> 300
+Formula: +20 Power per boosted opposing stat -> +60 Power
+Threshold: 200 -> 360
 --
 Pursuit
 Base Power: 55 -> 75
@@ -12380,12 +12425,12 @@ Vacuum Wave
 Base Power: 40 -> 50
 --
 Vanishing Strike (New Move)
-Base Power: 330
+Base Power: 220
 Accuracy: true
 Category: Physical
 Priority: +0
 Contact: Yes
-Effect: Doubled Power if the Pokemon, or their opponent, is Memorized
+Effect: x1.5 Power if a Pokemon on the opposing side fainted last turn. Ignores target's stat changes.
 Conditions: Can only be used by Mega Mewtwo X 
 PP: 5
 Target: Normal
