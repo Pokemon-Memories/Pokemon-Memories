@@ -2125,6 +2125,7 @@ Moves
 - Psychic Infinity
 	- Base Power: 200 -> 150
 	- Power Scaling: +100 -> +50
+	- Power is now determined by the user's stat boosts, rather than the opponent's
 - Psycho Darts
 	- Now receives a Power Boost from Psychic Assault
 - Psystrike
