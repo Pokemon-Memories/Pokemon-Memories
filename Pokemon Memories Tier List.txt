@@ -20,7 +20,7 @@ Section C
 	• Viability Rankings
 	• History of the Format
 
-(160 Total)
+(161 Total)
 						      Section A    
 						    Standard Ubers
 						      Highlights
@@ -32,12 +32,12 @@ Description: Certain Pokemon are given "Highlights", which will be posted here. 
 							Mewtwo
 					              [ Psychic ]
 			    	(Hp: 170/Atk: 335/Def: 185/SpA: 338/SpD: 185/Spe: 187) BST: 1400
-					 Psychic Power/Hightened Mind/Unnerve
+					 Psychic Power/Hightened Mind/Antipathy
  			  [Dark Memory/Dubious Disc/Fairy Memory/Fighting Memory/Ghost Memory]
 				[Ground Memory/Ice Memory/Poison Memory/Psychic Memory]
 
 
-Description: Between its peerless offenses, blistering speed, and its perfectly distributed defenses; Mewtwo is an unparallaled force of mass destruction in this Meta. Whereas most Pokemon are biased toward specific sets, which serve as the primary cause for their exalted viability; Mewtwo is able to continuously adapt its sets on the fly, allowing it to always keep its opponents guessing. Its perfectly placed stats leave it with no major vulnerabilites, and its access to a nearly unlimited movepool, encompassing every Type in the game, makes it nigh uncounterable. Simply figuring out the opposing Mewtwo's set, is itself, a daunting task, and actually managing to successfully faint it, is something that will usually only be possible after a very long struggle between both sides. Mewtwo's combination of attributes make it a force to be reckoned with, and when paired with its dangerous unpredictability, powerful teammates, signature items, and phenomenal abilities; This Genetic Masterpiece proves itself to be a powerful Pokemon that is second to none. We dreamed of creating the most powerful Pokemon, and we succeeded.
+Description: Between its peerless offenses, blistering speed, and its perfectly distributed defenses; Mewtwo is an unparallaled force of mass destruction in this Meta. Whereas most Pokemon are biased toward specific sets, which serve as the primary cause for their exalted viability; Mewtwo is able to continuously adapt its sets on the fly, allowing it to always keep its opponents guessing. Its perfectly placed stats leave it with no major vulnerabilites, and its access to a nearly unlimited movepool, encompassing every Type in the game, makes it nigh uncounterable. Simply figuring out the opposing Mewtwo's set, is itself, a daunting task, and actually managing to successfully defeat it, is something that will usually only be possible after a very long struggle between both sides. Mewtwo's combination of attributes make it a force to be reckoned with, and when paired with its dangerous unpredictability, powerful teammates, signature items, and phenomenal abilities; This Genetic Masterpiece proves itself to be a powerful Pokemon that is second to none. We dreamed of creating the most powerful Pokemon, and we succeeded.
 
 
 
@@ -112,42 +112,43 @@ Note: Pokemon beneath the A-Tier, are listed alphabetically; Pokemon in the lowe
 
 Viability Rankings
 
-S-Tier (10 Total)
-
-S+
-Mewtwo
+S-Tier (8 Total)
 
 S
-Deoxys-Speed
-Yveltal
-Calyrex-Shadow
-Skarmory
+Mewtwo
+Arceus-Fairy
 
 S-
+Deoxys-Speed
+Skarmory
 Arceus
 Dialga
-Rayquaza (A; Fairy Memory/Flying Memory + Tailwind)
 Landorus-Therian (A+; Grass Memory)
 Necrozma-Dusk-Mane (A-; Steel Memory)
 
 
-A-Tier (33 Total)
+A-Tier (38 Total)
 
 A+
 Vaporeon
+Klinklang
+Zacian-Crowned (A-; Ground Memory)
+Palkia
+Meowscarada
 Zoroark-Hisui
 Tapu Koko
+Calyrex-Shadow
+Yveltal
 Calyrex-Ice (B+; Electric Memory)
 Ho-Oh
 Thundurus-Therian
-Necrozma-Ultra
-Meowscarada
-Palkia
+Kyurem-Black
 
 A
+Necrozma-Ultra
+Rayquaza (B+; Fairy Memory/Flying Memory + Tailwind)
 Darkrai
 Hoopa Unbound
-Mew (B+; Protean + Fighting Memory)
 Lugia (B; Ice Memory)
 Phione
 Corviknight
@@ -159,7 +160,6 @@ A-
 Xerneas (B+; Memory Armor + Fairy Memory)
 Bellsprout
 Porygon-Z (B; Dark Memory)
-Zacian-Crowned
 Entei
 Cresselia
 Manaphy
@@ -171,9 +171,10 @@ Thundurus
 Cryogonal (B; Ground Memory)
 Lunala (B+; Ghost Memory)
 Tornadus
+Mew (B+; Protean + Fighting Memory)
 
 
-B-Tier (62 Total)
+B-Tier (60 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
@@ -188,6 +189,7 @@ Genesect
 Greninja-Ash
 Groudon
 Keldeo
+Kyurem-White
 Lilligant
 Ludicolo
 Magearna
@@ -230,14 +232,11 @@ Zapdos-Galar
 
 B-
 Arceus-Dragon
-Arceus-Fairy
 Darmanitan
 Decidueye
 Empoleon
 Gengar
 Gengar-Mega
-Kyurem-Black
-Kyurem-White
 Meloetta
 Meloetta-Pirouette
 Regidrago
@@ -1158,48 +1157,52 @@ Priority Values
 3: Pokemon may begin to experience difficulties without certain Type Shields
 4: Pokemon should be Prioritized for a Type Shield, either because the protection imparted will significantly benefit the Team as a whole, or because they need it to function properly
 
-(23 Total - Ultra Assist)
+(28 Total - Ultra Assist)
 
 Viability Rankings
 Standard Pokemon Tier List
 
-S-Tier (9 Total) 
-S+   
-Lugia [Assists: SpD // Types: Poison, Psychic // Priority: 1]
+S-Tier (7 Total) 
+
+S   
+Arceus-Ground [Assists: Hp, Def, SpA, SpD, Spe // Types: Ice, Psychic, Water // Priority: 3]
+Arceus [Assists: Atk // Types: Fighting, Psychic, Normal, ??? // Priority: 1]
+Gengar-Mega [Assists: SpA]
+Gengar [Assists: SpA]
+Mewtwo [Assists: Hp, Def, SpA, SpD, EX Lugia, EX Xerneas // Types: Dark, Fairy, Ground, Normal, ??? // Priority: 3]
+
+S-  
 Arceus-Fairy [Assists: Hp, Def]
 Landorus-Therian [Assists: Any]
 
-S   
-Gengar-Mega [Assists: SpA]
-Gengar [Assists: SpA]
-Mewtwo [Assists: Hp, Def, SpA // Types: Dark, Ghost, Normal, ??? // Priority: 4]
-
-S-  
-Celesteela [Assists: Hp, EX Xerneas // Types: Fire, Water // Priority: 1]
-Arceus [Assists: Atk // Types: Fighting, Psychic, Normal, ??? // Priority: 1]
-Dialga [Assists: Hp, Atk, SpA // Types: Fighting, Ground, Psychic // Priority: 1]
-
-A-Tier (14 Total)
+A-Tier (17 Total)
 A+
+Celesteela [Assists: Hp, EX Xerneas // Types: Fire, Water // Priority: 1]
 Articuno-Galar [Assists: Hp, Def, SpD]
 Tapu Koko [Assists: Atk]
 Porygon [Assists: Atk, SpA]
+Lugia [Assists: SpD // Types: Electric, Poison, Psychic // Priority: 1]
 Shaymin-Sky [Assists: SpA // Types: Normal, ??? // Priority: 1]
 Arceus-Dark [Assists: SpA // Types: Fairy, Fighting // Priority: 2]
 
 A
+Rapidash [Assists: Hp, Atk, EX Xerneas]
+Rotom [Assists: Hp, EX Lugia]
 Kyogre [Assists: EX Xerneas // Types: Normal, ??? // Priority: 3]
 Lucario-Mega [Assists: Atk]
 Zygarde-Complete [Assists: EX Xerneas]
 Zygarde [Assists: EX Xerneas]
-Hoopa-Unbound [Assists: Atk // Types: Ghost, Grass, Normal, ??? // Priority: 3]
+Cresselia [Assists: Hp, Def, SpD, EX Lugia]
 
 A-
+Dialga [Assists: Hp, Atk, SpA // Types: Fighting, Ground, Psychic // Priority: 1]
 Rotom-Wash [Assists: Hp, Def, SpD]
-Vaporeon [Assists: Hp, Def, SpD]
+Hoopa-Unbound [Assists: Atk // Types: Ghost, Grass, Normal, ??? // Priority: 3]
 
-B-Tier (2 Total)
+B-Tier (4 Total)
 B+
+Vaporeon [Assists: Hp, Def, SpD]
+Meloetta
 Calyrex-Shadow [Assists: Atk, SpA]
 
 B
@@ -1211,36 +1214,50 @@ Bastiodon [Assists: Hp, Def // Types: Fighting, Ground, Water // Priority: 2]
 						      Mewtwo
 Description: Due to the volatility of the Tier, paired with the loss of Memorization, and the potential for opposing Assist States to disrupt Mewtwo's Machinations, it is not nearly as oppressive as it is in Standard Ubers, however, in no longer being the undisputed best, Mewtwo has gained the potential to tap into its recessive movepool to command strategies that its erstwhile responsibilities spared the aforementioned Tier from
 
-Sets
-All-Out Attacker (SpA Assist)
-Mewtwo @ Dawn Stone  
-Ability: hightenedmind  
-EVs: 4 HP / 252 SpA / 252 Spe  
-Timid Nature  
-- Expanding Force  
-- Aura Sphere  
-- Water Sport  
-- Comeuppance
-
-Description: With a Special Attack Assist active, Mewtwo is able to approximate the power of its unassisted Adrenaline Orb sets, while further amplifying them with the power of Dawn Stone, and the accompanying Hightened Mind boost, respectively. Notably, Mewtwo is able to OHKO Dialga and Payapa Arceus with Aura Sphere; Arceus-Fairy, Landorus-Therian, Dyslexic Gengar, and Zygarde with a charged Expanding Force, Landorus-Therian, Hoopa-Unbound, Ho-Oh, and Zacian-Crowned with a full power Water Sport, and opposing Psychic-Types, such as enemy Mewtwo, and Uxie with Comeuppance. Due to the high level of commitment required to use this set, it is better to reserve it for the latter part of the game, where all of its potential answers are likely to be sufficiently weakened
-
-Checks and Counters
-Pokemon that outspeed Mewtwo, such as Porygon-Z, or Scarfed Pokemon may be able to deal enough damage to cripple the power of its Water Sport, allowing Pokemon that naturally resist or absorb its Psychic-Type moves, but aren't weak to Aura Sphere to serve as potential answers. Additionally, anything capable of stalling out Mewtwo's charged Expanding Force can also significantly reduce its power, provided that they possess the means of surviving the following hits. Naturally bulky Pokemon, such as Arceus-Fairy or Vaporeon, may be able to predict a Mewtwo switch and oppose it before its Expanding Force is charged. SpD Assists, and Psychic Type-Shields can also allow opponents to surprise and revenge K.O. these Mewtwo sets.
-
-StallTwo (Any Assist)
+Offense
 Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
 EVs: 4 HP / 252 SpA / 252 Spe  
-Naive Nature  
-- psychofire  
-- Ember  
-- Aurora Beam  
+Timid Nature  
+- Psystrike / Stored Power  
+- infernobeam / Aura Sphere  
+- Aurora Beam / Water Sport 
+- Night Daze / Comeuppance
+
+Strengths
+√ Psystrike allows Mewtwo to deal massive damage to opposing set-up Sweepers and Walls; Stored Power has more immediate strength
+√ Inferno Beam annihilates Dialga, while also dealing good damage to opposing Steel Walls; Aura Sphere hits Arceus and Dark-Types
+√ Aurora Beam hits more threats Super-Effectively, including some quadruple-weak foes; Water Sport is powerful enough to serve as an auxillary pseudo-stab move for opponents that can survive the rest of its moveset
+√ Night Daze and Comeuppance both allow Mewtwo to nail opposing Psychics; Night Daze is more consistent and has better coverage, while Comeuppance hits significantly harder
+
+Weaknesses
+✘ Mewtwo may miss certain K.O.s if it elects to run Psystrike; Stored Power hits harder, but experiences more hard counters from various walls or specially defensive set-up sweepers
+✘ Inferno Beam is needed to consistently nail Dialga and hit most Steels, while Aura Sphere is important for Arceus and Darks
+✘ Aurora Beam has good coverage, but has an otherwise unimpressive BP; Water Sport hits less relevant threats
+✘ Comeuppance can destroy some threats that can otherwise cope with Night Daze, however it is otherwise rather exploitable; Night Daze is safer, but the drop in power is noticeable
+
+Defensive/StallTwo
+Mewtwo @ Leftovers / Adrenaline Orb 
+Ability: psychicpower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psystrike / Psycho Fire
+- Ember / Psycho Darts
+- Nasty Plot / Ember / Aurora Beam / Taunt
 - Recover
 
-Description: Psycho Fire allows Mewtwo to combine the benefits of its Psychic coverage and Aura Sphere, allowing it to obliterate Zacian-Crowned, Dialga, and Porygon-Z, while Aurora Beam ensures it can still nail Landorus-Therian and Zygarde, while hitting Ho-Oh hard. Players can opt to allocate some or all of the SpA EVs into one of its defensive stats, however the decline in power will be noticeable. Even without a defensive Assist Boost or the appropriate Type-Shields, Mewtwo is capable of out-stalling most of Heaven Dance Arceus' E-Killer sets with Ember, even when boosted by an Attack Assist--provided it burns Arceus before it sets up, however it may need investment, defensive Assists, or a Normal-Type Shield if it wants to stop Arceus that are dual-boosted (i.e. running an offensive Assist, in addition to a damage-boosting Item). Ember can also be used to cripple opposing Walls that expected to switch in against an Offensive Mewtwo, and can switch into an ally to absorb their attacks while their health gradually deteriorates. Recover is instrumental in out-stalling E-Killer and other powerful attackers, while also allowing Mewtwo to heal in the face of passive walls that either may not have the tools to handle it, or will likely attempt to pivot or hard-switch out to avoid getting nuked by Psycho Fire.
+Strengths
+√ Psystrike allows Mewtwo to erase opposing Set-Up mons that may try to hinder it, while Psycho Fire has more immediate power against opposing Steel-Types
+√ Ember is necessary, and allows Mewtwo to cripple opposing Walls and Physical Attackers, while helping it position naturally bulky Pokemon like Arceus into ranges that allow Psystrike/Psycho Fire to 2HKO
+√ Nasty Plot allows Mewtwo to capitalize on its tremendous natural Special Attack and Speed to potentially sweep; If Mewtwo is running Leftovers, it may be necessary to allow it to apply pressure to naturally bulky walls; Aurora Beam can also be run to quickly delete quadruply-weak threats
+√ Recover is mandatory, and allows Mewtwo to stall most efficiently, particularly through Ember-Stalling otherwise problematic Physical Attackers, or healing in front of certain Walls.
 
-Checks and Counters
-Opposing Dark-Type Pokemon match well against StallTwo, as even if they are running Physical Sets, Mewtwo cannot easily defeat them before it gets K.O.'d. Additionally, opposing Special Attackers may be able to impede Mewtwo's efforts if it cannot reliably K.O. them with its attacks. Life Orb Attack Assist Porygon-Z may be able to 2HKO Mewtwo in-spite of its Burn, which, in turn, forces Mewtwo to either nuke it with Psycho Fire, and potentially face the wrath of its Switch-In, or to switch out either before or after Porygon attacks, in hopes of finding another opportunity to stall, or use Recover, respectively. Mewtwo can run Taunt to ensure that opposing Walls are impaired, however it also wants to have enough coverage to justify its position on the Team, leaving Mewtwo vulnerable to a number of answers depending on what moves it eschews.
+Weaknesses
+✘ Pokemon that can outspeed Mewtwo before it can land an Ember pose a real threat to it, as certain Physical Attackers can 2HKO it even with a Burn; Faster Special Attackers, likewise, force Mewtwo to either switch or attempt to K.O. them outright, potentially leaving Mewtwo in a disadvantageous position even if it wins.
+✘ Psycho Darts allows Mewtwo to delete Porygon-Z and potentially chip away at weakened faster threats, but forces Mewtwo to sacrifice Nasty Plot
+✘ Aurora Beam may be preferred if Mewtwo needs to dispatch a quadruply-weak Pokemon that has become too powerful for the other Teammates to effectively manage, however, without Nasty Plot, certain Walls become impassable
+✘ Mewtwo must eschew utilizing its massive offensive coverage--including coverage for opposing Psychic-Types--to effectively run a Stall set, significantly worsening its matchups against opposing Darks, Psychics, and Mewtwo, specifically
 =====================================================================================================================
 
 						     Section C     
