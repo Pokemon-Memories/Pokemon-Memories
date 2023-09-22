@@ -2190,3 +2190,173 @@ Pokemon
 - Uxie
 	- Learnset Removals
 		- Double Team
+
+
+Pokemon Memories v1.5.7
+General
+- Multi-Category Moves
+	- All Moves that change Categories depending on the user's highest stat will no longer activate Category-Dependent Forme Changes
+Memory Abilities
+- Perfect Form
+	- No longer boosts the power of "Super-Moves" (i.e. Moves that hit most or all Types Super-Effectively)
+- Strategist
+	- Power Bouns: x1.3 -> x1.4
+		- Conditions: ≦155 BP Psychic-Type Moves -> ≦155 BP Psychic-Type Moves, or ≧120 Special Moves
+	- Kinetic-Moves are no longer boosted
+	- Pokemon's Burst-Moves no longer have a x0.67 Base Power Penalty, however they are still not boosted
+Abilities
+- Antipathy
+	- Now activates against Pokemon with Choice Items
+- Magma Armor
+	- Additional Effect: Opposing Physical Moves deal x0.67 Damage
+- Speed Boost
+	- Attrition: __ -> +1
+- Technician
+	- No longer boosts the power of Super-Moves
+
+Moves
+- 10,000,000 Volt Thunderbolt
+	- No longer works for Memorized Pokemon
+- Aqua Tail
+	- Base Power: 110 -> 120
+- Fairy Wind
+	- Secondary Effect: Raises Pokemon's SpA by 1 stage -> Clears Hazards
+- Freezing Glare
+	- Power now doubles if the opponent has any Positive Stat Boosts
+- Mystery Deluge
+	- Implemented
+	- Base Power: 110 (90 BP, if the Pokemon has Oversight)
+	- Accuracy: 100
+	- Category: Special
+	- PP: 10
+	- Effect: Doubled Base Power if the user's Hp is equal or above half of their Max Hp
+	- Users: Gallade, Gardevoir, Infernape, Mewtwo, Suicune
+- Psychic Infinity
+	- Power Scaling: +50 -> +100
+	- Corrected an oversight where Psychic Infinity was unintentionally classified as a Physical Move
+		- Category: Physical -> Special
+- Psystrike
+	- Power Ceiling: 300 -> 500
+
+Pokemon
+- Calyrex-Shadow
+	- Learnset
+		- Corrected an error where Calyrex-Shadow was still stated to be capable of learning Close Combat and Double Kick in the Changelog Compilation, despite these moves having been removed from its learnset
+- Camerupt
+	- Implemented
+	- Base Stats
+		- Hp: 70 -> 180
+		- Atk: 100 -> 240
+		- Def: 70 -> 180
+		- SpA: 105 -> 265
+		- SpD: 75 -> 205
+		- Spe: 40 -> 100
+	- Mega Stats
+		- Def: 180 -> 280
+		- SpA: 265 -> 325
+		- SpD: 205 -> 235
+	- Learnset Additions
+		- Aromatic Mist
+		- Fire Spin
+		- Flare Blitz
+		- Heat Crash
+		- Magma Storm
+		- Mud Sport
+		- Withdraw
+- Floette
+	- Base Stats
+		- Atk: 185 -> 285
+		- Def: 137 -> 167
+		- Spe: 152 -> 182
+	- Learnset Additions
+		- Aromatic Mist
+		- Leaf Switch
+		- Petal Dance
+		- Play Rough
+		- Stealth Rock
+		- Twinkle Tackle
+		- Waterfall
+		- Withdraw
+	- Learnset Removals
+		- Synthesis
+- Floette-Eternal
+	- No longer shares a Learnset with Floette and Florges
+	- Learnset Additions
+		- Howl
+	- Learnset Removals
+		- Agility
+		- Tail Glow
+- Florges
+	- Ability
+		- Unnerve -> Mold Breaker
+	- Base Stats
+		- Hp: 258 -> 228
+		- Atk: 115 -> 145
+	- Learnset Removals
+		- Tailwind
+- Gallade
+	- Learnset Additions
+		- Mystery Deluge
+- Gardevoir
+	- Learnset Additions
+		- Mystery Deluge
+- Infernape
+	- Learnset Additions
+		- Mystery Deluge
+- Mewtwo
+	- Abilities
+		- Unaware -> Antipathy
+	- Learnset Additions
+		- Mystery Deluge
+- Suicune
+	- Learnset Additions
+		- Mystery Deluge
+- Trevenant
+	- Learnset Additions
+		- Poltergeist
+		- Rapid Spin
+		- Shadow Flame
+		- Stealth Rock
+- Unown
+	- Unown-Typings
+		- Unown-F Typing: Psychic -> Fairy/Poison
+- Zacian-Crowned
+	- Base Stats
+		- Spe: 175 -> 181
+	- Learnset Removals
+		- Wave Crash
+- Zamazenta-Crowned
+	- Base Stats
+		- SpD: 195 -> 201
+
+
+Pokemon Memories v1.5.8
+Moves
+- Gear Grind
+	- Base Power: 50 -> 70
+	- Accuracy: 85 -> 90
+	- Additional Effect: 25% chance per hit to raise the Pokemon's Atk by 1 stage
+
+Pokemon
+- Bellsprout
+	- Learnset Additions
+		- Parting Shot
+- Klinklang
+	- Abilities
+		- Plus/Minus -> Utility Lock/Memory Armor
+	- Base Stats
+		- Hp: 60 -> 180
+		- Atk: 100 -> 220
+		- Def: 115 -> 265
+		- SpA: 70 -> 170
+		- SpD: 85 -> 185
+		- Spe: 90 -> 161
+		- BST: 520 -> 1181
+	- Learnset Additions
+		- Earthquake
+		- Fall Back
+		- Royal Retreat
+		- Shift Gear
+		- Stealth Rock
+		- Thunder Wave
+		- Withdraw
