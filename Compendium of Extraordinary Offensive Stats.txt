@@ -69,7 +69,7 @@ Mega Blaziken: 300
 Mega Scizor: 300
 Mega Aggron: 300
 
-Special Attack (57 Total)
+Special Attack (58 Total)
 
 Mega Mewtwo Y: 450
 Deoxys Attack: 405
@@ -87,6 +87,7 @@ Ultra Necrozma: 333
 Xurkitree: 333
 Tapu Lele: 330
 Lunala: 327
+Mega Camerupt: 325
 Kyogre: 320
 Rayquaza: 320
 Arceus-Ghost: 320
