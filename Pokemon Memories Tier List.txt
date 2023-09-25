@@ -112,37 +112,36 @@ Note: Pokemon beneath the A-Tier, are listed alphabetically; Pokemon in the lowe
 
 Viability Rankings
 
-S-Tier (8 Total)
+S-Tier (10 Total)
 
 S
 Mewtwo
-Arceus-Fairy
 
 S-
+Arceus-Fairy
+Kyurem-Black
 Deoxys-Speed
-Skarmory
+Calyrex-Shadow
 Arceus
 Dialga
 Landorus-Therian (A+; Grass Memory)
-Necrozma-Dusk-Mane (A-; Steel Memory)
+Palkia
+Skarmory
 
 
-A-Tier (38 Total)
+A-Tier (37 Total)
 
 A+
 Vaporeon
 Klinklang
 Zacian-Crowned (A-; Ground Memory)
-Palkia
 Meowscarada
+Necrozma-Dusk-Mane (A-; Steel Memory)
 Zoroark-Hisui
 Tapu Koko
-Calyrex-Shadow
-Yveltal
 Calyrex-Ice (B+; Electric Memory)
 Ho-Oh
 Thundurus-Therian
-Kyurem-Black
 
 A
 Necrozma-Ultra
@@ -151,6 +150,7 @@ Darkrai
 Hoopa Unbound
 Lugia (B; Ice Memory)
 Phione
+Yveltal
 Corviknight
 Kyogre
 Weavile (B+; Dark Memory)
@@ -1157,15 +1157,17 @@ Priority Values
 3: Pokemon may begin to experience difficulties without certain Type Shields
 4: Pokemon should be Prioritized for a Type Shield, either because the protection imparted will significantly benefit the Team as a whole, or because they need it to function properly
 
-(28 Total - Ultra Assist)
+(29 Total - Ultra Assist)
 
 Viability Rankings
 Standard Pokemon Tier List
 
 S-Tier (7 Total) 
 
-S   
+S+   
 Arceus-Ground [Assists: Hp, Def, SpA, SpD, Spe // Types: Ice, Psychic, Water // Priority: 3]
+
+S
 Arceus [Assists: Atk // Types: Fighting, Psychic, Normal, ??? // Priority: 1]
 Gengar-Mega [Assists: SpA]
 Gengar [Assists: SpA]
@@ -1175,11 +1177,12 @@ S-
 Arceus-Fairy [Assists: Hp, Def]
 Landorus-Therian [Assists: Any]
 
-A-Tier (17 Total)
+A-Tier (18 Total)
 A+
 Celesteela [Assists: Hp, EX Xerneas // Types: Fire, Water // Priority: 1]
 Articuno-Galar [Assists: Hp, Def, SpD]
 Tapu Koko [Assists: Atk]
+Abomasnow [Assists: Atk]
 Porygon [Assists: Atk, SpA]
 Lugia [Assists: SpD // Types: Electric, Poison, Psychic // Priority: 1]
 Shaymin-Sky [Assists: SpA // Types: Normal, ??? // Priority: 1]
