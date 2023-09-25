@@ -2360,3 +2360,83 @@ Pokemon
 		- Stealth Rock
 		- Thunder Wave
 		- Withdraw
+
+
+Pokemon Memories v1.5.9
+Formats
+- Ultra Assist
+	- Kyurem-Black, and Kyurem-White are now banned from Ultra Assist
+Mechanics
+- Ultra Assist
+	- EX Lugia
+		- Damage Reduction: x0.5 -> 0.63 (Factor: ÷2 -> ÷1.58)
+
+Abilities
+- Disguise
+	- Transformation Requirements: If Pokemon is Memorized -> If Pokemon has any Positive Stat Boosts; Reverts if it loses these boosts
+
+Moves
+- Bleakwind Storm
+	- Base Power: 100 -> 150
+	- Accuracy: 80 -> True
+	- Category: Varies (Special by Default; Physical if Atk is higher)
+- Confusion
+	- Confusion Chance: 70% -> 30%
+- Mystical Power
+	- Base Power: 70 -> 120
+	- Attrition: __ -> +2
+- Sandsear Storm
+	- Base Power: 100 -> 150
+	- Accuracy: 80 -> True
+	- Category: Varies (Special by Default; Physical if Atk is higher)
+	- Effect: 30% Burn Chance -> 30% Chance to Partially Trap the opponent
+- Take Heart
+	- Implemented
+- Wildbolt Storm
+	- Base Power: 100 -> 150
+	- Accuracy: 80 -> True
+	- Category: Varies (Special by Default; Physical if Atk is higher)
+	- Paralysis Chance: 20% -> 30%
+
+Pokemon
+- Claydol
+	- Base Stats
+		- Hp: 60 -> 160
+		- Atk: 70 -> 200
+		- Def: 105 -> 185
+		- SpA: 70 -> 200
+		- SpD: 120 -> 220
+		- Spe: 75 -> 75
+		- BST: 500 -> 1040
+	- Learnset Additions
+		- Aromatic Mist
+		- U-Turn
+- Floette
+	- Corrected an error where Floette did not receive its new moves
+- Garevoir
+	- Learnset Additions
+		- Mind Cleaner
+- Landorus
+	- Learnset Additions
+		- Sandsear Storm
+- Manaphy
+	- Learnset Additions
+		- Take Heart
+- Mimikyu
+	- Base Stats
+		- SpD: 185 -> 225
+	- Learnset Additions
+		- Aromatic Mist
+		- Fairy Wind
+		- Howl
+		- Rapid Spin
+		- Stealth Rock
+- Phione
+	- Learnset Additions
+		- Take Heart
+- Thundurus
+	- Learnset Additions
+		- Wildbolt Storm
+- Tornadus
+	- Learnset Additions
+		- Bleakwind Storm
