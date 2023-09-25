@@ -382,7 +382,8 @@ Solrock
 Camerupt
 Mega Camerupt
 Klinklang
-Total: 381
+Claydol
+Total: 382
 ============================================================
 Base Stat Tier List
 ==============
@@ -575,6 +576,7 @@ Blastoise: 			BST: 1140
 Venusaur: 			BST: 1140
 Archeops: 			BST: 1137
 Mimikyu: 			BST: 1136
+Mimikyu-Busted: 		BST: 1136
 Darmanitan-Zen: 		BST: 1135
 Togekiss: 			BST: 1135
 Missingno: 			BST: 1132
@@ -599,7 +601,6 @@ Pikachu: 			BST: 1104
 =============================================
 1000s
 Seismitoad: 			BST: 1099
-Mimikyu: 			BST: 1096
 Gardevoir: 			BST: 1095
 Gallade: 			BST: 1095
 Darmanitan-Galar-Zen: 		BST: 1095
@@ -661,6 +662,7 @@ Nidoqueen: 			BST: 1045
 Machamp: 			BST: 1045
 Swampert: 			BST: 1045
 Accelgor: 			BST: 1045
+Claydol: 			BST: 1040
 Slaking: 			BST: 1040
 Mega Gyarados: 			BST: 1040
 Probopass: 			BST: 1035
@@ -1163,7 +1165,7 @@ Cloyster: 100
 Camerupt: 100
 Mega Camerupt: 100
 ===============
-Category: Below 100 (44 Total)
+Category: Below 100 (45 Total)
 --
 Arctozolt: 95
 Drapion: 95
@@ -1181,6 +1183,7 @@ Audino: 90
 Chansey: 85
 Blissey: 85
 Maractus: 80
+Claydol: 75
 Dracozolt: 75
 Delibird: 75
 Tyrantrum: 75
@@ -2507,7 +2510,7 @@ Swords Dance
 Happy Dance
 Effect: All moves on the field have Perfect Accuracy
 ------------------------------------------------------------------------
-Gardevoir
+Gardevoir   
 Hp: 68 -> 180 = +112
 Atk: 65 -> 135 = +70
 Def: 65 -> 150 = +85
@@ -2518,6 +2521,7 @@ BST: 518 -> 1095
 New Moves
 Boomburst
 Fairy Wind
+Mind Cleaner
 Moonlight
 Mystery Deluge
 Mystery Sphere
@@ -2536,7 +2540,7 @@ SpD: 200 -> 370 = +170
 Spe: 160 -> 160 = +0
 BST: 1095 -> 1195
 --
-Gallade
+Gallade   
 Hp: 68 -> 180 = +112
 Atk: 125 -> 270 = +145
 Def: 65 -> 295 = +190
@@ -3793,6 +3797,7 @@ Swords Dance
 Nasty Plot
 Mud Sport
 Sludge Wave
+Take Heart
 Bubble
 
 Unlearned
@@ -3808,17 +3813,18 @@ Spe: 100 -> 140 = +40
 BST: 600 -> 1217
 Added Ability: Drizzle
 New Moves
-Royal Submersion
-Royal Forestation
-Liquidation
+Aqua Soul
+Earthquake
 Happy Hour
 Icy Wind
-Withdraw
+Liquidation
 Mystery Wave
-Earthquake
-Aqua Soul
-Thunder
+Royal Forestation
+Royal Submersion
 Stealth Rock
+Take Heart
+Thunder
+Withdraw
 
 Unlearned
 Tail Glow
@@ -4806,6 +4812,7 @@ Nasty Plot
 Power Gem
 Rapid Spin
 Roost
+Sandsear Storm
 Shadow Ball
 Swords Dance
 Turbine Turn
@@ -4836,6 +4843,7 @@ New Moves
 Acrobatics
 Aeroblast
 Astonish
+Bleakwind Storm
 Brutal Swing
 Bubble
 Dark Pulse
@@ -4896,6 +4904,7 @@ Turbine Turn
 U-Turn
 Volt Switch
 Volt Tackle
+Wildbolt Storm
 Wild Charge
 Zap Cannon
 
@@ -6886,11 +6895,15 @@ BST: 371 -> 1191
 Added Ability: Magic Guard
 Moveset synchronized with Florges'
 New Moves
+Aromatic Mist
 Grav Apple
 Leaf Switch
+Petal Dance
 Play Rough
+Stealth Rock
 Twinkle Tackle
 Waterfall
+Withdraw
 
 Florges   
 Hp: 78 -> 228 = +150
@@ -8447,15 +8460,19 @@ Hp: 55 -> 145 = +90
 Atk: 90 -> 250 = +160
 Def: 80 -> 160 = +80
 SpA: 50 -> 200 = +150
-SpD: 105 -> 185 = +80
+SpD: 105 -> 225 = +120
 Spe: 96 -> 156 = +60
-BST: 476 -> 1096
+BST: 476 -> 1136
 New Moves
+Aromatic Mist
 Autotomize
 Double-Hit
+Fairy Wind
+Howl
 Poltergeist
 Shadow Force
 Spooky Revenge
+Stealth Rock
 Trailblaze
 Twinkle Tackle
 U-Turn
@@ -8465,12 +8482,12 @@ Hp: 145 -> 145 = +0
 Atk: 250 -> 350 = +100
 Def: 160 -> 120 = -40
 SpA: 200 -> 300 = +100
-SpD: 185 -> 145 = -40
+SpD: 225 -> 145 = -80
 Spe: 156 -> 186 = +20
-BST: 1096 -> 1136
+BST: 1136 -> 1136
 
 Disguise
-Effect: Protects Mimikyu for a single hit -> Opposing Choice-Locked Pokemon only deal 1/2 their usual damage; Mimikyu enters its Busted Forme upon Memorizing
+Effect: Protects Mimikyu for a single hit -> Opposing Choice-Locked Pokemon only deal 1/2 their usual damage; Mimikyu enters its Busted Forme if it has any Positive Stat Boosts; Reverts to its Base Forme if it loses them
 ------------------------------------------------------------------------
 Hoopa       
 Hp: 80 -> 180 = +100
@@ -8802,6 +8819,18 @@ Shift Gear
 Stealth Rock
 Thunder Wave
 Withdraw
+------------------------------------------------------------------------
+Claydol   
+Hp: 60 -> 160 = +100
+Atk: 70 -> 200 = +130
+Def: 105 -> 185 = +80
+SpA: 70 -> 200 = +130
+SpD: 120 -> 220 = +100
+Spe: 75 -> 75 = +0
+BST: 500 -> 1040
+New Moves
+Aromatic Mist
+U-Turn
 =========================================================
 Template Stats
 Hp: 100
@@ -9072,11 +9101,21 @@ Type: Grass
 Special Mechanics: Ultra Assist   
 
 Current Banlist
-Drizzle
-Rain Dance
-Royal Submersion
-Sea Incense
-Tailwind
+
+Abilities
+- Drizzle
+- Rain Dance
+
+Items
+- Sea Incense
+
+Moves
+- Royal Submersion
+- Tailwind
+
+Pokemon
+- Kyurem-Black
+- Kyurem-White
 
 New Item: Assist Drive
 Description: A special Device that allows the holder to deplete their energy to unleash and share their latent abilities with the Team. This Item will not activate if the holder is the only or last Pokemon on their Team
@@ -9137,7 +9176,7 @@ EX-Kyogre
 Effect: Pokemon's Water-Type Attacks have x1.2 Base Power. Bypasses Choice Scarf's damage reduction
 
 EX-Lugia
-Effect: Pokemon receive x0.5 Damage from opposing attacks when at Full HP
+Effect: Pokemon receive x0.63 (÷1.58) Damage from opposing attacks when at Full HP
 
 EX-Meloetta
 Effect: Sound-Based Attacks have x1.3 Base Power. Opposing Sound-Moves fail
@@ -9146,7 +9185,7 @@ EX-Mew
 Effect: All Psychic-Type Pokemon repel opposing Status Moves
 
 EX-Rayquaza
-Effect: Pokemon receive x0.5 Damage from opposing Electric-Type and Fairy-Type Attacks
+Effect: Pokemon receive x0.63 Damage from opposing Electric-Type and Fairy-Type Attacks
 
 EX-Shaymin
 Effect: All of the Team's Grass-Type Pokemon restore 1/3 Max Hp upon switching out. Does not heal Pokemon with Regenerator or Stamina
@@ -9208,10 +9247,10 @@ Move Consoliditon
 All instances of Hypnosis replaced with Grass Whistle (affects learnsets)
 ----------
 New Mechanics
-Attrition
+Attrition  
 Effect: Moves that sharply raise one of the user's stats will have diminishing returns after reaching a stat stage equal to the stat stage boost of the move itself (e.g. Swords Dance is +2, so any Pokemon with a stat stage equal or greater than 2, will only receive a single stage boost beyond that point)
 
-Affected Moves
+Affected Moves  
 Note: "__" means that boosts stop altogether at this point
 Acid Armor: Threshold: +2 Def; Attrition: +2 Def -> +1 Def
 Amnesia: Threshold: +2 SpD; Attrition: +2 SpD -> +1 SpD
@@ -9229,6 +9268,7 @@ Glacial Strike: Threshold: +1 Atk; Attrition: +1 Atk -> __
 Heaven Dance: Threshold: +2 Atk; Attrition: +2 Atk -> +1 Atk 
 Iron Defense: Threshold: +2 Def; Attrition: +2 Def -> +1 Def
 Land's Wrath: Threshold: +1 Def; Attrition: +1 Def -> __
+Mystical Power: Threshold: +2 SpA; Attrition: +1 -> __
 Meteor Beam: Threshold: +1 SpA; Attrition: +1 SpA -> __
 Nasty Plot: Threshold: +2 SpA; Attrition: +2 SpA -> +1 SpA
 Power-Up Punch: Threshold: +1 Atk; Attrition: +1 Atk -> __
@@ -9244,7 +9284,7 @@ Trailblaze: Threshold: +1 Spe; Attrition: +1 Spe -> __
 Vital Dance: Threshold: +1 SpA; Attrition: +1 SpA/+1 Spe -> +1 Spe
 Whirlwind: Threshold: +1 Spe; Attrition: +1 Spe -> __
 
-Affected Abilities
+Affected Abilities  
 Beast Boost: Limit: __ -> 1 Boost
 Belligerent: Limit: __ -> 1 Boost
 Dauntless Shield: Threshold: __ -> +1 Def; Attrition: +1 Def -> __
@@ -9650,6 +9690,11 @@ Priority: +0
 PP: 10
 Target: Normal
 Type: Fire
+--
+Bleakwind Storm
+Base Power: 100 -> 150
+Accuracy: 80 -> True
+Category: Special -> Varies (Special by Default; Physical if Attack Stat is higher)
 --
 Blue Flare
 Base Power: 130 -> 180
@@ -11103,6 +11148,9 @@ Mystical Fire
 Base Power: 75 -> 125
 Secondary Effect: 100% chance to lower SpA by 1 stage -> 50% chance to lower SpA by 1 stage.
 --
+Mystical Power
+Base Power: 70 -> 120
+--
 Mystery Bind (New Move)
 Base Power: 90
 Category: Physical
@@ -11839,6 +11887,12 @@ Type: Water
 --
 Sand Attack
 Accuracy Drop: -1 -> -2
+--
+Sandsear Storm
+Base Power: 100 -> 150
+Accuracy: 80 -> 100
+Category: Special -> Varies (Special by Default; Physical if Attack Stat is higher)
+Secondary Effect: 30% Burn chance -> 30% chance to partially trap the opponent
 --
 Scald
 Base Power: 80 -> 100
@@ -12670,6 +12724,12 @@ Priority: -6 -> -1
 Wicked Blow
 Base Power: 80 -> 100
 --
+Wildbolt Storm
+Base Power: 100 -> 150
+Accuracy: 80 -> True
+Category: Special -> Varies (Special by Default; Physical if Attack Stat is higher)
+Paralysis Chance: 20% -> 30%
+--
 Wild Charge
 Base Power: 90 -> 120
 Recoil: 1/4 -> __
@@ -12785,6 +12845,9 @@ Condition: Will not boost Def if Pokemon already has a Def boost before gaining 
 --
 Defeatist
 Effect: (When at or below 1/2 Max Hp): Halves Atk and SpA -> Lowers all stats by 1 stage and maximizes Attack
+--
+Disguise
+Effect: Protects Mimikyu for a single hit -> Opposing Choice-Locked Pokemon only deal 1/2 their usual damage; Mimikyu enters its Busted Forme if it has any Positive Stat Boosts; Reverts to its Base Forme if it loses them
 --
 Domineer
 Effect: Pokemon Special Attack is raised by 1 stage, and Special Defense dropped by 2 stages upon switching in
