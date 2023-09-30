@@ -1,0 +1,84 @@
+First Created: 11/21/2022 1:43 PM
+
+Dialga
+Hp: 100 -> 230 = +130
+Atk: 120 -> 280 = +160
+Def: 120 -> 210 = +90
+SpA: 150 -> 280 = +130
+SpD: 100 -> 180 = +80
+Spe: 90 -> 160 = +50
+BST: 680 -> 1340
+Added Ability: Regenerator
+
+Dialga Origin (Higher Stats)
+Hp: 230 -> 230 = +0
+Atk: 280 -> 330 = +50
+Def: 210 -> 210 = +0
+SpA: 280 -> 330 = +50
+SpD: 180 -> 280 = +100
+Spe: 160 -> 160 = +0
+BST: 1340 -> 1540
+Ability: Temporal Force
+Required Item: Adamant Crystal
+
+Dialga Origin (Equal Stats)
+Hp: 230 -> 250 = +20
+Atk: 280 -> 280 = +0
+Def: 210 -> 170 = -40
+SpA: 280 -> 350 = +70
+SpD: 180 -> 180 = +0
+Spe: 160 -> 170 = +10
+BST: 1340 -> 1400
+
+Temporal Force (New Ability)
+Effect: Pokemon's Physical Attacks receive a x1.2 Base Power Boost. Opposing Pokemon cannot heal, or modify their stat stages while a Pokemon with this Ability is on the field. Ignores the Pokemon's Dragon-Type Weaknesses. Pokemon's stat stages cannot be reset by the opponent. Shell Smash lasts for two additional Turns
+
+Adamant Crystal
+Additional Effect: Prevents Pokemon's stats from being lowered under any circumstances. Pokemon cannot be burned
+
+Palkia
+Hp: 90 -> 230 = +140
+Atk: 120 -> 280 = +160
+Def: 100 -> 190 = +80
+SpA: 150 -> 280 = +130
+SpD: 120 -> 200 = +80
+Spe: 100 -> 160 = +60
+BST: 680 -> 1340
+Ability: Telepathy -> Dracolate
+Added Ability: Antipathy
+
+Palkia Origin (Higher Stats)
+Hp: 230 -> 230 = +0
+Atk: 280 -> 330 = +50
+Def: 190 -> 220 = +30
+SpA: 280 -> 380 = +100
+SpD: 200 -> 200 = +0
+Spe: 160 -> 180 = +20
+BST: 1340 -> 1540
+Ability: Spacial Force
+Required Item: Lustrous Crystal
+
+Palkia Origin (Equal Stats)
+Hp: 230 -> 210 = -20
+Atk: 280 -> 268 = -12
+Def: 190 -> 190 = +0
+SpA: 280 -> 330 = +50
+SpD: 200 -> 190 = -10
+Spe: 160 -> 182 = +22
+BST: 1340 -> 1540
+
+Spacial Force (New Ability)
+Effect: Pokemon's Resisted Water-Type Moves hit with doubled Base Power. x1.5 Base Power on all Dragon-Type Moves. Ignores the Pokemon's Dragon-Type Weaknesses. Pokemon's Speed is raised by 1 Stage for a single turn upon successfully causing an opposing Pokemon to faint; This boost will remain in effect if the Pokemon continues to K.O. its opponents. Any opposing Pokemon that successfully causes this Pokemon to faint via an attacking move, receives 1/4 of the Damage they inflicted
+
+Lustrous Crystal
+Effect: Automatically summons Rain if none if present, upon Switching In.
+
+Type Matchups
+Dialga-Origin
+Weaknesses: Fighting, Ground
+Resistances: Bug, Dragon∗, Electric, Fairy∗, Flying, Ice∗, Normal, Psychic, Rock, Steel, Water
+Immunities: Poison
+
+Palkia-Origin
+Weaknesses: Grass, Poison
+Resistances: Fire², Ice∗, Steel², Water²

@@ -1,0 +1,27 @@
+Sound-Type Concept
+Defensive
+- The Sound Type's interactions with opposing Types
+	- Weaknesses
+		- Bug (Cacophony is poison to the musical ear)
+		- Poison (Singing becomes difficult when sick, or injured)
+	- Resistances
+		- Dark (Singing is scientifically proven to relieve stress and negative thoughts)
+		- Dream (Dreams cannot sustain themselves when buffeted by external sounds)
+		- Fairy (Fairies would likely be at their weakest when under the influence of Church Bells)
+	- Immunities
+		- None
+
+Offensive
+- How the Sound Type interacts with opposing Types
+	- Super-Effective
+		- Dream (Alarms are the enemy to every dreamer)
+		- Water (Sound travels faster through Water than through the air)
+		- Fairy (Church Bells repel Fairies, according to Mythology)
+		- Steel (Sounds travels rather quickly through various Metals; Many instruments use Metal)
+
+	- Semi-Effective
+		- Electricity (Soundwaves are often transmitted through Wires)
+		- Fighting (Fighters are trained to remain tranquil, and wouldn't be as disturbed by noise)
+		- Fire (Sound does not travel as effectively through gasses, or substances with high entropy)
+	- Ineffective
+		- None

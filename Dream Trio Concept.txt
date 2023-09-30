@@ -1,0 +1,213 @@
+Dream Trio/Memory Trio Concept
+
+Dream Type
+Defensive
+- The Dream Type's interactions with opposing Types
+	- Weaknesses
+		- Dark (Most vulnerable when asleep; Nightmares; etc.)
+		- Fire (House Fires become inescapable if the target is asleep)
+		- Sound (Dreams abhor Alarms)
+
+	- Resistances
+		- Grass (Representing the Laws of Nature: The Sleeping do not have to adhere to them)
+		- Ground (Representing the Laws of Physics: They have no authority in the dream world)
+		- Normal (Dreams are where people go to escape the outside world)
+		- Psychic (People generally aren't concerned with thinking while they're asleep)
+
+	- Immunities
+		- Bug (Bugs tend to be wholly ignored or even swallowed by the Sleeping)
+
+Offensive
+- How the Dream Type interacts with opposing Types
+	- Super-Effective 
+		- Bug (Bugs usually do not exist in dreams)
+		- Dark (Nefarious individuals cannot spread to the outside world when asleep)
+		- Dragon (Since Dreams reify Dragons, that also means they can be slain)
+		- Fairy (Since Dreams reify Fairies, they can therefore be destroyed here)
+
+	- Semi-Effective
+		- Normal (Reality is where dreams go to die)
+		- Sound (Dreams become destabilized when exposed to external noise)
+		- Steel (Appliances and Artificial Intelligence are generally incapable of dreaming)
+
+	- Ineffective
+		- Ghost (Since they are dead--or at least spiritual: They cannot dream)
+
+
+Euyume (Eu - Good; Yume - Dream)
+Type: Fairy/Dream
+Hp: 220
+Atk: 300
+Def: 160
+SpA: 250
+SpD: 250
+Spe: 175
+BST: 1355
+Ability: Reverie
+
+Reverie
+Effect: Opposing Boosted, Choice-Locked, or Memorized Pokemon deal x0.8 Damage against this Pokemon.
+
+Catayume (Cata - Down/Destructive; Yume - Dream)
+Type: Dark/Dream
+Hp: 200
+Atk: 280
+Def: 220
+SpA: 310
+SpD: 164
+Spe: 181
+BST: 1355
+Ability: Calamitous
+
+Calamitous
+Effect: Pokemon's attacks have x1.3 Base Power against opposing Pokemon that are not Memorized
+
+Mnemorex (mnēmon - Mindful; Mnemonic + Rex)
+Mnemorex (Nebulous Forme)
+Type: Dream/Water
+Hp: 250
+Atk: 210
+Def: 200
+SpA: 210
+SpD: 180
+Spe: 150
+BST: 1200
+Abilities: Somnolent/Regenerator/Comatose
+
+Somnolent
+Effect: Opposing Non-Memorized Pokemon deal x0.8 Damage; Opposing Super-Effective Moves deal x0.8 Damage. This Pokemon cannot be put to Sleep. Pokemon's Quadrupel Weaknesses become normal Weaknesses. Pokemon restores 1/10 Max Hp at the end of each turn
+
+Mnemorex (Void Forme)
+Type: Dream/Fire
+Hp: 200
+Atk: 330
+Def: 190
+SpA: 330
+SpD: 164
+Spe: 186
+BST: 1400
+Abilities: Memory Eater/Neuroforce/Trace
+
+Memory Eater
+Effect: If another Pokemon in the Team has Memorized, this Pokemon will receive a Stat Boost corresponding to that Ally's highest Stat upon switching in. If the HP stat is the highest, the Pokemon will heal 1/4 of its Max Hp upon switching in. If Speed is the highest stat, the Pokemon will gain a Speed boost after successfully causing the opponent to faint. This Ability will not activate if there are no Memorized Pokemon on the Team; The Ally with a Memory Disc has not Memorized yet or has fainted, or if a Pokemon with this Ability is holding a Memory Disc
+
+
+Mnemorex (Memory Forme)
+Type: Dream
+Required Item: Any Memory Disc; Memory Bracelet; Mnemonic Ring
+Hp: 200
+Atk: 310
+Def: 230
+SpA: 310
+SpD: 270
+Spe: 180
+BST: 1500
+Abilities: Recollection
+
+Recollection
+Effect: The Base Power on this Pokemon's Moves is multiplied by x1.2 and the Damage it receives is reduced to x0.8, when it is Memorized. Pokemon restores 1/16 Max Hp at the end of each turn. Pokemon restores 1/6 Max Hp upon Switching Out. Memorized Allies in the Pokemon's Party receive a Stat Boost corresponding to the Ability-wielder's highest stat at the time when they last switched in. If HP is the highest stat, the Memorized Ally will heal 1/10 of their Max Hp at the end of each turn.
+
+Special Item: Mnemonic Ring
+Effect: Allows Mnemorex-Nebulous and Mnemorex-Void to Transform into Mnemorex-Memory without using a Memory Disc.
+
+Appearance
+Euyume
+- Appearance: A quadrupedal Canine-Like Species with glowing Golden Fur, and gold-tinted White Clouds of Smoke flowing out from its ankles; Its has half-circle shaped eyes, with Blue sclera and black-ish red irises
+
+Catayume
+- Appearance: An extremely large quadrupedal Canine-Like creature with a pitch-black Body. Its hind legs are longer than its front legs, and it has an elevated posterior tilt. It has a horizontal red stripe on the top of its head, as well as a vertical red stripe on each respective ankle. On its ankles are also a set of opaque Red Cuffs, which represent corruption and oppression as opposed to the translucent and ethereal Clouds that Yuyume possesses as a symbol of purity and holiness. Along its back is a Red plate of upright Armor that resembles an inverted version of Zacian-Crowned shoulder Armor. Its sclera are a luminous Gold, and its irises and pupils are Black
+
+Mnemorex
+- Nebulous Forme
+	- Appearance: A Large, Black-ish Purple Orb; Its shiny substitutes a Blue Shade for the Purple one
+
+- Void Forme
+	- Appearance: Black-ish Purple Mewtwo with Gen 1-inspired proportions, and without the appendage on its Neck; Its sclera are golden, while its irises and pupils are white; Golden Clouds surround its Wrists, Neck and Ankles; When idling: It hovers above the ground with its legs and arms bent inward and outward, respectively, while its feet are positioned neutrally, as though it is standing. Its Shiny Forme substitutes a Blue Shade for the Purple one, and replaces the Gold with a slightly Blue-Tinted White
+
+- Memorized Forme
+	- Appearance: Black-ish Purple Body; Round Head covered by a Golden Veil that also extends downward like a Dress and crosses below the neck like a Robe; Has long and slender arms and legs similarly to Calyrex and Gardevoir; A Large Floating Golden Rings surrounds its Neck, while two smaller floating Golden Rings cover each of its arms; Its eyes have the shape of half-circles; Its sclera are golden; and its irises and pupils are white; Its Shiny Forme replaces the Purple Shade on its body with a Blue Shade, and replaces the Golden Rings with a Light Blue
+
+
+Learnsets/Movesets
+* = Move/Type that is currently unimplemented in the Simulator
+! = Signature Move
+Euyume
+Dream Kneader*! (Dream; Base Power: 195; Category Varies; Turns target into a Dream-Type)
+Fairy Razor*! (Dream; Base Power: 150; Physical; Targets Special Defense; x1.3 Power on Super-Effective Hits)
+
+Catayume
+Dream Cleaver*! (Dream; Base Power: 160; Category Varies; x1.5 Base Power against Dream-Type)
+Dreadful Smog*! (Dark; Base Power: 160; Special; Targets Defense; x1.3 Power on Super-Effective Hits) 
+
+Mnemorex-Nebulous
+Empty Water*! (Water; Base Power: 120; Category: Special; Clears the target's stat changes, and induces Taunt)
+Aqua Punch
+Aqua Ring
+Aqua Soul
+Hydro Pump
+Water Gun
+Water Sport
+
+Mnemorex-Void
+Blazing Knowledge*! (Fire; Base Power: 150; Category: Physical; x1.5 Power if an active Ally is Memorized)
+Burning Knowledge*! (Fire; Base Power: 150; Category: Special; x1.5 Power if an active Ally is Memorized)
+Fire Blast
+Fire Spin
+Flame Charge
+Flamethrower
+Flare Blitz
+
+Mnemorex-Memory
+Memory Cannon (Dream; Base Power: 160; Category: Varies; x1.5 against all non-Memorized Pokemon; Clears the Target's stat stage changes, and attempts to neutralize the Pokemon's Ability) - This Move appears on the Learnsets of Mnemorex-Nebulous and Mnemorex-Void, however it can only be used once they transform into Mnemorex-Memory
+
+Mnemorex (Universal)
+Amnesia
+Aromatic Mist
+Body Press
+Close Combat
+Copycat
+Cosmic Power
+Dragon Breath
+Dream Buster* (Dream; Physical)
+Dream Eater* (Dream; Special)
+Dream Voice* (Dream; Special)
+Earthquake
+Expanding Force
+Gastro Acid
+Giga Impact
+Hail
+Hyper Beam
+Illusion Slash*  (Dream; Physical)
+Image Beam* (Dream; Special)
+Me First
+Memory Blast
+Metronome
+Mimic
+Mist Ball
+Mystery Deluge
+Mystery Slash
+Mystery Sphere
+Nasty Plot
+Nightmare
+Parting Shot
+Parting Shot
+Psychic Storm
+Psycho Fire
+Rain Dance
+Rapid Spin
+Rule Change* (Dream; Status; Lowers opponent's Atk and SpA by 1 stage each)
+Skill Swap
+Slumber Ball* (Dream; Physical)
+Sludge Switch
+Solar Beam
+Stealth Rock
+Stored Power
+Substitute
+Sunny Day
+Swords Dance
+Thunder Wave
+Toxic
+Transform
+U-Turn
+Vexation* (Dream; Special)
+Yawn
