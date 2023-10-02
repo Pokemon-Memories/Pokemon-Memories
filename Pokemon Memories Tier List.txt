@@ -20,7 +20,7 @@ Section C
 	• Viability Rankings
 	• History of the Format
 
-(161 Total)
+(163 Total)
 						      Section A    
 						    Standard Ubers
 						      Highlights
@@ -112,69 +112,69 @@ Note: Pokemon beneath the A-Tier, are listed alphabetically; Pokemon in the lowe
 
 Viability Rankings
 
-S-Tier (10 Total)
+S-Tier (9 Total)
 
-S
+S+
 Mewtwo
 
-S-
-Arceus-Fairy
-Kyurem-Black
-Deoxys-Speed
-Calyrex-Shadow
-Arceus
+S
+Arceus (A+; Dubious Disc)
 Dialga
-Landorus-Therian (A+; Grass Memory)
+
+S-
+Deoxys-Speed
 Palkia
+Zacian-Crowned (A-; Ground Memory)
+Landorus-Therian (A+; Grass Memory)
+Calyrex-Shadow
 Skarmory
+Meowscarada
 
 
-A-Tier (37 Total)
+A-Tier (34 Total)
 
 A+
 Vaporeon
 Klinklang
-Zacian-Crowned (A-; Ground Memory)
-Meowscarada
+Mimikyu
+Mimikyu-Busted
+Kyurem-Black
 Necrozma-Dusk-Mane (A-; Steel Memory)
 Zoroark-Hisui
+Lucario-Mega
 Tapu Koko
 Calyrex-Ice (B+; Electric Memory)
 Ho-Oh
 Thundurus-Therian
+Xerneas
+Arceus-Fairy
 
 A
 Necrozma-Ultra
 Rayquaza (B+; Fairy Memory/Flying Memory + Tailwind)
 Darkrai
-Hoopa Unbound
 Lugia (B; Ice Memory)
 Phione
-Yveltal
-Corviknight
-Kyogre
-Weavile (B+; Dark Memory)
-Solgaleo (B; Fire Memory)
+Meloetta
+Meloetta-Pirouette
+Zekrom
 
 A-
-Xerneas (B+; Memory Armor + Fairy Memory)
+Mew (B+; Protean + Fighting Memory)
+Corviknight
+Kyogre
+Regieleki (B- Ice Memory/Any Memory)
+Yveltal
 Bellsprout
 Porygon-Z (B; Dark Memory)
 Entei
 Cresselia
-Manaphy
-Zekrom
-Zygarde
-Zygarde-Complete
-Eternatus
+Ludicolo
 Thundurus
 Cryogonal (B; Ground Memory)
-Lunala (B+; Ghost Memory)
-Tornadus
-Mew (B+; Protean + Fighting Memory)
 
 
-B-Tier (60 Total)
+B-Tier (64 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
@@ -184,20 +184,25 @@ Arceus-Ghost
 Arceus-Water
 Celebi
 Deoxys-Attack
+Eternatus
 Gardevoir
 Genesect
+Giratina
 Greninja-Ash
 Groudon
 Keldeo
 Kyurem-White
+Hoopa Unbound
 Lilligant
-Ludicolo
+Lunala
 Magearna
 Magearna-Original
+Manaphy
 Marshadow
 Necrozma-Dawn-Wings
 Pikachu-Original
 Rapidash-Galar
+Reshiram
 Salamence-Mega
 Sawsbuck
 Suicune
@@ -206,6 +211,8 @@ Tapu Fini
 Umbreon
 Urshifu-R
 Victreebel
+Zygarde
+Zygarde-Complete
 
 B
 Abomasnow
@@ -217,17 +224,18 @@ Blissey
 Darmanitan-Galar
 Darmanitan-Galar-Zen
 Emolga
-Giratina
 Giratina-Origin
 Landorus-Incarnate
 Mesprit
 Moltres-Galar
 Pikachu-Alola
 Regigigas
-Reshiram
+Solgaleo
+Tornadus
 Torterra
 Urshifu-S
 Victini
+Weavile
 Zapdos-Galar
 
 B-
@@ -237,14 +245,12 @@ Decidueye
 Empoleon
 Gengar
 Gengar-Mega
-Meloetta
-Meloetta-Pirouette
 Regidrago
 Shaymin-Sky
 Snorlax
 
 
-C-Tier (32 Total)
+C-Tier (30 Total)
 
 C+
 Arceus-Poison
@@ -252,12 +258,10 @@ Articuno-Galar
 Charizard-Mega X
 Infernape
 Lopunny-Mega
-Lucario-Mega
 Excadrill
 Jirachi
 Kartana
 Pheromosa
-Regieleki
 Rotom-Wash
 Rotom-Fan
 Rotom-Frost
@@ -1165,13 +1169,13 @@ Standard Pokemon Tier List
 S-Tier (7 Total) 
 
 S+   
+Mewtwo [Assists: Hp, Def, SpA, SpD, EX Lugia, EX Xerneas // Types: Dark, Fairy, Ground, Normal, ??? // Priority: 3]
 Arceus-Ground [Assists: Hp, Def, SpA, SpD, Spe // Types: Ice, Psychic, Water // Priority: 3]
 
 S
 Arceus [Assists: Atk // Types: Fighting, Psychic, Normal, ??? // Priority: 1]
 Gengar-Mega [Assists: SpA]
 Gengar [Assists: SpA]
-Mewtwo [Assists: Hp, Def, SpA, SpD, EX Lugia, EX Xerneas // Types: Dark, Fairy, Ground, Normal, ??? // Priority: 3]
 
 S-  
 Arceus-Fairy [Assists: Hp, Def]
@@ -1179,6 +1183,7 @@ Landorus-Therian [Assists: Any]
 
 A-Tier (18 Total)
 A+
+Dialga [Assists: Hp, Atk, SpA // Types: Fighting, Ground, Psychic // Priority: 1]
 Celesteela [Assists: Hp, EX Xerneas // Types: Fire, Water // Priority: 1]
 Articuno-Galar [Assists: Hp, Def, SpD]
 Tapu Koko [Assists: Atk]
@@ -1198,7 +1203,6 @@ Zygarde [Assists: EX Xerneas]
 Cresselia [Assists: Hp, Def, SpD, EX Lugia]
 
 A-
-Dialga [Assists: Hp, Atk, SpA // Types: Fighting, Ground, Psychic // Priority: 1]
 Rotom-Wash [Assists: Hp, Def, SpD]
 Hoopa-Unbound [Assists: Atk // Types: Ghost, Grass, Normal, ??? // Priority: 3]
 
