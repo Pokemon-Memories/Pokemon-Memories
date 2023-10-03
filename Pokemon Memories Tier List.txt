@@ -55,10 +55,10 @@ Description: In addition to having a dangerous Psychic/Ghost Type-Combination; C
 					               [Normal]
 			    	(Hp: 200/Atk: 300/Def: 210/SpA: 300/SpD: 210/Spe: 180) BST: 1400
 						 Multitype/Impervious
-					       [Dubious Disc/Up-Grade]
+					              [Up-Grade]
 
 
-Description: While Mewtwo uses its 1400 BST to emphasize Offense; Arceus optimizes its Base Stat Distribution to ensure it can be as versatile, and flexible as possible. Arceus' incredible Base 180 Speed, paired with its Base 300 offenses, allows it to outspeed, and imperil almost every relevant threat in the entire metagame, while its nearly limitless movepool, and access to Heaven Dance, ensures that no single Defensive countermeasure against this Pokemon, is ever certain. While there are a number of Pokemon that also have comparable levels of power to Arceus, what truly elevates it above its peers, are its exceptional bulk, and access to the Ability, Impervious, which allows it to gain an Immunity to whatever Type Arceus is holding a Damage-Reducing Berry for. Because of these two factors; Even should the opponent find a way to overcome--or surpass Arceus' Speed, so as to dare try attacking it, there is no guarantee that such trifling buffets from the Mortals beneath it will even be effective, let alone fruitful. Between its immeasurable movepool, innumerable Multitypes, and its powerful Dubious Disc; Arceus is never a Pokemon that one should dare approach irreverantly, and those who fail to approach it with the proper discretion, will face a swift, and extreme, Judgment.
+Description: While Mewtwo uses its 1400 BST to emphasize Offense; Arceus optimizes its Base Stat Distribution to ensure it can be as versatile and efficient as possible. Arceus' incredible Base 180 Speed, paired with its Base 300 offenses, allows it to outspeed, and imperil almost every relevant threat in the entire metagame, while its nearly limitless movepool, and access to Heaven Dance, ensures that no single Defensive countermeasure against this Pokemon is ever certain. While there are a number of Pokemon that also have comparable levels of power to Arceus, what truly elevates it above its peers, are its exceptional bulk, and access to the Ability, Impervious, which allows it to gain an Immunity to whatever Type Arceus is holding a Damage-Reducing Berry for. Because of these two factors; Even should the opponent find a way to overcome--or surpass Arceus' Speed, so as to dare try attacking it, there is no guarantee that such trifling assaults from the Mortals beneath it will even be effective, let alone fruitful. Between its immeasurable movepool, innumerable Multitypes, and its powerful Dubious Disc; Arceus is never a Pokemon that one should dare approach irreverently, lest they face Judgment.
 
 
 							Dialga
@@ -81,14 +81,13 @@ Description: Dialga's massive defensive stats, stratospheric offenses, and excel
 Description: A Support Pokemon at heart: Meowscarada's incredible Speed allows it to perform its Tricks on almost any Pokemon. Thanks to its incredible Grass/Dark Type Combination, alongside its ability, Parlor Trick, Meowscarada is not only able to check opposing Calyrex-Shadow and Kyogre, but can even potentially tank a Fully Invested Adamant Sunsteel Strike from a +2 Atk Steel Memory Necrozma Dusk Mane. In addition to its Defensive Support capabilities; Meowscarada is also a fantastic Offensive Support Pokemon, being able to boost its speed with Trailblaze, or deal heavy damage to threats like Landorus-Therian, or opposing Meowscarada, through Slush Switch, respectively. Best of all, however, is its signature move, Flower Trick, which allows Meowscarada to change a Pokemon's Type, and lower both of their Defenses, while directly reducing the opponent's damage output for the Turn; A set of properties that Meowscarada is able to exploit, to weaken walls for itself or allies, endure otherwise fatal hits, or even cripple Pokemon that relied on Elemental Orbs as their primary source of power, such as Tapu Koko, or Entei. Meowscarada is one of the best disruptors in the game, and no matter what Team one goes up against, it will almost always find a way to support its Teammates. Foes should take care not to underestimate this Trickster, lest they soon discover that the Joke is on them.
 
 
-							Zekrom
-						   [Dragon/Electric]
-			    	(Hp: 160/Atk: 270/Def: 240/SpA: 225/SpD: 180/Spe: 175) BST: 1250
-					    Teravolt/Tinted Lens/Double-Layer
-					     [Electric Memory/Dark Memory]
+						       Meloetta
+						   [Normal/Psychic]
+			    	(Hp: 170/Atk: 108/Def: 177/SpA: 288/SpD: 288/Spe: 170) BST: 1201
+					    Serene Grace/Ensemble/Amplifier
 
 
-Description: Zekrom's blistering Speed Tier, paired with its powerful Bolt Strike, three viable abilities, Light Ball, and access to Dragon Dance, all coalesce to make it into one of the most dangerous Setup Sweepers in the Meta. If Zekrom is able to get even a single Dragon Dance boost, there is almost nothing that will be able to stand up to it, and even without a boost, the overwhelming power of Bolt Strike alone, paired with its above average physical Defenses, are more than enough to ensure that its foes are never entirely safe around it. In addition to the power of its Signature Electric Stab, Zekrom also has access to the elusive Royal Rampage, a powerful Dragon-Type move, that allows it hit Steel-Types neutrally, and thus, potentially annihilate threats that could otherwise endure its powerful Electric Moves, such as Dialga. Zekrom is also one of the best Memory Abusers in the game; With an Electric Memory, Zekrom is able to ameliorate its Electric Typing's offensive insufficiencies, through its newfound ability to bypass the Ground-Type's immunity to its moves, while its Dark Memory, in addition to drastically increasing its coverage, and power--allows it to terrorize opposing Psychic-Types, such as Cresselia, while gaining a resistance to all of Calyrex-Shadow's STAB moves. Opposing Scarfers, such as Calyrex-Shadow, may cause its power to be constrained, somewhat, however the player that is able to utilize Zekrom effectively, will have in their possession, one of the strongest forces of mass-destruction that one could ask for.
+Description: Ever the Songstress: This Musical Pokemon's love for its craft is evident through its ability to hit 50% harder with any Sound-Move as a result of its Special Mechanic. This, paired with its favorite Item, Throat Spray, allows this seemingly delicate Pokemon to become a rather ferocious threat once it sets up with Flutter Song or Flutter Dance. With its resonant Hyper Voice, Meloetta can melt even the coldest of hearts--and health bars, while those Pokemon with wills too powerful to be overcome by the Mythical Pokemon's magnificent Melodies--such as Mewtwo and Calyrex-Shadow, find themselves getting shouted out of the Audience--as well as the opponent's Party, through Screech. Meloetta's final move of choice places its artistic range on full display, as it gracefully switches to its nimble Pirouette Forme to deliver a devastating Storm Throw through the power of its Signature Ability: Ensemble. One may be tempted to stop and marvel at the offensive capabilities of this charming Pokemon, however the show does not end there. Ever intrepid: Meloetta's Normal-Typing allows it to remain completely unfazed by the vitriol of opposing Ghosts. Yes, even the noble King, Calyrex-Shadow, great as it is, finds itself powerless before the influence of this Musical Queen, and even its great Spectral Powers cannot quash the Song in its Heart. Meloetta does have one weakness, however: It has a tendency to be rather domineering, especially when it is on stage. If one wishes to share the stage with Meloetta, they best come before it as an ally, as any dissenters or opponents will be swept away.
 
 
 
@@ -112,13 +111,12 @@ Note: Pokemon beneath the A-Tier, are listed alphabetically; Pokemon in the lowe
 
 Viability Rankings
 
-S-Tier (9 Total)
+S-Tier (8 Total)
 
 S+
 Mewtwo
 
 S
-Arceus (A+; Dubious Disc)
 Dialga
 
 S-
@@ -131,33 +129,34 @@ Skarmory
 Meowscarada
 
 
-A-Tier (34 Total)
+A-Tier (38 Total)
 
 A+
 Vaporeon
-Klinklang
-Mimikyu
-Mimikyu-Busted
-Kyurem-Black
+Groudon (B+; Fire Memory)
+Deoxys-Attack (B+; Dubious Disc)
 Necrozma-Dusk-Mane (A-; Steel Memory)
 Zoroark-Hisui
-Lucario-Mega
 Tapu Koko
 Calyrex-Ice (B+; Electric Memory)
+Klinklang
 Ho-Oh
 Thundurus-Therian
 Xerneas
 Arceus-Fairy
 
 A
+Arceus
 Necrozma-Ultra
+Lucario-Mega
+Reshiram
+Kyurem-Black
 Rayquaza (B+; Fairy Memory/Flying Memory + Tailwind)
 Darkrai
 Lugia (B; Ice Memory)
 Phione
 Meloetta
 Meloetta-Pirouette
-Zekrom
 
 A-
 Mew (B+; Protean + Fighting Memory)
@@ -167,14 +166,17 @@ Regieleki (B- Ice Memory/Any Memory)
 Yveltal
 Bellsprout
 Porygon-Z (B; Dark Memory)
+Mimikyu
+Mimikyu-Busted
 Entei
 Cresselia
 Ludicolo
 Thundurus
 Cryogonal (B; Ground Memory)
+Zekrom
 
 
-B-Tier (64 Total)
+B-Tier (61 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
@@ -183,13 +185,11 @@ Arceus-Flying
 Arceus-Ghost
 Arceus-Water
 Celebi
-Deoxys-Attack
 Eternatus
 Gardevoir
 Genesect
 Giratina
 Greninja-Ash
-Groudon
 Keldeo
 Kyurem-White
 Hoopa Unbound
@@ -202,7 +202,6 @@ Marshadow
 Necrozma-Dawn-Wings
 Pikachu-Original
 Rapidash-Galar
-Reshiram
 Salamence-Mega
 Sawsbuck
 Suicune
@@ -431,14 +430,161 @@ Shaymin
 Milotic
 
 
-						     Setpedia
+						     Setpedia   
 Summary: This is a resource designed to assess certain Pokemons' lists of known viable moves, and battle strategies. Due to the number of Pokemon in the game: Not every Pokemon will receive a highlight, however Pokemon that stand out as being noteworthy, or powerful, will receive mention here.
 
 Members
 =====================================================================================================================
-Category: D
+Category: A
+Arceus
+Hp: 200/Atk: 300/Def: 210/Spa: 300/Spd: 210/Spe: 180
+Common Items
+- Chople Berry
+- Earth Plate
+- Icicle Plate
+- Leftovers
+- Payapa Berry
+- Pixie Plate
+- Shell Bell
+- Sweet Apple
+
+Common Memories
+- Dubious Disc (AG/Unlimited Exclusive)
+
+Common Moves
+- Agility
+- Extreme Speed
+- Fire Blast
+- Glacial Strike
+- Heaven Dance
+- Infinite Velocity
+- Judgment
+- Recover
+- Rock Wrecker
+- Royal Retreat
+- Volt Tackle
+
+Preferred Abilities
+- All
+
+Playstyle: Arceus is best positioned in game as a Payapa-wielding Calyrex-Shadow sponge, or as a late game cleaner through the use of its signature E-Killer sets. It can also force opposing Mewtwo to engage in 50/50 mindgames depending on whether it is running a Payapa Berry or a Chople Berry. When attempting to run an E-Killer set, it is best to wait until Arceus' various answers are either sufficiently weakened or removed, as opposing Ghost-Types--or faster Pokemon that do not fear its Extreme Speed are capable of potentially frustrating Arceus' attempts to function. Bulkceus can also be run to allow it to sponge hits against a wider assortment of opponents, however Arceus' dubious STAB, paired with its lack of an offensive Ability, results in it being far more passive than its stats would suggest. If Normalceus is being used, Impervious should generally be run to grant it an additional immunity via the Super-Effective Berries; If Arceus is going to be Memorized, Multitype should be run to allow it to receive the minimum amount of Stealth Rock Damage
+
+Arceus @ Chople Berry / Payapa Berry / Leftovers / Life Orb / Power Weight / Silk Scarf / Shell Bell / Sweet Apple
+Ability: Impervious / Multitype 
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Extreme Speed  
+- Earthquake  
+- Rock Wrecker  
+- Heaven Dance
+
+Strengths
+- Remarkable Speed Tier: Generally will have one of the highest Base Speed Stats in any given match
+- One of the largest Movepools in the game
+- Bulky enough to survive a number of powerful hits that would potentially overwhelm frailer Pokemon like Mewtwo
+- Amazing versatility and power through its various Multitype Formes
+- Powerful Dubious Disc sets that were oppressive enough to face litigation
+- Extensive Support Movepool
+- Can potentially destabilize Teams through the use of its E-Killer sets
+- Situationally capable of checking Calyrex-Shadow, and frustrating opposing Mewtwo
+
+Weaknesses
+- Virtually useless STAB; One of the worse STABs in the game.
+- As a result of the aforementioned weakness: Arceus is effectively less powerful than nominally "weaker" Pokemon with better STABs.
+- Competes with Zacian-Crowned, and Mewtwo for the offensive role; It has more coverage than Zacian, and greater bulk compared to Mewtwo, however in being closer to an average between the two, it struggles to be as good as either
+- Outsped by a number of problematic Pokemon, such as Meowscarada, Zoroark-Hisui, Zacian-Crowned, Tapu Koko, and Mewtwo
+- Terrible Defensive Typing. Cannot utilize its Impervious to its fullest potential on account of it
+
+
+Dubious Disc
+Arceus @ Dubious Disc  
+Ability: Multitype  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Extreme Speed  
+- Memory Blast  
+- Rock Wrecker  
+- Heaven Dance
+
+Strengths
+- One of the most powerful Pokemon in the entire game; Capable of OHKO'ing or 2HKO'ing most Pokemon, even without a Boost
+- Unboosted Memory Blast hits harder than +2 Extreme Speed, effectively granting Arceus a perpetual +2 Boost at all times
+- Notably, certain Pokemon that were completely immune to Arceus' STABs before, such as Caly-S, get obliterated by Heaven Dance Extreme Speed
+- Virtually indestructable: Arceus' colossal bulk, paired with its complete lack of weaknesses, makes it nearly impossible to defeat in one--or even several hits
+- Can realistically get away with running Monotype Coverage, due to the manifold versatility of Memory Blast + Extreme Speed
+- Answers to one Dubious Disc set may be entirely useless against another; Pokemon capable of narrowly defeating offensive sets will get obliterated by Agility + Recover sets, while attempted answers to the defensive sets will crumble to "E-Killer" sets
+- For all of the aforementioned reasons: Arceus-??? operates at a power level that is far too oppressive for Standard Ubers to handle, and as a result, has been restricted to Unlimited Ultra Assist, and Anything Goes
+
+Weaknesses
+- This Pokemon has no weaknesses
+
+Earth Plate
+Arceus-Ground @ Earth Plate  
+Ability: Multitype  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Judgment  
+- Venoshock / Glacial Strike
+- Tailwind / Agility / Calm Mind / Recover
+- Royal Retreat / Agility / Calm Mind / Recover
+
+Strengths
+- Powerful offensive Type that allows it to nail opposing Steels and Fires
+- Capable of OHKO'ing opposing Pokemon such as Ho-Oh, on account of Judgment's Ability to hit Flying-Types
+- Limited number of resistances to its STAB, and no Type-Immunities
+- Immune to opposing Paralysis
+
+Weaknesses
+- Vulnerable to opposing Water-Type and Grass-Type Moves, which may become noticeable against Meowscarada, Palkia, Water-Attackers, and certain Mewtwo sets
+- Difficult matchup against Kyurem-Black and Kyurem-White, due to its Ice Weakness
+- Due to having several weaknesses to many of the best Types in the game: Its defensive abilities are deceptively limited
+
+Icicle Plate
+Arceus-Ice @ Icicle Plate  
+Ability: Multitype  
+EVs: 252 HP / 252 Spe  
+Jolly Nature  
+- Ice Hammer  
+- Royal Turbulence / Earthquake / Flare Blitz / Fire Blast / Mud Sport 
+- Stone Edge / Agility / Calm Mind / Recover 
+- Recover / Agility / Calm Mind / Royal Retreat / Stealth Rock
+
+Strengths
+- Can tank hits from Palkia, Kyogre, and both Kyurems, while OHKO'ing them all with Ice Hammer
+- Receives almost no damage from Stealth Rock due to Multitype, allowing it to more fully avail itself of its Typing
+
+Weaknesses
+- Shares Normalceus' Fighting-Type weakness, in addition to several more; Catnip for Mewtwo
+- In addition, its Steel, and Rock weaknesses make it more vulnerable to opposing Dialga and Rock Wrecker Arceus
+- Iceceus is particularly affected by its constraints, as it is completely powerless to use Impervious to mitigate any of its weaknesses
+
+Pixie Plate
+Arceus-Fairy @ Pixie Plate  
+Ability: Multitype  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Judgment  
+- Fire Blast / Mud Sport 
+- Stone Edge / Recover / Calm Mind
+- Recover / Agility
+
+Strengths
+- Incredible Bulk, atop a Type that ameliorates Arceus' Defensive inadequacies
+- Fairy + Fire Coverage allows it to cover a substantial portion of the Tier
+- Can survive at least one hit from nearly any threat in the Meta
+- Can potentially clean up Teams in the late stages of the game via Agility/Calm Mind and Recover.
+
+Weaknesses
+- Slower than most other Arceus Formes, and as a result, is more susceptible to damage
+- Struggles to defeat most healthy Steels before they can retaliate. Needs to be wary of Super-Effective hits, and Paralysis
+- Cannot fully exploit its stats and typing on account of the constrained Item and Ability Slots
+=====================================================================================================================
+Category: D  
 =====================================================================================================================
 Dialga
+Hp: 230/Atk: 280/Def: 210/SpA: 280/SpD: 180/Spe: 160
 Common Items
 - Chople Berry
 - Dawn Stone
@@ -463,62 +609,100 @@ Constant = Shell Smash
 - Flash Cannon
 - Iron Head
 - Stealth Rock
+- Thunder Wave
 
 Preferred Ability
 - Regenerator
 
-Playstyle: Dialga functions best when freshly switched into, via a slow pivot, or after one of its Teammates get K.O.'d. With 136 SpD, Dialga can comfortably endure Mewtwo's Adrenaline Orb boosted Aura Sphere, while also having enough bulk to survive a +2 Moonblast from Geomancy Xerneas from Full Hp. It is also recommended to invest 140 EVs into Dialga's Speed, in order to ensure that it can outspeed opposing +1 Calyrex-Shadow, and Mewtwo, after a Shell Smash. Unlike typical walls, which function through gradually wearing the opponent down over the course of several turns; Dialga is best used to pick off weakened threats, or to cripple problematic Pokemon, via Thunder Wave. Shell Smash is mandatory for ensuring that Dialga can carry its weight on Teams, however players should reserve its use for when they are certain that any opposing obstacles or checks have been neutralized, as Dialga will be unable to switch out until the move ends.
+Playstyle: Dialga functions best when freshly switched into, via a slow pivot, or after one of its Teammates get K.O.'d. With 136 SpD, Dialga can comfortably endure Mewtwo's Adrenaline Orb boosted Aura Sphere, while also having enough bulk to survive a +2 Moonblast from Geomancy Xerneas from Full Hp. It is also recommended to invest 140 EVs into Dialga's Speed, in order to ensure that it can outspeed opposing +1 Calyrex-Shadow, and Mewtwo, after a Shell Smash. Unlike typical walls, which function through gradually wearing the opponent down over the course of several turns; Dialga is special in that it has the power to completely overhaul its playstyle, and reverse the momentum of the match through its powerful Shell Smash. Shell Smash is mandatory for ensuring that Dialga can carry its weight on Teams, however players should reserve its use for when they are certain that any opposing obstacles or checks have been neutralized, as Dialga will be unable to switch out until the move ends.
+
+Dialga @ Sweet Apple  
+Ability: Regenerator  
+EVs: 192 HP / 176 SpD / 140 Spe  
+Careful Nature  
+- Breaking Swipe  
+- Fire Blast  
+- Flash Cannon  
+- Shell Smash
 
 Strengths
 - Solid Bulk
 - Massive Damage Output, once boosted
 - Multiple chances to safely interact, due to Regenerator
-- Dawn Stone +2 Draco Meteor is one of the strongest moves in the game
+- Dawn Stone +2 Draco Meteor is one of the strongest moves in the game; Dusk Stone Breaking Swipe can OHKO Ho-Oh
 - Decent coverage
 - Can viably run Mixed Sets
-- Its Typing, combined with its bulk, allows it to check Kyogre, Xerneas, and Eternatus, under certain circumstances
+- Its Typing, combined with its bulk, allows it to check a number of the Meta's most problematic Pokemon.
 
 Weaknesses
 - Middling Speed-Tier, coupled with an exploitable Steel-Typing
-- Insignificant Damage Output when unboosted
+- Insignificant Damage Output outside of Super-Effective hits, when unboosted
 - Its Dragon moves have halved power under Hail, effectively cutting its power in half
 - Cannot switch out for 3 turns after using Shell Smash; All boosts reset after 3 turns (Cannot escape with Shed Shell)
-- Extremely vulnerable to Low Sweep, especially from Gallade, Urshifu, and certain Mewtwo sets
-- Almost unwinnable matchup against Suicune, and Urshifu-R (and to a lesser extent, Urshifu-S).
+- Almost unwinnable matchup against Articuno-Galar, Suicune, and Urshifu-R (and to a lesser extent, Urshifu-S).
+
 
 Dubious Disc
+Dialga @ Dubious Disc  
+Ability: Regenerator  
+EVs: 116 HP / 252 Atk / 140 Spe  
+Adamant Nature  
+- Memory Blast 
+- Iron Head  
+- Thunder Wave  
+- Shell Smash
+
 Strengths
 - Eliminates all of Dialga's Weaknesses, enabling it to take full advantage of its colossal Bulk
 - Particularly, it significantly improves Dialga's Matchup against Lando-T, and Fighting-Types
 - It's peerless Bulk not only allows Dialga to invest more offensively, but makes its Thunder Wave sets more consistent
 - Due to the power of Oversight, Dialga can afford to exclusively run ???-Type Moves, without compromising its Power
 - With both Memory Blast, and Facade: Dialga can hit opponents for more immediate Damage, with Memory Blast, while decimating Dragon Breath users, or Burn inflicters, with Facade
-- Between its massive defenses, lack of weaknesses, and access to Regenerator: Dialga will not faint if it doesn't want to
+- Between its massive defenses, lack of weaknesses, and access to Regenerator: Dialga will not faint if it does not want to
 
 Weaknesses
-- Loses all of its Resistances, and immunities, making it vulnerable to Dragon Breath's Poison Status, while completely removing its Ability to consistently check certain Pokemon, such as Kyogre.
-- While Dialga's Typing means that it takes less Damage in extreme circumstances, it also causes Dialga to take more Damage, on average, causing it to rely more on switching, in order to keep itself healthy, with Regenerator
+- Loses all of its Resistances, and immunities, making it vulnerable to Dragon Breath's Poison Status, while completely removing its Ability to defensively check certain Pokemon, such as opposing Water-Types.
+- While Dialga's Typing means that it takes less Damage in extreme circumstances, it also causes Dialga to take more Damage, on average, causing it to rely more on switching in order to keep itself healthy
 - Particularly noteworthy vulnerabilities, include Arceus' Extreme Speed, and Toxic Orb Sheer Force Bellsprout's Poison Sting, both of which can hit Dialga neutrally, for massive damage, especially after Dialga has used Shell Smash
 - This causes Dubious Disc Dialga to function more as an OHKO-Safeguard, than as a direct defensive upgrade to Base Dialga 
 
 Fairy Memory
+Dialga @ Fairy Memory  
+Ability: Regenerator  
+EVs: 200 SpA / 168 SpD / 140 Spe  
+Calm Nature  
+- Memory Blast  
+- Draco Meteor  
+- Fire Blast  
+- Shell Smash
+
 Strengths
-- Its Fairy-Typing allows Dialga to turn losing Matchups, such as against Gallade, and Marshadow, into positive ones
+- Protects Dialga from opposing stat-dropping moves, and increases the power of its unboosted Moves
+- Provides greater insulation against opposing Dragon-Type abusers
 - Removes all drawbacks from Draco Meteor
 - Enables it to challenge Pokemon that would otherwise give it trouble, Defensively, such as Cresselia, and Articuno-G
 - Can survive any commonly run move from Mewtwo, at full health
 
 Weaknesses
-- Worsens Dialga's Matchup against Pokemon it would normally check, such as Eternatus
-- Loses most of its utility as a Kyogre sponge, due to losing its Dragon-Typing
+- Worsens Dialga's Matchup against various Pokemon, including opposing Dialga with Steel-Coverage
+- Loses most of its utility as a Water sponge, due to losing its Dragon-Typing
 - Increased vulnerability to Mewtwo's Stored Power, and Calyrex-Shadow's Psycho Boost
 
 Ice Memory
+Dialga @ Ice Memory  
+Ability: Regenerator  
+EVs: 192 HP / 176 SpD / 140 Spe  
+Careful Nature  
+- Memory Blast  
+- Iron Head  
+- Aura Sphere / Fire Blast  
+- Shell Smash
+
 Strengths
 - Almost completely invaldates opposing Scarf Palkia sets (however Fire Blast will still annoy it, somewhat)
 - Memory Blast enables Dialga to consistently break through opposing Landorus, even after a Pacify/Inveigle drop
-- Significantly improved Special Bulk, to the point where almost nothing can OHKO it, on the Special side.
-- The Ice-Type's massive coverage enables Dialga to use its otherwise riskier Steel coverage, enabling it to annihilate opposing Fairy-Types, such as Xerneas.
+- Significantly improved Special Bulk, to the point where almost nothing can OHKO it on the Special side.
+- The Ice-Type's massive coverage enables Dialga to use its otherwise riskier Steel coverage, allowing it to annihilate opposing Fairy-Types, such as Xerneas.
 - Shares similar resistances to Base Dialga, such as Bug, Flying, Normal, and Water, while removing its Ground Weakness, making it a direct upgrade to Base Dialga, in certain Matchups 
 
 Weaknesses
@@ -528,10 +712,19 @@ Weaknesses
 - Gains Rock-Type weakness, and by extension, a weakness to Stealth Rock, which can potentially limit its survivability
 
 Rock Memory
+Dialga @ Rock Memory  
+Ability: Regenerator  
+EVs: 116 HP / 252 Atk / 140 Spe  
+Serious Nature  
+- Memory Blast  
+- Breaking Swipe  
+- Fire Blast  
+- Shell Smash
+
 Strengths
-- Turns Ho-Oh from a losing Matchup, into a winning one, for Dialga, to where it can even serve as a switch-in for it.
+- Turns Ho-Oh from a losing Matchup, into a winning one for Dialga, to where it can even serve as a switch-in for it.
 - Provides coverage to bypass many of its common checks, similarly to the Fairy Memory
-- Additionally, it allows Dialga to nail Ho-Oh, Rayquaza, and Entei* (when boosted), with a single move
+- Additionally, it allows Dialga to nail Ho-Oh, Rayquaza, and Entei, with a single move
 
 Weaknesses
 - Less relevant resistances than Fairy Memory. Particularly, its Matchup against opposing Dialga is potentially worsened
@@ -542,6 +735,7 @@ Weaknesses
 Category: E  
 =====================================================================================================================
 Eternatus
+Hp: 250/Atk: 272/Def: 205/Spa: 305/Spd: 205/Spe: 163
 Common Items
 - Black Sludge
 - Earth Plate
@@ -567,6 +761,14 @@ Preferred Ability
 
 Playstyle: Eternatus is best used as a "tank-and-run" Defensive Support Pokemon. Eternatus' prodigious bulk, and pivotal Resistances and Immunities allow it to handle several problematic Pokemon, and even deny opposing U-Turns, however its equally disastrous set of weaknesses prevent it from staying in for too long, without endangering itself. Thus, Eternatus should prioritize absorbing the hits that it needs to, and acting in anticipation of the opponent's next move, only attacking when certain that the opponent will either stay in, or switch to a wall, and Sludge Switching out, otherwise. It is not recommended to use Eternatus as a hard-wall, or Support Lead
 
+Eternatus @ Black Sludge  
+Ability: Space Power  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+- Venoshock
+- Sludge Switch
+- Dragon Breath
+- Recover
 
 Strengths
 - Phenomenal, nigh-unrivaled 250/205/205 Bulk, which allows it to check some Pokemon through bulk alone
@@ -599,6 +801,7 @@ Weaknesses
 Category: G  
 =====================================================================================================================
 Groudon
+Hp: 160/Atk: 320/Def: 280/Spa: 240/Spd: 180/Spe: 160
 Common Items
 - Full Incense
 - Gold Bottle Cap
@@ -624,39 +827,65 @@ Common Moves
 Preferred Ability
 - Drought
 
+Playstyle: Since Groudon does not have the greatest defensive capabilities, it is best used during the middle of a game, after the Pokemon that preceded it either slow-pivots into it, or has fainted. It is highly advised to equip a Fire Memory on this Pokemon to mitigate some of its weaknesses and increase its sweeping prowess, however should this be unfeasible, one should instead equip it with a Gold Bottle Cap, or Full Incense. Drought will allow it to hit opposing Pokemon with its Fire-Type Moves, while Antipathy can be situationally run to punish opposing scarfers
+
+Groudon @ Gold Bottle Cap  
+Ability: Drought 
+EVs: 116 HP / 252 Atk / 140 Spe  
+Adamant Nature  
+- Precipice Blades  
+- Flame Wheel / Thermal Press / Fire Punch
+- Stone Edge / Thunder Punch
+- Rock Polish
+
 Strengths
 - Phenomenal Physical Bulk, being one of the highest in the game
 - Decent Special Bulk, granting it above average bulk overall
 - Amazing Offensive Typing
-- Highest Basal Damage Output overall, out of all the members of the Dark Triad
 - Instant access to Full Incense and Gold Bottle Cap
-- Powerful exploiter of Flare Blitz, due to its massive overall bulk
+- Powerful exploiter of Flame Wheel, especially when Memorized
 - Immunity to Light Ball's Paralysis; Allowing it to use it for Thunder Punch
 - Weather Support; Drought can enable Sun Teams, while frustrating other forms of Weather
 
 Weaknesses
 - Middling Speed Tier
 - Highly exploitable Defensive Typing, often causing it to be a defensive liability for Teams
-- Awkward Typing, given its ability; Does not synergize with the very Sun Teams it helps enable
+- Awkward Typing, given its ability; Does not synergize with the very Sun Teams it facilitates
 - Poor Synergy with Teams, in general
 - Massive Bulk is hindered by no relevant resistances
 - Because of this, its bulk mainly just serves as a vehicle to help it set up, making it predictable
-- Drought strengthens Mewtwo's Psycho Fire, allowing it to deal massive damage to it, even without dedicated coverage
+- Since Groudon is not a Fire-Type by default: Its Ability, Drought, can potentially enable the Fire-Type and Fire-Adjacent Moves of its opponents, which it will not be capable of effectively resisting.
 
 Fire Memory
+Groudon @ Fire Memory  
+Ability: Drought  
+EVs: 116 HP / 252 Atk / 140 Spe  
+Adamant Nature  
+- Precipice Blades  
+- Stone Edge  
+- Flame Wheel  
+- Rock Polish
+
 Strengths
 - Allows Groudon to properly capitalize off of its Drought Ability, significantly increasing its power
+- With a single Rock Polish, Groudon can potentially decimate Teams through the use of its Sheer Force boosted Flame Wheel
 - Changes Ice Weakness, into a Resistance, improving its Matchup against opposing Ice-Type Moves and Pokemon
 - Strengthens its auxillary moves, such as Thunder Punch, due to its Memory Ability
 
 Weaknesses
-- Makes it vulnerable to Rock-Type moves, and Ground-Type moves, worsening its Matchup against other Groudon
-- Doesn't accomplish much that couldn't be accomplished with a non-Memory set, despite its massive Power.
-- For the aforementioned reason: This is generally not worth running, outside of very specific circumstances
+- Does not fully ameliorate Groudon's Defensive vulnerabilities, leaving it vulnerable to many of the same threats it had before
 
 Ground Memory
+Groudon @ Ground Memory  
+Ability: Drought  
+EVs: 116 HP / 252 Atk / 140 Spe  
+Adamant Nature  
+- Precipice Blades  
+- Flame Wheel  
+- Swords Dance  
+- Rock Polish
+
 Strengths
-- In addition to the benefits that Base Groudon has:
 - Removes the need for Groudon to run Stone Edge, as its Memory Ability allows it to nail Flying-Types, regardless
 - Hits harder with Ground-Type moves, than a Full Incense set, and is more consistent than a Gold Bottle Cap set
 
@@ -667,6 +896,7 @@ Weaknesses
 Category: R  
 =====================================================================================================================
 Rayquaza
+Hp: 160/Atk: 320/Def: 185/Spa: 320/Spd: 185/Spe: 175
 Common Items
 - White Herb
 - Life Orb
@@ -677,6 +907,7 @@ Common Memories
 - Flying Memory
 
 Common Moves
+- Agility
 - Dragon Ascent
 - Dragon Dance
 - Earthquake
@@ -687,6 +918,18 @@ Common Moves
 
 Preferred Ability
 - Dragon Heart
+
+Playstyle: Rayquaza's fantastic offenses may at first appear to signify its status as a Top-Tier Pokemon, however its dubious offensive Typing, paired with its inability to outspeed certain scarfers--such as Calyrex-Shadow after a Dragon Dance, makes its overall viability lower than what its stats and movepool would suggest in a vacuum. Tailwind can be used with a Zoom Lens or Flying Memory to significantly amplify its Damage Output, however the effects are only temporary, and may be further encumbered by opposing Utility Lock users. Memorization can help increase Rayquaza's power, however it then faces opposition from Pokemon such as Mewtwo, which naturally outspeeds it, while synergizing better with Memorization and Teams in general, due to its superior stats and Ability(s). Rayquaza operates best when positioned against opposing physically-inclined attackers, which it can attempt to set up for a potential sweep against, thanks to its ability, Dragon Heart.
+
+Rayquaza @ Zoom Lens  
+Ability: dragonheart  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Dragon Ascent / Royal Turbulence
+- Stone Edge  
+- Earthquake / V-Create
+- Tailwind
 
 Strengths
 - Powerful STABs
@@ -710,6 +953,15 @@ Weaknesses
 - Moderately-Sized Fish in a large pond; Base 175 Speed is objectively above average, but is noticeably outclassed by a significant number of its actual competitors; Its offenses are fantastic, however it needs a turn of setup to avoid being overwhelmed, while threats such as Mewtwo and Tapu Koko, do not.
 
 Fairy Memory
+Rayquaza @ Fairy Memory  
+Ability: dragonheart  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Memory Blast  
+- Stone Edge  
+- V-create  
+- Agility
+
 Strengths
 - Memory Blast has a higher BP than a Super-Effective Earthquake, allowing Rayquaza to shred through foes, while hitting Dialga hard; Can sweep teams, under Tailwind.
 - Immune to all stat drops, including from its own moves; Frustrates Lando-T, and allows it to abuse V-Create
@@ -722,6 +974,16 @@ Weaknesses
 - Poison Weakness; Subject to being picked off by Bellsprout, or OHKO'd by certain Eternatus sets
 
 Flying Memory
+Rayquaza @ Flying Memory  
+Ability: dragonheart  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Dragon Ascent  
+- Stone Edge  
+- Swords Dance  
+- Tailwind / Agility
+
 Strengths
 - Dragon Ascent will not drop Rayquaza's stats when Memorized into a Flying-Type, allowing it to abuse its best Flying-Type Move without consequences
 - Due to the synergistic Power Boost from a same-type Memorization, paired with Tailwind granting Flying-Memorized Pokemon a x1.5 Flying-Type Move boost, rather than the standard x1.3: Rayquaza's Flying-Type Moves are significantly more powerful under Tailwind, compared to its Zoom Lens sets
@@ -730,13 +992,49 @@ Strengths
 Weaknesses
 - Lower damage output on non-STAB moves compared to Zoom Lens, or Life Orb sets; Arguably worse matchup against Dialga
 - Due to the similarities between this Memory Forme, and Base Rayquaza, there may be a notable opportunity cost incurred by using this Forme
+
+-------------------------------------------------------------------------------------------------------
+Reshiram
+Hp: 160/Atk: 225/Def: 180/Spa: 320/Spd: 240/Spe: 175
+Common Items
+- Choice Scarf
+- Flame Orb
+
+Common Memories
+- Fire Memory
+- Grass Memory
+
+Common Moves
+- Ancient Power
+- Blue Flare
+- Clanging Scales
+- Dragon Pulse
+- Fire Spin
+- Flame Switch
+- Stone Edge
+- Thunder
+
+Preferred Ability
+- Realist
+
+Playstyle: Reshiram's fantastic Speed and Offensive Typing allows it to deal heavy damage to the Tier through its powerful STABs, especially when boosted by Realist. When it is at full power, it has the potential to easily 2HKO, or even OHKO a substantial portion of the meta, however its power will be noticeably impaired once it sustains any damage, so it is best used when switched in against vulnerable, but indispensible Pokemon on the opposing Team that will be forced to sacrifice a less important Pokemon to preserve themselves. While Realist protects Reshiram from opposing non-Damaging Moves; Unlike Zekrom, which still has a secondary function after sustaining damage, Reshiram will become effectively disabled (i.e. without an ability) if it falls below its Max Hp.
+
+Reshiram @ Choice Scarf  
+Ability: realist  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Blue Flare  
+- Clanging Scales  
+- royalforestation  
+- flameswitch
 =====================================================================================================================
 Category: Z  
 =====================================================================================================================
 Zekrom
+Hp: 160/Atk: 320/Def: 240/Spa: 225/Spd: 180/Spe: 175
 Common Items
-- Dawn Stone
-- Ice Gem
+- Choice Band
+- Choice Scarf
 - Life Orb
 - Light Ball
 
@@ -745,7 +1043,7 @@ Common Memories
 - Electric Memory
 
 Common Moves
-- Blizzard
+- Agility
 - Bolt Strike
 - Dragon Dance
 - Flying Deluge
@@ -754,30 +1052,56 @@ Common Moves
 - Memory Blast
 - Royal Rampage
 - Slush Switch
+- Strange Wave
 - Stone Edge
+- Volt Switch
 
 Preferred Ability
-Teravolt
+Idealist
+
+Playstyle: Ordinarily, Zekrom would be wholly irrelevant on account of being outclassed by Tapu Koko, who shares some of its weaknesses, while having significantly greater strengths, however the combined power of Idealist and Strange Wave allows Zekrom to carve out its own niche as a dedicated Choice Assassin that can attack opponents from either of their defenses without having to compromise its EV Spread to do so. Since the power of Strange Wave scales inversely with the Pokemon's Special Attack stat, Zekrom is able to freely invest its EVs into its Attack and Speed, while possessing a STAB Special Move that hits harder than most of its Physical Moves could. Furthermore, Zekrom's Special Attack stat is just low enough to allow it to hit the optimal number of 414 (236 BP) with the help of a SpA-Hindering Nature, and 5 IVs (411/239 BP achieves a similar result, but is technically suboptimal). In addition to its Choice-Locked sets, Zekrom also has the option to run Agility and Tailwind sets, which can potentially enable it to clean through weakened Teams, however its effectiveness will be noticeably impaired without the power from Idealist. If defeating Dialga is a particular concern, Royal Rampage can be substituted for another one of Zekrom's moveslots, however the sacrifice will be noticeable.
+
+Zekrom @ Choice Scarf  
+Ability: Idealist  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+IVs: 5 SpA  
+- Bolt Strike  
+- Earthquake / Stone Edge / Flying Deluge 
+- Strange Wave / Royal Rampage
+- Slush Switch 
 
 Strengths
 - Decent Offensive Typing
 - Bolt Strike deals massive damage, even when unboosted (provided it is holding a Light Ball)
-- Fantastic Speed
-- Incredible Physical Bulk
+- Powerful Mixed Coverage via Strange Wave
+- Minus Nature 5 IV Strange Wave hits as hard as a 133 BP STAB-Move from a Neutral, 31 IV, 252 EV Physical Move
+- Good Speed
+- Incredible Physical Stats
 - Teravolt allows Zekrom to bypass abilities, and force its way past potential checks under certain circumstances
 - Has access to Pivoting moves
-- Royal Rampage allows Zekrom to OHKO Dialga, and ignore Protector, without sacrificing its STAB, or a move slot
 - Flying Deluge allows it to hit both Lando-T, and Ho-Oh for x4 damage, improving its Matchups against them
 - Double-Layer, when paired with a Utility Umbrella, allows Zekrom to check most Kyogre sets, including its dangerous Sea Incense Thunder Wave sets
 
 Weaknesses
-- Limited means of breaking past bulky Grass-Types, or Ground-Types; Struggles against Lando-T
+- Limited means of breaking past bulky Grass-Types, Ground-Types, and Dialga; Struggles against Lando-T
 - Predictable Sets
 - Awkward Defensive Typing
 - Inconsistent Offensive Typing
-- Needs Light Ball to be a significant offensive threat
+- Predictable and limited Movesets
 
 Dark Memory
+Zekrom @ Dark Memory  
+Ability: Teravolt  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Bolt Strike / Stone Edge / Earthquake 
+- Memory Blast  
+- Royal Rampage / Stone Edge / Earthquake 
+- Agility / Dragon Dance / Royal Rampage
+
 Strengths
 - Ameliorates Zekrom's dubious Defensive Typing, notably allowing it to take boosted hits from Calyrex-Shadow
 - Its three STABs hit nearly every Pokemon in the game, and can annihilate most of them, when boosted
@@ -792,6 +1116,16 @@ Weaknesses
 - Completely loses its ability to defensively check opposing Kyogre, due to being vulnerable to its STAB, and T-Wave
 
 Electric Memory
+Zekrom @ Electric Memory  
+Ability: Teravolt  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Bolt Strike  
+- Earthquake / Stone Edge / Ice Punch
+- Stone Edge / Earthquake
+- Agility / Dragon Dance / Royal Rampage
+
 Strengths
 - Improves Zekrom's matchup against opposing Dragons, somewhat, while keeping its Thunder Wave immunity
 - Comparable Power on Electric-Moves to its Light Ball sets
@@ -808,6 +1142,7 @@ Weaknesses
 
 
 Mewtwo
+Hp: 170/Atk: 335/Def: 185/SpA: 338/SpD: 185/Spe: 187
 Common Items
 - Adrenaline Orb
 - Dawn Stone
@@ -853,6 +1188,26 @@ Common Moves
 - Venoshock
 - Water Sport
 
+Playstyle: While Mewtwo does not have a single "definitive" playstyle, there are certain things that Mewtwo generally doesn't do. Mewtwo usually does not want to run a Choice Item because there is no upgrade in the game that is worth sacrificing its Freedom for. It also does not generally want to run setup Status-moves outside of the rare Twisted Spoon sets, as opposing Scarfers will almost certainly be present to stop it. It is more than capable of running offensive Speed-Boosting moves, however. StallTwo can be run, be generally shouldn't be, as anything that can be stalled by StallTwo can simply be K.O.'d by Mewtwo. Psychic Power sets are best deployed during the early game, or following another ally fainting, as this allows Mewtwo to decimate its foes before its designated answers can switch in, while Hightened Mind sets are best used in the mid-to-late game, where Mewtwo can telekinetically wipe its hands of the remainder of the opponent's Team with impunity
+
+Mewtwo @ Adrenaline Orb  
+Ability: Psychic Power  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature
+- [STAB Slot] Stored Power (Consistency) / Psystrike (Anti Set-Up) / Psychic Storm (Anti-Water) / Psycho Fire (Anti-Steel)
+- [Steel/Dark Coverage] Aura Sphere (Most coverage, but Dialga can tank) / Inferno Beam (Nails Dialga, but not Dark-Types)
+- [Bonus Slot] Water Sport (Power) / Mineral Cannon (Ho-Oh) / Aurora Beam (Lando-T) / Venoshock (Water/Fairy)
+- [Mandatory Psychic Coverage] Night Daze (Consistency; Meloetta) / Comeuppance (Strongest) / Malice Run (Speed Boosts)
+
+Mewtwo @ Dawn Stone  
+Ability: Hightened Mind  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Stored Power / Expanding Force / Psystrike 
+- Aura Sphere / Inferno Beam  
+- Water Sport / Mineral Cannon
+- Comeuppance / Night Daze
+
 Strengths
 - One of the highest Special Attack stats in the game
 - Fastest non-Scarfed, commonly used Pokemon in the game; Becomes the fastest common Pokemon, with Hightened Mind.
@@ -881,6 +1236,15 @@ Weaknesses
 
 
 Dark Memory
+Mewtwo @ Dark Memory  
+Ability: Psychic Power  
+EVs: 252 SpA / 252 Spe  
+Timid Nature
+- Stored Power / Psycho Fire 
+- Aura Sphere / Inferno Beam / Venoshock / Mineral Cannon / Aurora Beam / Water Sport
+- Memory Blast  
+- Uproar
+
 Strengths
 - One of the few Memory Discs to make Mewtwo's Memory Blast stronger than Stored Power, with 234 BP vs 220 BP
 - Allows Mewtwo to decimate formerly problematic Matchups, such as Cresselia, and Meloetta, with impunity
@@ -900,6 +1264,16 @@ Weaknesses
 
 
 Dubious Disc
+Mewtwo @ Dubious Disc  
+Ability: Psychic Power  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Mystery Deluge  
+- Psycho Fire  
+- Mineral Cannon  
+- Malice Run
+
 Strengths
 - Enables Mewtwo to viably run Flash sets, as Oversight converts it into a ???-Move, boosting its power, and enabling it to hit Ghosts.
 - With the power of Flash, under Rain: Mewtwo is capable of one-shotting nearly every Dual-Typed Pokemon in the game
@@ -918,6 +1292,15 @@ Weaknesses
 
 
 Fairy Memory
+Mewtwo @ Fairy Memory  
+Ability: Psychic Power  
+EVs: 140 Atk / 116 SpA / 252 Spe  
+Naive Nature  
+- Psycho Fire  
+- Memory Blast  
+- Mineral Cannon  
+- Psycho Rush
+
 Strengths
 - Due to the power of Fairy Aura: Mewtwo is able to effective hit harder with Memory Blast, than with a Super-Effective, Psychic Power-boosted Night Daze, allowing a 140 Atk/116 SpA/252 Spe invested Mewtwo to OHKO Calyrex-Shadow, opposing Mewtwo, and even Base Mewtwo's nemesis, Light Inversion Necrozma Dawn Wings--while having enough EVS left over in its SpA to easily tear through Steels with Psycho Fire.
 - Provides complete protection from all stat drops, completely elimating Rock Tomb, and Parting Shot, as means of Speed Control, or Power Control, respectively.
@@ -932,6 +1315,15 @@ Weaknesses
 - In addition to opposing Steel-Types, Mewtwo may also potentially need to have a countermeasure for Fire-Types--which also tank its Fairy Moves, as well, due to Entei being able to tank both Memory Blast, and Psycho Fire, while OHKO'ing with an Anger Point, Flame Orb-boosted Sacred Fire, in return.
 
 Fighting Memory
+Mewtwo @ Fighting Memory  
+Ability: Psychic Power  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Psycho Cut / Mineral Cannon / Iron Tail 
+- Power-Up Punch  
+- Trailblaze  
+- Feint Attack
+
 Strengths
 - With a set of Power-Up Punch/[Speed Boosting Move]/Feint Attack; Mewtwo can annihilate most of the threats in the game; The Fourth Slot, is therefore, highly customizable. This set, however, is only one of many potentially viable ones
 - Arguably the most distinctive, out of all of Mewtwo's sets, not only relative to its Memory Sets, but even its Standard Sets, due to the role it gains as a Physical Attacker
@@ -953,6 +1345,15 @@ Weaknesses
 - Arguably needs at least one speed-boosting move, as otherwise, Scarfers, like Calyrex-Shadow, or Palkia, will continually force it out, while potentially stealing the momentum back from Mewtwo's Team, due to these factors.
 
 Flying Memory
+Mewtwo @ Flying Memory  
+Ability: Psychic Power  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Hurricane  
+- Psycho Fire  
+- Water Sport  
+- Night Daze
+
 Strengths
 - Allows Mewtwo to nail threats like Meowscarada, and Bellsprout, without having to sacrifice a coverage slot for them
 - Not the easiest Type to account for; Allows Mewtwo to at least hit threats neutrally, most of the time
@@ -965,6 +1366,15 @@ Weaknesses
 - Without Tailwind active, Mewtwo's effective power is significantly lower, having only an effective 270 BP off of Hurricane, which is weaker than Adrenaline Orb Mewtwo's effective 396 BP from Stored Power. Since Flying Memory Mewtwo cannot, itself, hold an Adrenaline Orb, this means that, Flying-Type moves notwithstanding, Flying Memory Mewtwo is universally inferior to both Adrenaline Orb Mewtwo, and even Hightened Mind Mewtwo sets; Without being part of a larger Tailwind set, Flying Memory Mewtwo is a wasted use of Memorization, both for Mewtwo, and the Team as a whole.
 
 Ghost Memory
+Mewtwo @ Ghost Memory  
+Ability: Psychic Power  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Shadow Flame / Poltergeist  
+- Aura Sphere / Energy Ball / Aurora Beam / Venoshock
+- Mineral Cannon / Venoshock / Aura Sphere / Solar Beam 
+- Frost Step / Malice Run / Aqua Step / Psychic Wind / Psycho Rush
+
 Strengths
 - Thanks to its Ghost-STAB, and the Memory Mechanic's power bonus: Poltergeist's power rivals that of Stored Power's.
 - In addition to the incredible power it provides: Poltergeist significantly boosts the effectiveness of Mixed Sets.
@@ -981,6 +1391,15 @@ Weaknesses
 - Because of these factors, while the Ghost Memory synergizes well with Mewtwo: It is fully capable of functioning, and fulfilling a nearly identical role, without it, thus, making this a potentially sub-optimal use of Memorization.
 
 Ground Memory
+Mewtwo @ Ground Memory  
+Ability: Psychic Power  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Stored Power  
+- Memory Blast  
+- Venoshock / Aura Sphere / Aurora Beam / Mineral Cannon  
+- Poltergeist / Night Daze / Taunt / Malice Run
+
 Strengths
 - Enables Mewtwo to nail Ho-Oh, without having to run Mineral Cannon, which effectively only hits Ho-Oh
 - Thanks to the power of Memory Blast, and Ground-Type STAB, Mewtwo can obliterate Ho-Oh, Eternatus, Empoleon, Necrozma-Dusk-Mane, Zekrom, Dialga, and Entei, with a single move slot.
@@ -995,9 +1414,18 @@ Weaknesses
 - Mewtwo must also be extra wary of opposing Calyrex-Ice, which can tank most of Mewtwo's attacks, and OHKO in return. This only reinforces the need to run an additional Dark-Type move, however, with a set of Stored Power, Memory Blast, and Night Daze, this only leaves one free slot left. Mewtwo gains one free move slot, in exchange for using the Team's only Memory Slot.
 
 Ice Memory
+Mewtwo @ Ice Memory  
+Ability: Psychic Power  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Psycho Fire  
+- Memory Blast  
+- Venoshock / Recover 
+- Night Daze
+
 Strengths
-- Enables Mewtwo to serve as a potential Kyogre, and Palkia check, potentially denying Teams their only Mewtwo answer
-- Bulkier Special Defense, in general, allowing it to even take hits, and respond, against mons like Scarfed Caly-S
+- Enables Mewtwo to serve as a potential Kyogre and Palkia check, potentially denying Teams their only Mewtwo answer
+- Bulkier Special Defense, in general, allowing it to even take hits and respond, against mons like Scarfed Caly-S
 - Allows Mewtwo to blast through even the bulkiest Inveigle Landorus-T sets, due to its overwhelming power
 - Annihilates Ground-Types, and Dragon-Types, in general, due to Memory Blast being its best Ice Move
 - Gains a number of useful resistances, including Flying, Ice, Water, and Normal
@@ -1014,6 +1442,15 @@ Weaknesses
 - All of these factors result in Ice Memory Mewtwo having a greater dependence on the overall Team's collective strength, rather than its own indiviudal power, to bring out its full capabilities
 
 Poison Memory
+Mewtwo @ Poison Memory  
+Ability: Psychic Power  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Stored Power / Psycho Fire
+- Venoshock / Memory Blast 
+- Inferno Beam / Aura Sphere / Mineral Cannon
+- Dark Pulse / Malice Run / Recover
+
 Strengths
 - Due to its Memory Ability's effect, of raising both stats by 1 stage, upon switching in: Mewtwo is significantly bulkier.
 - Imparts a number of useful resistances, including Electric, Fairy, and Fire
@@ -1027,8 +1464,18 @@ Weaknesses
 - Poetically, for all of the useful resistances Mewtwo has gained: It is now weak to Psychic-Type moves, placing it at an even greater disadvantage against opposing Mewtwo, and Scarfed Calyrex-Shadow, neither of which care about Mewtwo's stat boosts, while forcing Mewtwo to either use a slot to run coverage for them, or eschew coverage, in favor of repeatedly switching out, once they enter the field, sacrificing your momentum.
 
 Psychic Memory
+Mewtwo @ Psychic Memory  
+Ability: Psychic Power  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Psycho Fire / Psychic Storm / Psystrike
+- Aura Sphere / Inferno Beam
+- Psycho Darts / Mineral Cannon
+- Nasty Plot / Psychic Wind
+
 Strengths
 - Boosts the power of Mewtwo's Offensive Utility moves, such as Psychic Storm, and Psychic Wind, to the point where they are comparable in Base Power to an itemless Mewtwo's Stored Power
+- With a combination of Nasty Plot and Psycho Darts, Mewtwo can run a "Psycho-Killer" set that can potentially sweep the opposing Team
 - The boost to Psychic Wind, in particular, allows Mewtwo to use it on a weakened opponent, to faint it, and potentially initiate a sweep 
 - This improves Mewtwo's utility, somewhat, as it allows it to compress its coverage, without having to run moves that would ordinarily fall below the Meta's Power-Standard.
 - Boosts the power of Mewtwo's Priority Move, Psycho Darts, as well as its strongest Physical Psychic-Type Move, Psycho Blitz, on account of the STAB-stacking Bonus, that same-Type Memory Discs impart
@@ -1039,8 +1486,17 @@ Weaknesses
 - This is the only Memory Disc with an actual penalty, particularly to Mewtwo's Burst Moves, meaning that, unlike with many other Pokemon, Mewtwo cannot simply use its same-Type Memory Disc as a direct upgrade for its vanilla sets.
 
 Water Memory
+Mewtwo @ Water Memory  
+Ability: Psychic Power  
+EVs: 4 HP / 252 SpA / 252 Spe / (Physical: 4 HP / 252 Atk / 252 Spe)
+Timid Nature / (Physical: Jolly / Naive)
+- Stored Power / Psycho Fire 
+- Water Sport / Memory Blast / Wave Crash
+- Inferno Beam / Aura Sphere / Aqua Leap
+- Frost Step / Malice Run / Night Daze / Aqua Rise
+
 Strengths
-- Aqua-Killer: With the combined power of Aqua Jet, and Aqua Rise, Mewtwo can increase its damage output to near unmanageable levels, enabling it to OHKO Cresselia with a 252 Atk Wave Crash, deal massive damage to its resists, and even OHKO opposing uninvested Calyrex-Shadow with Aqua Jet, after Stealth Rock Damage
+- Aqua-Killer: With the combined power of Aqua Leap, and Aqua Rise, Mewtwo can increase its damage output to near unmanageable levels, enabling it to OHKO Cresselia with a 252 Atk Wave Crash, deal massive damage to its resists, and even OHKO opposing uninvested Calyrex-Shadow with Aqua Jet, after Stealth Rock Damage
 - Significantly increases the power of Mewtwo's Water-Type moves, to the point where Hydro Pump can be used as a possible substitute for Stored Power, and can one-shot Ho-Oh, and Entei.
 - Grants Mewtwo a spammable STAB, and improves its Matchup against certain threats, like Landorus-T
 - Compliments Mewtwo's Stored Power, granting Mewtwo the ability to "dual-wield", and hit opponents with, effectively, two distinct Stored Powers, that each have entirely separate Type-Matchups
