@@ -1,5 +1,12 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v1.6.3
+Moves
+- Twister
+	- Base Power: 135 -> 60
+	- Multi-Hits: 1-2 -> 2
+	- Flinch Chance: 20% -> 5%
+
 Pokemon Memories v1.6.2
 - Miscellaneous
 	- Changelog Compilation: Added a Table of Contents to the Custom Changelog Compilation
