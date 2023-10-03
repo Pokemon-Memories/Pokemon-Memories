@@ -1,6 +1,48 @@
 List of Balance Changes
+Table of Contents/Glossary/Compendium/Assortment of Contents
+Tip: Each Category has an additional set of spaces ("   ") affixed at the end. Include these spaces when using the Search Function to find the relevant results faster
+Section A
+	• Base Stat Total Compendium
+	• Speed Tier Categories
+	• Pokemon Changelog
+	• Update Notes Template
+Section B
+	• List of Formats
+		• Standard Ubers
+		• Ultra Assist
+Section C
+	• Special Mechanics  
+	• Special Mechanics: Memorization 
+		• Memory Exclusive Abilities
+		• Memory-Interactive Abilities 
+		• Memory Moves
+	• Special Mechanics: Ultra Assist
+Section D  
+	• Status Changelog
+Section E
+	• General
+		• Move Consolidation
+		• New Mechanics
+			• Attrition
+		• Limited Distribution Moves/Universally Unlearned Moves
+		• New Terminology
+			• Burst Moves
+			• Kinetic Moves
+			• Super Moves
+Section F
+	• List of Affected Moves
+Section G
+	• Ability Changelog
+	• Pokemon Exclusive Ability List
+Section H
+	• Modified Type Interactions  
+Section I
+	• Comprehensive Item Encyclopedia
+		• Debug Items
+		• Special Items
+		• Standard Items
 
-Affected Pokemon
+Affected Pokemon   
 Missingno
 Mewtwo
 Mega Mewtwo X
@@ -385,7 +427,8 @@ Klinklang
 Claydol
 Total: 382
 ============================================================
-Base Stat Tier List
+Section A   
+Base Stat Total Compendium  
 ==============
 1500s and above
 Mega Mewtwo X:			BST: 1580
@@ -784,7 +827,7 @@ Luxio: 				BST: 677
 Golett: 			BST: 608
 Smeargle: 			BST: 570
 ============================================================
-Speed Tier List
+Speed Tier Categories  
 ===============
 Category: 200+ (11 Total)
 --
@@ -1214,7 +1257,7 @@ Ferrothorn: 20
 Stakataka: 13
 Shuckle: 5
 ============================================================
-Pokemon Changelog
+Pokemon Changelog   
 ===============
 [This Pokemon is no longer playable]
 Missingno
@@ -3049,6 +3092,7 @@ Rapid Spin
 Shatter Beam
 Shatter Fist
 Shatter Shot
+Substitute
 Teleport
 
 Unlearned Moves
@@ -3060,6 +3104,17 @@ Knock Off
 Power-Up Punch
 Shadow Ball
 Signal Beam
+
+Deoxys-Attack Specific Unlearned Moves
+Body Slam
+Cut
+Facade
+Headbutt
+Mega Kick
+Mega Punch
+Memory Blast
+Strength
+Substitute
 
 Deoxys Attack   
 Hp: 154 -> 86 = -68
@@ -4967,7 +5022,7 @@ Thunder
 Twister
 
 Realist (New Ability)
-Effect: All of the Pokemon's Moves have x1.5 Base Power when at Max Hp; Passive Damage Immunity
+Effect: All of the Pokemon's Moves have x1.5 Base Power when at Max Hp; Pokemon cannot be Burned, Poisoned, or Intoxicated
 --
 Zekrom   
 Hp: 100 -> 160 = +60
@@ -7387,7 +7442,7 @@ Solar Blade
 Stored Power
 
 Power Spot
-Effect: Boosts allies' BP by 30% -> SpA is x1.5 when at 1/4 Max Hp or less; All Moves on field have Perfect Accuracy; Nullifies opposing Dark-Type Priority Moves used against Pokemon with this Ability.
+Effect: Boosts allies' BP by 30% -> SpA is x1.5 when at 1/4 Max Hp or less; All of the Pokemon's Moves have Perfect Accuacy; Nullifies opposing Dark-Type Priority Moves used against Pokemon with this Ability.
 ------------------------------------------------------------------------
 Smeargle
 Hp: 55 -> 95 = +50
@@ -8507,6 +8562,8 @@ Autotomize
 Double-Hit
 Fairy Wind
 Howl
+Memory Blast
+Moonblast
 Poltergeist
 Shadow Force
 Spooky Revenge
@@ -8641,6 +8698,7 @@ Close Combat
 Dragon Tail
 Focus Blast
 Leaf Switch
+Memory Blast
 Power Trip
 Rapid Spin
 Rock Slide
@@ -8781,6 +8839,7 @@ Added Abilities: Filter
 New Moves
 Haze
 Heal Block
+Memory Blast
 Mineral Cannon
 Rapid Spin
 Whirlwind
@@ -8887,7 +8946,7 @@ SpD:
 Spe: 
 BST: 
 =========================================================
-Update Notes Templates
+Update Notes Template  
 Templates
 	- Base Stats
 		- Hp: 100 -> 
@@ -8908,7 +8967,78 @@ Templates
 	- Learnset Additions
 		- Example
 		- Template
-=========================================================
+=========================================================================================
+Section B  
+List of Formats      
+Standard Ubers  
+Ruleset
+- Arceus Clause: Arceus cannot hold a Dubious Disc
+- Memory Clause: Only one Memory Disc is allowed per Team
+
+Banlist
+- Abilities
+	- Amplifier
+	- Illusion
+	- Plant Power
+- Items
+	- Assist Drive
+	- Berserk Gene
+	- Bitter Berry
+	- Blue Orb
+	- Burnt Berry
+	- Ice Berry
+	- Mint Berry
+	- Pinap Berry
+	- Red Orb
+- Mechanics
+	- Ultra Assist
+- Pokemon
+	- Groudon-Primal
+	- Kyogre-Primal
+	- Mewtwo-Mega-X
+	- Mewtwo-Mega-Y
+	- Rayquaza-Mega
+
+
+Ultra Assist   
+Ruleset
+- Assist Clause: Only one Assist Drive is allowed per Team
+
+Banlist
+- Abilities
+	- Amplifier
+	- Drizzle
+	- Illusion
+	- Plant Power
+	- Tempest
+- Items
+	- Berserk Gene
+	- Bitter Berry
+	- Blue Orb
+	- Burnt Berry
+	- Ice Berry
+	- Memory Discs
+	- Mint Berry
+	- Pinap Berry
+	- Red Orb
+	- Sea Incense
+- Mechanics
+	- Memorization
+- Moves
+	- Royal Submersion
+	- Tailwind
+- Pokemon
+	- Groudon-Primal
+	- Kyogre-Primal
+	- Kyurem-Black
+	- Kyurem-White
+	- Mewtwo-Mega-X
+	- Mewtwo-Mega-Y
+	- Rayquaza-Mega
+=========================================================================================
+Section C  
+Special Mechanics   
+--
 Special Mechanics: Memorization    
 Description: Pokemon can choose a Memory Disc from each Type; These Discs impart the Pokemon with certain Type, and Ability.
 
@@ -8973,7 +9103,7 @@ Ice Memory
 Ability: Frost Shield
 
 Normal Memory (Up-Grade)
-Ability: Assault Bunker
+Ability: Noble Guard
 
 Poison Memory
 Ability: Double Down
@@ -8982,7 +9112,7 @@ Psychic Memory
 Ability: Strategist
 
 Rock Memory
-Ability: Diamond Coat
+Ability: Diamond Armor
 
 Steel Memory
 Ability: Compact Armor
@@ -8993,11 +9123,8 @@ Ability: Eternal Stream
 Mystery Memory (Dubious Disc)
 Ability: Oversight
 -----------------------------------
-Memory Exclusive Abilities
+Memory Exclusive Abilities   
 Note: All of the following Abilities ignore Mold Breaker, and similar Abilities/Moves.
---
-Assault Bunker
-Effect: Ignores the opposing Pokemon's stat changes; Halves the Damage received by opposing Choice-Locked Pokemon
 --
 Compact Armor
 Effect: Opposing Physical Moves deal x0.67 Damage, when the Pokemon is at or above 1/2 Max Hp; Pokemon's Steel-Type moves have x1.3 Power.
@@ -9009,7 +9136,7 @@ Endless Earth
 Effect: Ignores the Ground-Type's immunities; Opposing Electric-Type moves are always ineffective, regardless of the opponent's Ability.
 --
 Eternal Stream
-Effect: Resisted Water-Type attacks hit with x1.5 Base Power (does not override Resistances); All Water-Type moves on field have perfect accuracy. Pokemon cannot be trapped by Life Force.
+Effect: Resisted Water-Type attacks hit with x1.5 Base Power (does not override Resistances); Pokemon's Water-Type moves have perfect accuracy. Pokemon cannot be trapped by Life Force.
 --
 Ethereal Sky
 Effect: Pokemon's Resisted Moves have x1.5 Base Power
@@ -9026,6 +9153,9 @@ Effect: Ignores Electric Immunities, and hits Ground-Types for x1.5 Damage.
 Life Force
 Effect: Traps opposing Water-Type Pokemon; Opposing Water-Type moves deal x0.5 Damage. If an opposing Water-Type Pokemon is on the field: Opponent loses 1/8 Max Hp, while the Ability's wielder restores 1/8 Max Hp, at the end of each turn. Pokemon is instantly cured upon being statused.
 --
+Noble Guard
+Effect: Ignores the opposing Pokemon's stat changes; Halves the Damage received by opposing Choice-Locked Pokemon
+--
 Oversight
 Effect: Pokemon's ???-Type Moves receive a x1.2 Power Boost; All Normal-Type Moves with a Base Power up to 150 become ???-Type Moves, however they will not receive Oversight's Base Power boost.
 --
@@ -9038,7 +9168,7 @@ Effect: Pokemon's Ghost-Type Moves ignores the target's Type-Based immunities; P
 Strategist
 Effect: Pokemon's Psychic-Type Moves with a Base Power up to 155--or any Special Move with a Base Power up to 120 receive a x1.4 Power Boost. Pokemon's Burst-Moves, Kinetic-Moves, and Priority Moves cannot be boosted by this ability. 
 -----------------------------------
-Memorize-Interactive Abilities
+Memorize-Interactive Abilities   
 Description: List of Special Abilities, or Special Properties on Abilities, that activate when the Pokemon is Memorized.
 -
 Compact Armor
@@ -9079,7 +9209,7 @@ Memory Effect: Multiplies Pokemon's Atk by x1.2
 Victory Star
 Memory Effect: Eliminates Pokemon's Weaknesses
 -----------------------------------
-Memory Moves
+Memory Moves   
 --
 Memory Blast  
 Base Power: 150
@@ -9139,24 +9269,7 @@ PP: 10
 Target: Self
 Type: Grass
 ==============================================================================================================
-Special Mechanics: Ultra Assist   
-
-Current Banlist
-
-Abilities
-- Drizzle
-- Rain Dance
-
-Items
-- Sea Incense
-
-Moves
-- Royal Submersion
-- Tailwind
-
-Pokemon
-- Kyurem-Black
-- Kyurem-White
+Special Mechanics: Ultra Assist     
 
 New Item: Assist Drive
 Description: A special Device that allows the holder to deplete their energy to unleash and share their latent abilities with the Team. This Item will not activate if the holder is the only or last Pokemon on their Team
@@ -9237,7 +9350,8 @@ Effect: Ally Pokemon restore 1/10 Max Hp at the end of each turn
 EX-Yveltal
 Effect: Opposing Pokemon are unable to restore their HP for 10 Turns. This effect will always last until the opponent switches out, even after the Assist itself expires.
 =========================================================
-Status Changelog
+Section D  
+Status Changelog   
 References
 Par = Paralysis
 Tox = Toxic
@@ -9282,12 +9396,13 @@ Damage: 1/16 Max Hp -> 1/10 Max Hp
 Tailwind      
 Additional Effect: Flying-Type Moves deal x1.3 Damage; x1.5 Power, if the Pokemon is Memorized into a Flying-Type.
 ------------------------------------------------------------------------
-General
+Section E   
+General   
 --
-Move Consoliditon
+Move Consoliditon  
 All instances of Hypnosis replaced with Grass Whistle (affects learnsets)
 ----------
-New Mechanics
+New Mechanics  
 Attrition  
 Effect: Moves that sharply raise one of the user's stats will have diminishing returns after reaching a stat stage equal to the stat stage boost of the move itself (e.g. Swords Dance is +2, so any Pokemon with a stat stage equal or greater than 2, will only receive a single stage boost beyond that point)
 
@@ -9302,8 +9417,11 @@ Barrier: Threshold: +2 Def; Attrition: +2 Def -> +1 Def
 Cotton Guard: Threshold: +3 Def; Attrition: +3 Def -> __
 Charge Beam: Threshold: +1 SpA; Attrition: +1 SpA -> __
 Circle Throw: Threshold: +1 Atk; Attrition: +1 Atk -> __
+Dig: Threshold: +1 Spe; Attrition: +1 Spe -> __
+Dive: Threshold: +1 Spe; Attrition: +1 Spe -> __
 Dragon Tail: Threshold: +1 Def; Attrition: +1 Def -> __
 Feather Dance: Threshold: +1 Atk; Attrition: +1 Atk/+1 Spe -> __/+1 Spe
+Fly: Threshold: +1 Atk; Attrition: +1 Atk -> __
 Flutter Song: Threshold: +1 Spe; Attrition: +1 Spe -> __
 Flutter Step: Threshold: +1 Spe; Attrition: +1 Spe -> __
 Glacial Strike: Threshold: +1 Atk; Attrition: +1 Atk -> __
@@ -9313,6 +9431,7 @@ Land's Wrath: Threshold: +1 Def; Attrition: +1 Def -> __
 Mystical Power: Threshold: +2 SpA; Attrition: +1 -> __
 Meteor Beam: Threshold: +1 SpA; Attrition: +1 SpA -> __
 Nasty Plot: Threshold: +2 SpA; Attrition: +2 SpA -> +1 SpA
+Phantom Force: Threshold: +1 Atk; Attrition: +1 Atk -> __
 Power-Up Punch: Threshold: +1 Atk; Attrition: +1 Atk -> __
 Psychic Wind: Threshold: +1 Spe; Attrition: +1 Spe -> __
 Psycho Rush: Threshold: +1 Spe; Attrition: +1 Spe -> __
@@ -9339,7 +9458,7 @@ Power Surge: Limit: __ -> 1 set of Boosts
 Soul Heart: Limit: __ -> 1 Boost
 Speed Boost: Limit: __ -> 1 Boost
 ------------------------------------------------------------------------
-Limited Distribution Moves/Universally Unlearned Moves
+Limited Distribution Moves/Universally Unlearned Moves    
 Description: These moves have been removed from all Pokemon's learnsets, unless stated otherwise.
 
 Affected Moves
@@ -9350,8 +9469,8 @@ Substitute
 Thunder Wave
 Uproar
 ------------------------------------------------------------------------
-New Terminology
-Burst Moves
+New Terminology   
+Burst Moves   
 Description: Powerful Attacking moves that have their power reduced under certain conditions
 
 Dragon Energy
@@ -9365,7 +9484,7 @@ Venom Drench
 Water Sport
 Water Spout
 
-Kinetic Moves
+Kinetic Moves   
 Description: Attacking moves that have thier power increased under certain conditions 
 Beak Blast
 Bolt Beak
@@ -9394,10 +9513,13 @@ Venoshock
 Wake-Up Slap
 Weather Ball
 
-Super Moves
+Super Moves   
 Description: Attacking moves that hit most or all Types Super-Effectively
 Flash
 Royal Punishment
+------------------------------------------------------------------------
+Section F  
+List of Affected Moves  
 ------------------------------------------------------------------------
 Category: A 
 --
@@ -9597,7 +9719,7 @@ Secondary Effect: Raises User's SpA by 1 if the move faints the opponent.
 Target: AllAdjacentFoes -> Normal
 --
 Astonish
-Base Power: 30 -> 100
+Base Power: 30 -> 130
 Secondary Effect: 30% chance to flinch -> Bypasses Protect
 --
 Attack Order
@@ -10950,7 +11072,7 @@ Jump Kick
 Base Power: 100 -> 145
 --
 Jungle Healing
-Effect: Heals 25% Max Hp and Cures Status Conditions -> Pokemon loses 1/4 of their Max Hp, Cures their Status Conditions, and restores 1/16 of their Team's Max Hp for 10 Turns
+Effect: Heals 25% Max Hp and Cures Status Conditions -> Pokemon loses 1/4 of their Max Hp, Cures their Status Conditions, and restores 1/10 of their Team's Max Hp for 10 Turns
 PP: 10 -> 2 (Static)
 ------------------------------------------------------------------------
 Category: K 
@@ -11363,7 +11485,8 @@ Effect: User is locked into the move -> Doubled Power when at or below 1/2 Max H
 Recoil: __ -> 1/10
 --
 Phantom Force
-Base Power: 90 -> 120
+Base Power: 90 -> 140
+Additional Effect: Raises Attack by 1 stage upon successfully landing
 --
 Photon Geyser
 Base Power: 100 -> 160
@@ -11999,7 +12122,8 @@ Shadow Ball
 Base Power: 80 -> 120
 --
 Shadow Claw
-Base Power: 70 -> 100
+Base Power: 70 -> 120
+Additional Effect: 30% chance to lower opponent's Def by 1 Stage
 --
 Shadow Force
 Base Power: 120 -> 140
@@ -12812,7 +12936,8 @@ Zen Headbutt
 Base Power: 80 -> 150
 Secondary Effect: 1/4 recoil
 =========================================================
-Ability Changelog
+Section G  
+Ability Changelog   
 ------------------------------------------------------------------------
 Category: A 
 --
@@ -12952,7 +13077,7 @@ Goon Patrol
 Effect: Attacks have x1.5 power if one of the user's teammates fainted last turn.
 --
 Gorilla Tactics
-Additional Effect: Resisted moves hit with x1.5 Base Power (does not bypass Resistances); All Ice-Type moves from both sides have perfect accuracy.
+Additional Effect: Resisted moves hit with x1.5 Base Power (does not bypass Resistances); Pokemon's Ice-Type Moves have perfect accuracy.
 --
 Guts
 Added Effect: Pokemon no longer damaged by Status Conditions; Immune to Status or secondary damage
@@ -13177,10 +13302,10 @@ Thousand Arms
 Effect: The user's attacks hit two additional times at x0.25 power of initial hit (Does not work on attacks that deal a set amount of damage).
 --
 Turboblaze
-Effect: Fire-Type Attacks have perfect accuracy; Double power on Super-Effective Fire-Type Attacks, if the user is a Fire-Type Pokemon. Bypasses certain abilities.
+Effect: Pokemon's Fire-Type Attacks have perfect accuracy; Double power on Super-Effective Fire-Type Attacks, if the user is a Fire-Type Pokemon. Bypasses certain abilities.
 --
 Teravolt
-Effect: Electric-Type Attacks have perfect accuracy; Double power on Super-Effective Electric-Type Attacks, if the user is a Electric-Type Pokemon. Bypasses certain abilities.
+Effect: Pokemon's Electric-Type Attacks have perfect accuracy; Double power on Super-Effective Electric-Type Attacks, if the user is a Electric-Type Pokemon. Bypasses certain abilities.
 --
 Tinted Lens
 Base Power on Resistances: x2 -> x1.5
@@ -13225,7 +13350,7 @@ Effect: Pokemon automatically switches out at the end of the turn, if Tailwind i
 Wonder Guard
 Effect: Increases the user's Special Defense by x1.1.
 =========================================
-Pokemon Exclusive Abilities
+Pokemon Exclusive Ability List     
 ------------------------------------------------
 
 Category: Mewtwo Exclusive Abilities
@@ -13374,7 +13499,7 @@ Effect: Opposing Poison-Type attacks deal 1/2 damage; Opposing Spout-Type attack
 Category: Calyrex-Shadowv
 --
 Power Spot
-Effect: Boosts allies' BP by 30% -> SpA is x1.5 when at 1/4 Max Hp or less; All Moves on field have Perfect Accuracy; Nullifies opposing Dark-Type Priority Moves used against Pokemon with this Ability.
+Effect: Boosts allies' BP by 30% -> SpA is x1.5 when at 1/4 Max Hp or less; All of the Pokemon's Moves have Perfect Accuacy; Nullifies opposing Dark-Type Priority Moves used against Pokemon with this Ability.
 --------------------------------------------------------------------------
 Category: Porygon Exclusive Abilities
 --
@@ -13424,8 +13549,11 @@ Idealist
 Effect: All of the Pokemon's Moves have x1.5 Base Power when at Max Hp; x1.5 Damage on Semi-Effective Moves
 --
 Realist: 
-Effect: All of the Pokemon's Moves have x1.5 Base Power when at Max Hp; Passive Damage Immunity
+Effect: All of the Pokemon's Moves have x1.5 Base Power when at Max Hp; Pokemon cannot be Burned, Poisoned, or Intoxicated
 =========================================================
+Section H  
+Modified Type Interactions  
+---------------------------------------------------------
 Type Chart/Typechart
 Bug (Type) 
 Ghost Damage: x1 -> x0
@@ -13493,6 +13621,9 @@ Freeze Immunity
 Hail Immunity
 Recharge Immunity
 =========================================================
+Section I   
+Comprehensive Item Encyclopedia   
+---------------------------------------------------------
 Debug Items    
 --
 Boss Orb
@@ -13526,6 +13657,8 @@ Description: These are the Memory Discs used to change Silvally's Types in the M
 Assist Drive
 Description: This Item allows the Holder to provide various benefits to its Team depending on their Typing and Stats. Some Pokemon will impart special benefits to the Team that normal Pokemon won't. The holder will faint after using this Item. This Item will not activate if the holder is the only or last Pokemon remaining in their party. This Item cannot be removed from the holder.
 =========================================================
+Standard Items  
+--
 Category: Items   
 --
 Adamant Orb
