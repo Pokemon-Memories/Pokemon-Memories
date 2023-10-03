@@ -134,7 +134,6 @@ A-Tier (38 Total)
 A+
 Vaporeon
 Groudon (B+; Fire Memory)
-Deoxys-Attack (B+; Dubious Disc)
 Necrozma-Dusk-Mane (A-; Steel Memory)
 Zoroark-Hisui
 Tapu Koko
@@ -144,6 +143,7 @@ Ho-Oh
 Thundurus-Therian
 Xerneas
 Arceus-Fairy
+Deoxys-Attack (B+; Dubious Disc)
 
 A
 Arceus
