@@ -1,5 +1,92 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v1.6.2
+- Miscellaneous
+	- Changelog Compilation: Added a Table of Contents to the Custom Changelog Compilation
+		- Included a new Category containing the Rules for certain Formats
+
+Formats
+- Standard Ubers
+	- Banlist Additions
+		- Arceus Clause: Arceus cannot hold a Dubious Disc
+
+Memory Mechanics
+- Electric Memory
+	- Corrected an oversight where Pokemon with Infinite Voltage as a natural Ability could stack it with the Memory Ability equivalent
+- Up-Grade
+	- Assault Bunker renamed to Noble Guard
+		- Noble Guard has been provided an Ability Entry (i.e. It can now be selected as an Ability for certain Formats)
+- Water Memory
+	- Corrected an oversigh where Pokemon with Water Tunnel as a natural Ability could stack it with the Memory Ability equivalent
+
+Memory Abilities
+- Eternal Stream
+	- Perfect Accuracy Application: All Pokemon -> Wielder of this Ability only
+
+Moves
+- Astonish
+	- Base Power: 100 -> 130
+- Dig
+	- Threshold: __ -> +1
+	- Attrition: +1 -> __
+- Dive
+	- Threshold: __ -> +1
+	- Attrition: +1 -> __
+- Fly
+	- Threshold: __ -> +1
+	- Attrition: +1 -> __
+- Jungle Healing
+	- Passive Healing: 1/16 -> 1/10
+- Secret Power
+	- Standard Effect: 30% Paralysis Chance -> 30% Chance to lower Atk by 1 Stage
+- Shadow Claw
+	- Additional Effect: 30% Chance to lower opponent's Def by 1 stage
+
+Abilities
+- Gorilla Tactics
+	- Perfect Accuracy Application: All Pokemon on the field -> Wielder of this Ability only
+- Idealist
+	- Additional Effect: Pokemon's Electric-Type Attacks have Perfect Accuracy
+- Lightning Force
+	- Perfect Accuracy Application: All Pokemon on the field -> Wielder of this Ability only
+- Power Spot
+	- Perfect Accuracy Application: All Pokemon on the field -> Wielder of this Ability only
+- Realist
+	- Secondary Effect: Protects against non-direct Damage -> Pokemon cannot be burned, poisoned, or intoxicated
+	- Additional Effect: Pokemon's Fire-Type Attacks have Perfect Accuracy
+- Teravolt
+	- Perfect Accuracy Application: All Pokemon on the field -> Wielder of this Ability only
+- Turboblaze
+	- Perfect Accuracy Application: All Pokemon on the field -> Wielder of this Ability only
+
+Pokemon
+- Deoxys
+	- Miscellaneous
+		- Corrected an error where Flash Cannon was unusable
+	- Learnset Additions
+		- Substitute
+	- Deoxys Attack Specific
+		- Learnset Removals
+			- Body Slam
+			- Cut
+			- Facade
+			- Headbutt
+			- Memory Blast
+			- Strength
+			- Substitute
+- Mimikyu
+	- Learnset Additions
+		- Moonblast
+		- Memory Blast
+- Stakataka
+	- Learnset Additions
+		- Memory Blast
+- Zarude
+	- Learnset Additions
+		- Memory Blast
+
+
+
 Pokemon Memories v1.6.1
 Abilities
 - Hightened Mind
