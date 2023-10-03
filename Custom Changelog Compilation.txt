@@ -12741,7 +12741,9 @@ Additional Effect: Makes Contact
 PP: 1 -> 5
 --
 Twister
-Base Power: 40 -> 135
+Base Power: 40 -> 60
+Multi-Hits: __ -> 2
+Flinch Chance: 20% -> 5%
 PP: 20 -> 5
 ------------------------------------------------------------------------
 Category: U 
