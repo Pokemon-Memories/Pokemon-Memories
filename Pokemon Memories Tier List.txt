@@ -65,7 +65,7 @@ Description: While Mewtwo uses its 1400 BST to emphasize Offense; Arceus optimiz
 						    [Steel/Dragon]
 			        (Hp: 230/Atk: 280/Def: 210/SpA: 280/SpD: 180/Spe: 160) BST: 1340
 					     Pressure/Telepathy/Regenerator
-			      [Dark Memory/Dubious Disc/Fairy Memory/Ice Memory/Rock Memory]
+			  [Dark Memory/Dubious Disc/Fairy Memory/Fire Memory/Ice Memory/Rock Memory]
 
 
 Description: Dialga's massive defensive stats, stratospheric offenses, and excellent Type-Combination already make it a force to be reckoned with, however what truly sets it apart from the rest of its peers is access to one of the best Abilities, and one of the best moves in the game--in Regenerator and Shell Smash respectively. Thanks to these two powerful resources, Dialga is capable of fulfilling a multitude of roles, from bulky tank, dedicated offense, hazard support, or even various hybrids of these sets--all while maintaining its Ability to perform excellently during games, and even potentially sweep through the opponent's Team. Dialga's ability to run nearly any kind of set--including frightening mixed sets, while synergizing with nearly every viable Item in the Tier--is unrivaled, and it is easily the most customizable Pokemon in the entire game. When building a Team, it is vital that players prepare an answer for this Master of Time, lest they find their ephemeral existence ground to dust.
@@ -129,7 +129,7 @@ Skarmory
 Meowscarada
 
 
-A-Tier (38 Total)
+A-Tier (39 Total)
 
 A+
 Vaporeon
@@ -144,6 +144,7 @@ Thundurus-Therian
 Xerneas
 Arceus-Fairy
 Deoxys-Attack (B+; Dubious Disc)
+Zarude
 
 A
 Arceus
@@ -597,6 +598,7 @@ Common Items
 Common Memories
 - Dubious Disc
 - Fairy Memory
+- Fire Memory
 - Rock Memory
 
 Common Moves
@@ -687,6 +689,27 @@ Weaknesses
 - Worsens Dialga's Matchup against various Pokemon, including opposing Dialga with Steel-Coverage
 - Loses most of its utility as a Water sponge, due to losing its Dragon-Typing
 - Increased vulnerability to Mewtwo's Stored Power, and Calyrex-Shadow's Psycho Boost
+
+Fire Memory
+Dialga @ Fire Memory  
+Ability: Regenerator  
+EVs: 116 HP / 252 SpA / 140 Spe  
+Modest Nature 
+- Fire Blast  
+- Twister  
+- Flash Cannon  
+- Shell Smash
+
+Strengths
+- Prodigious Durability: Can freely switch in against Pokemon like Meowscarada, Ho-Oh, Tapu Koko, and the Kyurems
+- Invalidates the standard options that Mewtwo normally runs (i.e. Psycho Fire, Aura Sphere, Inferno Beam) to check it
+- Significantly increased Damage Output to the point where its +1 Fire Blast hits harder than the +2 Moves on most Normal Dialga sets
+- Because of this, Dialga gains the coveted ability to threaten opponents even without setting up, increasing its offensive capabilities
+
+Weaknesses
+- Weaker Regenerator, due to the inability to use Sweet Apple concurrently with a Fire Memory
+- Worsened Matchup against opposing Water-Types; Gets nailed by Mewtwo's Water Sport
+- Does not expand Dialga's coverage options, and as such, is subject to being disrupted by any Fire-Resists that previous frustrated Dialga
 
 Ice Memory
 Dialga @ Ice Memory  
