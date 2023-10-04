@@ -1347,7 +1347,7 @@ Jolly Nature
 - Dragon Dance  
 
 
-=== [gen6anythinggoes] Anything Goes/Infidels [✗] ===
+=== [gen6anythinggoes] Anything Goes/Infidels [Arceus, ???] ===
 
 Mewtwo @ Mewtwonite X  
 Ability: psychicpower  
@@ -1386,15 +1386,14 @@ IVs: 0 Atk
 - Thunder  
 - Thunder Wave  
 
-Arceus @ Payapa Berry  
-Ability: impervious  
-Shiny: Yes  
-EVs: 252 HP / 4 Atk / 252 Spe  
+Arceus @ Dubious Disc  
+Ability: Multitype  
+EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
-- Earthquake  
+- memoryblast  
 - Rock Wrecker  
-- royalretreat  
+- heavendance  
 
 Meowscarada (F) @ Lax Incense  
 Ability: parlortrick  
@@ -1407,7 +1406,7 @@ Jolly Nature
 - Trailblaze  
 
 
-=== [gen6anythinggoes] Anything Goes/Mega Rayquaza [✗] ===
+=== [gen6anythinggoes] Anything Goes/Mega Rayquaza [Arceus, ???] ===
 
 Rayquaza @ Dragon Fang  
 Ability: dragonheart  
@@ -1448,15 +1447,15 @@ Rash Nature
 - Tailwind  
 - Uproar  
 
-Arceus @ Payapa Berry  
-Ability: impervious  
+Arceus @ Dubious Disc  
+Ability: Multitype  
 Shiny: Yes  
-EVs: 252 HP / 4 Atk / 252 Spe  
+EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
-- Earthquake  
+- memoryblast  
 - Rock Wrecker  
-- royalretreat  
+- heavendance  
 
 Deoxys-Speed @ Nomel Berry  
 Ability: inertia  
@@ -1469,7 +1468,7 @@ Adamant Nature
 - Spikes  
 
 
-=== [gen6anythinggoes] Anything Goes/Berserk Gene Mewtwo [✗] ===
+=== [gen6anythinggoes] Anything Goes/Berserk Gene Mewtwo [Arceus, ???] ===
 
 Mewtwo @ Berserk Gene  
 Ability: psychicpower  
@@ -1499,15 +1498,14 @@ IVs: 0 Atk
 - Sludge Wave  
 - Nasty Plot  
 
-Arceus @ Payapa Berry  
-Ability: impervious  
-Shiny: Yes  
-EVs: 252 HP / 4 Atk / 252 Spe  
+Arceus @ Dubious Disc  
+Ability: Multitype  
+EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
-- Earthquake  
+- memoryblast  
 - Rock Wrecker  
-- royalretreat  
+- heavendance  
 
 Meowscarada (F) @ Lax Incense  
 Ability: parlortrick  
@@ -2309,8 +2307,8 @@ Careful Nature
 Necrozma-Dusk-Mane @ Steel Memory  
 Ability: Tinted Lens  
 Shiny: Yes  
-EVs: 252 Atk / 220 SpD / 36 Spe  
-Lonely Nature  
+EVs: 252 Atk / 12 SpA / 244 Spe  
+Naughty Nature  
 - Sunsteel Strike  
 - Fire Blast  
 - Stone Edge  
@@ -2540,13 +2538,14 @@ IVs: 0 Atk
 === [gen6ubers] Lilligant [Lilligant, Ground] ===
 
 Lilligant @ Ground Memory  
-Ability: powerdrive  
+Ability: flowershield  
+Shiny: Yes  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Apple Acid  
 - memoryblast  
-- Power Gem  
 - Quiver Dance  
+- Recover  
 
 Arceus @ Chople Berry  
 Ability: impervious  
@@ -2600,20 +2599,22 @@ Mesprit @ Soul Dew
 Ability: Dazzling  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- psychofire  
-- Thunder  
+IVs: 0 Atk  
+- Psycho Boost  
+- Focus Blast  
 - Shadow Ball  
-- Teeter Dance  
+- Agility  
 
-Zekrom @ Light Ball  
-Ability: Teravolt  
+Zekrom @ Choice Scarf  
+Ability: idealist  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
+IVs: 5 SpA  
 - Bolt Strike  
-- royalrampage  
-- Ice Punch  
-- Agility  
+- strangewave  
+- flyingdeluge  
+- slushswitch  
 
 Calyrex-Shadow @ Choice Scarf  
 Ability: Power Spot  
@@ -2645,13 +2646,13 @@ Careful Nature
 - flameswitch  
 - Aromatic Mist  
 
-Dialga @ Rock Memory  
+Dialga @ Sweet Apple  
 Ability: Regenerator  
-EVs: 192 HP / 176 SpD / 140 Spe  
+EVs: 112 HP / 80 Atk / 176 SpD / 140 Spe  
 Careful Nature  
-- memoryblast  
 - Breaking Swipe  
-- Earthquake  
+- Fire Blast  
+- Flash Cannon  
 - Shell Smash  
 
 
@@ -3009,8 +3010,8 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 IVs: 5 SpA  
 - Bolt Strike  
-- Earthquake  
 - strangewave  
+- flyingdeluge  
 - slushswitch  
 
 
@@ -5761,8 +5762,8 @@ IVs: 0 Atk
 Necrozma-Dusk-Mane @ Steel Memory  
 Ability: Tinted Lens  
 Shiny: Yes  
-EVs: 252 Atk / 220 SpD / 36 Spe  
-Adamant Nature  
+EVs: 252 Atk / 12 SpA / 244 Spe  
+Naughty Nature  
 - Sunsteel Strike  
 - Fire Blast  
 - Stone Edge  
@@ -6114,8 +6115,8 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 IVs: 5 SpA  
 - Bolt Strike  
-- Earthquake  
 - strangewave  
+- flyingdeluge  
 - slushswitch  
 
 Greninja-Ash (M) @ Expert Belt  
@@ -6770,11 +6771,11 @@ Jolly Nature
 Necrozma-Dusk-Mane @ Steel Memory  
 Ability: Tinted Lens  
 Shiny: Yes  
-EVs: 252 Atk / 220 SpD / 36 Spe  
-Adamant Nature  
+EVs: 252 Atk / 12 SpA / 244 Spe  
+Naughty Nature  
 - Sunsteel Strike  
+- Fire Blast  
 - Stone Edge  
-- Swords Dance  
 - Autotomize  
 
 Regigigas @ Toxic Orb  
@@ -7492,11 +7493,11 @@ Rash Nature
 Necrozma-Dusk-Mane @ Steel Memory  
 Ability: Tinted Lens  
 Shiny: Yes  
-EVs: 4 HP / 252 Atk / 252 Spe  
-Adamant Nature  
+EVs: 252 Atk / 12 SpA / 244 Spe  
+Naughty Nature  
 - Sunsteel Strike  
+- Fire Blast  
 - Stone Edge  
-- Swords Dance  
 - Autotomize  
 
 Calyrex-Shadow @ Choice Scarf  
@@ -8045,8 +8046,8 @@ Rash Nature
 Lilligant @ Grass Memory  
 Ability: flowershield  
 Shiny: Yes  
-EVs: 4 HP / 252 Atk / 252 Spe  
-Jolly Nature  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
 - Apple Acid  
 - Grass Whistle  
 - leafswitch  
@@ -8223,8 +8224,8 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 IVs: 5 SpA  
 - Bolt Strike  
-- Earthquake  
 - strangewave  
+- flyingdeluge  
 - slushswitch  
 
 Mewtwo @ Adrenaline Orb  
@@ -8684,15 +8685,15 @@ Jolly Nature
 
 === [gen6ubers] Mimic You [Mewtwo, Poison] ===
 
-Mimikyu (M) @ Bright Powder  
-Ability: Disguise  
-Shiny: Yes  
-EVs: 4 HP / 252 Atk / 252 Spe  
-Jolly Nature  
-- Twinkle Tackle  
-- Aromatic Mist  
-- Howl  
-- U-turn  
+Rotom @ Light Ball  
+Ability: Magic Bounce  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Electro Ball  
+- Moonblast  
+- Recover  
+- Volt Switch  
 
 Meowscarada (F) @ Lax Incense  
 Ability: parlortrick  
@@ -8713,33 +8714,35 @@ Impish Nature
 - Stealth Rock  
 - royalretreat  
 
-Kyurem-Black @ Snowball  
-Ability: dragonpower  
+Zekrom @ Choice Scarf  
+Ability: idealist  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- glacialstrike  
-- Freeze-Dry  
-- Ice Shard  
+IVs: 5 SpA  
+- Bolt Strike  
+- strangewave  
+- flyingdeluge  
 - slushswitch  
 
 Mewtwo @ Poison Memory  
 Ability: psychicpower  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- Stored Power  
-- Venoshock  
-- infernobeam  
-- Dark Pulse  
+- psychofire  
+- memoryblast  
+- Night Daze  
+- froststep  
 
-Arceus-Fairy @ Pixie Plate  
-Ability: Multitype  
-EVs: 4 HP / 252 SpA / 252 Spe  
-Timid Nature  
-- Judgment  
-- Fire Blast  
-- Stone Edge  
-- Recover  
+Florges-Blue (F) @ Bright Powder  
+Ability: Mold Breaker  
+EVs: 252 HP / 252 Def / 4 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Fairy Wind  
+- Toxic  
+- Synthesis  
+- Withdraw  
 
 
 === [gen6ubers] Something Different [Deoxys-Attack, ???] ===
@@ -8826,7 +8829,7 @@ Jolly Nature
 Necrozma-Dusk-Mane @ Steel Memory  
 Ability: Tinted Lens  
 Shiny: Yes  
-EVs: 4 HP / 252 Atk / 252 Spe  
+EVs: 252 Atk / 12 SpA / 244 Spe  
 Naughty Nature  
 - Sunsteel Strike  
 - Fire Blast  
@@ -9103,7 +9106,7 @@ Modest Nature
 - Flip Turn  
 
 
-=== [gen6ubers] Forestation [Torterra, Grass] ===
+=== [gen6ubers] Dawn of Fire [Mimikyu, Fire] ===
 
 Mewtwo @ Dawn Stone  
 Ability: hightenedmind  
@@ -9123,14 +9126,15 @@ Jolly Nature
 - Rock Wrecker  
 - heavendance  
 
-Torterra (M) @ Grass Memory  
-Ability: barricade  
-EVs: 4 HP / 252 Atk / 252 SpD  
-Careful Nature  
+Mimikyu (M) @ Fire Memory  
+Ability: Disguise  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Shadow Ball  
+- Moonblast  
 - memoryblast  
-- Earthquake  
-- expressheal  
-- Rapid Spin  
+- Howl  
 
 Meloetta @ Throat Spray  
 Ability: ensemble  
@@ -9232,8 +9236,8 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 IVs: 5 SpA  
 - Bolt Strike  
-- Earthquake  
 - strangewave  
+- flyingdeluge  
 - slushswitch  
 
 Rotom @ Fire Memory  
@@ -9372,7 +9376,7 @@ EVs: 4 HP / 252 SpA / 252 Spe
 Timid Nature  
 - Blue Flare  
 - Clanging Scales  
-- royalforestation  
+- Thunder  
 - flameswitch  
 
 Meowscarada (F) @ Lax Incense  
@@ -9385,7 +9389,7 @@ Jolly Nature
 - slushswitch  
 - Trailblaze  
 
-Vaporeon @ Sitrus Berry  
+Vaporeon (F) @ Sitrus Berry  
 Ability: utilitylock  
 EVs: 4 HP / 252 Def / 252 Spe  
 Timid Nature  
@@ -9408,14 +9412,15 @@ Jolly Nature
 
 === [gen6ubers] Fountain of Life [Dialga, Fire] ===
 
-Zarude @ Lax Incense  
+Rotom @ Sweet Apple  
 Ability: Magic Bounce  
-EVs: 252 HP / 4 Atk / 252 Spe  
-Jolly Nature  
-- Power Whip  
-- Jungle Healing  
-- Synthesis  
-- chaosswitch  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Moonblast  
+- Recover  
+- Volt Switch  
 
 Zekrom @ Choice Scarf  
 Ability: idealist  
@@ -9424,8 +9429,8 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 IVs: 5 SpA  
 - Bolt Strike  
-- Earthquake  
 - strangewave  
+- flyingdeluge  
 - slushswitch  
 
 Dialga @ Fire Memory  
@@ -9434,11 +9439,11 @@ EVs: 116 HP / 252 SpA / 140 Spe
 Modest Nature  
 IVs: 0 Atk  
 - Fire Blast  
-- Twister  
+- Dragon Pulse  
 - Flash Cannon  
 - Shell Smash  
 
-Vaporeon @ Sitrus Berry  
+Vaporeon (F) @ Sitrus Berry  
 Ability: utilitylock  
 EVs: 4 HP / 252 Def / 252 Spe  
 Timid Nature  
@@ -9467,5 +9472,128 @@ IVs: 0 Atk
 - Astral Barrage  
 - Dazzling Gleam  
 - Parting Shot  
+
+
+=== [gen6ubers] Lilligant's Adventure [Lilligant, Fairy] ===
+
+Lilligant @ Fairy Memory  
+Ability: flowershield  
+Shiny: Yes  
+EVs: 248 HP / 8 Def / 68 SpD / 184 Spe  
+Jolly Nature  
+IVs: 9 SpA  
+- Apple Acid  
+- strangewave  
+- Hydro Pump  
+- Recover  
+
+Tapu Koko @ Light Ball  
+Ability: lightningforce  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Bolt Strike  
+- Nature's Madness  
+- Earth Power  
+- Volt Switch  
+
+Vaporeon (F) @ Sitrus Berry  
+Ability: utilitylock  
+EVs: 4 HP / 252 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dragon Breath  
+- Spikes  
+- Yawn  
+- Withdraw  
+
+Meowscarada (F) @ Lax Incense  
+Ability: parlortrick  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Flower Trick  
+- Night Slash  
+- slushswitch  
+- Trailblaze  
+
+Calyrex-Shadow @ Choice Scarf  
+Ability: Power Spot  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psycho Boost  
+- Astral Barrage  
+- Dazzling Gleam  
+- Parting Shot  
+
+Dialga @ Sweet Apple  
+Ability: Regenerator  
+EVs: 192 HP / 176 SpD / 140 Spe  
+Careful Nature  
+- Breaking Swipe  
+- Fire Blast  
+- Flash Cannon  
+- Shell Smash  
+
+
+=== [gen6ubers] Mewtwo's Ocean [Mewtwo, Water] ===
+
+Mewtwo @ Water Memory  
+Ability: psychicpower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- psychicstorm  
+- Water Sport  
+- infernobeam  
+- malicerun  
+
+Manaphy @ Rose Incense  
+Ability: Drizzle  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Surf  
+- Thunder  
+- Happy Hour  
+- U-turn  
+
+Entei @ Lax Incense  
+Ability: doublelayer  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Sacred Fire  
+- Stone Edge  
+- Aromatic Mist  
+- Withdraw  
+
+Klinklang @ Metal Coat  
+Ability: utilitylock  
+EVs: 252 HP / 252 Def / 4 Spe  
+Impish Nature  
+- Gear Grind  
+- Thunder Wave  
+- Stealth Rock  
+- royalretreat  
+
+Meloetta @ Sweet Apple  
+Ability: ensemble  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Hyper Voice  
+- Storm Throw  
+- Screech  
+- slushswitch  
+
+Dialga @ Sweet Apple  
+Ability: Regenerator  
+EVs: 192 HP / 176 SpD / 140 Spe  
+Careful Nature  
+- Breaking Swipe  
+- Fire Blast  
+- Flash Cannon  
+- Shell Smash  
 
 
