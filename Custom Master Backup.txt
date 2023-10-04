@@ -1699,7 +1699,7 @@ Timid Nature
 - Flip Turn  
 
 Deoxys-Attack @ Dubious Disc  
-Ability: Antipathy  
+Ability: antipathy  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Naughty Nature  
 - Secret Power  
@@ -3733,13 +3733,13 @@ Careful Nature
 === [gen6ubers] Enigma [Deoxys-Attack, ???] ===
 
 Deoxys-Attack @ Dubious Disc  
-Ability: Antipathy  
+Ability: antipathy  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Naughty Nature  
 - Secret Power  
 - Dynamic Punch  
 - Meteor Mash  
-- Extreme Speed 
+- Extreme Speed  
 
 Meloetta @ Throat Spray  
 Ability: Serene Grace  
@@ -8742,7 +8742,7 @@ Timid Nature
 - Recover  
 
 
-=== [gen6ubers] Something Different [Arceus, Fighting] ===
+=== [gen6ubers] Something Different [Deoxys-Attack, ???] ===
 
 Lucario (M) @ Cover Fossil  
 Ability: speedtouch  
@@ -8762,14 +8762,14 @@ Timid Nature
 - mineralcannon  
 - Night Daze  
 
-Arceus @ Fighting Memory  
-Ability: Multitype  
+Deoxys-Attack @ Dubious Disc  
+Ability: antipathy  
 EVs: 4 HP / 252 Atk / 252 Spe  
-Jolly Nature  
+Naughty Nature  
+- Secret Power  
+- Dynamic Punch  
+- Meteor Mash  
 - Extreme Speed  
-- risingpower  
-- heavendance  
-- Agility  
 
 Palkia @ Choice Scarf  
 Ability: dracolate  
@@ -9345,7 +9345,7 @@ Naive Nature
 - Geomancy  
 
 
-=== [gen6ubers] Shiro [Cryogonal, Ground] ===
+=== [gen6ubers] Shiro [✗] ===
 
 Tapu Koko @ Light Ball  
 Ability: lightningforce  
@@ -9357,14 +9357,14 @@ Jolly Nature
 - Volt Switch  
 - Protect  
 
-Cryogonal @ Ground Memory  
-Ability: Multiscale  
+Mewtwo @ Dawn Stone  
+Ability: hightenedmind  
 EVs: 4 HP / 252 SpA / 252 Spe  
-Timid Nature  
-- memoryblast  
-- Aurora Beam  
-- Solar Beam  
-- slushswitch  
+Naive Nature  
+- Stored Power  
+- infernobeam  
+- Water Sport  
+- Comeuppance  
 
 Reshiram @ Choice Scarf  
 Ability: realist  
@@ -9404,5 +9404,68 @@ Jolly Nature
 - Freeze-Dry  
 - Ice Shard  
 - slushswitch  
+
+
+=== [gen6ubers] Fountain of Life [Dialga, Fire] ===
+
+Zarude @ Lax Incense  
+Ability: Magic Bounce  
+EVs: 252 HP / 4 Atk / 252 Spe  
+Jolly Nature  
+- Power Whip  
+- Jungle Healing  
+- Synthesis  
+- chaosswitch  
+
+Zekrom @ Choice Scarf  
+Ability: idealist  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+IVs: 5 SpA  
+- Bolt Strike  
+- Earthquake  
+- strangewave  
+- slushswitch  
+
+Dialga @ Fire Memory  
+Ability: Regenerator  
+EVs: 116 HP / 252 SpA / 140 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Fire Blast  
+- Twister  
+- Flash Cannon  
+- Shell Smash  
+
+Vaporeon @ Sitrus Berry  
+Ability: utilitylock  
+EVs: 4 HP / 252 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dragon Breath  
+- Spikes  
+- Yawn  
+- Withdraw  
+
+Meowscarada (F) @ Lax Incense  
+Ability: parlortrick  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Flower Trick  
+- Night Slash  
+- slushswitch  
+- Trailblaze  
+
+Calyrex-Shadow @ Choice Scarf  
+Ability: Power Spot  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psycho Boost  
+- Astral Barrage  
+- Dazzling Gleam  
+- Parting Shot  
 
 
