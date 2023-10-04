@@ -1,5 +1,81 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v1.6.5
+Memory Mechanics
+- Fire Memory
+	- Sheer Force (Memory Version)
+		- Base Power boost no longer applies while the Pokemon is boosted in the stat they are attacking in.
+
+Abilities
+- Flower Shield
+	- Memory Effect: Raises the Pokemon's Def and SpD by 1 stage each upon switching in
+- Idealist
+	- Power Boost: x1.5 -> x1.3
+	- Penalty: Pokemon's Moves lose their secondary effects
+- Realist
+	- Power Boost: x1.5 -> x1.3
+- Reckless
+	- Corrected an registration error that prevented the Ability from functioning
+	- Penalty: Pokemon's Moves lose their secondary effects
+
+Items
+- Berry Juice
+	- Health Restoration under Hail: 60hp -> 75hp
+- Rose Incense
+	- Health Restoration: 1/6 -> 1/5
+
+Moves
+- Comeuppance
+	- Halved Power against Mega Mewtwo X if it has both its Psychic-Type, and its Fighting-Type
+- Gear Grind
+	- Additional Effect: Clears opposing Hazards from the Field
+- Strange Wave
+	- Base Power cap removed for Memorized Pokemon
+	- No longer receives a Power Boost from Dark Aura or Fairy Aura
+
+Pokemon
+- Azelf
+	- Learnset Additions
+		- Agility
+- Calyrex-Shadow
+	- Learnset Removals
+		- Dark Pulse
+- Darkrai
+	- Learnset Additions
+		- Aromatic Mist
+		- Chaos Switch
+- Entei
+	- Learnset Additions
+		- Aromatic Mist
+		- Flame Switch
+		- Withdraw
+- Lilligant
+	- Learnset Additions
+		- Corrected an implementation error with Strange Wave
+- Manaphy
+	- Learnset Additions
+		- U-Turn
+- Mesprit
+	- Learnset Additions
+		- Agility
+- Primarina
+	- Abilities
+		- Fairy Shield added to Ability List
+- Reshiram
+	- Learnset Removals
+		- Royal Forestation
+- Yveltal
+	- Learnset Additions
+		- Agility
+		- Nasty Plot
+- Zarude
+	- Ability
+		- Magic Bounce -> Ripen
+	- Zarude-Dada
+		- Ability
+			- Magic Bounce -> Ripen
+
+
 Pokemon Memories v1.6.4
 Abilities
 - Lightning Force
