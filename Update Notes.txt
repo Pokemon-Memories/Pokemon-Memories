@@ -1,7 +1,20 @@
 Pokemon Memories Update Notes
 
-Pokemon Memories v1.6.3
+Pokemon Memories v1.6.4
+Abilities
+- Lightning Force
+	- This Ability no longer announces its presence upon switching in
+	- Additional Effect: x1.3 Base Power on all Electric-Type Moves if the Pokemon is Memorized. Has no effect if the Pokemon has Memorized into an Electric-Type
+- Utility Lock
+	- Additional Effect: Prevents Pokemon from using Jungle Healing
+
 Moves
+- Jungle Healing
+	- Passive Healing: 1/10 -> 1/16
+	- PP: 2 -> 1
+
+
+Pokemon Memories v1.6.3
 - Twister
 	- Base Power: 135 -> 60
 	- Multi-Hits: 1-2 -> 2
