@@ -5796,7 +5796,7 @@ Deep Sea
 Effect: Changes Pokemon into a Water/Flying Type upon Switching In; Opposing moves deal half Damage when Pokemon is at Full HP; Removes the Water-Type's Electric Weakness.
 
 Utility Lock (New Ability)
-Effect: Prevents opposing Defogging moves, and Tailwind from activating.
+Effect: Prevents opposing Defogging moves, Tailwind, and Jungle Healing from activating.
 ------------------------------------------------------------------------
 Ho-Oh    
 Hp: 106 -> 226 = +120
@@ -9168,7 +9168,7 @@ Effect: Pokemon's Ghost-Type Moves ignores the target's Type-Based immunities; P
 Strategist
 Effect: Pokemon's Psychic-Type Moves with a Base Power up to 155--or any Special Move with a Base Power up to 120 receive a x1.4 Power Boost. Pokemon's Burst-Moves, Kinetic-Moves, and Priority Moves cannot be boosted by this ability. 
 -----------------------------------
-Memorize-Interactive Abilities   
+Memory-Interactive Abilities   
 Description: List of Special Abilities, or Special Properties on Abilities, that activate when the Pokemon is Memorized.
 -
 Compact Armor
@@ -9185,6 +9185,9 @@ Effect: 30% Power Bonus granted to Bug-Type moves, will only be active if the Po
 --
 Fairy Aura
 Effect: (Memory Ability only): 30% Power Bonus granted to Fairy-Type moves, will only be active if the Pokemon does not have any positive stat boosts, in the stat they are attacking in. This condition does not apply to Pokemon that naturally have Fairy Aura as their Ability
+--
+Lightning Force
+Memory Effect: Pokemon's Electric-Type Moves have x1.3 Base Power. Has no effect if the Pokemon has Memorized into an Electric-Type
 --
 Memory Armor
 Effect: Pokemon's Def and SpD are multiplied by x1.5, if they are Memorized; Cannot be bypassed with Mold Breaker.
@@ -11072,7 +11075,7 @@ Jump Kick
 Base Power: 100 -> 145
 --
 Jungle Healing
-Effect: Heals 25% Max Hp and Cures Status Conditions -> Pokemon loses 1/4 of their Max Hp, Cures their Status Conditions, and restores 1/10 of their Team's Max Hp for 10 Turns
+Effect: Heals 25% Max Hp and Cures Status Conditions -> Pokemon loses 1/4 of their Max Hp, Cures their Status Conditions, and restores 1/16 of their Team's Max Hp for 10 Turns
 PP: 10 -> 2 (Static)
 ------------------------------------------------------------------------
 Category: K 
@@ -13331,7 +13334,7 @@ Unburden
 Penalty: Pokemon are prevented from using Status-Moves
 --
 Utility Lock
-Effect: Prevents opposing Defogging moves, and Tailwind from activating.
+Effect: Prevents opposing Defogging moves, Tailwind, and Jungle Healing from activating.
 ------------------------------------------------------------------------
 Category: V 
 --
