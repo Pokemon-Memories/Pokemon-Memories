@@ -20,7 +20,7 @@ Section C
 	• Viability Rankings
 	• History of the Format
 
-(163 Total)
+(164 Total)
 						      Section A    
 						    Standard Ubers
 						      Highlights
@@ -115,13 +115,11 @@ S-Tier (8 Total)
 
 S+
 Mewtwo
-
-S
-Dialga
+Dialga (S; Fire Memory)
 
 S-
-Deoxys-Speed
 Palkia
+Deoxys-Speed
 Zacian-Crowned (A-; Ground Memory)
 Landorus-Therian (A+; Grass Memory)
 Calyrex-Shadow
@@ -129,28 +127,24 @@ Skarmory
 Meowscarada
 
 
-A-Tier (39 Total)
+A-Tier (37 Total)
 
 A+
 Vaporeon
+Reshiram
 Groudon (B+; Fire Memory)
 Necrozma-Dusk-Mane (A-; Steel Memory)
-Zoroark-Hisui
 Tapu Koko
-Calyrex-Ice (B+; Electric Memory)
+Zoroark-Hisui
 Klinklang
 Ho-Oh
 Thundurus-Therian
 Xerneas
 Arceus-Fairy
-Deoxys-Attack (B+; Dubious Disc)
 Zarude
 
 A
-Arceus
 Necrozma-Ultra
-Lucario-Mega
-Reshiram
 Kyurem-Black
 Rayquaza (B+; Fairy Memory/Flying Memory + Tailwind)
 Darkrai
@@ -160,15 +154,16 @@ Meloetta
 Meloetta-Pirouette
 
 A-
+Eternatus
+Calyrex-Ice (B+; Electric Memory)
+Arceus
 Mew (B+; Protean + Fighting Memory)
-Corviknight
 Kyogre
 Regieleki (B- Ice Memory/Any Memory)
 Yveltal
 Bellsprout
+Lucario-Mega
 Porygon-Z (B; Dark Memory)
-Mimikyu
-Mimikyu-Busted
 Entei
 Cresselia
 Ludicolo
@@ -177,7 +172,7 @@ Cryogonal (B; Ground Memory)
 Zekrom
 
 
-B-Tier (61 Total)
+B-Tier (63 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
@@ -186,7 +181,6 @@ Arceus-Flying
 Arceus-Ghost
 Arceus-Water
 Celebi
-Eternatus
 Gardevoir
 Genesect
 Giratina
@@ -200,6 +194,8 @@ Magearna
 Magearna-Original
 Manaphy
 Marshadow
+Mimikyu
+Mimikyu-Busted
 Necrozma-Dawn-Wings
 Pikachu-Original
 Rapidash-Galar
@@ -221,6 +217,7 @@ Arceus-Dark
 Arceus-Ground
 Arctozolt
 Blissey
+Corviknight
 Darmanitan-Galar
 Darmanitan-Galar-Zen
 Emolga
@@ -782,7 +779,7 @@ Common Moves
 Preferred Ability
 - Space Power
 
-Playstyle: Eternatus is best used as a "tank-and-run" Defensive Support Pokemon. Eternatus' prodigious bulk, and pivotal Resistances and Immunities allow it to handle several problematic Pokemon, and even deny opposing U-Turns, however its equally disastrous set of weaknesses prevent it from staying in for too long, without endangering itself. Thus, Eternatus should prioritize absorbing the hits that it needs to, and acting in anticipation of the opponent's next move, only attacking when certain that the opponent will either stay in, or switch to a wall, and Sludge Switching out, otherwise. It is not recommended to use Eternatus as a hard-wall, or Support Lead
+Playstyle: Eternatus is best used as a "tank-and-run" Defensive Support Pokemon. Eternatus' prodigious bulk, and pivotal Resistances and Immunities allow it to handle several problematic Pokemon, and even deny opposing U-Turns, however its equally disastrous set of weaknesses prevent it from staying in for too long without endangering itself. Thus, Eternatus should prioritize absorbing the hits that it needs to, and acting in anticipation of the opponent's next move, only attacking when certain that the opponent will either stay in, or switch to a wall, and Sludge Switching out, otherwise. It is not recommended to use Eternatus as a hard-wall, or Support Lead
 
 Eternatus @ Black Sludge  
 Ability: Space Power  
@@ -820,6 +817,28 @@ Weaknesses
 - Despite having access to Autotomize, Eternatus often struggles to find an opportunity to use it, due to the aforementioned factors
 - Even with Autotomize, however: Neither Dynamax Cannon, nor Shadow Ball OHKO Mewtwo, and even with a Prism Scale boost, none of Eternatus' moves--including Eternabeam, can OHKO the common Dialga sets
 
+Offensive
+Eternatus @ Black Sludge  
+Ability: Space Power  
+EVs: 252 HP / 252 SpA / 4 Spe  
+Modest Nature 
+- Eternabeam  
+- Venom Drench  
+- Shadow Ball  
+- Autotomize
+
+Strengths
+- Its massive Bulk, paired with its Black Sludge, allows it to survive a significant number of powerful moves, including Super-Effective STAB Moves from opposing unboosted Dialga
+- Autotomize's +4 Speed Boost allows it to outspeed nearly every Scarfer and Set-Up Pokemon, including Shell Smash Dialga
+- Can OHKO Calyrex-Shadow with Shadow Ball, and deal significant damage to Mewtwo with Eternabeam
+- Decimates opposing Vaporeon and Meowscarada with Venom Drench, and hits hard even when its uncharged
+- Due to Autotomize resetting the Pokemon's Stats upon completing, Eternatus can safely use Eternabeam toward the end of the move's duration and reset the Defensive drops, allowing it to perform better against the opponent's next Pokemon
+
+Weaknesses
+- Cannot OHKO Dialga under normal circumstances, forces Eternatus to play cautiously to ensure it tanks Dialga's response
+- Eternatus wants to run Magma Storm to hit Steels harder, however it needs all of its moves to function properly, and will struggle significantly in other areas should it choose to swap one of the recommended moves out
+- In addition to retaliatory attacks: Eternatus is most especially vulnerable to opposing Thunder Wave Dialga sets
+- Gets obliterated by the power of Mewtwo: Can potentially be K.O.'d before it has a chance to act, due to its Psychic-Weakness
 =====================================================================================================================
 Category: G  
 =====================================================================================================================
