@@ -1958,6 +1958,7 @@ SpA: 15 -> 140 = +135
 SpD: 20 -> 100 = +80
 Spe: 80 -> 130 = +50
 BST: 200 -> 700
+Added Ability: Nimble
 Moveset Synchronized with Gyarados'
 New Moves
 Mystery Slash
@@ -4007,6 +4008,7 @@ Metal Burst
 Moonblast
 Moongeist Beam
 Mud Sport
+Multi-Attack
 Mystery Bind
 Mystery Slash
 Mystery Wave
@@ -6883,7 +6885,7 @@ Secret Sword
 Stealth Rock
 Toxic
 ------------------------------------------------------------------------
-Eternatus
+Eternatus   
 Hp: 140 -> 250 = +110
 Atk: 85 -> 272 = +187
 Def: 95 -> 205 = +110
@@ -6927,7 +6929,7 @@ Dragon Dance
 Space Power (New Ability)
 Effect: Pokemon does not receive status conditions from Flame Orb, Toxic Orb, Light Ball, or Snowball; Immunity to Paralysis Damage. Pokemon's Damage-Dealing Moves bypass the opposing Pokemon's Abilities
 
-Eternamax Eternatus*
+Eternamax Eternatus (Anything Goes)
 Hp: 250 -> 400 = +150
 Atk: 272 -> 272 = +0
 Def: 205 -> 205 = +0
@@ -6936,8 +6938,7 @@ SpD: 205 -> 205 = +0
 Spe: 163 -> 163 = +0
 BST: 1400 -> 1550
 Ability: Pressure -> Space Power
-
-*Eternatus Eternamax cannot be used in battle.
+Transformation Item: Beast Ball
 ------------------------------------------------------------------------
 Toxapex
 Hp: 50 -> 100 = +50
@@ -8058,7 +8059,7 @@ Meteor Beam
 Surf
 
 Space Logic (New Ability)
-Effect: Resisted Water-Type attacks hit with tripled Base Power (does not override Resistances).
+Effect: Resisted Water-Type attacks hit with doubled Base Power (does not override Resistances).
 ------------------------------------------------------------------------
 Dragapult
 Hp: 88 -> 166 = +78
@@ -8972,8 +8973,8 @@ Section B
 List of Formats      
 Standard Ubers  
 Ruleset
-- Arceus Clause: Arceus cannot hold a Dubious Disc
-- Memory Clause: Only one Memory Disc is allowed per Team
+- Arceus Clause: Arceus cannot hold a Dubious Disc*
+- Memory Clause: Only one Memory Disc is allowed per Team*
 
 Banlist
 - Abilities
@@ -8982,6 +8983,7 @@ Banlist
 	- Plant Power
 - Items
 	- Assist Drive
+	- Beast Ball
 	- Berserk Gene
 	- Bitter Berry
 	- Blue Orb
@@ -8999,6 +9001,7 @@ Banlist
 	- Mewtwo-Mega-Y
 	- Rayquaza-Mega
 
+* These restrictions do not apply to Unlimited Ubers
 
 Ultra Assist   
 Ruleset
@@ -9012,6 +9015,7 @@ Banlist
 	- Plant Power
 	- Tempest
 - Items
+	- Beast Ball
 	- Berserk Gene
 	- Bitter Berry
 	- Blue Orb
@@ -9035,6 +9039,46 @@ Banlist
 	- Mewtwo-Mega-X
 	- Mewtwo-Mega-Y
 	- Rayquaza-Mega
+
+Balanced Hackmons
+Ruleset
+- Memory Clause: Only one Memory Disc is allowed per Team*
+- Assist Clause: Only one Assist Drive is allowed per Team
+- Stacking Clause: Players cannot run a Memory Disc and Assist Drive concurrently*
+- Compound Clause: No more than two Memory Discs are allowed on a Team
+
+Banlist
+Abilities
+	- Arena Trap
+	- Bulldozer
+	- Candle Trap
+	- Contrary
+	- Defeatist
+	- Huge Power
+	- Inertia
+	- Intrepid Sword
+	- Parental Bond
+	- Perfect Sword
+	- Pure Power
+	- Resolution
+	- Shadow Tag
+	- Tempest
+	- Thousand Arms
+	- Wonder Guard
+- Mechanics
+	- Memorization*
+Moves
+	- Assist
+	- Chatter
+	- Vanishing Strike
+	- Psychic Infinity
+	- Storm Throw
+	- Submission
+
+Pokemon
+	- Eternatus-Eternamax
+
+* Does not apply to Unlimited BH
 =========================================================================================
 Section C  
 Special Mechanics   
@@ -9133,7 +9177,7 @@ Diamond Armor
 Effect: Eliminates the Pokemon's Ground-Type Weakness, and bounces opposing Status-Moves
 --
 Endless Earth 
-Effect: Ignores the Ground-Type's immunities; Opposing Electric-Type moves are always ineffective, regardless of the opponent's Ability.
+Effect: Ignores the immunities of the target when using Ground-Type Moves; Opposing Electric-Type moves are always ineffective, regardless of the opponent's Ability.
 --
 Eternal Stream
 Effect: Resisted Water-Type attacks hit with x1.5 Base Power (does not override Resistances); Pokemon's Water-Type moves have perfect accuracy. Pokemon cannot be trapped by Life Force.
@@ -9148,7 +9192,7 @@ Frost Shield
 Effect: Pokemon receives x0.67 Damage from opposing Special Attacks
 --
 Infinite Voltage
-Effect: Ignores Electric Immunities, and hits Ground-Types for x1.5 Damage.
+Effect: Ignores the immunities of the target when using Ground-Type Moves, and hits Ground-Types for x1.5 Damage.
 --
 Life Force
 Effect: Traps opposing Water-Type Pokemon; Opposing Water-Type moves deal x0.5 Damage. If an opposing Water-Type Pokemon is on the field: Opponent loses 1/8 Max Hp, while the Ability's wielder restores 1/8 Max Hp, at the end of each turn. Pokemon is instantly cured upon being statused.
@@ -10877,7 +10921,7 @@ Recoil: 1/2 -> 1/3
 --
 Heal Order
 Category: Status -> Special
-Effect: Takes 50% of the opponent's health and heals 100% of the damage inflicted.
+Effect: The Pokemon deal damage equal to 1/4 of the target's Max HP, and restores damage equal to half of the target's Max Hp
 PP: 10 -> 5 (Static)
 --
 Heat Crash
@@ -11084,7 +11128,7 @@ Base Power: 100 -> 145
 --
 Jungle Healing
 Effect: Heals 25% Max Hp and Cures Status Conditions -> Pokemon loses 1/4 of their Max Hp, Cures their Status Conditions, and restores 1/16 of their Team's Max Hp for 10 Turns
-PP: 10 -> 2 (Static)
+PP: 10 -> 5 (Static)
 ------------------------------------------------------------------------
 Category: K 
 --
@@ -11331,6 +11375,10 @@ Effect: Doubled Damage if User is above 1/2 Max Hp
 PP: 15 -> 10
 Target: Any -> Normal
 --
+Multi-Attack
+Base Power: 80 -> 180
+Type Calculation: Memory Discs -> Plates
+--
 Mystical Fire
 Base Power: 75 -> 125
 Secondary Effect: 100% chance to lower SpA by 1 stage -> 50% chance to lower SpA by 1 stage.
@@ -11428,7 +11476,6 @@ Night Daze
 Base Power: 85 -> 120
 Defensive Category: Special -> Physical
 Effect: 40% Chance to lower the opponent's SpD -> 20% Chance to lower opponent's Def
-Additional Effect: Bypasses Light Inversion
 --
 Night Shade
 Damage: User's level -> (Target's Max Hp / 4)
@@ -11439,6 +11486,7 @@ Base Power: 70 -> 135
 --
 Nuzzle
 Base Power: 20 -> 50
+Penalty: Can only be used by Electric-Type Pokemon
 ------------------------------------------------------------------------
 Category: O 
 --
@@ -11671,7 +11719,7 @@ Accuracy: 100
 Category: Physical
 Priority: +0
 Contact: Yes
-Effect: Lowers User's Def and SpD by 1 stage each; Does not lower Mewtwo's stats; 240 BP if used by Mega Mewtwo X
+Effect: Lowers User's Def and SpD by 1 stage each; Does not lower Mewtwo's stats; 190 BP if used by Mega Mewtwo X
 PP: 5
 Target: Normal
 Type: Psychic
@@ -13176,6 +13224,9 @@ Category: N
 --
 Neuroforce
 Damage Multiplier: x1.2 -> x1.2
+--
+Nimble
+Effect: Pokemon's Status Moves have +1 Priority, however they cannot use any Status Moves that directly cause Paralysis
 ------------------------------------------------------------------------
 Category: O 
 Overgrow
@@ -13279,7 +13330,7 @@ Conditions: Only activates if the Pokemon directly caused their opponent to fain
 Boost Cap: __ -> 1
 --
 Space Logic
-Effect: Resisted Water-Type attacks hit with tripled Base Power (does not override Resistances).
+Effect: Resisted Water-Type attacks hit with doubled Base Power (does not override Resistances).
 --
 Spectral Veil
 Effect: Pokemon restores 1/16 of its Max Hp at the end of each turn.
@@ -13333,6 +13384,7 @@ Additional Checks: Fails if used against Pokemon with the abilities: "Impervious
 Triage
 Priority Boost: +3 -> +2
 Additional Effect: Ineffective against Pokemon with Mold Breaker, Teravolt, Turboblaze, or Inertia.
+Penalty: Priority-Boosted Moves have their Base Power divided by ÷1.5
 ------------------------------------------------------------------------
 Category: U 
 --
@@ -13686,6 +13738,9 @@ Restoration: 1/8 -> 1/3
 --
 Audinite
 Effect: Automatically transforms Audino into Mega Audino.
+--
+Beast Ball
+Effect: Transforms Eternatus into Eternatus-Eternamax
 --
 Berry
 Effect: Heals 150 HP if the holder has 1/2 Max HP or less
