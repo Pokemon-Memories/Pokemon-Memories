@@ -111,27 +111,28 @@ Note: Pokemon beneath the A-Tier, are listed alphabetically; Pokemon in the lowe
 
 Viability Rankings
 
-S-Tier (8 Total)
+S-Tier (7 Total)
 
 S+
 Mewtwo
-Dialga (S; Fire Memory)
+
+S
+Dialga
 
 S-
-Palkia
-Deoxys-Speed
-Zacian-Crowned (A-; Ground Memory)
-Landorus-Therian (A+; Grass Memory)
-Calyrex-Shadow
-Skarmory
 Meowscarada
+Palkia
+Zacian-Crowned (A-; Ground Memory)
+Calyrex-Shadow
+Landorus-Therian (A+; Grass Memory)
 
 
-A-Tier (37 Total)
+A-Tier (39 Total)
 
 A+
 Vaporeon
-Reshiram
+Skarmory
+Deoxys-Speed
 Groudon (B+; Fire Memory)
 Necrozma-Dusk-Mane (A-; Steel Memory)
 Tapu Koko
@@ -139,7 +140,7 @@ Zoroark-Hisui
 Klinklang
 Ho-Oh
 Thundurus-Therian
-Xerneas
+Xerneas (A; Memory Armor + Memory Disc)
 Arceus-Fairy
 Zarude
 
@@ -148,13 +149,16 @@ Necrozma-Ultra
 Kyurem-Black
 Rayquaza (B+; Fairy Memory/Flying Memory + Tailwind)
 Darkrai
-Lugia (B; Ice Memory)
+Entei
 Phione
 Meloetta
 Meloetta-Pirouette
+Zekrom
+Reshiram
 
 A-
 Eternatus
+Lilligant (B+; Ground Memory)
 Calyrex-Ice (B+; Electric Memory)
 Arceus
 Mew (B+; Protean + Fighting Memory)
@@ -164,15 +168,14 @@ Yveltal
 Bellsprout
 Lucario-Mega
 Porygon-Z (B; Dark Memory)
-Entei
 Cresselia
 Ludicolo
 Thundurus
+Lugia (B; Ice Memory)
 Cryogonal (B; Ground Memory)
-Zekrom
 
 
-B-Tier (63 Total)
+B-Tier (62 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
@@ -188,7 +191,6 @@ Greninja-Ash
 Keldeo
 Kyurem-White
 Hoopa Unbound
-Lilligant
 Lunala
 Magearna
 Magearna-Original
@@ -706,6 +708,7 @@ Strengths
 Weaknesses
 - Weaker Regenerator, due to the inability to use Sweet Apple concurrently with a Fire Memory
 - Worsened Matchup against opposing Water-Types; Gets nailed by Mewtwo's Water Sport
+- Stalemated by opposing Ho-Oh; While common Ho-Oh sets cannot break Dialga, some can, while Dialga can almost never break a healthy Ho-Oh.
 - Does not expand Dialga's coverage options, and as such, is subject to being disrupted by any Fire-Resists that previous frustrated Dialga
 
 Ice Memory
@@ -1101,7 +1104,11 @@ Common Moves
 Preferred Ability
 Idealist
 
-Playstyle: Ordinarily, Zekrom would be wholly irrelevant on account of being outclassed by Tapu Koko, who shares some of its weaknesses, while having significantly greater strengths, however the combined power of Idealist and Strange Wave allows Zekrom to carve out its own niche as a dedicated Choice Assassin that can attack opponents from either of their defenses without having to compromise its EV Spread to do so. Since the power of Strange Wave scales inversely with the Pokemon's Special Attack stat, Zekrom is able to freely invest its EVs into its Attack and Speed, while possessing a STAB Special Move that hits harder than most of its Physical Moves could. Furthermore, Zekrom's Special Attack stat is just low enough to allow it to hit the optimal number of 414 (236 BP) with the help of a SpA-Hindering Nature, and 5 IVs (411/239 BP achieves a similar result, but is technically suboptimal). In addition to its Choice-Locked sets, Zekrom also has the option to run Agility and Tailwind sets, which can potentially enable it to clean through weakened Teams, however its effectiveness will be noticeably impaired without the power from Idealist. If defeating Dialga is a particular concern, Royal Rampage can be substituted for another one of Zekrom's moveslots, however the sacrifice will be noticeable.
+Playstyle: While Zekrom would ordinarily find itself competing with its fellow Electric-Types such as Tapu Koko, for a teamslot, its signature Ability, Idealist allows it to outspeed the majority of the Tier with a Choice Scarf, while still hitting as hard as a Life Orb set through the power bonus imparted by its Ability. Bolt Strike allows Zekrom to decimate opposing Water-Types, and is powerful enough to even OHKO certain neutral-Typings in a pinch, while Royal Rampage allows Zekrom to hit and potentially OHKO Pokemon that may otherwise be able to absorb its Bolt Strikes, such as Meowscarada, or Dialga. Flying Deluge is Zekrom's third move of choice, as it provides it with a means of demolishing opposing Landorus-Therian and Ho-Oh that may otherwise be able to withstand its STABs, however Ice Punch or Stone Edge can be run if Zekrom is particularly concerned with hitting threats that Flying Deluge cannot cover. For the fourth slot, Zekrom will almost always want to run Slush Switch over Volt Switch, as it allows it to safely retreat from unfavorable Matchups without facing the risk of being impeded by opposing Ground-Types.
+
+Zekrom also has the option to run Mixed sets through its access to Strange Wave, as its Special Attack stat is just low enough to allow it to hit the optimal range of 414 SpA/236 BP through the use of a 0 EVs, a SpA-Hindering Nature, and 5 IVs (411/239 is equally powerful, however it is suboptimal, due to the unnecessary SpA reduction)
+
+Finally, Zekrom can attempt to run Light Ball/Life Orb Agility sets, or Zoom Lens Tailwind sets, however these are generally less effective than its Scarf Sets, and are best run on its Memory Formes
 
 Zekrom @ Choice Scarf  
 Ability: Idealist  
@@ -1110,19 +1117,20 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 IVs: 5 SpA  
 - Bolt Strike  
-- Earthquake / Stone Edge / Flying Deluge 
-- Strange Wave / Royal Rampage
-- Slush Switch 
+- Royal Rampage / Strange Wave 
+- Flying Deluge / Ice Punch / Stone Edge 
+- Slush Switch
 
 Strengths
 - Decent Offensive Typing
-- Bolt Strike deals massive damage, even when unboosted (provided it is holding a Light Ball)
+- Bolt Strike deals massive damage, even when unboosted (especially when boosted by Idealist, or a Light Ball)
+- Royal Rampage allows it to deal massive to opposing Dialga, and potentially OHKO it when boosted by Idealist
 - Powerful Mixed Coverage via Strange Wave
+- Idealist allows it to outspeed most Pokemon with a Choice Scarf, while hitting hard enough to OHKO several threats
 - Minus Nature 5 IV Strange Wave hits as hard as a 133 BP STAB-Move from a Neutral, 31 IV, 252 EV Physical Move
-- Good Speed
+- Excellent Speed Stat
 - Incredible Physical Stats
-- Teravolt allows Zekrom to bypass abilities, and force its way past potential checks under certain circumstances
-- Has access to Pivoting moves
+- Multiple Pivoting Moves
 - Flying Deluge allows it to hit both Lando-T, and Ho-Oh for x4 damage, improving its Matchups against them
 - Double-Layer, when paired with a Utility Umbrella, allows Zekrom to check most Kyogre sets, including its dangerous Sea Incense Thunder Wave sets
 
@@ -1169,7 +1177,7 @@ Jolly Nature
 - Agility / Dragon Dance / Royal Rampage
 
 Strengths
-- Improves Zekrom's matchup against opposing Dragons, somewhat, while keeping its Thunder Wave immunity
+- Improves Zekrom's matchup against opposing Dragons somewhat, while keeping its Thunder Wave immunity
 - Comparable Power on Electric-Moves to its Light Ball sets
 - Its Memory Ability, allows Zekrom to nearly completely reverse its poor Matchups against opposing Ground-Types
 
@@ -1232,7 +1240,7 @@ Common Moves
 
 Playstyle: While Mewtwo does not have a single "definitive" playstyle, there are certain things that Mewtwo generally doesn't do. Mewtwo usually does not want to run a Choice Item because there is no upgrade in the game that is worth sacrificing its Freedom for. It also does not generally want to run setup Status-moves outside of the rare Twisted Spoon sets, as opposing Scarfers will almost certainly be present to stop it. It is more than capable of running offensive Speed-Boosting moves, however. StallTwo can be run, be generally shouldn't be, as anything that can be stalled by StallTwo can simply be K.O.'d by Mewtwo. Psychic Power sets are best deployed during the early game, or following another ally fainting, as this allows Mewtwo to decimate its foes before its designated answers can switch in, while Hightened Mind sets are best used in the mid-to-late game, where Mewtwo can telekinetically wipe its hands of the remainder of the opponent's Team with impunity
 
-Mewtwo @ Adrenaline Orb  
+Mewtwo @ Adrenaline Orb
 Ability: Psychic Power  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature
@@ -1667,10 +1675,10 @@ Standard Pokemon Tier List
 S-Tier (7 Total) 
 
 S+   
-Mewtwo [Assists: Hp, Def, SpA, SpD, EX Lugia, EX Xerneas // Types: Dark, Fairy, Ground, Normal, ??? // Priority: 3]
 Arceus-Ground [Assists: Hp, Def, SpA, SpD, Spe // Types: Ice, Psychic, Water // Priority: 3]
 
 S
+Mewtwo [Assists: Hp, Def, SpA, SpD, EX Lugia, EX Xerneas // Types: Dark, Fairy, Ground, Normal, ??? // Priority: 3]
 Arceus [Assists: Atk // Types: Fighting, Psychic, Normal, ??? // Priority: 1]
 Gengar-Mega [Assists: SpA]
 Gengar [Assists: SpA]
