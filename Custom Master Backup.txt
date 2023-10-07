@@ -1,4 +1,185 @@
-=== [gen6ultraassist] Ultra Assist/Mewtwo Returns [Def Assist, Unown-S] ===
+=== [gen6balancedhackmons] Crashing Waves ===
+
+Keldeo-Resolute @ Choice Scarf  
+Ability: Primordial Sea  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Rash Nature  
+- Water Sport  
+- Fishious Rend  
+- Trick  
+- flipkick  
+
+Mewtwo-Mega-Y @ Adrenaline Orb  
+Ability: Primordial Sea  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Modest Nature  
+- Photon Geyser  
+- Surf  
+- slushswitch  
+- Quiver Dance  
+
+Arceus-Poison @ Black Sludge  
+Ability: Fur Coat  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Adamant Nature  
+- Gunk Shot  
+- Spectral Thief  
+- Celebrate  
+- Shift Gear  
+
+Rayquaza-Mega (M) @ Life Orb  
+Ability: Triage  
+Shiny: Yes  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Modest Nature  
+- Oblivion Wing  
+- Royal Forestation  
+- Heal Order  
+- Tail Glow  
+
+Zygarde-Complete (M) @ White Herb  
+Ability: doubledown  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD  
+Relaxed Nature  
+IVs: 0 Spe  
+- Dragon Breath  
+- Spectral Thief  
+- royalnourishment  
+- royalretreat  
+
+Xerneas (M) @ Bright Powder  
+Ability: spectralveil  
+Shiny: Yes  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD  
+Sassy Nature  
+- Moonblast  
+- Toxic Spikes  
+- royalnourishment  
+- royalretreat  
+
+
+=== [gen6balancedhackmons] Team Medley ===
+
+Mewtwo-Mega-X (M) @ Adrenaline Orb  
+Ability: formatdrive  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Jolly Nature  
+- psychoblitz  
+- royalpunishment  
+- mysteryspeed  
+- glacialstrike  
+
+Mewtwo-Mega-Y (M) @ Leftovers  
+Ability: spectralveil  
+Shiny: Yes  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Timid Nature  
+- Moongeist Beam  
+- Toxic Spikes  
+- Celebrate  
+- sludgeswitch  
+
+Zygarde-Complete (M) @ White Herb  
+Ability: doubledown  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD  
+Relaxed Nature  
+IVs: 0 Spe  
+- Dragon Breath  
+- Spectral Thief  
+- royalnourishment  
+- royalretreat  
+
+Arceus-Fairy @ Bright Powder  
+Ability: Fur Coat  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Modest Nature  
+- Moonblast  
+- Spectral Thief  
+- Celebrate  
+- Gear Up  
+
+Kyogre-Primal @ Leftovers  
+Ability: frostshield  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Origin Pulse  
+- Spectral Thief  
+- Celebrate  
+- Parting Shot  
+
+Eternatus (M) @ Black Sludge  
+Ability: doubledown  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD  
+Calm Nature  
+IVs: 0 Spe  
+- Venom Drench  
+- glacialstrike  
+- royalnourishment  
+- Parting Shot  
+
+
+=== [gen6unlimitedbh] Mewtwo Hackmons Testing ===
+
+Mewtwo-Mega-X @ Dubious Disc  
+Ability: inertia  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Jolly Nature  
+- vanishingstrike  
+- Submission  
+- royalpunishment  
+- Extreme Speed  
+
+Mewtwo-Mega-Y (M) @ Dragon Memory  
+Ability: Transistor  
+Shiny: Yes  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Expanding Force  
+- Dragon Energy  
+- Venom Drench  
+- Water Sport  
+
+Mewtwo-Mega-Y (M) @ Water Memory  
+Ability: Primordial Sea  
+Shiny: Yes  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Timid Nature  
+- Surf  
+- infernobeam  
+- Stealth Rock  
+- Trailblaze  
+
+Mewtwo-Mega-X (M) @ Dark Memory  
+Ability: Reckless  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Jolly Nature  
+- psychicstorm  
+- Submission  
+- Fiery Wrath  
+- snowrush  
+
+Mewtwo-Mega-Y @ Fairy Memory  
+Ability: bulldozer  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Timid Nature  
+- psychicinfinity  
+- infernobeam  
+- Fleur Cannon  
+- snowrush  
+
+Mewtwo-Mega-X (M) @ Fairy Memory  
+Ability: Dazzling  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Jolly Nature  
+- vanishingstrike  
+- Submission  
+- memoryblast  
+- Shell Smash  
+
+
+=== [gen6ultraassist] Ultra Assist/Mewtwo Returns (Def Assist, Unown-S) ===
 
 Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
@@ -60,7 +241,7 @@ IVs: 0 Spe
 - Parting Shot  
 
 
-=== [gen6ultraassist] Ultra Assist/A Different Approach [Atk Assist: Claydol] ===
+=== [gen6ultraassist] Ultra Assist/A Different Approach (Atk Assist: Claydol) ===
 
 Zacian-Crowned @ Metal Coat  
 Ability: Intrepid Sword  
@@ -121,7 +302,7 @@ IVs: 0 HP / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - U-turn  
 
 
-=== [gen6ultraassist] Ultra Assist/Dialga's Facade [Atk Assist: Victini] ===
+=== [gen6ultraassist] Ultra Assist/Dialga's Facade (Atk Assist: Victini) ===
 
 Gengar (M) @ Gengarite  
 Ability: dyslexia  
@@ -181,7 +362,7 @@ IVs: 0 HP / 0 Spe
 - Final Gambit  
 
 
-=== [gen6ultraassist] Ultra Assist/Calyrex Special [SpA Assist: Camerupt] ===
+=== [gen6ultraassist] Ultra Assist/Calyrex Special (SpA Assist: Camerupt) ===
 
 Calyrex-Shadow @ Water Stone  
 Ability: Power Spot  
@@ -244,7 +425,7 @@ IVs: 0 Atk / 0 Spe
 - Withdraw  
 
 
-=== [gen6ultraassist] Ultra Assist/Power of Stall [EX Lugia] ===
+=== [gen6ultraassist] Ultra Assist/Power of Stall (EX Lugia) ===
 
 Mewtwo @ Leftovers  
 Ability: psychicpower  
@@ -306,7 +487,7 @@ Calm Nature
 - Roost  
 
 
-=== [gen6ultraassist] Ultra Assist/Sustainability [EX Xerneas] ===
+=== [gen6ultraassist] Ultra Assist/Sustainability (EX Xerneas) ===
 
 Tapu Koko @ Light Ball  
 Ability: lightningforce  
@@ -368,7 +549,7 @@ IVs: 0 Atk / 0 Spe
 - Aromatic Mist  
 
 
-=== [gen6ultraassist] Ultra Assist/Impenetrable [SpD Assist: Unown-H] ===
+=== [gen6ultraassist] Ultra Assist/Impenetrable (SpD Assist: Unown-H) ===
 
 Lugia @ White Herb  
 Ability: deepsea  
@@ -431,7 +612,7 @@ IVs: 0 Spe
 - Parting Shot  
 
 
-=== [gen6ultraassist] Ultra Assist/Showtime [Atk Assist: Gallade] ===
+=== [gen6ultraassist] Ultra Assist/Showtime (Atk Assist: Gallade) ===
 
 Porygon-Z @ Life Orb  
 Ability: formatdrive  
@@ -494,7 +675,7 @@ IVs: 0 Def / 0 Spe
 - Low Sweep  
 
 
-=== [gen6ultraassist] Ultra Assist/Hyper Offense [EX-Darkrai] ===
+=== [gen6ultraassist] Ultra Assist/Hyper Offense (EX-Darkrai) ===
 
 Dialga @ Sweet Apple  
 Ability: Regenerator  
@@ -554,7 +735,7 @@ IVs: 0 Atk / 0 Spe
 - Dark Void  
 
 
-=== [gen6ultraassist] Ultra Assist/Destruction [EX-Yveltal] ===
+=== [gen6ultraassist] Ultra Assist/Destruction (EX-Yveltal) ===
 
 Porygon-Z @ Life Orb  
 Ability: formatdrive  
@@ -616,7 +797,7 @@ IVs: 0 Spe
 - Uproar  
 
 
-=== [gen6ultraassist] Ultra Assist/Spooky [EX-Calyrex Shadow] ===
+=== [gen6ultraassist] Ultra Assist/Spooky (EX-Calyrex Shadow) ===
 
 Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
@@ -675,7 +856,7 @@ Naive Nature
 - turbineturn  
 
 
-=== [gen6ultraassist] Ultra Assist/Resplendent Offense [SpA Assist: Bibarel] ===
+=== [gen6ultraassist] Ultra Assist/Resplendent Offense (SpA Assist: Bibarel) ===
 
 Meloetta @ Throat Spray  
 Ability: Serene Grace  
@@ -736,7 +917,7 @@ IVs: 0 Spe
 - Stealth Rock  
 
 
-=== [gen6ultraassist] Ultra Assist/Feathers of Providence [EX Ho-Oh] ===
+=== [gen6ultraassist] Ultra Assist/Feathers of Providence (EX Ho-Oh) ===
 
 Rotom-Fan @ Choice Scarf  
 Ability: propeller  
@@ -796,7 +977,7 @@ IVs: 0 Spe
 - flameswitch  
 
 
-=== [gen6ultraassist] Ultra Assist/The Aura is Mine [Hp Assist: Volcanion] ===
+=== [gen6ultraassist] Ultra Assist/The Aura is Mine (Hp Assist: Volcanion) ===
 
 Lucario (M) @ Cover Fossil  
 Ability: speedtouch  
@@ -857,7 +1038,7 @@ IVs: 0 SpA / 0 Spe
 - Withdraw  
 
 
-=== [gen6ultraassist] Ultra Assist/Merciless [Atk Assist: Slowking] ===
+=== [gen6ultraassist] Ultra Assist/Merciless (Atk Assist: Slowking) ===
 
 Virizion @ Lax Incense  
 Ability: fullbloom  
@@ -919,7 +1100,7 @@ IVs: 0 Spe
 - royalretreat  
 
 
-=== [gen6ultraassist] Ultra Assist/Mewtwo's Hightened Mind [SpA Assist: Wigglytuff] ===
+=== [gen6ultraassist] Ultra Assist/Mewtwo's Hightened Mind (SpA Assist: Wigglytuff) ===
 
 Mewtwo @ Dawn Stone  
 Ability: hightenedmind  
@@ -980,7 +1161,7 @@ IVs: 0 HP / 0 Spe
 - Blizzard  
 
 
-=== [gen6ultraassist] Ultra Assist/Special Bulk [SpD Assist: Gardevoir] ===
+=== [gen6ultraassist] Ultra Assist/Special Bulk (SpD Assist: Gardevoir) ===
 
 Gengar (M) @ Gengarite  
 Ability: dyslexia  
@@ -1042,7 +1223,7 @@ IVs: 0 Atk / 0 SpA / 0 Spe
 - Moonlight  
 
 
-=== [gen6ultraassist] Ultra Assist/Unbound [Atk Assist: Gallade] ===
+=== [gen6ultraassist] Ultra Assist/Unbound (Atk Assist: Gallade) ===
 
 Porygon-Z @ Life Orb  
 Ability: formatdrive  
@@ -1104,7 +1285,7 @@ IVs: 0 Def / 0 Spe
 - Low Sweep  
 
 
-=== [gen6ultraassist] Ultra Assist/Chaos [SpA Assist: Bibarel] ===
+=== [gen6ultraassist] Ultra Assist/Chaos (SpA Assist: Bibarel) ===
 
 Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
@@ -1166,7 +1347,7 @@ Bold Nature
 - expressheal  
 
 
-=== [gen6ultraassist] Ultra Assist/Contrarian [Def Assist: Unown-?] ===
+=== [gen6ultraassist] Ultra Assist/Contrarian (Def Assist: Unown-?) ===
 
 Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
@@ -1225,7 +1406,7 @@ Sassy Nature
 - Volt Switch  
 
 
-=== [gen6ultraassist] Ultra Assist/Insulation [SpD Assist: Keldeo] ===
+=== [gen6ultraassist] Ultra Assist/Insulation (SpD Assist: Keldeo) ===
 
 Infernape (M) @ Flame Orb  
 Ability: Protean  
@@ -1286,7 +1467,7 @@ IVs: 0 Spe
 - Flip Turn  
 
 
-=== [gen6ultraassist] Ultra Assist/Eternal Life [EX Xerneas] ===
+=== [gen6ultraassist] Ultra Assist/Eternal Life (EX Xerneas) ===
 
 Kyogre @ Choice Scarf  
 Ability: antipathy  
@@ -1347,7 +1528,128 @@ Jolly Nature
 - Dragon Dance  
 
 
-=== [gen6anythinggoes] Anything Goes/Infidels [Arceus, ???] ===
+=== [gen6anythinggoes] Mega Mewtwo's Army ===
+
+Mewtwo-Mega-X @ Mewtwonite X  
+Ability: psychoforce  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- vanishingstrike  
+- Submission  
+- Low Sweep  
+- Trailblaze  
+
+Mewtwo @ Mewtwonite Y  
+Ability: psychicpower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Expanding Force  
+- infernobeam  
+- Night Daze  
+- psychicwind  
+
+Vaporeon (F) @ Sitrus Berry  
+Ability: utilitylock  
+EVs: 4 HP / 252 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dragon Breath  
+- Spikes  
+- Yawn  
+- Withdraw  
+
+Palkia @ Choice Scarf  
+Ability: dracolate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- royalsubmersion  
+- Boomburst  
+- Dragon Breath  
+- Flip Turn  
+
+Arceus @ Dubious Disc  
+Ability: Multitype  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Extreme Speed  
+- memoryblast  
+- Rock Wrecker  
+- heavendance  
+
+Unown-W @ assistdrive  
+Ability: Shadow Tag  
+EVs: 252 Def  
+Relaxed Nature  
+IVs: 0 Spe  
+- Hidden Power  
+- memoryblast  
+- Perish Song  
+- Parting Shot  
+
+
+=== [gen6anythinggoes] Anti Mega Mewtwo Task Force ===
+
+Gallade @ assistdrive  
+Ability: Steadfast  
+Shiny: Yes  
+EVs: 252 Def / 252 SpD  
+Relaxed Nature  
+IVs: 0 Spe  
+- Zen Headbutt  
+- Close Combat  
+- Stone Edge  
+- Low Sweep  
+
+Xerneas @ Power Bracer  
+Ability: memoryarmor  
+Shiny: Yes  
+EVs: 252 Def / 252 SpD / 4 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Stealth Rock  
+- Aromatic Mist  
+- Teleport  
+
+Deoxys-Attack @ Life Orb  
+Ability: antipathy  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Naive Nature  
+- Zen Headbutt  
+- Dynamic Punch  
+- Rock Slide  
+- Extreme Speed  
+
+Deoxys-Attack @ Dubious Disc  
+Ability: antipathy  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Naive Nature  
+- Secret Power  
+- Dynamic Punch  
+- Rock Slide  
+- Extreme Speed  
+
+Mewtwo @ Dawn Stone  
+Ability: hightenedmind  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Stored Power  
+- infernobeam  
+- Water Sport  
+- Comeuppance  
+
+Vaporeon (F) @ Sitrus Berry  
+Ability: utilitylock  
+EVs: 4 HP / 252 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dragon Breath  
+- Stealth Rock  
+- Yawn  
+- Withdraw  
+
+
+=== [gen6anythinggoes] Anything Goes/Infidels (Arceus, ???) ===
 
 Mewtwo @ Mewtwonite X  
 Ability: psychicpower  
@@ -1406,7 +1708,7 @@ Jolly Nature
 - Trailblaze  
 
 
-=== [gen6anythinggoes] Anything Goes/Mega Rayquaza [Arceus, ???] ===
+=== [gen6anythinggoes] Anything Goes/Mega Rayquaza (Arceus, ???) ===
 
 Rayquaza @ Dragon Fang  
 Ability: dragonheart  
@@ -1468,7 +1770,7 @@ Adamant Nature
 - Spikes  
 
 
-=== [gen6anythinggoes] Anything Goes/Berserk Gene Mewtwo [Arceus, ???] ===
+=== [gen6anythinggoes] Anything Goes/Berserk Gene Mewtwo (Arceus, ???) ===
 
 Mewtwo @ Berserk Gene  
 Ability: psychicpower  
@@ -1528,7 +1830,7 @@ IVs: 0 Atk / 0 Spe
 - Stealth Rock  
 
 
-=== [gen6ubers] Pokemon Memories [Mewtwo, Dark] ===
+=== [gen6ubers] Pokemon Memories (Mewtwo, Dark) ===
 
 Mewtwo @ Dark Memory  
 Ability: psychicpower  
@@ -1588,7 +1890,7 @@ IVs: 0 Atk
 - Parting Shot  
 
 
-=== [gen6ubers] Colossal Torrents [Dialga, Fairy] ===
+=== [gen6ubers] Colossal Torrents (Dialga, Fairy) ===
 
 Dialga @ Fairy Memory  
 Ability: Regenerator  
@@ -1647,7 +1949,7 @@ Timid Nature
 - Flip Turn  
 
 
-=== [gen6ubers] Lilligant's Exuberance [Deoxys-Attack, ???] ===
+=== [gen6ubers] Lilligant's Exuberance (Deoxys-Attack, ???) ===
 
 Lilligant @ Flower Sweet  
 Ability: flowershield  
@@ -1706,7 +2008,7 @@ Naughty Nature
 - Extreme Speed  
 
 
-=== [gen6ubers] Lando Breaks the Ice [Lando-T, Ice] ===
+=== [gen6ubers] Lando Breaks the Ice (Lando-T, Ice) ===
 
 Landorus-Therian @ Ice Memory  
 Ability: inveigle  
@@ -1764,7 +2066,7 @@ Timid Nature
 - Flip Turn  
 
 
-=== [gen6ubers] The Genetic Pokemon [Zekrom, Dark] ===
+=== [gen6ubers] The Genetic Pokemon (Zekrom, Dark) ===
 
 Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
@@ -1826,7 +2128,7 @@ Calm Nature
 - Teleport  
 
 
-=== [gen6ubers] Pierce the Highest Heavens [Rayquaza, Flying] ===
+=== [gen6ubers] Pierce the Highest Heavens (Rayquaza, Flying) ===
 
 Rayquaza @ Flying Memory  
 Ability: dragonheart  
@@ -1944,7 +2246,7 @@ Timid Nature
 - Nasty Plot  
 
 
-=== [gen6ubers] Regen [Victini, Dragon] ===
+=== [gen6ubers] Regen (Victini, Dragon) ===
 
 Victini @ Dragon Memory  
 Ability: machspeed  
@@ -2003,7 +2305,7 @@ IVs: 0 Atk
 - Uproar  
 
 
-=== [gen6ubers] Arashi [Phione, Water] ===
+=== [gen6ubers] Arashi (Phione, Water) ===
 
 Phione @ Water Memory  
 Ability: Drizzle  
@@ -2065,7 +2367,7 @@ IVs: 0 Atk
 - Teleport  
 
 
-=== [gen6ubers] Strange Genetics [Mewtwo, Poison] ===
+=== [gen6ubers] Strange Genetics (Mewtwo, Poison) ===
 
 Mewtwo @ Poison Memory  
 Ability: psychicpower  
@@ -2123,7 +2425,7 @@ Jolly Nature
 - slushswitch  
 
 
-=== [gen6ubers] Bulky Xerneas [Xerneas, Poison] ===
+=== [gen6ubers] Bulky Xerneas (Xerneas, Poison) ===
 
 Xerneas @ Poison Memory  
 Ability: memoryarmor  
@@ -2183,11 +2485,12 @@ Naive Nature
 - slushswitch  
 
 
-=== [gen6ubers] Meloetta in Motion [✗] ===
+=== [gen9] Meloetta in Motion [✗) ===
 
 Meloetta @ Throat Spray  
 Ability: Serene Grace  
 Shiny: Yes  
+Tera Type: Normal  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Hyper Voice  
@@ -2198,6 +2501,7 @@ Timid Nature
 Regigigas @ Toxic Orb  
 Ability: Guts  
 Shiny: Yes  
+Tera Type: Normal  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Facade  
@@ -2207,6 +2511,7 @@ Jolly Nature
 
 Salamence (M) @ Salamencite  
 Ability: pacify  
+Tera Type: Dragon  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Adamant Nature  
 - Body Slam  
@@ -2216,6 +2521,7 @@ Adamant Nature
 
 Marshadow @ Life Orb  
 Ability: Technician  
+Tera Type: Fighting  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - spookyrevenge  
@@ -2225,6 +2531,7 @@ Jolly Nature
 
 Ho-Oh @ Sweet Apple  
 Ability: Magic Guard  
+Tera Type: Fire  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Careful Nature  
 - Sacred Fire  
@@ -2234,6 +2541,7 @@ Careful Nature
 
 Palkia @ Choice Scarf  
 Ability: dracolate  
+Tera Type: Water  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - royalsubmersion  
@@ -2242,7 +2550,7 @@ Timid Nature
 - Flip Turn  
 
 
-=== [gen6ubers] Mewtwo's Fighting Spirit [Mewtwo, Fighting] ===
+=== [gen6ubers] Mewtwo's Fighting Spirit (Mewtwo, Fighting) ===
 
 Mewtwo @ Fighting Memory  
 Ability: psychicpower  
@@ -2302,7 +2610,7 @@ Careful Nature
 - Aromatic Mist  
 
 
-=== [gen6ubers] Calamity [Necrozma-Dusk, Steel] ===
+=== [gen6ubers] Calamity (Necrozma-Dusk, Steel) ===
 
 Necrozma-Dusk-Mane @ Steel Memory  
 Ability: Tinted Lens  
@@ -2361,7 +2669,7 @@ Naive Nature
 - Night Daze  
 
 
-=== [gen6ubers] Chilling Moonlight [Cresselia, Ice] ===
+=== [gen6ubers] Chilling Moonlight (Cresselia, Ice) ===
 
 Cresselia @ Ice Memory  
 Ability: Regenerator  
@@ -2420,7 +2728,7 @@ Naive Nature
 - Night Daze  
 
 
-=== [gen6ubers] Splashing Strike [Keldeo, Water] ===
+=== [gen6ubers] Splashing Strike (Keldeo, Water) ===
 
 Keldeo-Resolute @ Water Memory  
 Ability: perfectsword  
@@ -2477,7 +2785,7 @@ Calm Nature
 - sludgeswitch  
 
 
-=== [gen6ubers] Grounded [Mewtwo, Ground] ===
+=== [gen6ubers] Grounded (Mewtwo, Ground) ===
 
 Mewtwo @ Ground Memory  
 Ability: psychicpower  
@@ -2535,7 +2843,7 @@ IVs: 0 Atk
 - Thunder Wave  
 
 
-=== [gen6ubers] Lilligant [Lilligant, Ground] ===
+=== [gen6ubers] Lilligant (Lilligant, Ground) ===
 
 Lilligant @ Ground Memory  
 Ability: flowershield  
@@ -2593,7 +2901,7 @@ Jolly Nature
 - Shadow Sneak  
 
 
-=== [gen6ubers] Desperate for Mesprit [Dialga, Rock] ===
+=== [gen6ubers] Desperate for Mesprit (Dialga, Rock) ===
 
 Mesprit @ Soul Dew  
 Ability: Dazzling  
@@ -2612,7 +2920,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 IVs: 5 SpA  
 - Bolt Strike  
-- strangewave  
+- royalrampage  
 - flyingdeluge  
 - slushswitch  
 
@@ -2656,7 +2964,7 @@ Careful Nature
 - Shell Smash  
 
 
-=== [gen6ubers] Fissure [Kyurem-B, Ground] ===
+=== [gen6ubers] Fissure (Kyurem-B, Ground) ===
 
 Kyurem-Black @ Ground Memory  
 Ability: dragonpower  
@@ -2715,7 +3023,7 @@ Calm Nature
 - sludgeswitch  
 
 
-=== [gen6ubers] Water-Trapper [Lapras, Grass] ===
+=== [gen6ubers] Water-Trapper (Lapras, Grass) ===
 
 Lapras (M) @ Grass Memory  
 Ability: Water Absorb  
@@ -2777,7 +3085,7 @@ IVs: 0 Atk
 - Thunder Wave  
 
 
-=== [gen6ubers] Black Ice [Calyrex-Ice, Ground] ===
+=== [gen6ubers] Black Ice (Calyrex-Ice, Ground) ===
 
 Calyrex-Ice @ Ground Memory  
 Ability: Ice Scales  
@@ -2837,7 +3145,7 @@ Calm Nature
 - sludgeswitch  
 
 
-=== [gen6ubers] Roto-F [Rotom-Frost, Dark] ===
+=== [gen6ubers] Roto-F (Rotom-Frost, Dark) ===
 
 Rotom-Frost @ Dark Memory  
 Ability: Prankster  
@@ -2895,7 +3203,7 @@ Lonely Nature
 - Shell Smash  
 
 
-=== [gen6ubers] Twinkle [Calyrex-Shadow, Fairy] ===
+=== [gen6ubers] Twinkle (Calyrex-Shadow, Fairy) ===
 
 Calyrex-Shadow @ Fairy Memory  
 Ability: Power Spot  
@@ -2954,7 +3262,7 @@ Jolly Nature
 - royalretreat  
 
 
-=== [gen6ubers] Merciless [Groudon, Fire] ===
+=== [gen6ubers] Merciless (Groudon, Fire) ===
 
 Groudon @ Fire Memory  
 Ability: Drought  
@@ -3010,12 +3318,12 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 IVs: 5 SpA  
 - Bolt Strike  
-- strangewave  
+- royalrampage  
 - flyingdeluge  
 - slushswitch  
 
 
-=== [gen6ubers] Offensive Weavile [Weavile, Dark] ===
+=== [gen6ubers] Offensive Weavile (Weavile, Dark) ===
 
 Weavile (M) @ Dark Memory  
 Ability: Tough Claws  
@@ -3075,7 +3383,7 @@ Jolly Nature
 - Shadow Sneak  
 
 
-=== [gen6ubers] Are you kidding me?! [Bellsprout, Ground] ===
+=== [gen6ubers] Are you kidding me?! (Bellsprout, Ground) ===
 
 Bellsprout (M) @ Ground Memory  
 Ability: Sheer Force  
@@ -3137,7 +3445,7 @@ IVs: 0 Atk
 - Teleport  
 
 
-=== [gen6ubers] Cryogonal [Cryogonal, Ground] ===
+=== [gen6ubers] Cryogonal (Cryogonal, Ground) ===
 
 Cryogonal @ Ground Memory  
 Ability: Multiscale  
@@ -3196,7 +3504,7 @@ IVs: 0 Atk
 - Parting Shot  
 
 
-=== [gen6ubers] Moonlit Night [Lunala, Ghost] ===
+=== [gen6ubers] Moonlit Night (Lunala, Ghost) ===
 
 Lunala @ Ghost Memory  
 Ability: Shadow Shield  
@@ -3254,7 +3562,7 @@ Jolly Nature
 - aquacharge  
 
 
-=== [gen6ubers] Your Bird May Become Violent [Mewtwo, Dark] ===
+=== [gen6ubers] Your Bird May Become Violent (Mewtwo, Dark) ===
 
 Ho-Oh @ Flame Orb  
 Ability: Regenerator  
@@ -3314,16 +3622,16 @@ Modest Nature
 - Flip Turn  
 
 
-=== [gen6ubers] Spooky [Mewtwo, Ghost] ===
+=== [gen6ubers] Spooky (Mewtwo, Ghost) ===
 
 Mewtwo @ Ghost Memory  
 Ability: psychicpower  
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Naive Nature  
-- shadowflame  
-- Aura Sphere  
+- Poltergeist  
+- infernobeam  
 - mineralcannon  
-- psychorush  
+- Trailblaze  
 
 Meowscarada (F) @ Lax Incense  
 Ability: parlortrick  
@@ -3372,7 +3680,7 @@ Naive Nature
 - Volt Switch  
 
 
-=== [gen6ubers] On the Defensive [Xerneas, Dragon] ===
+=== [gen6ubers] On the Defensive (Xerneas, Dragon) ===
 
 Calyrex-Shadow @ Choice Scarf  
 Ability: Power Spot  
@@ -3419,7 +3727,7 @@ Ability: Multitype
 EVs: 4 Atk / 252 Def / 252 Spe  
 Jolly Nature  
 - infinitevelocity  
-- royalforestation  
+- Royal Forestation  
 - royalretreat  
 - Recover  
 
@@ -3434,7 +3742,7 @@ IVs: 0 Atk
 - Withdraw  
 
 
-=== [gen6ubers] Alola [Dialga, Dark] ===
+=== [gen6ubers] Alola (Dialga, Dark) ===
 
 Pikachu-Alola @ Light Ball  
 Ability: alolaschampion  
@@ -3492,7 +3800,7 @@ Impish Nature
 - Aromatic Mist  
 
 
-=== [gen6ubers] Champion [Rayquaza, Fairy] ===
+=== [gen6ubers] Champion (Rayquaza, Fairy) ===
 
 Pikachu-Original (M) @ Light Ball  
 Ability: pokemonmaster  
@@ -3551,7 +3859,7 @@ Jolly Nature
 - heavendance  
 
 
-=== [gen6ubers] Ambush [Luxray, Dark] ===
+=== [gen6ubers] Ambush (Luxray, Dark) ===
 
 Luxray (M) @ Dark Memory  
 Ability: focused  
@@ -3611,7 +3919,7 @@ Jolly Nature
 - Dragon Dance  
 
 
-=== [gen6ubers] Enveloped [Volcanion, Grass] ===
+=== [gen6ubers] Enveloped (Volcanion, Grass) ===
 
 Volcanion @ Grass Memory  
 Ability: Water Absorb  
@@ -3672,7 +3980,7 @@ Calm Nature
 - slushswitch  
 
 
-=== [gen6ubers] Faster than Mewtwo [Regieleki, Ice] ===
+=== [gen6ubers] Faster than Mewtwo (Regieleki, Ice) ===
 
 Regieleki @ Ice Memory  
 Ability: Transistor  
@@ -3731,7 +4039,7 @@ Careful Nature
 - Aromatic Mist  
 
 
-=== [gen6ubers] Enigma [Deoxys-Attack, ???] ===
+=== [gen6ubers] Enigma (Deoxys-Attack, ???) ===
 
 Deoxys-Attack @ Dubious Disc  
 Ability: antipathy  
@@ -3790,7 +4098,7 @@ Timid Nature
 - Recover  
 
 
-=== [gen6ubers] Anti-Meta [Heatran, Poison] ===
+=== [gen6ubers] Anti-Meta (Heatran, Poison) ===
 
 Heatran (M) @ Poison Memory  
 Ability: Mold Breaker  
@@ -3851,7 +4159,7 @@ Careful Nature
 - U-turn  
 
 
-=== [gen6ubers] Tree of Life [Xerneas, Ground] ===
+=== [gen6ubers] Tree of Life (Xerneas, Ground) ===
 
 Xerneas @ Ground Memory  
 Ability: memoryarmor  
@@ -3910,7 +4218,7 @@ IVs: 0 Atk
 - Quiver Dance  
 
 
-=== [gen6ubers] Digitized [Porygon-Z, ???] ===
+=== [gen6ubers] Digitized (Porygon-Z, ???) ===
 
 Porygon-Z @ Dubious Disc  
 Ability: formatdrive  
@@ -3970,7 +4278,7 @@ IVs: 0 Atk
 - Autotomize  
 
 
-=== [gen6ubers] Elegance [Meloetta-Pirouette, Ice] ===
+=== [gen6ubers] Elegance (Meloetta-Pirouette, Ice) ===
 
 Meloetta-Pirouette @ Ice Memory  
 Ability: Defiant  
@@ -4031,7 +4339,7 @@ Jolly Nature
 - Dragon Dance  
 
 
-=== [gen6ubers] Mewtwo's Menagerie [Cresselia, Electric] ===
+=== [gen6ubers] Mewtwo's Menagerie (Cresselia, Electric) ===
 
 Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
@@ -4093,7 +4401,7 @@ Jolly Nature
 - heavendance  
 
 
-=== [gen6ubers] Shattered Earth [Cryogonal, Ground] ===
+=== [gen6ubers] Shattered Earth (Cryogonal, Ground) ===
 
 Cryogonal @ Ground Memory  
 Ability: Multiscale  
@@ -4151,7 +4459,7 @@ IVs: 0 Atk
 - Autotomize  
 
 
-=== [gen6ubers] Spooky Anatomy [Zapdos-Galar, Ghost] ===
+=== [gen6ubers] Spooky Anatomy (Zapdos-Galar, Ghost) ===
 
 Zapdos-Galar @ Ghost Memory  
 Ability: belligerent  
@@ -4210,7 +4518,7 @@ Jolly Nature
 - Gunk Shot  
 
 
-=== [gen6ubers] Articuno is Unbreakable [Lando-T, Grass] ===
+=== [gen6ubers] Articuno is Unbreakable (Lando-T, Grass) ===
 
 Articuno-Galar @ White Herb  
 Ability: frostyveil  
@@ -4270,7 +4578,7 @@ Timid Nature
 - Flip Turn  
 
 
-=== [gen6ubers] Meloetta's Aria [Diggersby, Rock] ===
+=== [gen6ubers] Meloetta's Aria (Diggersby, Rock) ===
 
 Meloetta @ Throat Spray  
 Ability: ensemble  
@@ -4330,7 +4638,7 @@ Jolly Nature
 - royalretreat  
 
 
-=== [gen6ubers] Is It Scary? [Calyrex-Shadow, Ghost] ===
+=== [gen6ubers] Is It Scary? (Calyrex-Shadow, Ghost) ===
 
 Calyrex-Shadow @ Ghost Memory  
 Ability: Power Spot  
@@ -4388,7 +4696,7 @@ Naive Nature
 - Night Daze  
 
 
-=== [gen6ubers] Forestation [Decidueye, Ghost] ===
+=== [gen6ubers] Forestation (Decidueye, Ghost) ===
 
 Decidueye (M) @ Ghost Memory  
 Ability: Reckless  
@@ -4450,7 +4758,7 @@ IVs: 0 Atk
 - Withdraw  
 
 
-=== [gen6ubers] Rocky Roads Ahead! [Dialga, Rock] ===
+=== [gen6ubers] Rocky Roads Ahead! (Dialga, Rock) ===
 
 Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
@@ -4510,7 +4818,7 @@ IVs: 0 Atk
 - Autotomize  
 
 
-=== [gen6ubers] Temporal [Mewtwo, Ghost] ===
+=== [gen6ubers] Temporal (Mewtwo, Ghost) ===
 
 Dialga @ Sweet Apple  
 Ability: Regenerator  
@@ -4523,12 +4831,12 @@ Gentle Nature
 
 Mewtwo @ Ghost Memory  
 Ability: psychicpower  
-EVs: 252 SpA / 4 SpD / 252 Spe  
-Timid Nature  
-- shadowflame  
-- Aura Sphere  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Naive Nature  
+- Poltergeist  
+- infernobeam  
 - mineralcannon  
-- froststep  
+- Trailblaze  
 
 Arceus-Fairy @ Pixie Plate  
 Ability: Multitype  
@@ -4570,7 +4878,7 @@ IVs: 0 Atk
 - Withdraw  
 
 
-=== [gen6ubers] Mewtwo's Mysteries [Mewtwo, ???] ===
+=== [gen6ubers] Mewtwo's Mysteries (Mewtwo, ???) ===
 
 Mewtwo @ Dubious Disc  
 Ability: psychicpower  
@@ -4631,7 +4939,7 @@ Lonely Nature
 - Shell Smash  
 
 
-=== [gen6ubers] Cold as Ice [Mewtwo, Ice] ===
+=== [gen6ubers] Cold as Ice (Mewtwo, Ice) ===
 
 Mewtwo @ Ice Memory  
 Ability: psychicpower  
@@ -4693,7 +5001,7 @@ Jolly Nature
 - Agility  
 
 
-=== [gen6ubers] Mewtwo's Ace [Ultra Necrozma, Rock] ===
+=== [gen6ubers] Mewtwo's Ace (Ultra Necrozma, Rock) ===
 
 Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
@@ -4752,7 +5060,7 @@ Timid Nature
 - U-turn  
 
 
-=== [gen6ubers] Water, Water... [Carracosta, Water] ===
+=== [gen6ubers] Water, Water... (Carracosta, Water) ===
 
 Carracosta (M) @ Water Memory  
 Ability: inveigle  
@@ -4812,7 +5120,7 @@ IVs: 0 Atk
 - Parting Shot  
 
 
-=== [gen6ubers] Valiant [Reshiram, Fire] ===
+=== [gen6ubers] Valiant (Reshiram, Fire) ===
 
 Reshiram @ Fire Memory  
 Ability: Turboblaze  
@@ -4875,7 +5183,7 @@ IVs: 0 Atk
 - Parting Shot  
 
 
-=== [gen6ubers] Mastermind [Mewtwo, Psychic] ===
+=== [gen6ubers] Mastermind (Mewtwo, Psychic) ===
 
 Mewtwo @ Psychic Memory  
 Ability: psychicpower  
@@ -4936,7 +5244,7 @@ Rash Nature
 - Uproar  
 
 
-=== [gen6ubers] Kuro [Zekrom, Dark] ===
+=== [gen6ubers] Kuro (Zekrom, Dark) ===
 
 Zekrom @ Dark Memory  
 Ability: Teravolt  
@@ -4997,7 +5305,7 @@ Timid Nature
 - Flip Turn  
 
 
-=== [gen6ubers] Resurgence [Xerneas, Steel Memory] ===
+=== [gen6ubers] Resurgence (Xerneas, Steel Memory) ===
 
 Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
@@ -5059,7 +5367,7 @@ IVs: 0 Atk
 - Parting Shot  
 
 
-=== [gen6ubers] Dominion [Mewtwo, Dark] ===
+=== [gen6ubers] Dominion (Mewtwo, Dark) ===
 
 Mewtwo @ Dark Memory  
 Ability: psychicpower  
@@ -5120,7 +5428,7 @@ Impish Nature
 - U-turn  
 
 
-=== [gen6ubers] Dubious [Porygon-Z, ???] ===
+=== [gen6ubers] Dubious (Porygon-Z, ???) ===
 
 Porygon-Z @ Dark Memory  
 Ability: formatdrive  
@@ -5181,7 +5489,7 @@ IVs: 0 Atk
 - Withdraw  
 
 
-=== [gen6ubers] Had Enough [Lando-T, Grass] ===
+=== [gen6ubers] Had Enough (Lando-T, Grass) ===
 
 Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
@@ -5239,7 +5547,7 @@ Timid Nature
 - aquacharge  
 
 
-=== [gen6ubers] Full Power [Mewtwo, Psychic] ===
+=== [gen6ubers] Full Power (Mewtwo, Psychic) ===
 
 Mewtwo @ Psychic Memory  
 Ability: psychicpower  
@@ -5299,7 +5607,7 @@ Jolly Nature
 - heavendance  
 
 
-=== [gen6ubers] Infinite Power [Mewtwo, Fighting] ===
+=== [gen6ubers] Infinite Power (Mewtwo, Fighting) ===
 
 Mewtwo @ Fighting Memory  
 Ability: psychicpower  
@@ -5359,7 +5667,7 @@ IVs: 0 Atk
 - Withdraw  
 
 
-=== [gen6ubers] Distortion [Dialga, ???] ===
+=== [gen6ubers] Distortion (Dialga, ???) ===
 
 Dialga @ Dubious Disc  
 Ability: Regenerator  
@@ -5420,7 +5728,7 @@ Jolly Nature
 - Shadow Sneak  
 
 
-=== [gen6ubers] Cherry Blossoms [Xerneas, Fairy] ===
+=== [gen6ubers] Cherry Blossoms (Xerneas, Fairy) ===
 
 Arceus @ Payapa Berry  
 Ability: impervious  
@@ -5482,7 +5790,7 @@ Jolly Nature
 - slushswitch  
 
 
-=== [gen6ubers] Frontal Assault [Dialga, Ice] ===
+=== [gen6ubers] Frontal Assault (Dialga, Ice) ===
 
 Mewtwo @ energypowder  
 Ability: psychicpower  
@@ -5542,7 +5850,7 @@ Careful Nature
 - Shell Smash  
 
 
-=== [gen6ubers] Into the Darkness [Mewtwo, Dark] ===
+=== [gen6ubers] Into the Darkness (Mewtwo, Dark) ===
 
 Mewtwo @ Dark Memory  
 Ability: psychicpower  
@@ -5601,7 +5909,7 @@ Careful Nature
 - U-turn  
 
 
-=== [gen6ubers] Path of Honor [Lando-T, Flying] ===
+=== [gen6ubers] Path of Honor (Lando-T, Flying) ===
 
 Zacian-Crowned @ Splash Plate  
 Ability: Intrepid Sword  
@@ -5660,7 +5968,7 @@ Jolly Nature
 - Howl  
 
 
-=== [gen6ubers] Sacred Methods [Zacian-Crowned, Ground] ===
+=== [gen6ubers] Sacred Methods (Zacian-Crowned, Ground) ===
 
 Mewtwo @ energypowder  
 Ability: psychicpower  
@@ -5720,7 +6028,7 @@ IVs: 0 Atk
 - Withdraw  
 
 
-=== [gen6ubers] Metal Madness [Necrozma-Dusk, Steel] ===
+=== [gen6ubers] Metal Madness (Necrozma-Dusk, Steel) ===
 
 Bellsprout (M) @ Toxic Orb  
 Ability: Sheer Force  
@@ -5780,7 +6088,7 @@ IVs: 0 Atk
 - Withdraw  
 
 
-=== [gen6ubers] Meow [Vaporeon, Dragon] ===
+=== [gen6ubers] Meow (Vaporeon, Dragon) ===
 
 Meowscarada (F) @ Lax Incense  
 Ability: parlortrick  
@@ -5840,7 +6148,7 @@ IVs: 0 Atk
 - Withdraw  
 
 
-=== [gen6ubers] Rayquaza's Divergence [Rayquaza, Fairy] ===
+=== [gen6ubers] Rayquaza's Divergence (Rayquaza, Fairy) ===
 
 Dialga @ Sweet Apple  
 Ability: Regenerator  
@@ -5899,7 +6207,7 @@ Careful Nature
 - U-turn  
 
 
-=== [gen6ubers] Higher Existence [Mewtwo, Fairy] ===
+=== [gen6ubers] Higher Existence (Mewtwo, Fairy) ===
 
 Mewtwo @ Fairy Memory  
 Ability: psychicpower  
@@ -5957,7 +6265,7 @@ IVs: 0 Atk
 - Parting Shot  
 
 
-=== [gen6ubers] Aqueous Downpour [Mewtwo, Water] ===
+=== [gen6ubers] Aqueous Downpour (Mewtwo, Water) ===
 
 Mewtwo @ Water Memory  
 Ability: psychicpower  
@@ -6017,7 +6325,7 @@ Jolly Nature
 - Autotomize  
 
 
-=== [gen6ubers] Mysteries [Mewtwo, ???] ===
+=== [gen6ubers] Mysteries (Mewtwo, ???) ===
 
 Mewtwo @ Dubious Disc  
 Ability: psychicpower  
@@ -6054,7 +6362,7 @@ Ability: Magic Guard
 EVs: 252 HP / 4 Atk / 252 SpD  
 Careful Nature  
 - Sacred Fire  
-- Stealth Rock  
+- Dragon Breath  
 - flameswitch  
 - Aromatic Mist  
 
@@ -6067,18 +6375,18 @@ Jolly Nature
 - slushswitch  
 - Trailblaze  
 
-Arceus-Water @ Splash Plate  
-Ability: Multitype  
-Shiny: Yes  
-EVs: 4 HP / 252 Atk / 252 Spe  
-Jolly Nature  
-- sacredwater  
-- Focus Blast  
-- Recover  
-- royalretreat  
+Vaporeon (F) @ Sitrus Berry  
+Ability: utilitylock  
+EVs: 4 HP / 252 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dragon Breath  
+- Stealth Rock  
+- Yawn  
+- Withdraw  
 
 
-=== [gen6ubers] Burning Passion [Groudon, Fire] ===
+=== [gen6ubers] Burning Passion (Groudon, Fire) ===
 
 Groudon @ Fire Memory  
 Ability: Drought  
@@ -6115,7 +6423,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 IVs: 5 SpA  
 - Bolt Strike  
-- strangewave  
+- royalramapge  
 - flyingdeluge  
 - slushswitch  
 
@@ -6140,7 +6448,7 @@ IVs: 0 Atk
 - Withdraw  
 
 
-=== [gen6ubers] Fractured [Dialga, Fairy] ===
+=== [gen6ubers] Fractured (Dialga, Fairy) ===
 
 Dialga @ Fairy Memory  
 Ability: Regenerator  
@@ -6199,7 +6507,7 @@ Jolly Nature
 - Trailblaze  
 
 
-=== [gen6ubers] Sheer Darkness [Umbreon, Dark] ===
+=== [gen6ubers] Sheer Darkness (Umbreon, Dark) ===
 
 Umbreon @ Dark Memory  
 Ability: Analytic  
@@ -6258,7 +6566,7 @@ Timid Nature
 - Dark Pulse  
 
 
-=== [gen6ubers] Unbreakable [Zacian-Crowned, Ground] ===
+=== [gen6ubers] Unbreakable (Zacian-Crowned, Ground) ===
 
 Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
@@ -6319,7 +6627,7 @@ Naive Nature
 - Volt Switch  
 
 
-=== [gen6ubers] Meloetta's Aria [Mewtwo, ???] ===
+=== [gen6ubers] Meloetta's Aria (Mewtwo, ???) ===
 
 Meloetta @ Throat Spray  
 Ability: ensemble  
@@ -6379,7 +6687,7 @@ Jolly Nature
 - Trailblaze  
 
 
-=== [gen6ubers] Perpetuity [Mewtwo, Water] ===
+=== [gen6ubers] Perpetuity (Mewtwo, Water) ===
 
 Eternatus @ Black Sludge  
 Ability: spacepower  
@@ -6438,7 +6746,7 @@ Jolly Nature
 - sludgeswitch  
 
 
-=== [gen6ubers] Strong Winds Ahead [Arceus, Ice] ===
+=== [gen6ubers] Strong Winds Ahead (Arceus, Ice) ===
 
 Rayquaza @ Zoom Lens  
 Ability: dragonheart  
@@ -6498,7 +6806,7 @@ IVs: 0 Atk
 - Parting Shot  
 
 
-=== [gen6ubers] Hyper Offense [Mewtwo, Fairy] ===
+=== [gen6ubers] Hyper Offense (Mewtwo, Fairy) ===
 
 Kyurem-Black @ Snowball  
 Ability: dragonpower  
@@ -6559,7 +6867,7 @@ Careful Nature
 - Aromatic Mist  
 
 
-=== [gen6ubers] Dawn of Time [Mewtwo, Fairy] ===
+=== [gen6ubers] Dawn of Time (Mewtwo, Fairy) ===
 
 Arceus @ Enigma Berry  
 Ability: impervious  
@@ -6618,7 +6926,7 @@ IVs: 0 Atk
 - Parting Shot  
 
 
-=== [gen6ubers] Underutilized [Kyurem-Black, Ice] ===
+=== [gen6ubers] Underutilized (Kyurem-Black, Ice) ===
 
 Darkrai @ Choice Scarf  
 Ability: midnightveil  
@@ -6678,7 +6986,7 @@ Rash Nature
 - Uproar  
 
 
-=== [gen6ubers] Psycho-Killer [Mewtwo, Psychic] ===
+=== [gen6ubers] Psycho-Killer (Mewtwo, Psychic) ===
 
 Mewtwo @ Psychic Memory  
 Ability: psychicpower  
@@ -6737,7 +7045,7 @@ Timid Nature
 - Flip Turn  
 
 
-=== [gen6ubers] Shadows [Necrozma-Dusk, Steel] ===
+=== [gen6ubers] Shadows (Necrozma-Dusk, Steel) ===
 
 Zoroark-Hisui (M) @ Spooky Plate  
 Ability: Tough Claws  
@@ -6798,7 +7106,7 @@ Careful Nature
 - Aromatic Mist  
 
 
-=== [gen6ubers] Rapidash-Galar's Light [Mewtwo, Psychic] ===
+=== [gen6ubers] Rapidash-Galar's Light (Mewtwo, Psychic) ===
 
 Rapidash-Galar (F) @ Bright Powder  
 Ability: luminouspower  
@@ -6857,10 +7165,11 @@ Impish Nature
 - royalretreat  
 
 
-=== [gen6ubers] Entropy [✗] ===
+=== [gen9] Entropy [✗) ===
 
 Palkia @ Choice Specs  
 Ability: dracolate  
+Tera Type: Water  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
 - royalsubmersion  
@@ -6870,6 +7179,7 @@ Modest Nature
 
 Deoxys-Attack @ Protector  
 Ability: antipathy  
+Tera Type: Psychic  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
 - Psycho Boost  
@@ -6880,6 +7190,7 @@ Naive Nature
 Shaymin-Sky @ Stone Plate  
 Ability: airforce  
 Shiny: Yes  
+Tera Type: Grass  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
 IVs: 0 Atk  
@@ -6891,6 +7202,7 @@ IVs: 0 Atk
 Skarmory (M) @ Choice Scarf  
 Ability: windstreamer  
 Shiny: Yes  
+Tera Type: Steel  
 EVs: 252 HP / 172 Def / 84 Spe  
 Jolly Nature  
 - Brave Bird  
@@ -6901,6 +7213,7 @@ Jolly Nature
 Arceus @ Payapa Berry  
 Ability: impervious  
 Shiny: Yes  
+Tera Type: Normal  
 EVs: 252 HP / 4 Atk / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
@@ -6911,6 +7224,7 @@ Jolly Nature
 Zoroark-Hisui (M) @ Spooky Plate  
 Ability: Tough Claws  
 Shiny: Yes  
+Tera Type: Normal  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - shadowflame  
@@ -6919,7 +7233,7 @@ Jolly Nature
 - snowrush  
 
 
-=== [gen6ubers] Celestial [Lando-T, Grass] ===
+=== [gen6ubers] Celestial (Lando-T, Grass) ===
 
 Dialga @ Dawn Stone  
 Ability: Regenerator  
@@ -6979,7 +7293,7 @@ Impish Nature
 - U-turn  
 
 
-=== [gen6ubers] Full Moon [Porygon-Z, Dark] ===
+=== [gen6ubers] Full Moon (Porygon-Z, Dark) ===
 
 Lunala @ Moon Stone  
 Ability: Shadow Shield  
@@ -7041,7 +7355,7 @@ Lonely Nature
 - Autotomize  
 
 
-=== [gen6ubers] Hightened Mind [Lando-T, Grass] ===
+=== [gen6ubers] Hightened Mind (Lando-T, Grass) ===
 
 Mewtwo @ Dawn Stone  
 Ability: hightenedmind  
@@ -7101,7 +7415,7 @@ IVs: 0 Atk
 - Withdraw  
 
 
-=== [gen6ubers] Merciless [Weavile, Dark] ===
+=== [gen6ubers] Merciless (Weavile, Dark) ===
 
 Weavile (M) @ Dark Memory  
 Ability: Tough Claws  
@@ -7160,7 +7474,7 @@ Timid Nature
 - slushswitch  
 
 
-=== [gen6ubers] Lurking in the Dark [Caly-S, Ghost] ===
+=== [gen6ubers] Lurking in the Dark (Caly-S, Ghost) ===
 
 Calyrex-Shadow @ Ghost Memory  
 Ability: Power Spot  
@@ -7222,7 +7536,7 @@ Mild Nature
 - Uproar  
 
 
-=== [gen6ubers] Is GeoXern Viable? [Lunala, Dark] ===
+=== [gen6ubers] Is GeoXern Viable? (Lunala, Dark) ===
 
 Xerneas @ Power Herb  
 Ability: Fairy Aura  
@@ -7284,7 +7598,7 @@ Rash Nature
 - Uproar  
 
 
-=== [gen6ubers] Erratic [Lugia, Ice] ===
+=== [gen6ubers] Erratic (Lugia, Ice) ===
 
 Tapu Koko @ Light Ball  
 Ability: lightningforce  
@@ -7345,7 +7659,7 @@ IVs: 0 Atk
 - Parting Shot  
 
 
-=== [gen6ubers] Aviation [Mewtwo, Flying] ★ ===
+=== [gen6ubers] Aviation (Mewtwo, Flying] ★ ===
 
 Mewtwo @ Flying Memory  
 Ability: psychicpower  
@@ -7407,11 +7721,12 @@ Adamant Nature
 - Spikes  
 
 
-=== [gen6ubers] Dominance [✗] ===
+=== [gen9] Dominance [✗) ===
 
 Arceus @ Payapa Berry  
 Ability: impervious  
 Shiny: Yes  
+Tera Type: Normal  
 EVs: 252 HP / 4 Atk / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
@@ -7421,6 +7736,7 @@ Jolly Nature
 
 Ho-Oh @ Sweet Apple  
 Ability: Magic Guard  
+Tera Type: Fire  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Careful Nature  
 - Sacred Fire  
@@ -7430,6 +7746,7 @@ Careful Nature
 
 Calyrex-Shadow @ Choice Scarf  
 Ability: Power Spot  
+Tera Type: Psychic  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
@@ -7441,6 +7758,7 @@ IVs: 0 Atk
 Mewtwo @ Dawn Stone  
 Ability: hightenedmind  
 Shiny: Yes  
+Tera Type: Psychic  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Stored Power  
@@ -7451,6 +7769,7 @@ Timid Nature
 Yveltal @ Zoom Lens  
 Ability: Dark Aura  
 Shiny: Yes  
+Tera Type: Dark  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Rash Nature  
 - Rock Slide  
@@ -7461,6 +7780,7 @@ Rash Nature
 Deoxys-Speed @ Nomel Berry  
 Ability: inertia  
 Shiny: Yes  
+Tera Type: Psychic  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Adamant Nature  
 - Rock Slide  
@@ -7469,7 +7789,7 @@ Adamant Nature
 - Spikes  
 
 
-=== [gen6ubers] Warm Colors [Necrozma-Dusk, Steel] ===
+=== [gen6ubers] Warm Colors (Necrozma-Dusk, Steel) ===
 
 Thundurus-Therian @ Zoom Lens  
 Ability: malleate  
@@ -7530,7 +7850,7 @@ Careful Nature
 - Aromatic Mist  
 
 
-=== [gen6ubers] Enlightened [Solgaleo, Fire] ===
+=== [gen6ubers] Enlightened (Solgaleo, Fire) ===
 
 Mewtwo @ Dawn Stone  
 Ability: hightenedmind  
@@ -7591,10 +7911,11 @@ Careful Nature
 - Aromatic Mist  
 
 
-=== [gen6ubers] Dusk [Thundurus, Fighting] ===
+=== [gen9] Dusk [Thundurus, Fighting) ===
 
 Dialga @ Dusk Stone  
 Ability: Regenerator  
+Tera Type: Steel  
 EVs: 232 Atk / 136 SpD / 140 Spe  
 Lonely Nature  
 - Breaking Swipe  
@@ -7604,6 +7925,7 @@ Lonely Nature
 
 Vaporeon @ Leftovers  
 Ability: utilitylock  
+Tera Type: Water  
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
@@ -7614,6 +7936,7 @@ IVs: 0 Atk
 
 Ho-Oh @ Sweet Apple  
 Ability: Magic Guard  
+Tera Type: Fire  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Careful Nature  
 - Sacred Fire  
@@ -7624,6 +7947,7 @@ Careful Nature
 Skarmory (M) @ Choice Scarf  
 Ability: windstreamer  
 Shiny: Yes  
+Tera Type: Steel  
 EVs: 252 HP / 172 Def / 84 Spe  
 Jolly Nature  
 - Brave Bird  
@@ -7633,6 +7957,7 @@ Jolly Nature
 
 Thundurus-Therian @ Fighting Memory  
 Ability: malleate  
+Tera Type: Electric  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Dual Wingbeat  
@@ -7643,6 +7968,7 @@ Jolly Nature
 Yveltal @ Zoom Lens  
 Ability: Dark Aura  
 Shiny: Yes  
+Tera Type: Dark  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Rash Nature  
 - Rock Slide  
@@ -7651,11 +7977,12 @@ Rash Nature
 - Uproar  
 
 
-=== [gen6ubers] Ultra [✗] ===
+=== [gen9] Ultra [✗) ===
 
 Necrozma-Dusk-Mane @ Dragon Scale  
 Ability: searingburst  
 Shiny: Yes  
+Tera Type: Psychic  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Naive Nature  
 - Light That Burns the Sky  
@@ -7665,6 +7992,7 @@ Naive Nature
 
 Vaporeon @ Leftovers  
 Ability: utilitylock  
+Tera Type: Water  
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
@@ -7676,6 +8004,7 @@ IVs: 0 Atk
 Darkrai @ Bright Powder  
 Ability: midnightveil  
 Shiny: Yes  
+Tera Type: Dark  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Dark Pulse  
@@ -7685,6 +8014,7 @@ Timid Nature
 
 Phione @ Choice Scarf  
 Ability: Drizzle  
+Tera Type: Water  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Surf  
@@ -7695,6 +8025,7 @@ Timid Nature
 Mewtwo @ Dawn Stone  
 Ability: hightenedmind  
 Shiny: Yes  
+Tera Type: Psychic  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
 - Stored Power  
@@ -7704,6 +8035,7 @@ Naive Nature
 
 Deoxys-Speed @ Nomel Berry  
 Ability: inertia  
+Tera Type: Psychic  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Adamant Nature  
 - Payback  
@@ -7712,7 +8044,7 @@ Adamant Nature
 - Stealth Rock  
 
 
-=== [gen6ubers] Twisted Development [Lando-T, Grass] ===
+=== [gen6ubers] Twisted Development (Lando-T, Grass) ===
 
 Mewtwo @ Twisted Spoon  
 Ability: psychicpower  
@@ -7773,7 +8105,7 @@ IVs: 0 Atk
 - Withdraw  
 
 
-=== [gen6ubers] Caption This [Mewtwo, Dark] ===
+=== [gen6ubers] Caption This (Mewtwo, Dark) ===
 
 Dialga @ Metal Coat  
 Ability: Regenerator  
@@ -7832,11 +8164,12 @@ IVs: 0 Atk
 - Withdraw  
 
 
-=== [gen6ubers] Something New [Thundurus, Fighting] ===
+=== [gen9] Something New [Thundurus, Fighting) ===
 
 Skarmory (M) @ Choice Scarf  
 Ability: windstreamer  
 Shiny: Yes  
+Tera Type: Steel  
 EVs: 252 HP / 172 Def / 84 Spe  
 Jolly Nature  
 - Brave Bird  
@@ -7847,6 +8180,7 @@ Jolly Nature
 Yveltal @ Zoom Lens  
 Ability: Dark Aura  
 Shiny: Yes  
+Tera Type: Dark  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Rash Nature  
 - Rock Slide  
@@ -7856,6 +8190,7 @@ Rash Nature
 
 Thundurus-Therian @ Fighting Memory  
 Ability: malleate  
+Tera Type: Electric  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Dual Wingbeat  
@@ -7865,6 +8200,7 @@ Jolly Nature
 
 Deoxys-Speed @ Nomel Berry  
 Ability: inertia  
+Tera Type: Psychic  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Adamant Nature  
 - Rock Slide  
@@ -7874,6 +8210,7 @@ Adamant Nature
 
 Vaporeon @ Leftovers  
 Ability: utilitylock  
+Tera Type: Water  
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
@@ -7884,6 +8221,7 @@ IVs: 0 Atk
 
 Mewtwo @ Dawn Stone  
 Ability: hightenedmind  
+Tera Type: Psychic  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
 - Stored Power  
@@ -7892,7 +8230,7 @@ Naive Nature
 - Comeuppance  
 
 
-=== [gen6ubers] Perfect Form [Mewtwo, Fighting] ===
+=== [gen6ubers] Perfect Form (Mewtwo, Fighting) ===
 
 Mewtwo @ Fighting Memory  
 Ability: psychicpower  
@@ -7952,7 +8290,7 @@ IVs: 0 Atk
 - Withdraw  
 
 
-=== [gen6ubers] Rampant [Caly-Ice, Electric] ===
+=== [gen6ubers] Rampant (Caly-Ice, Electric) ===
 
 Calyrex-Ice @ Electric Memory  
 Ability: Ice Scales  
@@ -8012,7 +8350,7 @@ Rash Nature
 - Uproar  
 
 
-=== [gen6ubers] Dyslexic [Lilligant, Grass] ===
+=== [gen6ubers] Dyslexic (Lilligant, Grass) ===
 
 Landorus (M) @ White Herb  
 Ability: dyslexia  
@@ -8074,10 +8412,11 @@ Jolly Nature
 - snowrush  
 
 
-=== [gen6ubers] Plaintive [✗] ===
+=== [gen9] Plaintive [✗) ===
 
 Mewtwo @ Dawn Stone  
 Ability: hightenedmind  
+Tera Type: Psychic  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
 - Stored Power  
@@ -8087,6 +8426,7 @@ Naive Nature
 
 Calyrex-Shadow @ Choice Scarf  
 Ability: Power Spot  
+Tera Type: Psychic  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
@@ -8098,6 +8438,7 @@ IVs: 0 Atk
 Arceus-Ground @ Earth Plate  
 Ability: Multitype  
 Shiny: Yes  
+Tera Type: Ground  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Judgment  
@@ -8107,6 +8448,7 @@ Timid Nature
 
 Dialga @ Sweet Apple  
 Ability: Regenerator  
+Tera Type: Steel  
 EVs: 192 HP / 176 SpD / 140 Spe  
 Careful Nature  
 - Breaking Swipe  
@@ -8116,6 +8458,7 @@ Careful Nature
 
 Vaporeon @ Leftovers  
 Ability: utilitylock  
+Tera Type: Water  
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
@@ -8127,6 +8470,7 @@ IVs: 0 Atk
 Darkrai @ Bright Powder  
 Ability: midnightveil  
 Shiny: Yes  
+Tera Type: Dark  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Dark Pulse  
@@ -8135,7 +8479,7 @@ Timid Nature
 - slushswitch  
 
 
-=== [gen6ubers] Mew's Fight [Mew, Fighting] ===
+=== [gen6ubers] Mew's Fight (Mew, Fighting) ===
 
 Mew @ Fighting Memory  
 Ability: Protean  
@@ -8196,7 +8540,7 @@ Careful Nature
 - Aromatic Mist  
 
 
-=== [gen6ubers] Rocky Road [Dialga, Rock] ===
+=== [gen6ubers] Rocky Road (Dialga, Rock) ===
 
 Dialga @ Rock Memory  
 Ability: Regenerator  
@@ -8224,7 +8568,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 IVs: 5 SpA  
 - Bolt Strike  
-- strangewave  
+- royalrampage  
 - flyingdeluge  
 - slushswitch  
 
@@ -8257,7 +8601,7 @@ Jolly Nature
 - Trailblaze  
 
 
-=== [gen6ubers] Hydro Homies [Kyogre, Water] ===
+=== [gen6ubers] Hydro Homies (Kyogre, Water) ===
 
 Kyogre @ Water Memory  
 Ability: Drizzle  
@@ -8319,7 +8663,7 @@ IVs: 0 Atk
 - Withdraw  
 
 
-=== [gen6ubers] Meloetta's Tenacity [Meloetta, ???] ===
+=== [gen6ubers] Meloetta's Tenacity (Meloetta, ???) ===
 
 Meloetta @ Dubious Disc  
 Ability: Serene Grace  
@@ -8374,12 +8718,12 @@ Ability: Multitype
 EVs: 4 Atk / 252 Def / 252 Spe  
 Jolly Nature  
 - infinitevelocity  
-- royalforestation  
+- Royal Forestation  
 - royalretreat  
 - Recover  
 
 
-=== [gen6ubers] Sacred Hero [Zacian-Ground] ===
+=== [gen6ubers] Sacred Hero (Zacian-Ground) ===
 
 Skarmory (M) @ Choice Scarf  
 Ability: windstreamer  
@@ -8441,7 +8785,7 @@ Jolly Nature
 - Trailblaze  
 
 
-=== [gen6ubers] Water Control [Lando-T, Grass] ===
+=== [gen6ubers] Water Control (Lando-T, Grass) ===
 
 Zoroark-Hisui (M) @ Spooky Plate  
 Ability: Tough Claws  
@@ -8503,7 +8847,7 @@ IVs: 0 Atk
 - Parting Shot  
 
 
-=== [gen6ubers] Release the Darkness [Zoro-H, Ghost] ===
+=== [gen6ubers] Release the Darkness (Zoro-H, Ghost) ===
 
 Hoopa-Unbound @ Choice Scarf  
 Ability: pacify  
@@ -8563,7 +8907,7 @@ Timid Nature
 - fluttersong  
 
 
-=== [gen6ubers] Shifting Gears [Zacian, Ground] ===
+=== [gen6ubers] Shifting Gears (Zacian, Ground) ===
 
 Klinklang @ Metal Coat  
 Ability: utilitylock  
@@ -8623,7 +8967,7 @@ Timid Nature
 - Recover  
 
 
-=== [gen6ubers] Intransigent [Mewtwo, Ice] ===
+=== [gen6ubers] Intransigent (Mewtwo, Ice) ===
 
 Bellsprout (M) @ Toxic Orb  
 Ability: Sheer Force  
@@ -8683,7 +9027,7 @@ Jolly Nature
 - Trailblaze  
 
 
-=== [gen6ubers] Mimic You [Mewtwo, Poison] ===
+=== [gen6ubers] Mimic You (Mewtwo, Poison) ===
 
 Rotom @ Light Ball  
 Ability: Magic Bounce  
@@ -8721,7 +9065,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 IVs: 5 SpA  
 - Bolt Strike  
-- strangewave  
+- royalrampage  
 - flyingdeluge  
 - slushswitch  
 
@@ -8745,7 +9089,7 @@ IVs: 0 Atk
 - Withdraw  
 
 
-=== [gen6ubers] Something Different [Deoxys-Attack, ???] ===
+=== [gen6ubers] Something Different (Deoxys-Attack, ???) ===
 
 Lucario (M) @ Cover Fossil  
 Ability: speedtouch  
@@ -8804,7 +9148,7 @@ Jolly Nature
 - Trailblaze  
 
 
-=== [gen6ubers] Infernape, Go! [Necrozma-Dusk, Steel] ===
+=== [gen6ubers] Infernape, Go! (Necrozma-Dusk, Steel) ===
 
 Infernape (M) @ Flame Orb  
 Ability: Protean  
@@ -8864,7 +9208,7 @@ Modest Nature
 - Flip Turn  
 
 
-=== [gen6ubers] Scintillating [Mewtwo, Fairy] ===
+=== [gen6ubers] Scintillating (Mewtwo, Fairy) ===
 
 Dialga @ Sweet Apple  
 Ability: Regenerator  
@@ -8925,7 +9269,7 @@ Naughty Nature
 - Autotomize  
 
 
-=== [gen6ubers] Practical Solutions [Mewtwo, Steel] ===
+=== [gen6ubers] Practical Solutions (Mewtwo, Steel) ===
 
 Mewtwo @ Steel Memory  
 Ability: psychicpower  
@@ -8985,7 +9329,7 @@ Careful Nature
 - Shell Smash  
 
 
-=== [gen6ubers] Mewtwo #150: Psycho Killer [Mewtwo, Psychic] ===
+=== [gen6ubers] Mewtwo #150: Psycho Killer (Mewtwo, Psychic) ===
 
 Mewtwo @ Psychic Memory  
 Ability: psychicpower  
@@ -9045,7 +9389,7 @@ Naughty Nature
 - Autotomize  
 
 
-=== [gen6ubers] Bolt Beak [Rayquaza, Electric] ===
+=== [gen6ubers] Bolt Beak (Rayquaza, Electric) ===
 
 Rayquaza @ Electric Memory  
 Ability: dragonheart  
@@ -9106,7 +9450,7 @@ Modest Nature
 - Flip Turn  
 
 
-=== [gen6ubers] Dawn of Fire [Mimikyu, Fire] ===
+=== [gen6ubers] Dawn of Fire (Mimikyu, Fire) ===
 
 Mewtwo @ Dawn Stone  
 Ability: hightenedmind  
@@ -9167,7 +9511,7 @@ Jolly Nature
 - Trailblaze  
 
 
-=== [gen6ubers] Intense Heat [Groudon, Fire] ===
+=== [gen6ubers] Intense Heat (Groudon, Fire) ===
 
 Groudon @ Fire Memory  
 Ability: Drought  
@@ -9227,7 +9571,7 @@ IVs: 0 Atk
 - Withdraw  
 
 
-=== [gen6ubers] Zekrom's Ideals [Rotom, Fire] ===
+=== [gen6ubers] Zekrom's Ideals (Rotom, Fire) ===
 
 Zekrom @ Choice Scarf  
 Ability: idealist  
@@ -9236,7 +9580,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 IVs: 5 SpA  
 - Bolt Strike  
-- strangewave  
+- royalrampage  
 - flyingdeluge  
 - slushswitch  
 
@@ -9289,13 +9633,13 @@ Careful Nature
 - Shell Smash  
 
 
-=== [gen6ubers] What is this? [Calyrex-Shadow, Fighting] ===
+=== [gen6ubers] What is this? (Calyrex-Shadow, Fighting) ===
 
 Calyrex-Shadow @ Fighting Memory  
 Ability: Power Spot  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- Dark Pulse  
+- Psycho Boost  
 - Astral Barrage  
 - memoryblast  
 - accelerate  
@@ -9349,11 +9693,12 @@ Naive Nature
 - Geomancy  
 
 
-=== [gen6ubers] Shiro [✗] ===
+=== [gen9] Shiro [✗) ===
 
 Tapu Koko @ Light Ball  
 Ability: lightningforce  
 Shiny: Yes  
+Tera Type: Electric  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Bolt Strike  
@@ -9363,6 +9708,7 @@ Jolly Nature
 
 Mewtwo @ Dawn Stone  
 Ability: hightenedmind  
+Tera Type: Psychic  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
 - Stored Power  
@@ -9372,6 +9718,7 @@ Naive Nature
 
 Reshiram @ Choice Scarf  
 Ability: realist  
+Tera Type: Dragon  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Blue Flare  
@@ -9382,6 +9729,7 @@ Timid Nature
 Meowscarada (F) @ Lax Incense  
 Ability: parlortrick  
 Shiny: Yes  
+Tera Type: Grass  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Flower Trick  
@@ -9391,6 +9739,7 @@ Jolly Nature
 
 Vaporeon (F) @ Sitrus Berry  
 Ability: utilitylock  
+Tera Type: Water  
 EVs: 4 HP / 252 Def / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
@@ -9402,6 +9751,7 @@ IVs: 0 Atk
 Kyurem-Black @ Snowball  
 Ability: dragonpower  
 Shiny: Yes  
+Tera Type: Dragon  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - glacialstrike  
@@ -9410,7 +9760,7 @@ Jolly Nature
 - slushswitch  
 
 
-=== [gen6ubers] Fountain of Life [Dialga, Fire] ===
+=== [gen6ubers] Fountain of Life (Dialga, Fire) ===
 
 Rotom @ Sweet Apple  
 Ability: Magic Bounce  
@@ -9429,7 +9779,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 IVs: 5 SpA  
 - Bolt Strike  
-- strangewave  
+- royalrampage  
 - flyingdeluge  
 - slushswitch  
 
@@ -9474,9 +9824,9 @@ IVs: 0 Atk
 - Parting Shot  
 
 
-=== [gen6ubers] Lilligant's Adventure [Lilligant, Fairy] ===
+=== [gen6ubers] Lilligant's Adventure (Lilligant, Ground) ===
 
-Lilligant @ Fairy Memory  
+Lilligant @ Ground Memory  
 Ability: flowershield  
 Shiny: Yes  
 EVs: 248 HP / 8 Def / 68 SpD / 184 Spe  
@@ -9484,7 +9834,7 @@ Jolly Nature
 IVs: 9 SpA  
 - Apple Acid  
 - strangewave  
-- Hydro Pump  
+- Trailblaze  
 - Recover  
 
 Tapu Koko @ Light Ball  
@@ -9537,7 +9887,7 @@ Careful Nature
 - Shell Smash  
 
 
-=== [gen6ubers] Mewtwo's Ocean [Mewtwo, Water] ===
+=== [gen6ubers] Mewtwo's Ocean (Mewtwo, Water) ===
 
 Mewtwo @ Water Memory  
 Ability: psychicpower  
@@ -9595,5 +9945,64 @@ Careful Nature
 - Fire Blast  
 - Flash Cannon  
 - Shell Smash  
+
+
+=== [gen6ubers] Celestial Night (Xerneas, Poison) ===
+
+Necrozma-Dawn-Wings @ Assault Vest  
+Ability: lightinversion  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+- Moongeist Beam  
+- Signal Beam  
+- expressheal  
+- sludgeswitch  
+
+Xerneas @ Poison Memory  
+Ability: memoryarmor  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- memoryblast  
+- Focus Blast  
+- Aromatic Mist  
+- Teleport  
+
+Meowscarada (F) @ Lax Incense  
+Ability: parlortrick  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Flower Trick  
+- Night Slash  
+- slushswitch  
+- Trailblaze  
+
+Klinklang @ Metal Coat  
+Ability: utilitylock  
+EVs: 252 HP / 252 Def / 4 Spe  
+Impish Nature  
+- Gear Grind  
+- Thunder Wave  
+- Stealth Rock  
+- royalretreat  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Stored Power  
+- infernobeam  
+- Water Sport  
+- Night Daze  
+
+Entei @ Lax Incense  
+Ability: doublelayer  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Sacred Fire  
+- Stone Edge  
+- Aromatic Mist  
+- Withdraw  
 
 
