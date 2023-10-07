@@ -1,5 +1,72 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v1.6.6
+General
+- Mechanics
+	- Arceus
+		- No longer hardcoded as a Normal-Type; independent Arceus Formes will now work properly without their respective Plates in the Formats where it is allowed
+- Formats
+	- Balanced Hackmons
+		- Balanced Hackmons has been given its own category
+		- Unlimited BH (Balanced Hackmons with Unlimited Memory Discs) has been implemented
+- Tiering
+	- All Legal Pokemon that were formerly categorized as Illegal Pokemon have been recategorized as Battle Only, AG Formes. This change primarily affects Other Metagames such as Balanced Hackmons
+	- Affected Pokemon: Tornadus-Therian, Zygarde-Complete, Necrozma-Ultra
+- Rulesets
+	- Universal
+		- Stacking Clause (Memory Disc + Assist Drive ban) has been updated to function properly
+		- Beast Ball banned from all Ubers Tiers.
+	- Balanced Hackmons
+		- 510 EV Limit has been removed for the Balanced Hackmons Formats; The EV Limit still applies to regular Tiers
+		- Forme Clause Implemented
+		- Compound Clause: No more than two Memory Discs are allowed on a Team
+		- Banlist Additions: Bulldozer, Candle Trap, Contrary, Defeatist, Inertia, Intrepid Sword, Perfect Sword, Parental Bond, Psychic Infinity, Resolution, Storm Throw, Submission, Tempest, Thousand Arms, Vanishing Strike
+			- Banned Pokemon: Eternatus-Eternamax
+		- Mechanic Bans
+			- Memorization
+		- Banlist Removals: Groudon-Primal, Kyogre-Primal
+	- Unlimited BH
+		- Stacking Clause removed: Players can now use a Memory Disc and Assist Drive on the same Team
+
+Abilities
+- Nimble
+	- Effect: Pokemon's Status Moves have +1 Priority, however they cannot use any Status Moves that directly cause Paralysis
+- Triage
+	- Penalty: Priority-Boosted Moves have their Base Power divided by ÷1.5
+	
+Moves
+- Core Enforcer
+	- Secondary Effect: 50% Par Chance -> 20% Freeze Chance
+- Geomancy
+	- "Heal" flag removed
+	- Proper flags have been restored to this move
+- Heal Order
+	- Target HP Reduction: 1/2 Max Hp -> 1/4 Max Hp
+	- Health Restoration: 100% -> 200%
+- Jungle Healing
+	- PP: 1 -> 5
+- Multi-Attack
+	- Base Power: 80 -> 180
+- Night Daze
+	- No longer bypasses Light Inversion
+- Psycho Blitz
+	- Mega Mewtwo X Base Power: 240 -> 190
+- Secret Power
+	- Corrected an oversight where the attempted remedy in v1.6.2 was erroneously applied as the Electric-Terrain effect instead of the non-Terrain effect
+- Thunderous Kick
+	- Kinetic Power Boost: x1.5 -> x1.3
+
+Pokemon
+- Arceus
+	- Learnset Additions
+		- Multi-Attack
+- Eternatus-Eternamax
+	- Tier: Unplayable -> Anything Goes
+	- Conditions: Transforms using a Beast Ball
+- Magikarp
+	- Added Ability
+		- Nimble
+
 Pokemon Memories v1.6.5
 Memory Mechanics
 - Fire Memory
@@ -7,11 +74,19 @@ Memory Mechanics
 		- Base Power boost no longer applies while the Pokemon is boosted in the stat they are attacking in.
 
 Abilities
+- Antipathy
+	- Now has a proper Proclamation Message
+- Dazzling
+	- Now has a Proclamation
 - Flower Shield
 	- Memory Effect: Raises the Pokemon's Def and SpD by 1 stage each upon switching in
+- Hyper Speed
+	- Proclamation Message added
 - Idealist
 	- Power Boost: x1.5 -> x1.3
 	- Penalty: Pokemon's Moves lose their secondary effects
+- Mach Speed
+	- Proclamation Message added
 - Realist
 	- Power Boost: x1.5 -> x1.3
 - Reckless
