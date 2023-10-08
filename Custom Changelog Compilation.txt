@@ -29,6 +29,7 @@ Section E
 			• Burst Moves
 			• Kinetic Moves
 			• Super Moves
+		• Special Move Interactions
 Section F
 	• List of Affected Moves
 Section G
@@ -1682,6 +1683,8 @@ Incompatible with Eviolite
 New Moves
 Belly Drum
 Chilling Water
+Heart Sap
+Strength Sap
 ------
 Wigglytuff
 Hp: 140 -> 240 = +100
@@ -2936,9 +2939,9 @@ Hp: 160 -> 160 = +0
 Atk: 240 -> 280 = +40
 Def: 180 -> 180 = +0
 SpA: 320 -> 400 = +80
-SpD: 280 -> 320 = +40
+SpD: 280 -> 360 = +80
 Spe: 160 -> 160 = +0
-BST: 1340 -> 1500
+BST: 1340 -> 1540
 Ability: Primordial Sea
 --
 Groudon   
@@ -2963,7 +2966,7 @@ Dragon Tail
 Primal Groudon (Anything Goes)
 Hp: 160 -> 160 = +0
 Atk: 320 -> 400 = +80
-Def: 280 -> 320 = +40
+Def: 280 -> 360 = +80
 SpA: 240 -> 280 = +40
 SpD: 180 -> 180 = +0
 Spe: 160 -> 160 = +0
@@ -4285,7 +4288,7 @@ Grass Knot
 Solar Beam
 
 Indignation
-Effect: Atk and SpA are multiplied by x1.3 if user has a status condition
+Effect: Atk and SpA are multiplied by x1.5 if user has a status condition
 ------------------------------------------------------------------------
 Stoutland
 Hp: 85 -> 165 = +80
@@ -5713,9 +5716,9 @@ Head Charge
 Hold Back
 Shadow Ball
 Double-Edge
-Extreme Speed
 Mystery Sphere
 Gyro Ball
+Quick Attacks
 ------------------------------------------------------------------------
 Volcanion   
 Hp: 80 -> 180 = +100
@@ -9042,43 +9045,58 @@ Banlist
 
 Balanced Hackmons
 Ruleset
-- Memory Clause: Only one Memory Disc is allowed per Team*
-- Assist Clause: Only one Assist Drive is allowed per Team
-- Stacking Clause: Players cannot run a Memory Disc and Assist Drive concurrently*
-- Compound Clause: No more than two Memory Discs are allowed on a Team
+- Assist Clause: Only one Assist Drive is allowed per Team*
+- Compound Clause: No more than two Memory Discs are allowed on a Team*
+- Memory Ability Clause: Pokemon must be Memorized to use Memory Abilities
+- Stacking Clause: Teams cannot run a Memory Disc and Assist Drive concurrently*
 
 Banlist
 Abilities
+	- Alola's Champion
 	- Arena Trap
 	- Bulldozer
 	- Candle Trap
 	- Contrary
 	- Defeatist
 	- Huge Power
-	- Inertia
+	- Indignation
+	- Inertia⚫
 	- Intrepid Sword
+	- Merciless
 	- Parental Bond
+	- Plant Power
 	- Perfect Sword
+	- Psychic Assault
+	- Psycho Force
 	- Pure Power
 	- Resolution
 	- Shadow Tag
+	- Substitute
 	- Tempest
 	- Thousand Arms
 	- Wonder Guard
+- Items
+	- Prism Scale
 - Mechanics
-	- Memorization*
+	- Ultra Assist*
 Moves
 	- Assist
+	- Belly Drum
 	- Chatter
 	- Vanishing Strike
 	- Psychic Infinity
-	- Storm Throw
+	- Royal Punishment⚫
+	- Simple
 	- Submission
+	- Tail Glow
 
 Pokemon
 	- Eternatus-Eternamax
+	- Mewtwo-Mega-X*
+	- Mewtwo-Mega-Y*
 
 * Does not apply to Unlimited BH
+⚫ Exclusively applies to Unlimited BH
 =========================================================================================
 Section C  
 Special Mechanics   
@@ -9571,6 +9589,24 @@ Description: Attacking moves that hit most or all Types Super-Effectively
 Flash
 Royal Punishment
 ------------------------------------------------------------------------
+Special Move Interactions
+Description: Certain moves may have special properties that are not directly connected to a particular Item or Ability
+
+Sound-Moves
+Interaction: x1.5 Base Power when used by either Meloetta Forme
+
+Extreme Speed
+Interaction: x1.2 Power when used by a Pokemon with an -ate Ability; Increased Base Power when used by Arceus
+
+Fake Out
+Interaction: x1.2 Power when used by a Pokemon with an -ate Ability
+
+Psycho Blitz
+Interaction: Increased Power when used by Mega Mewtwo X
+
+Uproar
+Interaction: 100% Accuracy when used by a Dark-Type; Move will not activate when a Pokemon has a Choice Item
+------------------------------------------------------------------------
 Section F  
 List of Affected Moves  
 ------------------------------------------------------------------------
@@ -9608,7 +9644,7 @@ PP: 20 -> 10
 Acrobatics
 Base Power: 55 -> 110
 Doubled Power: 110 -> 220
-Bonuses: Automatically doubles power if user is Arceus Flying, or if the Pokemon is Memorized.
+Bonuses: Automatically doubles power if user is Arceus Flying.
 PP: 15 -> 5
 --
 Aerial Ace
@@ -10133,8 +10169,8 @@ Counter
 Damage Multiplier: x2 -> x1.5
 --
 Core Enforcer
-Base Power: 100 -> 180
-Secondary Effect: Disables abilities if user moves last -> 50% chance to paralyze opponent
+Base Power: 100 -> 150
+Exceptions: Battle Bond, Comatose, Disguise, Ensemble, Impervious, Malleate, Multitype, Power Construct, RKS System, Schooling, Shields Down, Stance Change
 --
 Cosmic Starfall (New Move)
 Base Power: 180
@@ -10828,7 +10864,7 @@ Base Power: 120 -> 200
 Category: G 
 --
 Gastro Acid
-Exceptions: Core Power, Ensemble, Malleate, Ascension, Impervious.
+Exceptions: Battle Bond, Comatose, Disguise, Ensemble, Impervious, Malleate, Multitype, Power Construct, RKS System, Schooling, Shields Down, Stance Change
 --
 Gear Grind
 Base Power: 50 -> 70
@@ -10920,9 +10956,23 @@ Base Power: 150 -> 170
 Recoil: 1/2 -> 1/3
 --
 Heal Order
-Category: Status -> Special
-Effect: The Pokemon deal damage equal to 1/4 of the target's Max HP, and restores damage equal to half of the target's Max Hp
-PP: 10 -> 5 (Static)
+Category: Status -> Status
+Effect: The Pokemon deals damage equal to 1/4 of the target's Max HP, and restores damage equal to half of the target's Max Hp. The amount of health restored decreases the more this Move is used. This attrition will remain in effect until the user switches out
+Health Restored by Uses
+- First: x2 Damage Inflicted
+- Second: x1.5 Damage Inflicted
+- Third: x1 Damage Inflicted
+- Fourth: x0.67 Damage Inflicted
+PP: 10 -> 5
+--
+Heart Sap (New Move)
+Base Power: __
+Category: Status
+Accuracy: 100
+Effect: Lowers the Target's Special Attack Stat by 1 stage, and restores Hp equal to 1/3 of the Target's Special Attack Stat before the move was used.
+PP: 10
+Priority: 0
+Target: Normal
 --
 Heat Crash
 Mechanics: Power depends on user's and target's weight -> Power depends on user's base attack stat.
@@ -12506,7 +12556,6 @@ Type: Ice
 Spectral Thief
 Base Power: 90 -> 120
 Contact: Yes
-Mechanics: Steals the user's stat boosts before attacking -> Ignores changes to user's Def/SpD and Evasion stat; Clears target's stats, and steals their Item
 --
 Spike Cannon
 Base Power: 25 -> 35
@@ -12531,7 +12580,7 @@ Base Power: Varies (650 BP - Pokemon's Raw SpA Stat; 40 BP Floor; 650 BP Ceiling
 Category: Special
 Accuracy: 100
 Effect: Ignores Defensive stat changes; Type Changes to match the user's Primary Type
-Penalty: Not boosted by Fairy Aura or Dark Aura
+Penalty: Not boosted by Fairy Aura or Dark Aura; Not affected by Category-Changing Abilities
 PP: 10
 Priority: +0
 Target: Normal
@@ -12590,11 +12639,7 @@ Strength
 Base Power: 80 -> 130
 --
 Strength Sap
-Base Power __ -> 125
-Category: Status -> Physical
-Contact: Yes
-Effect: Heals damage proportional to target's Atk stat -> Heals 75% of damage inflicted.
-PP: 10 -> 5
+Effect: Lowers the Target's Attack Stat by 1 stage, and restores Hp equal to 1/3 of the Target's Attack Stat before the move was used.
 --
 Struggle
 Base Power: 50 -> 140
@@ -13171,7 +13216,7 @@ Imposter
 Effect: No longer accessible.
 --
 Indignation
-Effect: Atk and SpA are multiplied by x1.3 if user has a status condition
+Effect: Atk and SpA are multiplied by x1.5 if user has a status condition
 --
 Inertia
 Effect: Pokemon will move first in its priority bracket if its Speed stat is equal to, or greater than the opponent's.
@@ -13384,7 +13429,7 @@ Additional Checks: Fails if used against Pokemon with the abilities: "Impervious
 Triage
 Priority Boost: +3 -> +2
 Additional Effect: Ineffective against Pokemon with Mold Breaker, Teravolt, Turboblaze, or Inertia.
-Penalty: Priority-Boosted Moves have their Base Power divided by ÷1.5
+Penalty: Priority-Boosted Moves have their Base Power divided by ÷1.25 (around x0.8)
 ------------------------------------------------------------------------
 Category: U 
 --
@@ -13795,7 +13840,7 @@ Focus Band
 Effect: Prevents holder from being forced out. Single Use.
 --
 Focus Sash
-Effect: 50% chance to survive move that would normally OHKO at Full HP.
+Effect: 25% chance to survive move that would normally OHKO at Full HP.
 --
 Flower Sweet
 Effect: Raises Def and SpD by 1 stage each upon switching in if the holder is a Pure Grass-Type; Fails if Pokemon has any additional Types, regardless of whether or not it has the Grass-Typing; Does not consume Item.
