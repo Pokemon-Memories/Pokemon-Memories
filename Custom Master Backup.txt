@@ -1,30 +1,152 @@
-=== [gen6balancedhackmons] Crashing Waves ===
+=== [gen6balancedhackmons] Berserk Gene ===
 
-Keldeo-Resolute @ Choice Scarf  
+Mewtwo @ Berserk Gene  
 Ability: Primordial Sea  
 EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
-Rash Nature  
-- Water Sport  
-- Fishious Rend  
-- Trick  
-- flipkick  
+Jolly Nature  
+- Sacred Sword  
+- Storm Throw  
+- glacialstrike  
+- Heal Order  
 
-Mewtwo-Mega-Y @ Adrenaline Orb  
+Gallade-Mega (M) @ Dubious Disc  
+Ability: inertia  
+Shiny: Yes  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Jolly Nature  
+- royalpunishment  
+- Storm Throw  
+- Sunsteel Strike  
+- Heal Order  
+
+Kyurem-Black @ Snowball  
+Ability: Refrigerate  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Jolly Nature  
+- Fake Out  
+- Extreme Speed  
+- glacialstrike  
+- slushswitch  
+
+Rayquaza-Mega (M) @ Steel Memory  
+Ability: Unseen Fist  
+Shiny: Yes  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Jolly Nature  
+- Gear Up  
+- Heat Crash  
+- Heal Order  
+- sludgeswitch  
+
+Celesteela @ Rose Incense  
 Ability: Primordial Sea  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD  
+Relaxed Nature  
+IVs: 0 Spe  
+- Dragon Breath  
+- Dragon Rage  
+- royalnourishment  
+- Parting Shot  
+
+Arceus-Fairy @ Bright Powder  
+Ability: doubledown  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Serious Nature  
+- Nature's Madness  
+- Stealth Rock  
+- Strength Sap  
+- royalretreat  
+
+
+=== [gen6balancedhackmons] Fairy Aura ===
+
+Mewtwo @ Fairy Memory  
+Ability: flowershield  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Timid Nature  
+- cosmicstarfall  
+- Fleur Cannon  
+- Dragon Breath  
+- Heal Order  
+
+Kyogre-Primal @ Leftovers  
+Ability: doubledown  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Origin Pulse  
+- Spectral Thief  
+- expressheal  
+- royalretreat  
+
+Arceus-Fairy @ Bright Powder  
+Ability: doubledown  
 EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
 Modest Nature  
-- Photon Geyser  
-- Surf  
-- slushswitch  
-- Quiver Dance  
+IVs: 0 Atk  
+- Nature's Madness  
+- Core Enforcer  
+- Celebrate  
+- Gear Up  
 
-Arceus-Poison @ Black Sludge  
+Necrozma-Ultra (M) @ Dragon Memory  
+Ability: hyperspeed  
+Shiny: Yes  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Naive Nature  
+- Sunsteel Strike  
+- Dragon Energy  
+- Bolt Beak  
+- slushswitch  
+
+Regigigas (M) @ Toxic Orb  
+Ability: Guts  
+Shiny: Yes  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Jolly Nature  
+- Facade  
+- Triple Axel  
+- Heal Order  
+- Shift Gear  
+
+Celesteela @ Metal Coat  
+Ability: spectralveil  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD  
+Relaxed Nature  
+IVs: 0 Spe  
+- Stealth Rock  
+- Dragon Breath  
+- royalnourishment  
+- Parting Shot  
+
+
+=== [gen6balancedhackmons] Crashing Waves ===
+
+Diancie-Mega @ Pixie Plate  
+Ability: Pixilate  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Naughty Nature  
+- Fake Out  
+- Extreme Speed  
+- Boomburst  
+- Celebrate  
+
+Mewtwo @ Water Memory  
+Ability: Primordial Sea  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Timid Nature  
+- Psystrike  
+- etherealstream  
+- lustrousstream  
+- Heal Order  
+
+Arceus-Fairy @ Bright Powder  
 Ability: Fur Coat  
 EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
-Adamant Nature  
-- Gunk Shot  
+Modest Nature  
+- Nature's Madness  
 - Spectral Thief  
-- Celebrate  
+- Strength Sap  
 - Shift Gear  
 
 Rayquaza-Mega (M) @ Life Orb  
@@ -33,16 +155,16 @@ Shiny: Yes
 EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
 Modest Nature  
 - Oblivion Wing  
-- Royal Forestation  
+- royalforestation  
 - Heal Order  
-- Tail Glow  
+- Nasty Plot  
 
-Zygarde-Complete (M) @ White Herb  
+Zygarde-Complete (M) @ Dubious Disc  
 Ability: doubledown  
 EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD  
 Relaxed Nature  
 IVs: 0 Spe  
-- Dragon Breath  
+- Core Enforcer  
 - Spectral Thief  
 - royalnourishment  
 - royalretreat  
@@ -52,7 +174,7 @@ Ability: spectralveil
 Shiny: Yes  
 EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD  
 Sassy Nature  
-- Moonblast  
+- Nature's Madness  
 - Toxic Spikes  
 - royalnourishment  
 - royalretreat  
@@ -60,31 +182,31 @@ Sassy Nature
 
 === [gen6balancedhackmons] Team Medley ===
 
-Mewtwo-Mega-X (M) @ Adrenaline Orb  
-Ability: formatdrive  
+Calyrex-Shadow @ Dragon Memory  
+Ability: Shadow Shield  
 EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
 Jolly Nature  
-- psychoblitz  
-- royalpunishment  
-- mysteryspeed  
-- glacialstrike  
+- cosmicstarfall  
+- Dragon Energy  
+- Steel Beam  
+- Heal Order  
 
-Mewtwo-Mega-Y (M) @ Leftovers  
-Ability: spectralveil  
+Necrozma-Dusk-Mane (M) @ Steel Memory  
+Ability: Unseen Fist  
 Shiny: Yes  
 EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
-Timid Nature  
-- Moongeist Beam  
-- Toxic Spikes  
-- Celebrate  
-- sludgeswitch  
+Jolly Nature  
+- Sunsteel Strike  
+- Triple Axel  
+- shatterbolt  
+- Shift Gear  
 
 Zygarde-Complete (M) @ White Herb  
 Ability: doubledown  
 EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD  
 Relaxed Nature  
 IVs: 0 Spe  
-- Dragon Breath  
+- Core Enforcer  
 - Spectral Thief  
 - royalnourishment  
 - royalretreat  
@@ -93,23 +215,23 @@ Arceus-Fairy @ Bright Powder
 Ability: Fur Coat  
 EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
 Modest Nature  
-- Moonblast  
+- Nature's Madness  
 - Spectral Thief  
-- Celebrate  
+- Strength Sap  
 - Gear Up  
 
-Kyogre-Primal @ Leftovers  
-Ability: frostshield  
+Kyogre-Primal @ Assault Vest  
+Ability: doubledown  
 EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD  
 Sassy Nature  
 IVs: 0 Spe  
 - Origin Pulse  
 - Spectral Thief  
-- Celebrate  
-- Parting Shot  
+- expressheal  
+- royalretreat  
 
 Eternatus (M) @ Black Sludge  
-Ability: doubledown  
+Ability: spectralveil  
 EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD  
 Calm Nature  
 IVs: 0 Spe  
@@ -3727,7 +3849,7 @@ Ability: Multitype
 EVs: 4 Atk / 252 Def / 252 Spe  
 Jolly Nature  
 - infinitevelocity  
-- Royal Forestation  
+- royalforestation  
 - royalretreat  
 - Recover  
 
@@ -8718,7 +8840,7 @@ Ability: Multitype
 EVs: 4 Atk / 252 Def / 252 Spe  
 Jolly Nature  
 - infinitevelocity  
-- Royal Forestation  
+- royalforestation  
 - royalretreat  
 - Recover  
 
