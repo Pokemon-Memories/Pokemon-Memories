@@ -478,6 +478,8 @@ Sawsbuck-Autumn: 		BST: 1304
 Sawsbuck-Summer: 		BST: 1304
 Sawsbuck-Winter: 		BST: 1304
 Bellsprout: 			BST: 1300
+Mega Charizard X: 		BST: 1300
+Mega Charizard Y: 		BST: 1300
 Drive Genesect: 		BST: 1300
 Genesect: 			BST: 1300
 Giratina: 			BST: 1300
@@ -494,8 +496,6 @@ Rapidash:  			BST: 1289
 Shaymin-Sky: 			BST: 1285
 Heatran: 			BST: 1280
 Mega Blastoise: 		BST: 1280
-Mega Charizard X: 		BST: 1280
-Mega Charizard Y: 		BST: 1280
 Mega Latias: 			BST: 1280
 Mega Latios: 			BST: 1280
 Mega Venusaur: 			BST: 1280
@@ -973,8 +973,11 @@ Mega Blaziken: 170
 Blaziken: 170
 Mienshao: 170
 ===============
-Category: 160s (77 Total)
+Category: 160s (80 Total)
 --
+Charizard: 169
+Mega Charizard X: 169
+Mega Charizard Y: 169
 Porygon: 169
 Genesect: 169
 Metagross: 169
@@ -1054,13 +1057,10 @@ Braviary: 160
 Flareon: 160
 Jumpluff: 160
 ===============
-Category: 150s (58 Total)
+Category: 150s (55 Total)
 --
 Missingno: 159
 Zamazenta: 159
-Charizard: 159
-Mega Charizard X: 159
-Mega Charizard Y: 159
 Druddigon: 158
 Blastoise: 158
 Mega Blastoise: 158
@@ -1434,14 +1434,14 @@ Effect: Multiplies damage of both Semi-Effective and Super-Effective Attacks by 
 Psychic Assault
 Effect: Multiplies the power of non-burst moves with a Base Power equal or lesser than 120 by x1.5. Multiplies User's Attack Stat by x1.5. Pokemon's Burst-Moves are always at Full Power. Immunity to having stats lowered by the opponent. Incapacitates if user isn't Mewtwo.
 ------------------------------------------------------------------------
-Charizard
+Charizard    
 Hp: 78 -> 128 = +50
 Atk: 84 -> 253 = +169
 Def: 78 -> 160 = +82
 SpA: 109 -> 259 = +150
 SpD: 85 -> 180 = +95
-Spe: 100 -> 159 = +59
-BST: 534 -> 1129
+Spe: 100 -> 169 = +69
+BST: 534 -> 1149
 
 Mega Charizard X
 Hp: 128 -> 128 = +0
@@ -1449,8 +1449,8 @@ Atk: 253 -> 353 = +100
 Def: 160 -> 211 = +51
 SpA: 259 -> 259 = +0
 SpD: 180 -> 180 = +0
-Spe: 159 -> 159 = +0
-BST: 1129 -> 1269
+Spe: 169 -> 169 = +0
+BST: 1129 -> 1300
 Ability: Tough Claws -> Reckless
 
 Mega Charizard Y
@@ -1459,9 +1459,9 @@ Atk: 253 -> 253 = +0
 Def: 160 -> 160 = +0
 SpA: 259 -> 359 = +100
 SpD: 180 -> 231 = +51
-Spe: 159 -> 159 = +0
-BST: 1129 -> 1269
-Ability: Drought -> Triage
+Spe: 169 -> 169 = +0
+BST: 1129 -> 1300
+Ability: Drought
 
 New Moves
 Blue Flare
@@ -1475,7 +1475,7 @@ Gust
 Nasty Plot
 Zap Cannon
 ------------------------------------------------------------------------
-Blastoise
+Blastoise    
 Hp: 79 -> 128 = +49
 Atk: 83 -> 253 = +170
 Def: 100 -> 201 = +101
@@ -1483,6 +1483,7 @@ SpA: 85 -> 255 = +170
 SpD: 105 -> 145 = +40
 Spe: 78 -> 158 = +80
 BST: 530 -> 1140
+Added Ability: Battle Armor
 
 Mega Blastoise
 Hp: 128 -> 128 = +0
@@ -1492,15 +1493,17 @@ SpA: 255 -> 295 = +40
 SpD: 145 -> 155 = +10
 Spe: 158 -> 158 = +0
 BST: 1140 -> 1280
-Ability: Mega Launcher -> Analytic
+Ability: Mega Launcher -> Drizzle
 New Moves
 Body Press
+Earthquake
+Ethereal Stream
 Flip Turn
 Liquidation
 Shell Smash
 Stealth Rock
 ------------------------------------------------------------------------
-Venusaur
+Venusaur    
 Hp: 80 -> 128 = +48
 Atk: 82 -> 222 = +140
 Def: 83 -> 173 = +90
@@ -1508,6 +1511,7 @@ SpA: 100 -> 265 = +165
 SpD: 100 -> 200 = +100
 Spe: 80 -> 152 = +72
 BST: 525 -> 1140
+Added Ability: Magic Bounce
 
 Mega Venusaur
 Hp: 128 -> 128 = +0
@@ -1524,6 +1528,7 @@ Body Press
 Stone Edge
 Agility
 Sludge Switch
+Strength Sap
 Celebrate
 Topsy-Turvy
 Anchor Shot
@@ -1757,6 +1762,7 @@ Close Combat
 Defog
 Final Gambit
 Gunk Shot
+Heart Sap
 High Jump Kick
 Mystery Slash
 Mystery Sphere
@@ -1767,6 +1773,7 @@ Poison Sting
 Recover
 Rock Slide
 Sludge Switch
+Strength Sap
 Spikes
 Stealth Rock
 Trailblaze
@@ -2914,10 +2921,12 @@ BST: 670 -> 1340
 Added Ability: Antipathy
 New Moves
 Aqua Guard
+Aqua Ring
 Aqua Soul
 Chilling Water
 Mystery Sphere
 Shatter Splash
+Tailwind
 Thunder Wave
 
 Unlearned
@@ -3299,7 +3308,7 @@ Solar Beam
 Electro Ball
 Fire Blast
 ------------------------------------------------------------------------
-Garchomp
+Garchomp  
 Hp: 108 -> 178 = +70
 Atk: 130 -> 270 = +140
 Def: 95 -> 185 = +90
@@ -3312,13 +3321,13 @@ Added Ability: Dragon Armor
 
 Mega Garchomp
 Hp: 178 -> 178 = +0
-Atk: 270 -> 300 = +30
+Atk: 270 -> 370 = +100
 Def: 185 -> 255 = +70
 SpA: 128 -> 128 = +0
-SpD: 155 -> 155 = +0
+SpD: 155 -> 205 = +50
 Spe: 164 -> 164 = +0
-BST: 1030 -> 1160
-Ability: Adaptability
+BST: 1080 -> 1280
+Ability: Dyslexia
 New Moves
 Agility
 Counter
@@ -3332,7 +3341,7 @@ Tailwind
 Thermal Press
 
 Dragon Armor (New Ability)
-Effect: Opposing Rock-Type and Ice-Type moves have halved Base Power; Pokemon is immune to recoil damage
+Effect: Pokemon's Moves have x1.3 Base Power when they have any positive stat boosts. Opposing Rock-Type and Ice-Type Moves deal halved Damage; Pokemon is immune to recoil damage
 ------------------------------------------------------------------------
 Lucario
 Hp: 70 -> 140 = +70
@@ -6495,9 +6504,11 @@ Spe: 77 -> 108 = +31
 BST: 680 -> 1300
 Added Ability: Searing Burst/Tinted Lens
 New Moves
+Aromatic Mist
 Darkest Lariat
 Defog
 Dragon Dance
+Dragon Energy
 Fire Blast
 Haze
 High Horsepower
@@ -6533,6 +6544,7 @@ Added Ability: Soaring Burst/Light Inversion
 New Moves
 Psycho Fire
 Psycho Darts
+Psychic Storm
 Royal Turbulence
 Cosmic Starfall
 Mind Cleaner
@@ -6554,7 +6566,7 @@ Light Inversion (New Ability)
 Effect: Opposing Dark-Type and Ghost-Type moves hit the Pokemon Semi-Effectively, however Fairy-Type and Dragon-Type moves hit it Super-Effectively; Opposing Psychic-Type moves hit neutrally. Ignores Mold Breaker.
 Mechanics: Psychic-Types receive double resistance to Dark and Ghost; Ghost-Types receive weakness to Fairy and Dragon.
 
-Ultra Necrozma
+Ultra Necrozma    
 Hp: 167 -> 167 = +0
 Atk: 307 -> 337 = +30
 Def: 237 -> 207 = -30
@@ -7370,9 +7382,6 @@ Leafage
 Mist Ball
 Sheer Cold
 Stealth Rock
-Stored Power
-Water Spout
-
 
 Unlearned
 Agility
@@ -7388,6 +7397,7 @@ Leech Seed
 Seed Bomb
 Solar Blade
 Stomping Tantrum
+Stored Power
 Superpower
 Throat Chop
 
@@ -10406,7 +10416,7 @@ Added Effect: Raises user's Defense by 1 stage.
 Priority: -6
 --
 Draining Kiss
-Base Power: 50 -> 90
+Base Power: 50 -> 110
 --
 Drain Punch
 Base Power: 75 -> 120
@@ -10930,7 +10940,7 @@ Base Power: 120 -> 155
 Accuracy: 80 -> 100
 --
 Gust
-Base Power: 40 -> 80
+Base Power: 40 -> 110
 Additional Effect: Restores 1/3 Damage Inflicted
 --
 Gyro Ball
@@ -11014,7 +11024,7 @@ Base Power: 60 -> 80
 Now inaccessible to every Pokemon except Unown; Replaced in every Pokemon's learnset with Memory Blast
 --
 High Horsepower
-Base Power: 95 -> 120
+Base Power: 95 -> 130
 Accuracy: 95 -> 100
 Secondary Effect: __ -> Ignores changes to opponent's Def/SpD stats
 --
@@ -11897,6 +11907,9 @@ Relic Song
 Base Power: 75 -> 150
 Slp Chance: 10% -> 15%
 Becomes Physical Move if user's Attack Stat is higher
+--
+Rest
+Penalty: Will not activate if the Pokemon has Life Force
 --
 Retaliate
 Base Power: 70 -> 60
@@ -13074,6 +13087,9 @@ Category: B
 Bad Dreams
 Additional Effect: Deals double damage against sleeping Pokemon
 --
+Battle Armor
+Additional Effect: Pokemon cannot lower its own stats
+--
 Barricade
 Effect: Reduces the Damage of opposing Ice-Type Attacks to x0.25; Pokemon cannot be Frozen.
 Exceptions: Intrepid Sword; Pokemon Master
@@ -13141,7 +13157,7 @@ Dracolate
 Effect: Transforms Normal-Type moves into Dragon-Type attacks. x1.2 power.
 --
 Dragon Armor 
-Effect: Opposing Rock-Type and Ice-Type moves have halved Base Power; Pokemon is immune to recoil damage
+Effect: Effect: Pokemon's Moves have x1.3 Base Power when they have any positive stat boosts. Opposing Rock-Type and Ice-Type Moves deal halved Damage; Pokemon is immune to recoil damage
 --
 Dragon Heart
 Effect: Halves the damage of opposing Physical Attacks when above 1/2 Max Hp.
@@ -13268,7 +13284,7 @@ Boost Cap: __ -> 1 Boost
 Category: N 
 --
 Neuroforce
-Damage Multiplier: x1.2 -> x1.2
+Additional Effect: Pokemon's Resisted Moves have x1.5 Base Power. Opposing Priority Moves deal x0.75 Damage
 --
 Nimble
 Effect: Pokemon's Status Moves have +1 Priority, however they cannot use any Status Moves that directly cause Paralysis
