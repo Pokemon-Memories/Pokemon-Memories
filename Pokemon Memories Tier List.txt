@@ -111,7 +111,7 @@ Note: Pokemon beneath the A-Tier, are listed alphabetically; Pokemon in the lowe
 
 Viability Rankings
 
-S-Tier (5 Total)
+S-Tier (6 Total)
 
 S+
 Mewtwo
@@ -123,13 +123,13 @@ Meowscarada
 S-
 Palkia
 Calyrex-Shadow
+Skarmory
 
 
-A-Tier (41 Total)
+A-Tier (40 Total)
 
 A+
 Vaporeon
-Skarmory
 Landorus-Therian (A+; Grass Memory)
 Zacian-Crowned (A-; Ground Memory)
 Kyogre (A-; Grass Memory + Tailwind)
