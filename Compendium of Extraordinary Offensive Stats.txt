@@ -10,6 +10,7 @@ Thundurus Therian: 385
 Kartana: 381
 Leafeon: 380
 Mega Gallade: 370
+Mega Garchomp: 370
 Mega Tyranitar: 364
 Hoopa Unbound: 358
 Mega Charizard X: 353
@@ -64,7 +65,6 @@ Golurk: 300
 Kyurem-Black: 300
 Mega Aggron: 300
 Mega Blaziken: 300
-Mega Garchomp: 300
 Mega Scizor: 300
 Regigigas: 300
 Terrakion: 300
