@@ -1,5 +1,76 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v1.6.7
+General
+- Mechanics
+	- Priority-Interactive Abilities
+		- All Abilities that interact with Priority-Moves now directly check the Move's Priority value, rather than searching for the Priority Flag; Moves without a Priority Flag (such as Healing Moves used by a Pokemon with Triage) that received an increased Priority Value will now be affected by these Abilities.
+			- Priority Threshold: __ -> +1
+Abilities
+- Battle Armor
+	- Additional Effect: Pokemon cannot lower its own stats
+- Dragon Armor
+	- Additional Effect: Pokemon's Moves have x1.2 Base Power when they have any positive stat boosts
+- Neuroforce
+	- Additional Effect: Pokemon's Resisted Moves have x1.5 Base Power. Opposing Priority Moves deal x0.75 Damage
+
+Moves
+- Draining Kiss
+	- Base Power: 90 -> 110
+- Gust
+	- Base Power: 80 -> 110
+- High Horsepower
+	- Base Power: 120 -> 130
+- Rest
+	- No longer activates if the Pokemon has Life Force as their Ability
+
+Pokemon
+- Bellsprout
+	- Learnset Additions
+		- Heart Sap
+		- Strength Sap
+- Blastoise
+	- Added Ability
+		- Battle Armor
+	- Learnset Additions
+		- Earthquake
+		- Ethereal Stream
+	- Mega Blastoise
+		- Ability: Analytic -> Drizzle
+- Calyrex-Ice
+	- Learnset Removals
+		- Double Kick
+		- Stored Power
+		- Water Spout
+- Charizard
+	- Base Stats
+		- Spe: 159 -> 169
+	- Mega Charizard X
+		- Base Stats
+			- Spe: 159 -> 169
+	- Mega Charizard Y
+		- Ability: Triage -> Drought
+		- Base Stats
+			- Spe: 159 -> 169
+- Garchomp
+	- Garchomp-Mega
+		- Ability: Adaptability -> Dyslexia
+- Kyogre
+	- Learnset Additions
+		- Tailwind
+- Necrozma-Dawn-Wings
+	- Learnset Additions
+		- Dragon Energy
+		- Psychic Storm
+- Necrozma-Dusk-Mane
+	- Learnset Additions
+		- Dragon Energy
+- Venusaur
+	- Added Ability
+		- Magic Bounce
+
+
+
 Pokemon Memories v1.6.6
 General
 - Miscellaneous
