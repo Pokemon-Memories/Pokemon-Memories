@@ -86,16 +86,16 @@ Modest Nature
 IVs: 0 Atk  
 - Nature's Madness  
 - Core Enforcer  
+- Dragon Breath  
 - Celebrate  
-- Gear Up  
 
-Necrozma-Ultra (M) @ Dragon Memory  
+Tapu Koko (M) @ Dragon Memory  
 Ability: hyperspeed  
 Shiny: Yes  
 EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
 Naive Nature  
 - Sunsteel Strike  
-- Dragon Energy  
+- Eruption  
 - Bolt Beak  
 - slushswitch  
 
@@ -105,7 +105,7 @@ Shiny: Yes
 EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
 Jolly Nature  
 - Facade  
-- Triple Axel  
+- royalpunishment  
 - Heal Order  
 - Shift Gear  
 
@@ -2607,12 +2607,11 @@ Naive Nature
 - slushswitch  
 
 
-=== [gen9] Meloetta in Motion [✗) ===
+=== [gen6ubers] Meloetta in Motion (✗) ===
 
 Meloetta @ Throat Spray  
 Ability: Serene Grace  
 Shiny: Yes  
-Tera Type: Normal  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Hyper Voice  
@@ -2623,7 +2622,6 @@ Timid Nature
 Regigigas @ Toxic Orb  
 Ability: Guts  
 Shiny: Yes  
-Tera Type: Normal  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Facade  
@@ -2633,7 +2631,6 @@ Jolly Nature
 
 Salamence (M) @ Salamencite  
 Ability: pacify  
-Tera Type: Dragon  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Adamant Nature  
 - Body Slam  
@@ -2643,7 +2640,6 @@ Adamant Nature
 
 Marshadow @ Life Orb  
 Ability: Technician  
-Tera Type: Fighting  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - spookyrevenge  
@@ -2653,7 +2649,6 @@ Jolly Nature
 
 Ho-Oh @ Sweet Apple  
 Ability: Magic Guard  
-Tera Type: Fire  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Careful Nature  
 - Sacred Fire  
@@ -2663,7 +2658,6 @@ Careful Nature
 
 Palkia @ Choice Scarf  
 Ability: dracolate  
-Tera Type: Water  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - royalsubmersion  
@@ -7287,11 +7281,10 @@ Impish Nature
 - royalretreat  
 
 
-=== [gen9] Entropy [✗) ===
+=== [gen6ubers] Entropy (✗) ===
 
 Palkia @ Choice Specs  
 Ability: dracolate  
-Tera Type: Water  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
 - royalsubmersion  
@@ -7301,7 +7294,6 @@ Modest Nature
 
 Deoxys-Attack @ Protector  
 Ability: antipathy  
-Tera Type: Psychic  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
 - Psycho Boost  
@@ -7312,7 +7304,6 @@ Naive Nature
 Shaymin-Sky @ Stone Plate  
 Ability: airforce  
 Shiny: Yes  
-Tera Type: Grass  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
 IVs: 0 Atk  
@@ -7324,7 +7315,6 @@ IVs: 0 Atk
 Skarmory (M) @ Choice Scarf  
 Ability: windstreamer  
 Shiny: Yes  
-Tera Type: Steel  
 EVs: 252 HP / 172 Def / 84 Spe  
 Jolly Nature  
 - Brave Bird  
@@ -7335,7 +7325,6 @@ Jolly Nature
 Arceus @ Payapa Berry  
 Ability: impervious  
 Shiny: Yes  
-Tera Type: Normal  
 EVs: 252 HP / 4 Atk / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
@@ -7346,7 +7335,6 @@ Jolly Nature
 Zoroark-Hisui (M) @ Spooky Plate  
 Ability: Tough Claws  
 Shiny: Yes  
-Tera Type: Normal  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - shadowflame  
@@ -7781,7 +7769,7 @@ IVs: 0 Atk
 - Parting Shot  
 
 
-=== [gen6ubers] Aviation (Mewtwo, Flying] ★ ===
+=== [gen6ubers] Aviation (Mewtwo, Flying) ★ ===
 
 Mewtwo @ Flying Memory  
 Ability: psychicpower  
@@ -7843,12 +7831,11 @@ Adamant Nature
 - Spikes  
 
 
-=== [gen9] Dominance [✗) ===
+=== [gen6ubers] Dominance (✗) ===
 
 Arceus @ Payapa Berry  
 Ability: impervious  
 Shiny: Yes  
-Tera Type: Normal  
 EVs: 252 HP / 4 Atk / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
@@ -7858,7 +7845,6 @@ Jolly Nature
 
 Ho-Oh @ Sweet Apple  
 Ability: Magic Guard  
-Tera Type: Fire  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Careful Nature  
 - Sacred Fire  
@@ -7868,7 +7854,6 @@ Careful Nature
 
 Calyrex-Shadow @ Choice Scarf  
 Ability: Power Spot  
-Tera Type: Psychic  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
@@ -7880,7 +7865,6 @@ IVs: 0 Atk
 Mewtwo @ Dawn Stone  
 Ability: hightenedmind  
 Shiny: Yes  
-Tera Type: Psychic  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Stored Power  
@@ -7891,7 +7875,6 @@ Timid Nature
 Yveltal @ Zoom Lens  
 Ability: Dark Aura  
 Shiny: Yes  
-Tera Type: Dark  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Rash Nature  
 - Rock Slide  
@@ -7902,7 +7885,6 @@ Rash Nature
 Deoxys-Speed @ Nomel Berry  
 Ability: inertia  
 Shiny: Yes  
-Tera Type: Psychic  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Adamant Nature  
 - Rock Slide  
@@ -8033,11 +8015,10 @@ Careful Nature
 - Aromatic Mist  
 
 
-=== [gen9] Dusk [Thundurus, Fighting) ===
+=== [gen6ubers] Dusk (Thundurus, Fighting) ===
 
 Dialga @ Dusk Stone  
 Ability: Regenerator  
-Tera Type: Steel  
 EVs: 232 Atk / 136 SpD / 140 Spe  
 Lonely Nature  
 - Breaking Swipe  
@@ -8047,7 +8028,6 @@ Lonely Nature
 
 Vaporeon @ Leftovers  
 Ability: utilitylock  
-Tera Type: Water  
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
@@ -8058,7 +8038,6 @@ IVs: 0 Atk
 
 Ho-Oh @ Sweet Apple  
 Ability: Magic Guard  
-Tera Type: Fire  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Careful Nature  
 - Sacred Fire  
@@ -8069,7 +8048,6 @@ Careful Nature
 Skarmory (M) @ Choice Scarf  
 Ability: windstreamer  
 Shiny: Yes  
-Tera Type: Steel  
 EVs: 252 HP / 172 Def / 84 Spe  
 Jolly Nature  
 - Brave Bird  
@@ -8079,7 +8057,6 @@ Jolly Nature
 
 Thundurus-Therian @ Fighting Memory  
 Ability: malleate  
-Tera Type: Electric  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Dual Wingbeat  
@@ -8090,7 +8067,6 @@ Jolly Nature
 Yveltal @ Zoom Lens  
 Ability: Dark Aura  
 Shiny: Yes  
-Tera Type: Dark  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Rash Nature  
 - Rock Slide  
@@ -8099,12 +8075,11 @@ Rash Nature
 - Uproar  
 
 
-=== [gen9] Ultra [✗) ===
+=== [gen6ubers] Ultra (✗) ===
 
 Necrozma-Dusk-Mane @ Dragon Scale  
 Ability: searingburst  
 Shiny: Yes  
-Tera Type: Psychic  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Naive Nature  
 - Light That Burns the Sky  
@@ -8114,7 +8089,6 @@ Naive Nature
 
 Vaporeon @ Leftovers  
 Ability: utilitylock  
-Tera Type: Water  
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
@@ -8126,7 +8100,6 @@ IVs: 0 Atk
 Darkrai @ Bright Powder  
 Ability: midnightveil  
 Shiny: Yes  
-Tera Type: Dark  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Dark Pulse  
@@ -8136,7 +8109,6 @@ Timid Nature
 
 Phione @ Choice Scarf  
 Ability: Drizzle  
-Tera Type: Water  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Surf  
@@ -8147,7 +8119,6 @@ Timid Nature
 Mewtwo @ Dawn Stone  
 Ability: hightenedmind  
 Shiny: Yes  
-Tera Type: Psychic  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
 - Stored Power  
@@ -8157,7 +8128,6 @@ Naive Nature
 
 Deoxys-Speed @ Nomel Berry  
 Ability: inertia  
-Tera Type: Psychic  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Adamant Nature  
 - Payback  
@@ -8286,12 +8256,11 @@ IVs: 0 Atk
 - Withdraw  
 
 
-=== [gen9] Something New [Thundurus, Fighting) ===
+=== [gen6ubers] Something New (Thundurus, Fighting) ===
 
 Skarmory (M) @ Choice Scarf  
 Ability: windstreamer  
 Shiny: Yes  
-Tera Type: Steel  
 EVs: 252 HP / 172 Def / 84 Spe  
 Jolly Nature  
 - Brave Bird  
@@ -8302,7 +8271,6 @@ Jolly Nature
 Yveltal @ Zoom Lens  
 Ability: Dark Aura  
 Shiny: Yes  
-Tera Type: Dark  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Rash Nature  
 - Rock Slide  
@@ -8312,7 +8280,6 @@ Rash Nature
 
 Thundurus-Therian @ Fighting Memory  
 Ability: malleate  
-Tera Type: Electric  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Dual Wingbeat  
@@ -8322,7 +8289,6 @@ Jolly Nature
 
 Deoxys-Speed @ Nomel Berry  
 Ability: inertia  
-Tera Type: Psychic  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Adamant Nature  
 - Rock Slide  
@@ -8332,7 +8298,6 @@ Adamant Nature
 
 Vaporeon @ Leftovers  
 Ability: utilitylock  
-Tera Type: Water  
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
@@ -8343,7 +8308,6 @@ IVs: 0 Atk
 
 Mewtwo @ Dawn Stone  
 Ability: hightenedmind  
-Tera Type: Psychic  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
 - Stored Power  
@@ -8534,11 +8498,10 @@ Jolly Nature
 - snowrush  
 
 
-=== [gen9] Plaintive [✗) ===
+=== [gen6ubers] Plaintive (✗) ===
 
 Mewtwo @ Dawn Stone  
 Ability: hightenedmind  
-Tera Type: Psychic  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
 - Stored Power  
@@ -8548,7 +8511,6 @@ Naive Nature
 
 Calyrex-Shadow @ Choice Scarf  
 Ability: Power Spot  
-Tera Type: Psychic  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
@@ -8560,7 +8522,6 @@ IVs: 0 Atk
 Arceus-Ground @ Earth Plate  
 Ability: Multitype  
 Shiny: Yes  
-Tera Type: Ground  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Judgment  
@@ -8570,7 +8531,6 @@ Timid Nature
 
 Dialga @ Sweet Apple  
 Ability: Regenerator  
-Tera Type: Steel  
 EVs: 192 HP / 176 SpD / 140 Spe  
 Careful Nature  
 - Breaking Swipe  
@@ -8580,7 +8540,6 @@ Careful Nature
 
 Vaporeon @ Leftovers  
 Ability: utilitylock  
-Tera Type: Water  
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
@@ -8592,7 +8551,6 @@ IVs: 0 Atk
 Darkrai @ Bright Powder  
 Ability: midnightveil  
 Shiny: Yes  
-Tera Type: Dark  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Dark Pulse  
@@ -9063,7 +9021,7 @@ Jolly Nature
 Palkia @ Choice Scarf  
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
-Modest Nature  
+Timid Nature  
 - royalsubmersion  
 - Boomburst  
 - Dragon Breath  
@@ -9243,7 +9201,7 @@ Naughty Nature
 Palkia @ Choice Scarf  
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
-Modest Nature  
+Timid Nature  
 - royalsubmersion  
 - Boomburst  
 - Dragon Breath  
@@ -9323,7 +9281,7 @@ Impish Nature
 Palkia @ Choice Scarf  
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
-Modest Nature  
+Timid Nature  
 - royalsubmersion  
 - Boomburst  
 - Dragon Breath  
@@ -9415,7 +9373,7 @@ IVs: 0 Atk
 Palkia @ Choice Scarf  
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
-Modest Nature  
+Timid Nature  
 - royalsubmersion  
 - Boomburst  
 - Dragon Breath  
@@ -9565,7 +9523,7 @@ Jolly Nature
 Palkia @ Choice Scarf  
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
-Modest Nature  
+Timid Nature  
 - royalsubmersion  
 - Boomburst  
 - Dragon Breath  
@@ -9666,7 +9624,7 @@ Careful Nature
 Palkia @ Choice Scarf  
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
-Modest Nature  
+Timid Nature  
 - royalsubmersion  
 - Boomburst  
 - Dragon Breath  
@@ -9769,7 +9727,7 @@ Timid Nature
 Palkia @ Choice Scarf  
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
-Modest Nature  
+Timid Nature  
 - royalsubmersion  
 - Boomburst  
 - Dragon Breath  
@@ -9815,12 +9773,11 @@ Naive Nature
 - Geomancy  
 
 
-=== [gen9] Shiro [✗) ===
+=== [gen6ubers] Shiro (✗) ===
 
 Tapu Koko @ Light Ball  
 Ability: lightningforce  
 Shiny: Yes  
-Tera Type: Electric  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Bolt Strike  
@@ -9830,7 +9787,6 @@ Jolly Nature
 
 Mewtwo @ Dawn Stone  
 Ability: hightenedmind  
-Tera Type: Psychic  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
 - Stored Power  
@@ -9840,7 +9796,6 @@ Naive Nature
 
 Reshiram @ Choice Scarf  
 Ability: realist  
-Tera Type: Dragon  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Blue Flare  
@@ -9851,7 +9806,6 @@ Timid Nature
 Meowscarada (F) @ Lax Incense  
 Ability: parlortrick  
 Shiny: Yes  
-Tera Type: Grass  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Flower Trick  
@@ -9861,7 +9815,6 @@ Jolly Nature
 
 Vaporeon (F) @ Sitrus Berry  
 Ability: utilitylock  
-Tera Type: Water  
 EVs: 4 HP / 252 Def / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
@@ -9873,7 +9826,6 @@ IVs: 0 Atk
 Kyurem-Black @ Snowball  
 Ability: dragonpower  
 Shiny: Yes  
-Tera Type: Dragon  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - glacialstrike  
@@ -10126,5 +10078,248 @@ Jolly Nature
 - Stone Edge  
 - Aromatic Mist  
 - Withdraw  
+
+
+=== [gen6ubers] Frosty (Calyrex-Ice, Fire) ===
+
+Calyrex-Ice @ Fire Memory  
+Ability: Ice Scales  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Zen Headbutt  
+- Glacial Lance  
+- memoryblast  
+- accelerate  
+
+Tapu Koko @ Light Ball  
+Ability: lightningforce  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Bolt Strike  
+- Nature's Madness  
+- Aeroblast  
+- Volt Switch  
+
+Entei @ Lax Incense  
+Ability: doublelayer  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Sacred Fire  
+- Stone Edge  
+- Aromatic Mist  
+- Withdraw  
+
+Vaporeon (F) @ Sitrus Berry  
+Ability: utilitylock  
+EVs: 4 HP / 252 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dragon Breath  
+- Spikes  
+- Yawn  
+- Withdraw  
+
+Meowscarada (F) @ Lax Incense  
+Ability: parlortrick  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Flower Trick  
+- Night Slash  
+- slushswitch  
+- Trailblaze  
+
+Palkia @ Choice Scarf  
+Ability: dracolate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- royalsubmersion  
+- Boomburst  
+- Dragon Breath  
+- Flip Turn  
+
+
+=== [gen6ubers] Grassy Meadows (Kyogre, Grass) ===
+
+Kyogre @ Grass Memory  
+Ability: Drizzle  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- Origin Pulse  
+- memoryblast  
+- Thunder Wave  
+- Tailwind  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Stored Power  
+- infernobeam  
+- Water Sport  
+- Night Daze  
+
+Meowscarada (F) @ Lax Incense  
+Ability: parlortrick  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Flower Trick  
+- Night Slash  
+- slushswitch  
+- Trailblaze  
+
+Dialga @ Sweet Apple  
+Ability: Regenerator  
+EVs: 192 HP / 176 SpD / 140 Spe  
+Careful Nature  
+- Breaking Swipe  
+- Fire Blast  
+- Flash Cannon  
+- Shell Smash  
+
+Vaporeon @ Sitrus Berry  
+Ability: utilitylock  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dragon Breath  
+- Spikes  
+- Yawn  
+- Withdraw  
+
+Necrozma-Dusk-Mane @ Metal Coat  
+Ability: Tinted Lens  
+Shiny: Yes  
+EVs: 252 Atk / 4 Def / 216 SpA / 36 Spe  
+Naughty Nature  
+- Sunsteel Strike  
+- Fire Blast  
+- Stone Edge  
+- Autotomize  
+
+
+=== [gen6ubers] Terrestrial (Ultra Necrozma, Ground) ===
+
+Necrozma-Dusk-Mane @ Ground Memory  
+Ability: searingburst  
+Shiny: Yes  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naive Nature  
+- Sunsteel Strike  
+- memoryblast  
+- Fire Blast  
+- Dragon Dance  
+
+Calyrex-Shadow @ Choice Scarf  
+Ability: Power Spot  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psycho Boost  
+- Astral Barrage  
+- Dazzling Gleam  
+- Parting Shot  
+
+Manaphy @ Rose Incense  
+Ability: Drizzle  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Surf  
+- Thunder  
+- Happy Hour  
+- U-turn  
+
+Meowscarada (F) @ Lax Incense  
+Ability: parlortrick  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Flower Trick  
+- Night Slash  
+- slushswitch  
+- Trailblaze  
+
+Dialga @ Sweet Apple  
+Ability: Regenerator  
+EVs: 192 HP / 176 SpD / 140 Spe  
+Careful Nature  
+- Breaking Swipe  
+- Fire Blast  
+- Flash Cannon  
+- Shell Smash  
+
+Klinklang @ Metal Coat  
+Ability: utilitylock  
+EVs: 252 HP / 252 Def / 4 Spe  
+Impish Nature  
+- Gear Grind  
+- Thunder Wave  
+- Stealth Rock  
+- royalretreat  
+
+
+=== [gen6ubers] Blastoise Breaks Barriers! (Mewtwo, Grass) ===
+
+Blastoise (M) @ Blastoisinite  
+Ability: Battle Armor  
+EVs: 252 SpA / 252 Spe  
+Timid Nature  
+- etherealstream  
+- Ice Beam  
+- Dark Pulse  
+- Shell Smash  
+
+Mewtwo @ Grass Memory  
+Ability: psychicpower  
+EVs: 140 Atk / 116 SpA / 252 Spe  
+Naive Nature  
+- memoryblast  
+- infernobeam  
+- Water Sport  
+- malicerun  
+
+Vaporeon @ Sitrus Berry  
+Ability: utilitylock  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dragon Breath  
+- Spikes  
+- Yawn  
+- Withdraw  
+
+Meowscarada (F) @ Lax Incense  
+Ability: parlortrick  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Flower Trick  
+- Night Slash  
+- slushswitch  
+- Trailblaze  
+
+Meloetta @ Sweet Apple  
+Ability: ensemble  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Hyper Voice  
+- Storm Throw  
+- Screech  
+- slushswitch  
+
+Tapu Koko @ Light Ball  
+Ability: lightningforce  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Bolt Strike  
+- Nature's Madness  
+- Aeroblast  
+- Volt Switch  
 
 
