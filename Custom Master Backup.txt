@@ -1,3 +1,16 @@
+=== [gen6balancedhackmons] Untitled 172 ===
+
+Rayquaza-Mega @ Flying Memory  
+Ability: Delta Stream  
+Shiny: Yes  
+EVs: 252 HP / 252 Atk / 252 Def / 248 SpA / 252 SpD / 252 Spe  
+Naive Nature  
+- Bleakwind Storm  
+- Oblivion Wing  
+- Heal Order  
+- Tailwind  
+
+
 === [gen6balancedhackmons] Berserk Gene ===
 
 Mewtwo @ Berserk Gene  
@@ -9412,7 +9425,7 @@ Careful Nature
 === [gen6ubers] Mewtwo #150: Psycho Killer (Mewtwo, Psychic) ===
 
 Mewtwo @ Psychic Memory  
-Ability: psychicpower  
+Ability: antipathy  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - psychofire  
@@ -10262,7 +10275,7 @@ Impish Nature
 - royalretreat  
 
 
-=== [gen6ubers] Blastoise Breaks Barriers! (Mewtwo, Grass) ===
+=== [gen6ubers] Blastoise Breaks Barriers! (✗) ===
 
 Blastoise (M) @ Blastoisinite  
 Ability: Battle Armor  
@@ -10273,36 +10286,35 @@ Timid Nature
 - Dark Pulse  
 - Shell Smash  
 
-Mewtwo @ Grass Memory  
+Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
-EVs: 140 Atk / 116 SpA / 252 Spe  
-Naive Nature  
-- memoryblast  
-- infernobeam  
-- Water Sport  
-- malicerun  
-
-Vaporeon @ Sitrus Berry  
-Ability: utilitylock  
-EVs: 252 HP / 4 SpA / 252 Spe  
+EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-IVs: 0 Atk  
-- Dragon Breath  
-- Spikes  
-- Yawn  
-- Withdraw  
+- Stored Power  
+- Aura Sphere  
+- Night Daze  
+- froststep  
 
-Meowscarada (F) @ Lax Incense  
-Ability: parlortrick  
+Klinklang @ Metal Coat  
+Ability: utilitylock  
+EVs: 252 HP / 252 Def / 4 Spe  
+Impish Nature  
+- Gear Grind  
+- Thunder Wave  
+- Stealth Rock  
+- royalretreat  
+
+Darkrai @ Bright Powder  
+Ability: midnightveil  
 Shiny: Yes  
-EVs: 4 HP / 252 Atk / 252 Spe  
-Jolly Nature  
-- Flower Trick  
-- Night Slash  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Dark Pulse  
+- Venom Drench  
+- Dark Void  
 - slushswitch  
-- Trailblaze  
 
-Meloetta @ Sweet Apple  
+Meloetta @ Throat Spray  
 Ability: ensemble  
 Shiny: Yes  
 EVs: 4 HP / 252 SpA / 252 Spe  
@@ -10310,7 +10322,7 @@ Timid Nature
 - Hyper Voice  
 - Storm Throw  
 - Screech  
-- slushswitch  
+- fluttersong  
 
 Tapu Koko @ Light Ball  
 Ability: lightningforce  
