@@ -1495,12 +1495,12 @@ Spe: 158 -> 158 = +0
 BST: 1140 -> 1280
 Ability: Mega Launcher -> Drizzle
 New Moves
+Agility
 Body Press
 Earthquake
 Ethereal Stream
 Flip Turn
 Liquidation
-Shell Smash
 Stealth Rock
 ------------------------------------------------------------------------
 Venusaur    
