@@ -33,8 +33,11 @@ Pokemon
 	- Added Ability
 		- Battle Armor
 	- Learnset Additions
+		- Agility
 		- Earthquake
 		- Ethereal Stream
+	- Learnset Removals
+		- Shell Smash
 	- Mega Blastoise
 		- Ability: Analytic -> Drizzle
 - Calyrex-Ice
