@@ -1,4 +1,8 @@
 First Created: 11/21/2022 1:43 PM
+Checkpoints:
+- First: 9/23/2023 5:04 AM
+
+Description: The Hypothetical Manuscript for the Creation Trio's Origin Formes, as primarily intended for AG. The "Higher Stats" variants were the original intended changes for these Pokemon, however, as the Origin Formes were initially treated as "Side-Grades" to their Standard Formes in the Mainline Games: The "Equal Stats" variants assume Priority over their counterparts, and will likely be used as the Template for their eventual inclusion into the game
 
 Dialga
 Hp: 100 -> 230 = +130
@@ -65,13 +69,46 @@ Def: 190 -> 190 = +0
 SpA: 280 -> 330 = +50
 SpD: 200 -> 190 = -10
 Spe: 160 -> 182 = +22
-BST: 1340 -> 1540
+BST: 1340 -> 1400
 
 Spacial Force (New Ability)
 Effect: Pokemon's Resisted Water-Type Moves hit with doubled Base Power. x1.5 Base Power on all Dragon-Type Moves. Ignores the Pokemon's Dragon-Type Weaknesses. Pokemon's Speed is raised by 1 Stage for a single turn upon successfully causing an opposing Pokemon to faint; This boost will remain in effect if the Pokemon continues to K.O. its opponents. Any opposing Pokemon that successfully causes this Pokemon to faint via an attacking move, receives 1/4 of the Damage they inflicted
 
 Lustrous Crystal
-Effect: Automatically summons Rain if none if present, upon Switching In.
+Additional Effect: Automatically summons Rain if none if present, upon Switching In.
+
+Giratina      
+Hp: 150 -> 250 = +100
+Atk: 100 -> 210 = +110
+Def: 120 -> 235 = +85
+SpA: 100 -> 210 = +110
+SpD: 120 -> 235 = +85
+Spe: 90 -> 160 = +70
+BST: 680 -> 1340
+
+Giratina Origin (Higher Stats)   
+Hp: 250 -> 300 = +50
+Atk: 210 -> 250 = +40
+Def: 235 -> 245 = +10
+SpA: 210 -> 340 = +130
+SpD: 235 -> 245 = +10
+Spe: 160 -> 160 = +0
+BST: 1340 -> 1400
+
+Giratina Origin (Equal Stats)   
+Hp: 250 -> 300 = +50
+Atk: 210 -> 110 = -100
+Def: 235 -> 245 = +10
+SpA: 210 -> 340 = +130
+SpD: 235 -> 245 = +10
+Spe: 160 -> 160 = +0
+BST: 1340 -> 1400
+
+Distortion Power
+Effect: Pokemon's Lowest Attacking Stat becomes equal to its Highest Attacking Stat. Pokemon's Moves have x1.3 Base Power if they have any Positive Stat Boosts; Eliminates the Pokemon's Ghost-Type Weaknesses. Any opposing Pokemon that successfully causes this Pokemon to faint via an attacking move, receives 1/4 of the Damage they inflicted
+
+Griseous Core
+Additional Effect: Pokemon restores 1/8 Max Hp upon successfully causing an opponent to faint
 
 Type Matchups
 Dialga-Origin
