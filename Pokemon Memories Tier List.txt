@@ -20,7 +20,7 @@ Section C
 	• Viability Rankings
 	• History of the Format
 
-(166 Total)
+(170 Total)
 						      Section A    
 						    Standard Ubers
 						      Highlights
@@ -40,6 +40,13 @@ Description: Certain Pokemon are given "Highlights", which will be posted here. 
 Description: Between its peerless offenses, blistering speed, and its perfectly distributed defenses; Mewtwo is an unparallaled force of mass destruction in this Meta. Whereas most Pokemon are biased toward specific sets, which serve as the primary cause for their exalted viability; Mewtwo is able to continuously adapt its sets on the fly, allowing it to always keep its opponents guessing. Its perfectly placed stats leave it with no major vulnerabilites, and its access to a nearly unlimited movepool, encompassing every Type in the game, makes it nigh uncounterable. Simply figuring out the opposing Mewtwo's set, is itself, a daunting task, and actually managing to successfully defeat it, is something that will usually only be possible after a very long struggle between both sides. Mewtwo's combination of attributes make it a force to be reckoned with, and when paired with its dangerous unpredictability, powerful teammates, signature items, and phenomenal abilities; This Genetic Masterpiece proves itself to be a powerful Pokemon that is second to none. We dreamed of creating the most powerful Pokemon, and we succeeded.
 
 
+							Kyogre
+						       [ Water ]
+			    (Hp: 160/Atk: 240/Def: 180/SpA: 320/SpD: 280/Spe: 160) BST: 1340
+					           Drizzle/Antipathy
+
+Description: Kyogre's well-balanced stats, fantastic Water-Typing, and peerless Ability, in Drizzle, allows it to fulfill a number of important roles within its Team. Its powerful Rain-Boosted Offenses allow it to punch massive holes in the opposing Team, while its Defensive Capabilities provide it with the power to even potentially survive hits from opposing Mewtwo and Calyrex. Despite its number of viable checks already being limited: Kyogre's access to the powerful Thunder Wave gives it the ability to face even the very Pokemon that were designed to oppose it, and potentially overcome them if played correctly, while Tailwind provides the powerful King of the Sea with a means of finishing off Teams that were weakened by the ferocious power of the devastating Rainfall that it and its allies deluged their enemies with. Kyogre may be a fundamentally simple Pokemon, however it is precisely this simplicity that gives it the power to consistently terrorize even the strongest of Teams. Before going outside, one should always caution to pack an Umbrella, lest this powerful force of nature submerge you beneath the power of the Sea.
+
 
 						     Calyrex-Shadow
 						     [Psychic/Ghost]
@@ -49,16 +56,6 @@ Description: Between its peerless offenses, blistering speed, and its perfectly 
 
 
 Description: In addition to having a dangerous Psychic/Ghost Type-Combination; Calyrex-Shadow also possesses an incredible Speed Stat, and one of the highest Special Attack stats in the game. Because of the incredible power it possesses, particularly through its devastating Astral Barrage, and Psycho Boost, Calyrex often doesn't even need to hold a damage-boosting Item to deal massive amounts of damage, and is easily capable of applying immense pressure on opposing Teams through its sheer presence alone. With its massive Speed Stat, Calyrex is capable of outspeeding almost every viable Pokemon in the game, and with a Choice Scarf in its possession, it is capable of even leaving foes like Mewtwo in the dust. In keeping with its Ghost-Typing, Calyrex has a few more tricks up its sleeves; With its Elemental Stones, Calyrex-Shadow can change the Type of its Hyper Beam, to potentially allow it to shred through foes such as Yveltal, Genesect, or Ho-Oh, while its limited, yet potent--Memorization skills, allow it to augment either its coverage, or power, to the point where even the sturdiest Teams can find themselves brought to kneel before this High King. Calyrex-Shadow may not excel in unpredictability, but across all of its sets, it is surprisingly versatile, and those who leave themselves vulnerable to its powerful offensive onslaughts, will find themselves left with a Team full of Ghost-Types.
-
-
-							Arceus
-					               [Normal]
-			    	(Hp: 200/Atk: 300/Def: 210/SpA: 300/SpD: 210/Spe: 180) BST: 1400
-						 Multitype/Impervious
-					        [Dubious Disc/Up-Grade]
-
-
-Description: While Mewtwo uses its 1400 BST to emphasize Offense; Arceus optimizes its Base Stat Distribution to ensure it can be as versatile and efficient as possible. Arceus' incredible Base 180 Speed, paired with its Base 300 offenses, allows it to outspeed, and imperil almost every relevant threat in the entire metagame, while its nearly limitless movepool, and access to Heaven Dance, ensures that no single Defensive countermeasure against this Pokemon is ever certain. While there are a number of Pokemon that also have comparable levels of power to Arceus, what truly elevates it above its peers, are its exceptional bulk, and access to the Ability, Impervious, which allows it to gain an Immunity to whatever Type Arceus is holding a Damage-Reducing Berry for. Because of these two factors; Even should the opponent find a way to overcome--or surpass Arceus' Speed, so as to dare try attacking it, there is no guarantee that such trifling assaults from the Mortals beneath it will even be effective, let alone fruitful. Between its immeasurable movepool, innumerable Multitypes, and its powerful Dubious Disc; Arceus is never a Pokemon that one should dare approach irreverently, lest they face Judgment.
 
 
 							Dialga
@@ -71,8 +68,6 @@ Description: While Mewtwo uses its 1400 BST to emphasize Offense; Arceus optimiz
 Description: Dialga's massive defensive stats, stratospheric offenses, and excellent Type-Combination already make it a force to be reckoned with, however what truly sets it apart from the rest of its peers is access to one of the best Abilities, and one of the best moves in the game--in Regenerator and Shell Smash respectively. Thanks to these two powerful resources, Dialga is capable of fulfilling a multitude of roles, from bulky tank, dedicated offense, hazard support, or even various hybrids of these sets--all while maintaining its Ability to perform excellently during games, and even potentially sweep through the opponent's Team. Dialga's ability to run nearly any kind of set--including frightening mixed sets, while synergizing with nearly every viable Item in the Tier--is unrivaled, and it is easily the most customizable Pokemon in the entire game. When building a Team, it is vital that players prepare an answer for this Master of Time, lest they find their ephemeral existence ground to dust.
 
 
-							A-Tier
-
 						      Meowscarada
 						      [Grass/Dark]
 			    	(Hp: 166/Atk: 270/Def: 150/SpA: 261/SpD: 170/Spe: 181) BST: 1198
@@ -80,6 +75,9 @@ Description: Dialga's massive defensive stats, stratospheric offenses, and excel
 
 Description: A Support Pokemon at heart: Meowscarada's incredible Speed allows it to perform its Tricks on almost any Pokemon. Thanks to its incredible Grass/Dark Type Combination, alongside its ability, Parlor Trick, Meowscarada is not only able to check opposing Calyrex-Shadow and Kyogre, but can even potentially tank a Fully Invested Adamant Sunsteel Strike from a +2 Atk Steel Memory Necrozma Dusk Mane. In addition to its Defensive Support capabilities; Meowscarada is also a fantastic Offensive Support Pokemon, being able to boost its speed with Trailblaze, or deal heavy damage to threats like Landorus-Therian, or opposing Meowscarada, through Slush Switch, respectively. Best of all, however, is its signature move, Flower Trick, which allows Meowscarada to change a Pokemon's Type, and lower both of their Defenses, while directly reducing the opponent's damage output for the Turn; A set of properties that Meowscarada is able to exploit, to weaken walls for itself or allies, endure otherwise fatal hits, or even cripple Pokemon that relied on Elemental Orbs as their primary source of power, such as Tapu Koko, or Entei. Meowscarada is one of the best disruptors in the game, and no matter what Team one goes up against, it will almost always find a way to support its Teammates. Foes should take care not to underestimate this Trickster, lest they soon discover that the Joke is on them.
 
+
+
+							A-Tier
 
 						       Meloetta
 						   [Normal/Psychic]
@@ -89,6 +87,15 @@ Description: A Support Pokemon at heart: Meowscarada's incredible Speed allows i
 
 Description: Ever the Songstress: This Musical Pokemon's love for its craft is evident through its ability to hit 50% harder with any Sound-Move as a result of its Special Mechanic. This, paired with its favorite Item, Throat Spray, allows this seemingly delicate Pokemon to become a rather ferocious threat once it sets up with Flutter Song or Flutter Dance. With its resonant Hyper Voice, Meloetta can melt even the coldest of hearts--and health bars, while those Pokemon with wills too powerful to be overcome by the Mythical Pokemon's magnificent Melodies--such as Mewtwo and Calyrex-Shadow, find themselves getting shouted out of the Audience--as well as the opponent's Party, through Screech. Meloetta's final move of choice places its artistic range on full display, as it gracefully switches to its nimble Pirouette Forme to deliver a devastating Storm Throw through the power of its Signature Ability: Ensemble. One may be tempted to stop and marvel at the offensive capabilities of this charming Pokemon, however the show does not end there. Ever intrepid: Meloetta's Normal-Typing allows it to remain completely unfazed by the vitriol of opposing Ghosts. Yes, even the noble King, Calyrex-Shadow, great as it is, finds itself powerless before the influence of this Musical Queen, and even its great Spectral Powers cannot quash the Song in its Heart. Meloetta does have one weakness, however: It has a tendency to be rather domineering, especially when it is on stage. If one wishes to share the stage with Meloetta, they best come before it as an ally, as any dissenters or opponents will be swept away.
 
+
+							Arceus
+					               [Normal]
+			    	(Hp: 200/Atk: 300/Def: 210/SpA: 300/SpD: 210/Spe: 180) BST: 1400
+						 Multitype/Impervious
+					        [Dubious Disc/Up-Grade]
+
+
+Description: While Mewtwo uses its 1400 BST to emphasize Offense; Arceus optimizes its Base Stat Distribution to ensure it can be as versatile and efficient as possible. Arceus' incredible Base 180 Speed, paired with its Base 300 offenses, allows it to outspeed, and imperil almost every relevant threat in the entire metagame, while its nearly limitless movepool, and access to Heaven Dance, ensures that no single Defensive countermeasure against this Pokemon is ever certain. While there are a number of Pokemon that also have comparable levels of power to Arceus, what truly elevates it above its peers, are its exceptional bulk, and access to the Ability, Impervious, which allows it to gain an Immunity to whatever Type Arceus is holding a Damage-Reducing Berry for. Because of these two factors; Even should the opponent find a way to overcome--or surpass Arceus' Speed, so as to dare try attacking it, there is no guarantee that such trifling assaults from the Mortals beneath it will even be effective, let alone fruitful. Between its immeasurable movepool, innumerable Multitypes, and its powerful Dubious Disc; Arceus is never a Pokemon that one should dare approach irreverently, lest they face Judgment.
 
 
 
@@ -101,70 +108,72 @@ B-Tier: Reserved for Pokemon that serve noticeable functions in the Meta, with v
 
 C-Tier: Reserved for Pokemon that are capable of fulfilling certain roles with a certain degree of success, but lack either the consistency or environment to fully capitalize on their positive attributes. These Pokemon are typically outclassed by the Pokemon in the Tiers above them due to either lacking a sufficient number of relevant strengths, or possessing too many exploitable weaknessness, however many of these Pokemon may be capable of rising to one of the higher Tiers, should either the meta change, or new sets end up being discovered within their current Meta. These Pokemon may require considerable skill to play, but might just provide the necessary resources to help players gain traction in the Meta.
 
-D-Tier: Reserved for Pokemon that are almost completely outclassed by the Pokemon in the Tiers above them due to a number of intrinsic factors, which may never be completely remedied even with new set discoveries or drastic Meta changes. Pokemon often merit this Tier, due to either insufficient stats, poor typing(s), insufficient movepools, or being completely outclassed in the few roles they do have, by other, significantly more powerful Pokemon, among which, may even be variants of themselves. Researching these Pokemon may be helpful, should an opponent endeavor to use one of these Pokemon in a game, however well-designed Teams will likely have resources that can handle one, or even many of these Pokemon, regardless. As such, these Pokemon are not helpful for gaining any traction in the Meta.
+D-Tier: Reserved for Pokemon that are almost completely outclassed by the Pokemon in the Tiers above them due to a number of intrinsic factors, which may never be completely remedied even with new set discoveries or drastic Meta changes. Pokemon often merit this Tier, either due to insufficient stats, poor typing(s), insufficient movepools, or being completely outclassed in the few roles they do have by other, significantly more powerful Pokemon, among which, may even be variants of themselves. Researching these Pokemon may be helpful should an opponent endeavor to use one of these Pokemon in a game, however well-designed Teams will likely have resources that can handle one, or even many of these Pokemon, regardless. As such, these Pokemon are not helpful for gaining any traction in the Meta.
 
 Unranked: Reserved for Pokemon that were experimented with during development, but failed to meet the Meta's standard to justify placement in a proper Tier; Since this game is primarily balanced around Ubers, it could be entirely possible for these Pokemon to be viable in lower Tiers, however in this Tier, these Pokemon fail to accomplish anything of value, and should realistically never be used if Players hope to gain any traction in the Meta.
 
-Conditional Placements: If a Pokemon that would otherwise reside in a lower Tier, finds itself worthy the A-Tier on account of its synergy with the Memorize Mechanic; Next to the Pokemon's name will be the letter of the Tier they would have otherwise resided in, alongside, if applicable, the particular Held Item, or Memory Mechanic(s) (e.g. Items, Abilities, etc) that contributed to their higher placement. (E.g.: PokePoke (D; Bug Memory)).
+Conditional Placements: If a Pokemon that would otherwise reside in a lower Tier, finds itself worthy of the A-Tier on account of its synergy with the Memorization Mechanic; Next to the Pokemon's name will be the letter of the Tier they would have otherwise resided in, alongside, if applicable, the particular Held Item, or Memory Mechanic(s) (e.g. Items, Abilities, etc) that contributed to their higher placement. (E.g.: PokePoke (D; Bug Memory)).
 
 Note: Pokemon beneath the A-Tier, are listed alphabetically; Pokemon in the lower Tiers are assessed based on their Viability in their Standard Formes; Potential Memory Placements, will not be factored, unless they are sufficient to elevate them to the A-Tier.
 
 Viability Rankings
 
-S-Tier (6 Total)
+S-Tier (9 Total)
 
 S+
 Mewtwo
 
 S
+Greninja-Ash
+Zacian-Crowned (A-; Ground Memory)
 Dialga
 Meowscarada
+Kyogre
 
 S-
-Palkia
+Marshadow (A-; Fighting Memory)
 Calyrex-Shadow
-Skarmory
+Palkia
 
 
-A-Tier (40 Total)
+A-Tier (38 Total)
 
 A+
-Vaporeon
-Landorus-Therian (A+; Grass Memory)
-Zacian-Crowned (A-; Ground Memory)
-Kyogre (A-; Grass Memory + Tailwind)
-Necrozma-Dusk-Mane (A-; Steel Memory)
-Tapu Koko
 Klinklang
-Ho-Oh
+Arceus-Ground
+Magnezone (B+; Grass Memory)
+Landorus-Therian (A+; Grass Memory)
+Vaporeon
+Yveltal
+Tapu Koko
+Darkrai
 Xerneas (A; Memory Armor + Memory Disc)
-Arceus-Fairy
 
 A
-Deoxys-Speed
-Zoroark-Hisui
-Thundurus-Therian
-Groudon (B+; Fire Memory)
-Necrozma-Ultra
-Kyurem-Black
-Rayquaza (B+; Fairy Memory/Flying Memory + Tailwind)
-Darkrai
-Entei
-Phione
+Jellicent
+Lilligant (B+; Grass Memory)
+Ho-Oh
+Arceus-Electric
+Arceus-Fairy
 Meloetta
 Meloetta-Pirouette
-Zekrom
-Reshiram
+Zoroark-Hisui
+Necrozma-Dawn-Wings
+Skarmory
+Thundurus-Therian
+Entei
+Phione
+Groudon (B+; Fire Memory)
 
 A-
+Necrozma-Dusk-Mane (B+; Steel Memory)
 Eternatus
-Lilligant (B+; Ground Memory)
 Calyrex-Ice (B+; Electric Memory)
 Arceus
 Mew (B+; Protean + Fighting Memory)
 Regieleki (B- Ice Memory/Any Memory)
-Yveltal
 Bellsprout
+Rayquaza (B+; Fairy Memory)
 Lucario-Mega
 Porygon-Z (B; Dark Memory)
 Cresselia
@@ -173,9 +182,10 @@ Thundurus
 Lugia (B; Ice Memory)
 Cryogonal (B; Ground Memory)
 Zarude
+Deoxys-Speed
 
 
-B-Tier (64 Total)
+B-Tier (66 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
@@ -189,20 +199,20 @@ Celebi
 Gardevoir
 Genesect
 Giratina
-Greninja-Ash
 Keldeo
+Kyurem-Black
 Kyurem-White
 Hoopa Unbound
 Lunala
 Magearna
 Magearna-Original
 Manaphy
-Marshadow
 Mimikyu
 Mimikyu-Busted
-Necrozma-Dawn-Wings
+Necrozma-Ultra
 Pikachu-Original
 Rapidash-Galar
+Reshiram
 Salamence-Mega
 Sawsbuck
 Suicune
@@ -211,6 +221,8 @@ Tapu Fini
 Umbreon
 Urshifu-R
 Victreebel
+Zamazenta-Crowned
+Zekrom
 Zygarde
 Zygarde-Complete
 
@@ -218,7 +230,6 @@ B
 Abomasnow
 Arceus-Bug
 Arceus-Dark
-Arceus-Ground
 Arctozolt
 Blissey
 Corviknight
@@ -226,6 +237,7 @@ Darmanitan-Galar
 Darmanitan-Galar-Zen
 Emolga
 Giratina-Origin
+Gyarados-Mega
 Landorus-Incarnate
 Mesprit
 Moltres-Galar
@@ -251,7 +263,7 @@ Shaymin-Sky
 Snorlax
 
 
-C-Tier (30 Total)
+C-Tier (29 Total)
 
 C+
 Arceus-Poison
@@ -276,7 +288,6 @@ Meowth
 Naganadel
 Starmie
 Tapu Lele
-Zamazenta-Crowned
 Zapdos
 
 C-
@@ -357,10 +368,10 @@ Note: This is not a standard Viability Ranking; The following placements are ind
 Excellent
 Dialga: [P: 2 / D: 1] (3)
 Calyrex-Shadow:  [P: 4 / D: 0] (4)
-Groudon: [P: 3 / D: 2] (5)
+Groudon: [P: 4 / D: 4] (8)
 Mewtwo: [P: 3 / D: 1] (4)
-Necrozma-Dusk-Mane: [P: 4 / D: 3] (7)
-Rayquaza: [P: 2 / D: 2] (2)
+Necrozma-Dusk-Mane: [P: 3 / D: 3] (6)
+Rayquaza: [P: 4 / D: 3] (7)
 Thundurus-Therian: [P: 2 / D: 2] (4)
 Xerneas: [P: 2 / D: 3] (5)
 Zekrom: [P: 2 / D: 3] (5)
@@ -445,6 +456,7 @@ Common Items
 - Earth Plate
 - Icicle Plate
 - Leftovers
+- Occa Berry
 - Payapa Berry
 - Pixie Plate
 - Shell Bell
@@ -593,6 +605,7 @@ Common Items
 - Metal Coat
 - Protector
 - Shuca Berry
+- Star Sweet
 - Sweet Apple
 - Weakness Policy
 
@@ -939,6 +952,101 @@ Strengths
 Weaknesses
 - Similar weaknesses as Base Groudon.
 
+=====================================================================================================================
+Category: K  
+=====================================================================================================================
+Kyogre
+Common Items
+- Choice Scarf
+- Choice Specs
+- Rose Incense
+
+Common Memories
+- Grass Memory
+- Water Memory
+
+Common Moves
+- Ice Beam
+- Memory Blast
+- Origin Pulse
+- Tailwind
+- Thunder
+- Thunder Wave
+- Water Spout
+
+Preferred Ability
+- Drizzle
+
+Playstyle: Since health is Kyogre's most valuable resource: It is best used as a switch-in option, either from a slow-pivot user on its Team, or as a retaliatory option against vulnerable opponents, after one of its allies faint. A set of Origin Pulse, Ice Beam, Thunder Wave, and Tailwind, allows Kyogre to hit most of the Tier hard with its attacking moves, while potentially crippling most of its checks through the use of Thunder Wave. Offensively, it is not uncommon for opposing players to have various Pokemon that are vulnerable or weak to one of Kyogre's coverage options, while resisting the other. Players should therefore use discretion when deciding which attack to use, as predictions may become necessary in order to gain momentum against its potential switch-ins, if its other Teammates cannot effectively manage them. Deciding when to use Thunder Wave, or Tailwind, is another factor that players will have to consider. Against opposing Mewtwo, Palkia, Calyrex-Shadow, Dialga, and any other resists, Thunder Wave should always be used over an attacking move or Tailwind, while Tailwind is best used toward the latter stages of the match where potential offensive threats may be looming in the opponent's Party, while its Defensive Checks have likely been either weakened or destroyed. When uncertain about which move is more appropriate: Thunder Wave works better for wall-breaking Bulky Offense and Walls, while Tailwind is better for sweeping through faster attackers.
+
+Defensively If Kyogre's health is adequately maintained, it will oftentimes be capable of surviving a number of the Tier's most powerful hits, including Adrenaline Orb Mewtwo's Stored Power, Modest Palkia's Boomburst, and +1 Calyrex-Shadow's Astral Barrage. Thunder Wave and Rose Incense work well together, as it allows Kyogre to preserve its progress against problematic Pokemon, such as Palkia or Dialga, without actually having to battle them directly, while Rose Incense allows Kyogre to play more aggressively against these Pokemon, giving it more opportunities to land Paralysis.
+
+For investment: Kyogre should always either run 0 Speed EVs with a Speed-boosting Nature, or 140 Evs without one, to ensure that it can always outspeed opposing +1 Speed-Nature Mewtwo and Calyrex-Shadow with Tailwind, in the event of an emergency. Secondarily, Kyogre generally prefers to invest 252 EVs into Hp, which helps insulate it against many of the Tier's strongest moves, while also giving a chance to survive Atk-Neutral Nature, Full Incense Meowscarada's Flower Trick. The remaining EVs can be placed in whichever stat players feel is more appropriate, with Defense improving its aforementioned Matchups with Meowscarada and Physical Attackers, while Special Defense improves its Matchups against Special Attackers, respectively. Kyogre can also invest into Special Attack if it wishes, however it oftentimes will not be necessary, as Drizzle and Thunder Wave already impart Kyogre with the power to decimate its foes.
+
+Kyogre @ Rose Incense  
+Ability: Drizzle  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Timid Nature
+- Origin Pulse  
+- Ice Beam  
+- Thunder Wave  
+- Tailwind
+
+Strengths
+- Amazing Typing
+- Access to one of the best Abilities in the game, in Drizzle
+- Prodigious Damage Output
+- Fantastic Special Bulk
+- Access to some of the best Status Moves in the game, in Thunder Wave (Paralysis Move), and Tailwind
+- Unlimited access to the best Passive-Recovery Item in the game, in Rose incense
+
+Weaknesses
+- Moderately limited coverage
+- Predictability
+- Relies on a narrow list of sets to maximize its potential
+- Depends on Thunder Wave to break through many of its checks, which is especially problematic against Eternatus and Meowscarada.
+- Possesses common weaknesses, in Electric, and Grass
+- Completely lacks a Pivot Move, forcing it to potentially sacrifice momentum every time it switches out, while leaving itself vulnerable to opposing Water-Trappers
+
+Grass Memory
+Kyogre @ Grass Memory  
+Ability: Drizzle  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- Origin Pulse  
+- Memory Blast  
+- Thunder Wave  
+- Tailwind
+
+Strengths
+- Improves Kyogre's Matchup against Palkia, allowing it to potentially Paralyze it, then OHKO
+- Imparts it with the ability to check a number of Water-Types, most notably, opposing Kyogre, and Vaporeon
+- Provides it with another powerful STAB option, which it can use to hit Meowscarada hard
+- Grants Kyogre a Status-Immunity, allowing it to more reliably confront opposing Walls, and Utility-Lockers
+
+Weaknesses
+- Loses access to its powerful passive recovery
+- Struggles to fit Ice Beam into its sets, thus surrendering the ability to hit Eternatus Super-Effectively
+- Consumes the Team's Memory Slot
+
+Water Memory
+Kyogre @ Water Memory  
+Ability: Drizzle  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Origin Pulse  
+- Ice Beam / Water Spout / Scald  
+- Thunder Wave / Ice Beam
+- Tailwind
+
+Strengths
+- Allows Kyogre to deal heavy damage to its resists, even without coverage moves
+- Significantly boosts Kyogre's Damage Output, to where it can reliably OHKO or 2HKO most of the Tier
+
+Weaknesses
+- Primarily only useful for Offensive or Hyper-Offensive Teams, as it sacrifices its passive healing for damage
+- Uses the Team's Memory Slot, when normal Kyogre is already viable, preventing another Pokemon from Memorizing that could likely make better use of it
 =====================================================================================================================
 Category: R  
 =====================================================================================================================

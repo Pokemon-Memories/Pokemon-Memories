@@ -1,5 +1,406 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v1.7.0
+Entry Hazards
+- Stealth Rock
+	- Maximum Damage: __ -> 1/3 Max Hp
+
+Abilities
+- Battle Bond
+	- Effect: Transforms Greninja into Ash-Greninja and makes Water Shuriken hit three times -> Pokemon's First Successful Move has x1.3 Base Power. Pokemon's Resisted Moves have x1.2 Base Power. Pokemon ignores the effects of Weather
+- Desolate Land
+	- Additional Effect: Unaffected by Mold Breaker, or Ability-Bypassing Moves
+- Hope Sprout
+	- Implemented
+	- Effect: Pokemon's Poison-Type Weaknesses are ignored; Pokemon restores 1/4 Max Hp upon switching out
+- Innards Out
+	- Punishment Damage: 100% Damage Inflicted -> 1/3 Damage Inflicted
+- Magnet Pull
+	- Additional Effect: Super-Effective Moves deal x1.3 Damage when used against a Pokemon that has the Steel-Typing.
+- Midnight Veil
+	- Additional Effect: Super-Effective Moves from opposing Ghost-Type Pokemon deal 1/2 of their usual Damage
+- Mirror Armor
+	- Ghost-Negating Threshold: Max Hp -> At least 1/2 Max Hp
+	- Additional Effect: Pokemon restores 1/5 Max Hp at the end of each turn, if it has a Status Condition
+- Perpetuity
+	- Additional Effect: Cures all Status Conditions at the end of the turn, if the Pokemon has 1/10 Max Hp or less
+- Primordial Sea
+	- Additional Effect: Pokemon cannot be Paralyzed; Pokemon is immediately cured of its Paralysis once Heavy Rain returns. Unaffected by Mold Breaker, or Ability-Bypassing Moves
+- Shields Down
+	- Effect: Minior-Meteor Transforms into Minior-Core if it has less than 1/2 Max Hp -> Minior-Core Becomes Minior-Meteor if it does not have any Positive Stat Boosts; Transforms into Minior-Core if it has any Positive Stat Boosts.
+- Technician
+	- Multi-Hit Base Power Boost: x1.5 -> x1.3
+
+
+Memory Abilities
+	- Correted an oversight where the Base Memory Abilities still had the restrictions of their Memory Forme counterparts despite the Changelog claiming otherwise. This has been corrected
+
+
+Items
+- Snowball
+	- Additional Effect: Frozen Pokemon gain the Permafrost Effect
+- Star Sweet
+	- Implemented
+	- Effect: Holder automatically switches out upon successfully using a Charity Move. Multi-Use.
+		- List of Charity Moves: Aurora Veil, Jungle Healing, Leech Seed, Lucky Chant, Mist, Safeguard, Wish
+		- Disallowed Moves: Aromatherapy, Heal Bell, Healing Wish, Light Screen, Lunar Dance, Reflect, Tailwind
+
+
+Moves
+- Aqua Rise
+	- Type: Electric -> Water
+- Destiny Bond
+	- Effect: Opponent faints if they cause the user to faint -> Opponent receives 1/2 of the Damage Inflicted, if they caused the user to faint through an attacking move.
+- Dragon Rush
+	- Flinch Chance: 20% -> 10%
+- Ice Hammer
+	- Accuracy: 90 -> 100
+- Multi-Attack
+	- Attributes synchronized with Judgment (i.e.: Bypasses certain Immunities, changes Type depending on Memory Disc, etc.)
+- Paddle Kick
+	- Implemented
+	- Base Power: 55
+	- Accuracy: 100
+	- Category: Physical
+	- PP: 5
+	- Effect: Raises the user's Speed by 1 stage. Hits twice. Subject to Attrition.
+	- Contact: No
+	- Type: Fighting
+- Rampage (New Move)
+	- Implemented
+	- Base Power: 150
+	- Accuracy: 100
+	- Category: Physical
+	- PP: 5
+	- Effect: Hits opposing Dragon-Type Pokemon Super-Effectively
+	- Contact: Yes
+	- Type: Dark
+- Royal Retreat
+	- Type: Normal -> ???
+- Scale Shot
+	- Base Power: 50 -> 60
+	- Accuracy: 90 -> 100
+	- Threshold: __ -> +1 Spe
+	- Attrition: -1 Def/+1 Spe -> __
+- Shadow Ball
+	- Base Power: 120 -> 135
+- Water Break
+	- Base Power: 100 -> 120
+
+
+Weather
+- Heavy Rain
+	- Water-Type Health Restoration: 1/8 -> 1/5
+		- Conditions: Only applies to non-Paralyzed Water-Type Pokemon
+
+Pokemon
+- Bellsprout Evolutionary Line
+	- Universal
+		- Learnset Additions
+			- Heal Order
+		- Learnset Removals
+			- Heart Sap
+	- Weepinbell
+		- Base Stats
+			- Hp: 145 -> 185
+			- Atk: 204 -> 234
+			- Def: 180 -> 205
+			- SpA: 204 -> 234
+			- SpD: 180 -> 205
+	- Victreebel
+		- Ability: Stamina -> Hope Sprout
+- Corviknight
+	- Learnset Additions
+		- Recover
+		- Shadow Claw
+		- Withdraw
+- Dragapult
+	- Base Stats
+		- Spe: 108 -> 186
+	- Learnset Additions
+		- Bitter Malice
+		- Dragon Rush
+		- Poltergeist
+		- Shadow Force
+		- Slush Switch
+		- Uproar
+- Flygon
+	- Learnset Additions
+		- Quiver Dance
+		- Shift Gear
+		- Slush Switch
+
+- Gallade
+	- Learnset Additions
+		- Malice Run
+- Geodude
+	- Base Stats
+		- Hp: 130 -> 150
+		- Spe: 150 -> 177
+	- Learnset Additions
+		- Fall Back
+		- Mineral Cannon
+- Greninja-Ash
+	- Abilities: Tough Claws/Speed Pledge -> Battle Bond
+	- Base Stats
+		- Hp: 135 -> 155
+		- Atk: 272 -> 282
+		- Def: 152 -> 172
+		- SpA: 282 -> 292
+		- SpD: 142 -> 162
+	- Learnset Additions
+		- Malice Run
+		- Receiving Strike
+	- Learnset Removals
+		- Blizzard
+		- Chilling Water
+		- Dig
+		- Echoed Voice
+		- Ice Beam
+		- Ice Punch
+		- Icy Wind
+		- Knock Off
+		- Low Kick
+		- Power-Up Punch
+		- Shadow Sneak
+		- Slush Switch
+		- Water Break
+- Gyarados
+	- Learnset Additions
+		- Acrobatics
+		- Brave Bird
+		- Hurricane
+		- Rampage
+		- Shift Gear
+- Jellicent
+	- Abilities: Water Absorb/Regenerator/Weather Guard
+	- Base Stats
+		- Hp: 100 -> 250
+		- Atk: 60 -> 150
+		- Def: 70 -> 150
+		- SpA: 85 -> 245
+		- SpD: 105 -> 225
+		- Spe: 60 -> 100
+		- BST: 480 -> 1120
+	- Learnset Additions
+		- Dragon Breath
+		- Knock Off
+		- Recover
+		- Stealth Rock
+		- Wish
+		- Withdraw
+- Landorus
+	- Learnset Additions
+		- Tailwind
+- Lilligant
+	- Learnset Removals
+		- Hydro Pump
+- Magnezone
+	- Base Stats
+		- Hp: 140 -> 160
+		- Atk: 210 -> 260
+		- Def: 225 -> 250
+		- SpA: 210 -> 260
+		- SpD: 155 -> 165
+	- Learnset Additions
+		- Blast Burn
+		- Focus Blast
+		- Overheat
+- Marshadow
+	- Learnset Additions
+		- Double Hit
+		- Flip Kick
+		- Receiving Strike
+		- Stone Edge
+	- Learnset Removals
+		- Outrage
+- Mewtwo
+	- Learnset Additions
+		- Mud Sport
+- Minior
+	- Learnset Additions
+		- Aerial Ace
+		- Air Cutter
+		- Astonish
+		- Cosmic Starfall
+		- Draco Meteor
+		- Focus Blast
+		- Howl
+		- Magnitude
+		- Meteor Beam
+		- Meteor Mash
+		- Mineral Cannon
+		- Shadow Ball
+		- Spark
+- Phione
+	- Learnset Additions
+		- Agility
+		- Shadow Ball
+		- Slush Switch
+		- Uproar
+- Rayquaza
+	- Learnset Additions
+		- Aromatic Mist
+		- U-Turn
+- Regidrago
+	- Learnset Additions
+		- Aromatic Mist
+		- Teleport
+- Thundurus
+	- Learnset Additions
+		- Tailwind
+- Tornadus
+	- Learnset Additions
+		- Tailwind
+- Toxapex
+	- Learnset Additions
+		- Heart Sap
+- Vaporeon
+	- Learnset Additions
+		- Ethereal Stream
+		- Flip Turn
+- Zamazenta-Crowned
+	- Base Stats
+		- SpA: 47 -> 27
+		- SpD: 201 -> 211
+		- Spe: 161 -> 171
+
+
+
+
+Pokemon Memories v1.6.8
+Abilities
+- Hightened Mind
+	- Offensive Bonus: x1.2 -> x1.3
+
+Moves
+- Crystal Rush
+	- Implemented
+	- Base Power: 100
+	- Accuracy: 100
+	- Category: Physical
+	- PP: 5
+	- Effect: Raises the user's Speed by 1 stage. Subject to Attrition.
+	- Contact: No
+	- Type: Rock
+- Dark Pulse
+	- Base Power: 135 -> 140
+- Electro Strike
+	- Implemented
+	- Base Power: 100
+	- Accuracy: 100
+	- Category: Special
+	- PP: 5
+	- Effect: Raises the user's Speed by 1 stage. Subject to Attrition.
+	- Contact: No
+	- Type: Electric
+- Night Daze
+	- Base Power: 120 -> 135
+- Iron Run
+	- Implemented
+	- Base Power: 100
+	- Accuracy: 100
+	- Category: Physical
+	- PP: 5
+	- Effect: Raises the user's Speed by 1 stage. Subject to Attrition.
+	- Contact: No
+	- Type: Steel
+- Pixie Run
+	- Implemented
+	- Base Power: 120
+	- Accuracy: 100
+	- Category: Varies (Special by Default)
+	- PP: 5
+	- Effect: Raises the user's Speed by 1 stage. Subject to Attrition.
+	- Contact: No
+	- Type: Fairy
+- Prattle Rattle
+	- Implemented
+	- Base Power: 110
+	- Accuracy: 100
+	- Category: Physical
+	- PP: 5
+	- Effect: Raises the user's Speed by 1 stage. Subject to Attrition.
+	- Contact: No
+	- Type: ???
+- Receiving Strike
+	- Implemented
+	- Base Power: 55
+	- Accuracy: 100
+	- Category: Physical
+	- PP: 5
+	- Effect: Raises the user's Speed by 1 stage. Hits twice. Pokemon's Speed will be automatically be boosted if used against a Ghost-Type, however this Move does not ignore immunities. Subject to Attrition.
+	- Contact: No
+	- Type: Fighting
+- Sludge Rush
+	- Implemented
+	- Base Power: 100
+	- Accuracy: 100
+	- Category: Special
+	- PP: 5
+	- Effect: Raises the user's Speed by 1 stage. Pokemon's Speed will be automatically be boosted if used against a Steel-Type, however this Move does not ignore immunities. Subject to Attrition.
+	- Contact: No
+	- Type: Poison
+
+Pokemon
+- Diancie
+	- Learnset Additions
+		- Crystal Rush
+- Eternatus
+	- Learnset Additions
+		- Focus Blast
+		- Sludge Rush
+		- Thunder
+	- Learnset Removals
+		- Agility
+- Gengar
+	- Learnset Additions
+		- Sludge Rush
+- Infernape
+	- Learnset Additions
+		- Receiving Strike
+- Magearna
+	- Learnset Additions
+		- Iron Run
+		- Quiver Dance
+- Meloetta
+	- Learnset Additions
+		- Prattle Rattle
+- Mewtwo
+	- Learnset Additions
+		- Crystal Rush
+		- Electro Strike
+		- Flame Charge
+		- Iron Run
+		- Pixie Run
+		- Prattle Rattle
+		- Receiving Strike
+		- Sludge Rush
+- Mimikyu
+	- Learnset Additions
+		- Pixie Run
+- Sylveon
+	- Learnset Additions
+		- Pixie Run
+- Terrakion
+	- Learnset Additions
+		- Receiving Strike
+- Thundurus
+	- Learnset Additions
+		- Electro Strike
+- Zamazenta
+	- Learnset Additions
+		- Aromatic Mist
+		- Autotomize
+		- Gear Grind
+		- Receiving Strike
+		- Stone Edge
+	- Learnset Removals
+		- Howl
+- Zekrom
+	- Learnset Additions
+		- Electro Strike
+
 Pokemon Memories v1.6.7
 General
 - Mechanics

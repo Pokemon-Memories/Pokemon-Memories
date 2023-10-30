@@ -563,7 +563,7 @@ IVs: 0 Atk / 0 Spe
 === [gen6ultraassist] Ultra Assist/Power of Stall (EX Lugia) ===
 
 Mewtwo @ Leftovers  
-Ability: psychicpower  
+Ability: antipathy  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
@@ -645,7 +645,7 @@ Impish Nature
 - expressheal  
 
 Mewtwo @ Adrenaline Orb  
-Ability: psychicpower  
+Ability: antipathy  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Psystrike  
@@ -801,13 +801,13 @@ IVs: 0 Atk
 Gallade @ assistdrive  
 Ability: Steadfast  
 Shiny: Yes  
-EVs: 252 Atk / 252 SpD  
-Brave Nature  
-IVs: 0 Def / 0 Spe  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Naughty Nature  
+IVs: 0 Def  
 - Zen Headbutt  
 - Close Combat  
-- Stone Edge  
-- Low Sweep  
+- Dual Chop  
+- malicerun  
 
 
 === [gen6ultraassist] Ultra Assist/Hyper Offense (EX-Darkrai) ===
@@ -1411,13 +1411,13 @@ Jolly Nature
 Gallade @ assistdrive  
 Ability: Steadfast  
 Shiny: Yes  
-EVs: 252 Atk / 252 SpD  
-Brave Nature  
-IVs: 0 Def / 0 Spe  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Naughty Nature  
+IVs: 0 Def  
 - Zen Headbutt  
 - Close Combat  
-- Stone Edge  
-- Low Sweep  
+- Dual Chop  
+- malicerun  
 
 
 === [gen6ultraassist] Ultra Assist/Chaos (SpA Assist: Bibarel) ===
@@ -1663,6 +1663,67 @@ Jolly Nature
 - Dragon Dance  
 
 
+=== [gen6anythinggoes] Primordials: There Were Monsters (Mewtwo, Dark) ===
+
+Groudon-Primal @ Red Orb  
+Ability: Desolate Land  
+Shiny: Yes  
+EVs: 116 HP / 252 Atk / 140 Spe  
+Adamant Nature  
+- Precipice Blades  
+- Flame Wheel  
+- Stone Edge  
+- Rock Polish  
+
+Kyogre-Primal @ Blue Orb  
+Ability: Primordial Sea  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Origin Pulse  
+- Ice Beam  
+- Thunder Wave  
+- Tailwind  
+
+Mewtwo @ Dark Memory  
+Ability: psychicpower  
+EVs: 252 SpA / 252 Spe  
+Timid Nature  
+- Stored Power  
+- Aura Sphere  
+- memoryblast  
+- Uproar  
+
+Meowscarada (F) @ Lax Incense  
+Ability: parlortrick  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Flower Trick  
+- Night Slash  
+- slushswitch  
+- Trailblaze  
+
+Klinklang @ Metal Coat  
+Ability: utilitylock  
+Shiny: Yes  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
+- Gear Grind  
+- Thunder Wave  
+- Stealth Rock  
+- royalretreat  
+
+Palkia @ Choice Scarf  
+Ability: dracolate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- royalsubmersion  
+- Boomburst  
+- Dragon Breath  
+- Flip Turn  
+
+
 === [gen6anythinggoes] Mega Mewtwo's Army ===
 
 Mewtwo-Mega-X @ Mewtwonite X  
@@ -1672,16 +1733,16 @@ Jolly Nature
 - vanishingstrike  
 - Submission  
 - Low Sweep  
-- Trailblaze  
+- crystalrush  
 
 Mewtwo @ Mewtwonite Y  
 Ability: psychicpower  
 EVs: 4 HP / 252 SpA / 252 Spe  
-Naive Nature  
+Timid Nature  
 - Expanding Force  
 - infernobeam  
 - Night Daze  
-- psychicwind  
+- pixierun  
 
 Vaporeon (F) @ Sitrus Berry  
 Ability: utilitylock  
@@ -1727,13 +1788,13 @@ IVs: 0 Spe
 Gallade @ assistdrive  
 Ability: Steadfast  
 Shiny: Yes  
-EVs: 252 Def / 252 SpD  
-Relaxed Nature  
-IVs: 0 Spe  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Naughty Nature  
+IVs: 0 Def  
 - Zen Headbutt  
 - Close Combat  
-- Stone Edge  
-- Low Sweep  
+- Dual Chop  
+- malicerun  
 
 Xerneas @ Power Bracer  
 Ability: memoryarmor  
@@ -1793,16 +1854,16 @@ Jolly Nature
 - vanishingstrike  
 - Submission  
 - Brutal Swing  
-- psychorush  
+- crystalrush  
 
 Mewtwo @ Mewtwonite Y  
 Ability: psychicpower  
 EVs: 4 HP / 252 SpA / 252 Spe  
-Naive Nature  
+Timid Nature  
 - Expanding Force  
-- infernobeam  
+- psychofire  
 - Night Daze  
-- psychicwind  
+- receivingstrike  
 
 Ho-Oh @ Sweet Apple  
 Ability: Magic Guard  
@@ -1997,7 +2058,7 @@ Timid Nature
 - Shell Smash  
 
 Eternatus @ Black Sludge  
-Ability: spacepower  
+Ability: Space Power  
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
 - Venoshock  
@@ -2514,7 +2575,7 @@ Timid Nature
 - Night Daze  
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: lightinversion  
+Ability: Light Inversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -2655,10 +2716,10 @@ Marshadow @ Life Orb
 Ability: Technician  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- spookyrevenge  
+- Double Hit  
+- paddlekick  
 - Smack Down  
-- Low Sweep  
-- Shadow Sneak  
+- flipkick  
 
 Ho-Oh @ Sweet Apple  
 Ability: Magic Guard  
@@ -2711,7 +2772,7 @@ IVs: 0 Atk
 - Parting Shot  
 
 Eternatus @ Black Sludge  
-Ability: spacepower  
+Ability: Space Power  
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
 - Venoshock  
@@ -2830,7 +2891,7 @@ Naive Nature
 - Volt Switch  
 
 Eternatus @ Black Sludge  
-Ability: spacepower  
+Ability: Space Power  
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
 - Venoshock  
@@ -2881,10 +2942,10 @@ Marshadow @ Life Orb
 Ability: Technician  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- spookyrevenge  
+- Double Hit  
+- paddlekick  
 - Smack Down  
-- Low Sweep  
-- Shadow Sneak  
+- flipkick  
 
 Ho-Oh @ Sweet Apple  
 Ability: Magic Guard  
@@ -2905,7 +2966,7 @@ Calm Nature
 - slushswitch  
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: lightinversion  
+Ability: Light Inversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -2921,55 +2982,56 @@ Ability: psychicpower
 EVs: 4 Atk / 252 SpA / 252 Spe  
 Naive Nature  
 - Stored Power  
-- memoryblast  
-- mineralcannon  
-- Poltergeist  
+- Mud Sport  
+- infernobeam  
+- malicerun  
 
-Zygarde @ White Herb  
-Ability: Power Construct  
-EVs: 4 HP / 252 Atk / 252 Spe  
-Jolly Nature  
-- Land's Wrath  
-- Stone Edge  
-- Cross Poison  
-- Dragon Dance  
+Klinklang @ Metal Coat  
+Ability: utilitylock  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
+- Gear Grind  
+- Thunder Wave  
+- Stealth Rock  
+- royalretreat  
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: lightinversion  
+Ability: Light Inversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
-- mindcleaner  
+- Signal Beam  
 - expressheal  
 - sludgeswitch  
 
-Calyrex-Ice @ Sweet Apple  
-Ability: Ice Scales  
+Dialga @ Metal Coat  
+Ability: Regenerator  
+EVs: 252 Atk / 116 SpD / 140 Spe  
+Lonely Nature  
+- Breaking Swipe  
+- Earthquake  
+- Iron Head  
+- Shell Smash  
+
+Meowscarada (F) @ Lax Incense  
+Ability: parlortrick  
+Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
-Adamant Nature  
-- Glacial Lance  
-- Stealth Rock  
-- Aromatic Mist  
-- accelerate  
+Jolly Nature  
+- Flower Trick  
+- Night Slash  
+- slushswitch  
+- Trailblaze  
 
-Eternatus @ Black Sludge  
-Ability: spacepower  
-EVs: 252 HP / 4 SpA / 252 Spe  
-Timid Nature  
-- Venoshock  
-- sludgeswitch  
-- Dragon Breath  
-- Recover  
-
-Kyogre @ Sea Incense  
+Kyogre @ Rose Incense  
 Ability: Drizzle  
-EVs: 4 HP / 252 SpA / 252 Spe  
+EVs: 252 HP / 4 SpA / 252 SpD  
 Timid Nature  
 IVs: 0 Atk  
 - Origin Pulse  
 - Ice Beam  
-- Thunder  
 - Thunder Wave  
+- Tailwind  
 
 
 === [gen6ubers] Lilligant (Lilligant, Ground) ===
@@ -3024,10 +3086,10 @@ Marshadow @ Life Orb
 Ability: Technician  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- spookyrevenge  
+- Double Hit  
+- paddlekick  
 - Smack Down  
-- Low Sweep  
-- Shadow Sneak  
+- flipkick  
 
 
 === [gen6ubers] Desperate for Mesprit (Dialga, Rock) ===
@@ -3116,7 +3178,7 @@ Timid Nature
 - slushswitch  
 
 Eternatus @ Black Sludge  
-Ability: spacepower  
+Ability: Space Power  
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
 - sludgeswitch  
@@ -3143,7 +3205,7 @@ Adamant Nature
 - accelerate  
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: lightinversion  
+Ability: Light Inversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -3229,10 +3291,10 @@ Marshadow @ Life Orb
 Ability: Technician  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- spookyrevenge  
+- Double Hit  
+- paddlekick  
 - Smack Down  
-- Low Sweep  
-- Shadow Sneak  
+- flipkick  
 
 Xerneas @ Bright Powder  
 Ability: Fairy Aura  
@@ -3246,7 +3308,7 @@ IVs: 0 Atk
 - Teleport  
 
 Eternatus @ Black Sludge  
-Ability: spacepower  
+Ability: Space Power  
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
@@ -3265,7 +3327,7 @@ Jolly Nature
 - heavendance  
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: lightinversion  
+Ability: Light Inversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -3286,7 +3348,7 @@ Timid Nature
 - slushswitch  
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: lightinversion  
+Ability: Light Inversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -3355,11 +3417,11 @@ Careful Nature
 Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
 EVs: 4 HP / 252 SpA / 252 Spe  
-Naive Nature  
+Timid Nature  
 - Stored Power  
 - infernobeam  
 - Water Sport  
-- Comeuppance  
+- Night Daze  
 
 Skarmory (M) @ Choice Scarf  
 Ability: windstreamer  
@@ -3493,7 +3555,7 @@ IVs: 0 Atk
 - Parting Shot  
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: lightinversion  
+Ability: Light Inversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -3950,7 +4012,7 @@ Adamant Nature
 - Agility  
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: lightinversion  
+Ability: Light Inversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -4028,7 +4090,7 @@ Jolly Nature
 - Trailblaze  
 
 Eternatus @ Prism Scale  
-Ability: spacepower  
+Ability: Space Power  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
 IVs: 0 Atk  
@@ -4121,7 +4183,7 @@ Timid Nature
 - Volt Switch  
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: lightinversion  
+Ability: Light Inversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -4218,7 +4280,7 @@ Careful Nature
 - Aromatic Mist  
 
 Eternatus @ Black Sludge  
-Ability: spacepower  
+Ability: Space Power  
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
 - sludgeswitch  
@@ -4397,7 +4459,7 @@ Impish Nature
 - U-turn  
 
 Eternatus @ Prism Scale  
-Ability: spacepower  
+Ability: Space Power  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
 IVs: 0 Atk  
@@ -4414,10 +4476,10 @@ Ability: Defiant
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- memorysong  
+- memorydance  
 - Storm Throw  
 - Double Slap  
-- flutterdance  
+- flutterstep  
 
 Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
@@ -4578,7 +4640,7 @@ Careful Nature
 - Aromatic Mist  
 
 Eternatus @ Prism Scale  
-Ability: spacepower  
+Ability: Space Power  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
 IVs: 0 Atk  
@@ -4937,7 +4999,7 @@ IVs: 0 Atk
 - Withdraw  
 
 Eternatus @ Prism Scale  
-Ability: spacepower  
+Ability: Space Power  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
 IVs: 0 Atk  
@@ -5015,8 +5077,8 @@ EVs: 4 HP / 252 SpA / 252 Spe
 Timid Nature  
 - mysterydeluge  
 - psychofire  
-- mineralcannon  
-- malicerun  
+- Night Daze  
+- crystalrush  
 
 Meowscarada (F) @ Lax Incense  
 Ability: parlortrick  
@@ -5186,7 +5248,7 @@ Timid Nature
 - Surf  
 - Mud Sport  
 - Sludge Wave  
-- U-turn  
+- slushswitch  
 
 
 === [gen6ubers] Water, Water... (Carracosta, Water) ===
@@ -5800,10 +5862,10 @@ IVs: 0 Atk
 
 Dialga @ Dubious Disc  
 Ability: Regenerator  
-EVs: 116 HP / 252 Atk / 140 Spe  
-Adamant Nature  
+EVs: 116 HP / 252 SpA / 140 Spe  
+Modest Nature  
 - memoryblast  
-- Iron Head  
+- Fire Blast  
 - Thunder Wave  
 - Shell Smash  
 
@@ -5817,19 +5879,18 @@ IVs: 0 Atk
 - Dazzling Gleam  
 - Parting Shot  
 
-Emolga (M) @ Sweet Apple  
-Ability: hyperspeed  
+Meloetta @ Throat Spray  
+Ability: ensemble  
 Shiny: Yes  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-IVs: 0 Atk  
-- Thunder  
-- Ice Beam  
-- Dazzling Gleam  
-- Tailwind  
+- Hyper Voice  
+- Storm Throw  
+- Screech  
+- fluttersong  
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: lightinversion  
+Ability: Light Inversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -5846,15 +5907,16 @@ Careful Nature
 - flameswitch  
 - Aromatic Mist  
 
-Gallade @ Galladite  
+Gallade @ assistdrive  
 Ability: Steadfast  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
-Jolly Nature  
+Naughty Nature  
+IVs: 0 Def  
 - Zen Headbutt  
 - Close Combat  
-- Low Sweep  
-- Shadow Sneak  
+- Dual Chop  
+- malicerun  
 
 
 === [gen6ubers] Cherry Blossoms (Xerneas, Fairy) ===
@@ -5916,7 +5978,7 @@ Jolly Nature
 - Wave Crash  
 - Night Slash  
 - Trailblaze  
-- slushswitch  
+- Flip Turn  
 
 
 === [gen6ubers] Frontal Assault (Dialga, Ice) ===
@@ -6058,7 +6120,7 @@ Jolly Nature
 - Wave Crash  
 - Night Slash  
 - Trailblaze  
-- slushswitch  
+- Flip Turn  
 
 Bellsprout (M) @ Toxic Orb  
 Ability: Sheer Force  
@@ -6070,7 +6132,7 @@ Jolly Nature
 - sludgeswitch  
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: lightinversion  
+Ability: Light Inversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -6344,8 +6406,8 @@ EVs: 140 Atk / 116 SpA / 252 Spe
 Naive Nature  
 - psychofire  
 - memoryblast  
-- mineralcannon  
-- psychorush  
+- Overheat  
+- crystalrush  
 
 Meowscarada (F) @ Lax Incense  
 Ability: parlortrick  
@@ -6462,11 +6524,11 @@ EVs: 4 HP / 252 SpA / 252 Spe
 Timid Nature  
 - mysterydeluge  
 - psychofire  
-- mineralcannon  
-- malicerun  
+- Night Daze  
+- crystalrush  
 
 Victreebel (M) @ Lax Incense  
-Ability: Stamina  
+Ability: hopesprout  
 Shiny: Yes  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
@@ -6564,7 +6626,7 @@ Jolly Nature
 - Wave Crash  
 - Night Slash  
 - Trailblaze  
-- slushswitch  
+- Flip Turn  
 
 Vaporeon @ Leftovers  
 Ability: utilitylock  
@@ -6655,7 +6717,7 @@ Timid Nature
 - Surf  
 - Mud Sport  
 - Sludge Wave  
-- U-turn  
+- slushswitch  
 
 Bellsprout (M) @ Toxic Orb  
 Ability: Sheer Force  
@@ -6770,13 +6832,12 @@ Naive Nature
 
 Mewtwo @ Dubious Disc  
 Ability: psychicpower  
-Shiny: Yes  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - mysterydeluge  
 - psychofire  
-- mineralcannon  
-- malicerun  
+- Night Daze  
+- crystalrush  
 
 Arceus @ Sweet Apple  
 Ability: Multitype  
@@ -6819,7 +6880,7 @@ Jolly Nature
 === [gen6ubers] Perpetuity (Mewtwo, Water) ===
 
 Eternatus @ Black Sludge  
-Ability: spacepower  
+Ability: Space Power  
 EVs: 252 HP / 252 SpA / 4 Spe  
 Modest Nature  
 IVs: 0 Atk  
@@ -6845,7 +6906,7 @@ Timid Nature
 - Surf  
 - Mud Sport  
 - Sludge Wave  
-- U-turn  
+- slushswitch  
 
 Ho-Oh @ Sweet Apple  
 Ability: Magic Guard  
@@ -6943,9 +7004,9 @@ Shiny: Yes
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - glacialstrike  
-- Fusion Bolt  
-- Fire Punch  
-- Agility  
+- Freeze-Dry  
+- Ice Shard  
+- froststep  
 
 Yveltal @ Zoom Lens  
 Ability: Dark Aura  
@@ -6963,8 +7024,8 @@ EVs: 140 Atk / 116 SpA / 252 Spe
 Naive Nature  
 - psychofire  
 - memoryblast  
-- mineralcannon  
-- psychorush  
+- Overheat  
+- crystalrush  
 
 Meowscarada (F) @ Lax Incense  
 Ability: parlortrick  
@@ -7022,8 +7083,8 @@ EVs: 140 Atk / 116 SpA / 252 Spe
 Naive Nature  
 - psychofire  
 - memoryblast  
-- mineralcannon  
-- psychorush  
+- Overheat  
+- crystalrush  
 
 Dialga @ Dawn Stone  
 Ability: Regenerator  
@@ -7193,7 +7254,7 @@ Timid Nature
 - Surf  
 - Mud Sport  
 - Sludge Wave  
-- U-turn  
+- slushswitch  
 
 Meowscarada (F) @ Lax Incense  
 Ability: parlortrick  
@@ -7235,7 +7296,7 @@ Careful Nature
 - Aromatic Mist  
 
 
-=== [gen6ubers] Rapidash-Galar's Light (Mewtwo, Psychic) ===
+=== [gen6ubers] Rapidash-Galar's Light (Mewtwo, Water) ===
 
 Rapidash-Galar (F) @ Bright Powder  
 Ability: luminouspower  
@@ -7265,13 +7326,13 @@ Careful Nature
 - Flash Cannon  
 - Shell Smash  
 
-Mewtwo @ Psychic Memory  
+Mewtwo @ Water Memory  
 Ability: psychicpower  
 EVs: 4 HP / 252 SpA / 252 Spe  
-Hasty Nature  
+Timid Nature  
 - psychicstorm  
+- Water Sport  
 - infernobeam  
-- mineralcannon  
 - malicerun  
 
 Meowscarada (F) @ Bright Powder  
@@ -7380,11 +7441,11 @@ Jolly Nature
 Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
 EVs: 4 HP / 252 SpA / 252 Spe  
-Naive Nature  
-- Stored Power  
-- infernobeam  
+Hasty Nature  
+- psychofire  
+- receivingstrike  
 - Water Sport  
-- malicerun  
+- Night Daze  
 
 Arceus @ Payapa Berry  
 Ability: impervious  
@@ -7721,7 +7782,7 @@ Rash Nature
 - Uproar  
 
 
-=== [gen6ubers] Erratic (Lugia, Ice) ===
+=== [gen6ubers] Erratic (Groudon, Fire) ===
 
 Tapu Koko @ Light Ball  
 Ability: lightningforce  
@@ -7733,14 +7794,14 @@ Jolly Nature
 - Earth Power  
 - Volt Switch  
 
-Lugia @ Ice Memory  
-Ability: deepsea  
-EVs: 252 HP / 252 SpD / 4 Spe  
-Calm Nature  
-- royalturbulence  
-- aquasoul  
-- Amnesia  
-- Roost  
+Groudon @ Fire Memory  
+Ability: Drought  
+EVs: 116 HP / 252 Atk / 140 Spe  
+Adamant Nature  
+- Precipice Blades  
+- Stone Edge  
+- Flame Wheel  
+- Rock Polish  
 
 Mewtwo @ Dawn Stone  
 Ability: hightenedmind  
@@ -7755,10 +7816,9 @@ Manaphy @ Sea Incense
 Ability: Drizzle  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-IVs: 0 Atk  
 - Surf  
 - Thunder  
-- Ice Beam  
+- U-turn  
 - Stealth Rock  
 
 Meowscarada (F) @ Lax Incense  
@@ -8127,7 +8187,7 @@ Timid Nature
 - Surf  
 - Mud Sport  
 - Sludge Wave  
-- U-turn  
+- slushswitch  
 
 Mewtwo @ Dawn Stone  
 Ability: hightenedmind  
@@ -8241,7 +8301,7 @@ Timid Nature
 - slushswitch  
 
 Eternatus @ Black Sludge  
-Ability: spacepower  
+Ability: Space Power  
 EVs: 252 HP / 252 SpA / 4 Spe  
 Modest Nature  
 - Venom Drench  
@@ -8356,7 +8416,7 @@ Timid Nature
 - Surf  
 - Mud Sport  
 - Sludge Wave  
-- U-turn  
+- slushswitch  
 
 Yveltal @ Zoom Lens  
 Ability: Dark Aura  
@@ -8535,12 +8595,12 @@ IVs: 0 Atk
 Arceus-Ground @ Earth Plate  
 Ability: Multitype  
 Shiny: Yes  
-EVs: 4 HP / 252 SpA / 252 Spe  
-Timid Nature  
-- Judgment  
-- Venoshock  
-- Tailwind  
-- royalretreat  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Multi-Attack  
+- Ice Hammer  
+- Sunsteel Strike  
+- Agility  
 
 Dialga @ Sweet Apple  
 Ability: Regenerator  
@@ -8551,7 +8611,7 @@ Careful Nature
 - Thunder Wave  
 - Shell Smash  
 
-Vaporeon @ Leftovers  
+Vaporeon @ Sitrus Berry  
 Ability: utilitylock  
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
@@ -8853,9 +8913,9 @@ Ability: psychicpower
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Stored Power  
-- Aura Sphere  
-- Aurora Beam  
-- Comeuppance  
+- infernobeam  
+- Night Daze  
+- pixierun  
 
 Vaporeon @ Leftovers  
 Ability: utilitylock  
@@ -8963,8 +9023,8 @@ Jolly Nature
 
 Klinklang @ Metal Coat  
 Ability: utilitylock  
-EVs: 252 HP / 252 Def / 4 Spe  
-Impish Nature  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
@@ -9004,8 +9064,8 @@ Timid Nature
 
 Klinklang @ Metal Coat  
 Ability: utilitylock  
-EVs: 252 HP / 252 Def / 4 Spe  
-Impish Nature  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
@@ -9034,7 +9094,7 @@ Jolly Nature
 Palkia @ Choice Scarf  
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
-Timid Nature  
+Modest Nature  
 - royalsubmersion  
 - Boomburst  
 - Dragon Breath  
@@ -9144,8 +9204,8 @@ Jolly Nature
 
 Klinklang @ Metal Coat  
 Ability: utilitylock  
-EVs: 252 HP / 252 Def / 4 Spe  
-Impish Nature  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
@@ -9214,7 +9274,7 @@ Naughty Nature
 Palkia @ Choice Scarf  
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
-Timid Nature  
+Modest Nature  
 - royalsubmersion  
 - Boomburst  
 - Dragon Breath  
@@ -9284,8 +9344,8 @@ Timid Nature
 
 Klinklang @ Metal Coat  
 Ability: utilitylock  
-EVs: 252 HP / 252 Def / 4 Spe  
-Impish Nature  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
@@ -9294,7 +9354,7 @@ Impish Nature
 Palkia @ Choice Scarf  
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
-Timid Nature  
+Modest Nature  
 - royalsubmersion  
 - Boomburst  
 - Dragon Breath  
@@ -9318,8 +9378,8 @@ EVs: 140 Atk / 116 SpA / 252 Spe
 Naive Nature  
 - psychofire  
 - memoryblast  
-- mineralcannon  
-- psychorush  
+- Overheat  
+- crystalrush  
 
 Mimikyu (M) @ Bright Powder  
 Ability: Disguise  
@@ -9386,7 +9446,7 @@ IVs: 0 Atk
 Palkia @ Choice Scarf  
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
-Timid Nature  
+Modest Nature  
 - royalsubmersion  
 - Boomburst  
 - Dragon Breath  
@@ -9445,8 +9505,8 @@ IVs: 0 Atk
 
 Klinklang @ Metal Coat  
 Ability: utilitylock  
-EVs: 252 HP / 252 Def / 4 Spe  
-Impish Nature  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
@@ -9496,8 +9556,8 @@ Jolly Nature
 
 Klinklang @ Metal Coat  
 Ability: utilitylock  
-EVs: 252 HP / 252 Def / 4 Spe  
-Impish Nature  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
@@ -9536,7 +9596,7 @@ Jolly Nature
 Palkia @ Choice Scarf  
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
-Timid Nature  
+Modest Nature  
 - royalsubmersion  
 - Boomburst  
 - Dragon Breath  
@@ -9637,7 +9697,7 @@ Careful Nature
 Palkia @ Choice Scarf  
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
-Timid Nature  
+Modest Nature  
 - royalsubmersion  
 - Boomburst  
 - Dragon Breath  
@@ -9702,9 +9762,9 @@ Ability: psychicpower
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Stored Power  
-- Aura Sphere  
-- mineralcannon  
+- infernobeam  
 - Night Daze  
+- crystalrush  
 
 Meowscarada (F) @ Lax Incense  
 Ability: parlortrick  
@@ -9740,7 +9800,7 @@ Timid Nature
 Palkia @ Choice Scarf  
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
-Timid Nature  
+Modest Nature  
 - royalsubmersion  
 - Boomburst  
 - Dragon Breath  
@@ -9882,7 +9942,7 @@ IVs: 0 Atk
 
 Vaporeon (F) @ Sitrus Berry  
 Ability: utilitylock  
-EVs: 4 HP / 252 Def / 252 Spe  
+EVs: 4 HP / 252 SpD / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
 - Dragon Breath  
@@ -10007,8 +10067,8 @@ Jolly Nature
 
 Klinklang @ Metal Coat  
 Ability: utilitylock  
-EVs: 252 HP / 252 Def / 4 Spe  
-Impish Nature  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
@@ -10037,7 +10097,7 @@ Careful Nature
 === [gen6ubers] Celestial Night (Xerneas, Poison) ===
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: lightinversion  
+Ability: Light Inversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -10066,8 +10126,8 @@ Jolly Nature
 
 Klinklang @ Metal Coat  
 Ability: utilitylock  
-EVs: 252 HP / 252 Def / 4 Spe  
-Impish Nature  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
@@ -10079,8 +10139,8 @@ EVs: 4 HP / 252 SpA / 252 Spe
 Timid Nature  
 - Stored Power  
 - infernobeam  
-- Water Sport  
 - Night Daze  
+- crystalrush  
 
 Entei @ Lax Incense  
 Ability: doublelayer  
@@ -10126,7 +10186,7 @@ Jolly Nature
 
 Vaporeon (F) @ Sitrus Berry  
 Ability: utilitylock  
-EVs: 4 HP / 252 Def / 252 Spe  
+EVs: 4 HP / 252 SpD / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
 - Dragon Breath  
@@ -10147,7 +10207,7 @@ Jolly Nature
 Palkia @ Choice Scarf  
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
-Timid Nature  
+Modest Nature  
 - royalsubmersion  
 - Boomburst  
 - Dragon Breath  
@@ -10171,8 +10231,8 @@ EVs: 4 HP / 252 SpA / 252 Spe
 Timid Nature  
 - Stored Power  
 - infernobeam  
-- Water Sport  
 - Night Daze  
+- crystalrush  
 
 Meowscarada (F) @ Lax Incense  
 Ability: parlortrick  
@@ -10193,25 +10253,23 @@ Careful Nature
 - Flash Cannon  
 - Shell Smash  
 
-Vaporeon @ Sitrus Berry  
+Klinklang @ Metal Coat  
 Ability: utilitylock  
-EVs: 252 HP / 4 SpA / 252 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Dragon Breath  
-- Spikes  
-- Yawn  
-- Withdraw  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
+- Gear Grind  
+- Thunder Wave  
+- Stealth Rock  
+- royalretreat  
 
-Necrozma-Dusk-Mane @ Metal Coat  
-Ability: Tinted Lens  
-Shiny: Yes  
-EVs: 252 Atk / 4 Def / 216 SpA / 36 Spe  
-Naughty Nature  
-- Sunsteel Strike  
-- Fire Blast  
-- Stone Edge  
-- Autotomize  
+Necrozma-Dawn-Wings @ Assault Vest  
+Ability: Light Inversion  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+- Moongeist Beam  
+- Signal Beam  
+- expressheal  
+- sludgeswitch  
 
 
 === [gen6ubers] Terrestrial (Ultra Necrozma, Ground) ===
@@ -10267,38 +10325,39 @@ Careful Nature
 
 Klinklang @ Metal Coat  
 Ability: utilitylock  
-EVs: 252 HP / 252 Def / 4 Spe  
-Impish Nature  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
 - royalretreat  
 
 
-=== [gen6ubers] Blastoise Breaks Barriers! (✗) ===
+=== [gen6ubers] Kyogre's Comeback (Mewtwo, Dark) ===
 
-Blastoise (M) @ Blastoisinite  
-Ability: Battle Armor  
-EVs: 252 SpA / 252 Spe  
-Timid Nature  
-- etherealstream  
-- Ice Beam  
-- Dark Pulse  
-- Shell Smash  
-
-Mewtwo @ Adrenaline Orb  
-Ability: psychicpower  
+Kyogre @ Rose Incense  
+Ability: Drizzle  
 EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Origin Pulse  
+- Ice Beam  
+- Thunder Wave  
+- Tailwind  
+
+Mewtwo @ Dark Memory  
+Ability: psychicpower  
+EVs: 252 SpA / 252 Spe  
 Timid Nature  
 - Stored Power  
 - Aura Sphere  
-- Night Daze  
-- froststep  
+- memoryblast  
+- Uproar  
 
 Klinklang @ Metal Coat  
 Ability: utilitylock  
-EVs: 252 HP / 252 Def / 4 Spe  
-Impish Nature  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
@@ -10314,15 +10373,14 @@ Timid Nature
 - Dark Void  
 - slushswitch  
 
-Meloetta @ Throat Spray  
-Ability: ensemble  
-Shiny: Yes  
+Palkia @ Choice Scarf  
+Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
-Timid Nature  
-- Hyper Voice  
-- Storm Throw  
-- Screech  
-- fluttersong  
+Modest Nature  
+- royalsubmersion  
+- Boomburst  
+- Dragon Breath  
+- Flip Turn  
 
 Tapu Koko @ Light Ball  
 Ability: lightningforce  
@@ -10333,5 +10391,840 @@ Jolly Nature
 - Nature's Madness  
 - Aeroblast  
 - Volt Switch  
+
+
+=== [gen6ubers] Hightened Mind (Zacian-Crowned, Ground) ===
+
+Mewtwo @ Dawn Stone  
+Ability: hightenedmind  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Stored Power  
+- infernobeam  
+- Water Sport  
+- Night Daze  
+
+Zacian-Crowned @ Ground Memory  
+Ability: Intrepid Sword  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Play Rough  
+- memoryblast  
+- Volt Tackle  
+- Agility  
+
+Klinklang @ Metal Coat  
+Ability: utilitylock  
+Shiny: Yes  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
+- Gear Grind  
+- Thunder Wave  
+- Stealth Rock  
+- royalretreat  
+
+Meowscarada (F) @ Lax Incense  
+Ability: parlortrick  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Flower Trick  
+- Night Slash  
+- slushswitch  
+- Trailblaze  
+
+Palkia @ Choice Scarf  
+Ability: dracolate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- royalsubmersion  
+- Boomburst  
+- Dragon Breath  
+- Flip Turn  
+
+Arceus-Electric @ Zap Plate  
+Ability: Multitype  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Electro Ball  
+- glacialstrike  
+- Mud Sport  
+- Taunt  
+
+
+=== [gen6ubers] Tailwind Returns (Magnezone, Grass) ===
+
+Yveltal @ Zoom Lens  
+Ability: Dark Aura  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Rash Nature  
+- Rock Slide  
+- Oblivion Wing  
+- Tailwind  
+- Uproar  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Stored Power  
+- infernobeam  
+- Night Daze  
+- crystalrush  
+
+Magnezone @ Grass Memory  
+Ability: Magnet Pull  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 SpA  
+Quiet Nature  
+- memoryblast  
+- Overheat  
+- Taunt  
+- Thunder Wave  
+
+Skarmory (M) @ Choice Scarf  
+Ability: windstreamer  
+Shiny: Yes  
+EVs: 252 HP / 172 Def / 84 Spe  
+Jolly Nature  
+- Brave Bird  
+- U-turn  
+- Tailwind  
+- Roost  
+
+Klinklang @ Metal Coat  
+Ability: utilitylock  
+Shiny: Yes  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
+- Gear Grind  
+- Thunder Wave  
+- Stealth Rock  
+- royalretreat  
+
+Palkia @ Choice Scarf  
+Ability: dracolate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- royalsubmersion  
+- Boomburst  
+- Dragon Breath  
+- Flip Turn  
+
+
+=== [gen6ubers] A Fighting Chance (Mewtwo, Fighting) ===
+
+Mewtwo @ Fighting Memory  
+Ability: psychicpower  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Hasty Nature  
+- Power-Up Punch  
+- Poison Jab  
+- Feint Attack  
+- crystalrush  
+
+Calyrex-Shadow @ Choice Scarf  
+Ability: Power Spot  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psycho Boost  
+- Astral Barrage  
+- Dazzling Gleam  
+- Parting Shot  
+
+Kyogre @ Rose Incense  
+Ability: Drizzle  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Origin Pulse  
+- Ice Beam  
+- Thunder Wave  
+- Tailwind  
+
+Klinklang @ Metal Coat  
+Ability: utilitylock  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
+- Gear Grind  
+- Thunder Wave  
+- Stealth Rock  
+- royalretreat  
+
+Meowscarada (F) @ Lax Incense  
+Ability: parlortrick  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Flower Trick  
+- Night Slash  
+- slushswitch  
+- Trailblaze  
+
+Dialga @ Dawn Stone  
+Ability: Regenerator  
+EVs: 252 Atk / 116 SpA / 140 Spe  
+Lonely Nature  
+- Breaking Swipe  
+- Earthquake  
+- Draco Meteor  
+- Shell Smash  
+
+
+=== [gen6ubers] Submergence (Kyogre, Flying) ===
+
+Kyogre @ Flying Memory  
+Ability: Drizzle  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- Origin Pulse  
+- memoryblast  
+- Thunder Wave  
+- Tailwind  
+
+Palkia @ Choice Scarf  
+Ability: dracolate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- royalsubmersion  
+- Boomburst  
+- Dragon Breath  
+- Flip Turn  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Stored Power  
+- infernobeam  
+- Night Daze  
+- crystalrush  
+
+Klinklang @ Metal Coat  
+Ability: utilitylock  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
+- Gear Grind  
+- Thunder Wave  
+- Stealth Rock  
+- royalretreat  
+
+Meowscarada (F) @ Lax Incense  
+Ability: parlortrick  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Flower Trick  
+- Night Slash  
+- slushswitch  
+- Trailblaze  
+
+Meloetta @ Throat Spray  
+Ability: ensemble  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Hyper Voice  
+- Storm Throw  
+- Screech  
+- fluttersong  
+
+
+=== [gen6ubers] Free Radicals (Calyrex-Shadow, Ghost) ===
+
+Calyrex-Shadow @ Ghost Memory  
+Ability: Power Spot  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Astral Barrage  
+- Dazzling Gleam  
+- Parting Shot  
+- accelerate  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Hasty Nature  
+- Stored Power  
+- Mud Sport  
+- Night Daze  
+- receivingstrike  
+
+Xerneas @ Bright Powder  
+Ability: Fairy Aura  
+Shiny: Yes  
+EVs: 208 HP / 252 SpD / 48 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Focus Blast  
+- Aromatic Mist  
+- Teleport  
+
+Klinklang @ Metal Coat  
+Ability: utilitylock  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
+- Gear Grind  
+- Thunder Wave  
+- Stealth Rock  
+- royalretreat  
+
+Meowscarada (F) @ Lax Incense  
+Ability: parlortrick  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Flower Trick  
+- Night Slash  
+- slushswitch  
+- Trailblaze  
+
+Dialga @ Occa Berry  
+Ability: Regenerator  
+EVs: 192 HP / 176 SpD / 140 Spe  
+Careful Nature  
+- Breaking Swipe  
+- Fire Blast  
+- Flash Cannon  
+- Shell Smash  
+
+
+=== [gen6ubers] Revengers (Magnezone, Grass) ===
+
+Necrozma-Dawn-Wings @ Assault Vest  
+Ability: Light Inversion  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+- Moongeist Beam  
+- Signal Beam  
+- expressheal  
+- sludgeswitch  
+
+Klinklang @ Metal Coat  
+Ability: utilitylock  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
+- Gear Grind  
+- Thunder Wave  
+- Stealth Rock  
+- royalretreat  
+
+Yveltal @ Zoom Lens  
+Ability: Dark Aura  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Rash Nature  
+- Rock Slide  
+- Oblivion Wing  
+- Tailwind  
+- Uproar  
+
+Magnezone @ Grass Memory  
+Ability: Magnet Pull  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 SpA  
+Quiet Nature  
+- memoryblast  
+- Overheat  
+- Taunt  
+- Thunder Wave  
+
+Tornadus @ Rose Incense  
+Ability: tempest  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Bleakwind Storm  
+- Water Sport  
+- Dark Pulse  
+- Tailwind  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Hasty Nature  
+- Stored Power  
+- Mud Sport  
+- Night Daze  
+- receivingstrike  
+
+
+=== [gen6ubers] Phione's Tower of Power (Phione, Poison) ===
+
+Phione @ Poison Memory  
+Ability: Drizzle  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- compactstream  
+- memoryblast  
+- Shadow Ball  
+- Agility  
+
+Calyrex-Shadow @ Choice Scarf  
+Ability: Power Spot  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psycho Boost  
+- Astral Barrage  
+- Dazzling Gleam  
+- Parting Shot  
+
+Arceus-Ground @ Earth Plate  
+Ability: Multitype  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Multi-Attack  
+- Ice Hammer  
+- Sunsteel Strike  
+- Agility  
+
+Tapu Koko @ Light Ball  
+Ability: lightningforce  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Bolt Strike  
+- Nature's Madness  
+- Aeroblast  
+- Volt Switch  
+
+Necrozma-Dawn-Wings @ Assault Vest  
+Ability: Light Inversion  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+- Moongeist Beam  
+- Signal Beam  
+- expressheal  
+- sludgeswitch  
+
+Klinklang @ Metal Coat  
+Ability: utilitylock  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
+- Gear Grind  
+- Thunder Wave  
+- Stealth Rock  
+- royalretreat  
+
+
+=== [gen6ubers] Deluge (Zacian-Crowned, Ground) ===
+
+Greninja-Ash @ Choice Scarf  
+Ability: Battle Bond  
+EVs: 128 Atk / 128 SpA / 252 Spe  
+Naive Nature  
+- Water Sport  
+- Darkest Lariat  
+- Gunk Shot  
+- Flip Turn  
+
+Necrozma-Dawn-Wings @ Assault Vest  
+Ability: Light Inversion  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+- Moongeist Beam  
+- Signal Beam  
+- expressheal  
+- sludgeswitch  
+
+Dialga @ Sweet Apple  
+Ability: Regenerator  
+EVs: 252 Atk / 116 SpD / 140 Spe  
+Lonely Nature  
+- Breaking Swipe  
+- Earthquake  
+- Iron Head  
+- Shell Smash  
+
+Klinklang @ Metal Coat  
+Ability: utilitylock  
+Shiny: Yes  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
+- Gear Grind  
+- Thunder Wave  
+- Stealth Rock  
+- royalretreat  
+
+Calyrex-Shadow @ Choice Scarf  
+Ability: Power Spot  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psycho Boost  
+- Astral Barrage  
+- Dazzling Gleam  
+- Parting Shot  
+
+Zacian-Crowned @ Ground Memory  
+Ability: Intrepid Sword  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Play Rough  
+- memoryblast  
+- Volt Tackle  
+- Agility  
+
+
+=== [gen6ubers] Enter the Darkness (Mewtwo, Fairy) ===
+
+Gyarados (M) @ Gyaradosite  
+Ability: pacify  
+EVs: 252 Atk / 252 Spe  
+Jolly Nature  
+- Waterfall  
+- rampage  
+- Acrobatics  
+- Shift Gear  
+
+Mewtwo @ Fairy Memory  
+Ability: psychicpower  
+EVs: 140 Atk / 116 SpA / 252 Spe  
+Naive Nature  
+- psychofire  
+- memoryblast  
+- infernobeam  
+- crystalrush  
+
+Darkrai @ Bright Powder  
+Ability: midnightveil  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Dark Pulse  
+- Venom Drench  
+- Dark Void  
+- slushswitch  
+
+Klinklang @ Metal Coat  
+Ability: utilitylock  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
+- Gear Grind  
+- Thunder Wave  
+- Stealth Rock  
+- royalretreat  
+
+Kyogre @ Rose Incense  
+Ability: Drizzle  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Timid Nature  
+IVs: 0 Atk  
+- Origin Pulse  
+- Ice Beam  
+- Thunder Wave  
+- Tailwind  
+
+Calyrex-Shadow @ Choice Scarf  
+Ability: Power Spot  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psycho Boost  
+- Astral Barrage  
+- Dazzling Gleam  
+- Parting Shot  
+
+
+=== [gen6ubers] Moonlight (Vaporeon, Water) ===
+
+Vaporeon @ Water Memory  
+Ability: utilitylock  
+EVs: 196 HP / 252 SpA / 60 Spe  
+Modest Nature  
+- etherealstream  
+- Aurora Beam  
+- Shadow Ball  
+- Quiver Dance  
+
+Marshadow @ Life Orb  
+Ability: Technician  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Double Hit  
+- paddlekick  
+- Smack Down  
+- flipkick  
+
+Palkia @ Choice Scarf  
+Ability: dracolate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- royalsubmersion  
+- Boomburst  
+- Dragon Breath  
+- Flip Turn  
+
+Arceus @ Payapa Berry  
+Ability: impervious  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Extreme Speed  
+- Earthquake  
+- heavendance  
+- royalretreat  
+
+Corviknight @ Snowball  
+Ability: Mirror Armor  
+EVs: 252 Def / 252 SpD / 4 Spe  
+Impish Nature  
+IVs: 0 Atk  
+- Body Press  
+- Iron Defense  
+- Spikes  
+- Withdraw  
+
+Dialga @ Star Sweet  
+Ability: Regenerator  
+EVs: 252 Atk / 116 SpD / 140 Spe  
+Lonely Nature  
+- Breaking Swipe  
+- Earthquake  
+- Safeguard  
+- Shell Smash  
+
+
+=== [gen6ubers] Hyper Regeneration (Zacian-Crowned, Ground) ===
+
+Klinklang @ Metal Coat  
+Ability: utilitylock  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
+- Gear Grind  
+- Thunder Wave  
+- Stealth Rock  
+- royalretreat  
+
+Zacian-Crowned @ Ground Memory  
+Ability: Intrepid Sword  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Play Rough  
+- memoryblast  
+- Swords Dance  
+- Agility  
+
+Jellicent (M) @ Star Sweet  
+Ability: Regenerator  
+EVs: 252 HP / 4 Def / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Scald  
+- Dragon Breath  
+- Knock Off  
+- Wish  
+
+Palkia @ Choice Scarf  
+Ability: dracolate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- royalsubmersion  
+- Boomburst  
+- Dragon Breath  
+- Flip Turn  
+
+Necrozma-Dawn-Wings @ Assault Vest  
+Ability: Light Inversion  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+- Moongeist Beam  
+- Signal Beam  
+- expressheal  
+- sludgeswitch  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Stored Power  
+- Aura Sphere  
+- Night Daze  
+- crystalrush  
+
+
+=== [gen6ubers] Shield of Justice (Lilligant, Grass) ===
+
+Zamazenta-Crowned @ Metal Coat  
+Ability: Dauntless Shield  
+EVs: 252 Def / 200 SpD / 56 Spe  
+Impish Nature  
+- Body Press  
+- royalshattering  
+- Aromatic Mist  
+- flipkick  
+
+Lilligant @ Grass Memory  
+Ability: flowershield  
+Shiny: Yes  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Grass Whistle  
+- Recover  
+- Quiver Dance  
+
+Kyogre @ Rose Incense  
+Ability: Drizzle  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Timid Nature  
+IVs: 0 Atk  
+- Origin Pulse  
+- Ice Beam  
+- Thunder Wave  
+- Tailwind  
+
+Dragapult @ Spooky Plate  
+Ability: spookypower  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Shadow Force  
+- Dragon Rush  
+- slushswitch  
+- Shift Gear  
+
+Klinklang @ Metal Coat  
+Ability: utilitylock  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
+- Gear Grind  
+- Thunder Wave  
+- Stealth Rock  
+- royalretreat  
+
+Necrozma-Dawn-Wings @ Assault Vest  
+Ability: Light Inversion  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+- Moongeist Beam  
+- Signal Beam  
+- expressheal  
+- sludgeswitch  
+
+
+=== [gen6ubers] Machinery (Zamazenta-Crowned, Steel) ===
+
+Zamazenta-Crowned @ Steel Memory  
+Ability: Dauntless Shield  
+EVs: 200 Atk / 252 Def / 56 Spe  
+Impish Nature  
+- Body Press  
+- royalshattering  
+- Crunch  
+- Autotomize  
+
+Greninja-Ash @ Choice Scarf  
+Ability: Battle Bond  
+EVs: 128 Atk / 128 SpA / 252 Spe  
+Naive Nature  
+- Water Sport  
+- Darkest Lariat  
+- Gunk Shot  
+- Flip Turn  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Stored Power  
+- Mud Sport  
+- Night Daze  
+- pixierun  
+
+Arceus-Ground @ Earth Plate  
+Ability: Multitype  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Multi-Attack  
+- Ice Hammer  
+- Sunsteel Strike  
+- Agility  
+
+Darkrai @ Bright Powder  
+Ability: midnightveil  
+Shiny: Yes  
+EVs: 4 HP / 252 SpD / 252 Spe  
+Timid Nature  
+- Dark Pulse  
+- Venom Drench  
+- Dark Void  
+- slushswitch  
+
+Klinklang @ Metal Coat  
+Ability: utilitylock  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
+- Gear Grind  
+- Thunder Wave  
+- Stealth Rock  
+- royalretreat  
+
+
+=== [gen6ubers] Bokutachi no Victory (Marshadow, Fighting) ===
+
+Phione @ Choice Scarf  
+Ability: Drizzle  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Surf  
+- Mud Sport  
+- Sludge Wave  
+- slushswitch  
+
+Marshadow @ Fighting Memory  
+Ability: Technician  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Double Hit  
+- paddlekick  
+- Smack Down  
+- flipkick  
+
+Greninja-Ash @ Choice Scarf  
+Ability: Battle Bond  
+EVs: 128 Atk / 128 SpA / 252 Spe  
+Naive Nature  
+- Water Sport  
+- Darkest Lariat  
+- Gunk Shot  
+- Flip Turn  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Hasty Nature  
+- Stored Power  
+- Mud Sport  
+- Night Daze  
+- receivingstrike  
+
+Klinklang @ Metal Coat  
+Ability: utilitylock  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
+- Gear Grind  
+- Thunder Wave  
+- Stealth Rock  
+- royalretreat  
+
+Necrozma-Dawn-Wings @ Assault Vest  
+Ability: Light Inversion  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+- Moongeist Beam  
+- Signal Beam  
+- expressheal  
+- sludgeswitch  
 
 
