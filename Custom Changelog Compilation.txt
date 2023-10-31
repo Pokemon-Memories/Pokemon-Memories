@@ -490,6 +490,7 @@ Giratina: 			BST: 1300
 Mega Tyranitar: 		BST: 1300
 Necrozma-Dawn-Wings: 		BST: 1300
 Necrozma-Dusk-Mane: 		BST: 1300
+Victreebel: 			BST: 1300
 Reshiram: 			BST: 1300
 Zekrom: 			BST: 1300
 =============================================
@@ -548,7 +549,6 @@ Tropius: 			BST: 1220
 Manaphy: 			BST: 1217
 Keldeo: 			BST: 1215
 Keldeo Resolute: 		BST: 1215
-Victreebel: 			BST: 1210
 Mega Sceptile: 			BST: 1204
 Phione: 			BST: 1203
 Samurott: 			BST: 1203
@@ -1358,7 +1358,6 @@ Mind Cleaner
 Mineral Cannon
 Mirror Coat
 Mist Ball
-Mud Sport
 Mystery Bind
 Mystery Deluge
 Mystery Slash
@@ -1788,7 +1787,6 @@ Recover
 Rock Slide
 Sludge Rush
 Sludge Switch
-Strength Sap
 Spikes
 Stealth Rock
 Trailblaze
@@ -1814,11 +1812,11 @@ Moveset Synchronized with Victreebel
 Victreebel  
 Hp: 80 -> 200 = +120
 Atk: 105 -> 254 = +159
-Def: 65 -> 215 = +150
+Def: 65 -> 245 = +180
 SpA: 100 -> 254 = +154
 SpD: 70 -> 185 = +115
 Spe: 70 -> 162 = +92
-BST: 490 -> 1270
+BST: 490 -> 1300
 Ability: Chlorophyll -> Hope Sprout
 Added Ability: Pollution
 
@@ -3028,6 +3026,7 @@ Aqua Fang
 Aromatic Mist
 Bolt Beak
 Brave Bird
+Chaos Switch
 Counter
 Cross Poison
 Dragon Jaw
@@ -3039,7 +3038,6 @@ Mystery Deluge
 Mystery Slash
 Mystery Sphere
 Power Whip
-Roost
 Royal Shattering
 Royal Turbulence
 Scale Shot
@@ -6589,10 +6587,10 @@ Effect: Transforms Necrozma-Dusk-Mane into Ultra Necrozma after using Light That
 
 Necrozma Dawn Wings   
 Hp: 97 -> 167 = +70
-Atk: 113 -> 263 = +150
+Atk: 113 -> 253 = +140
 Def: 109 -> 180 = +71
 SpA: 157 -> 307 = +150
-SpD: 127 -> 237 = +110
+SpD: 127 -> 247 = +120
 Spe: 77 -> 146 = +99
 BST: 680 -> 1300
 Added Ability: Soaring Burst/Light Inversion
@@ -6869,7 +6867,6 @@ SpA: 102 -> 222 = +120
 SpD: 80 -> 113 = +33
 Spe: 143 -> 250 = +107
 BST: 600 -> 1080
-Added Ability: Galvanize
 New Moves
 Rising Voltage
 Play Rough
@@ -13344,7 +13341,7 @@ Battle Armor
 Additional Effect: Pokemon cannot lower its own stats
 --
 Battle Bond   
-Effect: Pokemon's First Successful Move has x1.3 Base Power. Pokemon's Resisted Moves have x1.2 Base Power. Pokemon ignores the effects of Weather
+Effect: Pokemon's First Successful Move has x1.5 Base Power. Pokemon's Resisted Moves have x1.2 Base Power. Pokemon ignores the effects of Weather
 --
 Barricade
 Effect: Reduces the Damage of opposing Ice-Type Attacks to x0.25; Pokemon cannot be Frozen.

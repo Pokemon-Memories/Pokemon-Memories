@@ -2058,7 +2058,7 @@ Timid Nature
 - Shell Smash  
 
 Eternatus @ Black Sludge  
-Ability: Space Power  
+Ability: spacepower  
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
 - Venoshock  
@@ -2575,7 +2575,7 @@ Timid Nature
 - Night Daze  
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: Light Inversion  
+Ability: lightinversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -2772,7 +2772,7 @@ IVs: 0 Atk
 - Parting Shot  
 
 Eternatus @ Black Sludge  
-Ability: Space Power  
+Ability: spacepower  
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
 - Venoshock  
@@ -2891,7 +2891,7 @@ Naive Nature
 - Volt Switch  
 
 Eternatus @ Black Sludge  
-Ability: Space Power  
+Ability: spacepower  
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
 - Venoshock  
@@ -2966,7 +2966,7 @@ Calm Nature
 - slushswitch  
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: Light Inversion  
+Ability: lightinversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -2982,7 +2982,7 @@ Ability: psychicpower
 EVs: 4 Atk / 252 SpA / 252 Spe  
 Naive Nature  
 - Stored Power  
-- Mud Sport  
+- memoryblast  
 - infernobeam  
 - malicerun  
 
@@ -2996,7 +2996,7 @@ Careful Nature
 - royalretreat  
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: Light Inversion  
+Ability: lightinversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -3178,7 +3178,7 @@ Timid Nature
 - slushswitch  
 
 Eternatus @ Black Sludge  
-Ability: Space Power  
+Ability: spacepower  
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
 - sludgeswitch  
@@ -3205,7 +3205,7 @@ Adamant Nature
 - accelerate  
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: Light Inversion  
+Ability: lightinversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -3308,7 +3308,7 @@ IVs: 0 Atk
 - Teleport  
 
 Eternatus @ Black Sludge  
-Ability: Space Power  
+Ability: spacepower  
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
@@ -3327,7 +3327,7 @@ Jolly Nature
 - heavendance  
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: Light Inversion  
+Ability: lightinversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -3348,7 +3348,7 @@ Timid Nature
 - slushswitch  
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: Light Inversion  
+Ability: lightinversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -3555,7 +3555,7 @@ IVs: 0 Atk
 - Parting Shot  
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: Light Inversion  
+Ability: lightinversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -3933,7 +3933,7 @@ IVs: 0 Atk
 - Withdraw  
 
 
-=== [gen6ubers] Alola (Dialga, Dark) ===
+=== [gen6ubers] Alola (✗) ===
 
 Pikachu-Alola @ Light Ball  
 Ability: alolaschampion  
@@ -3941,17 +3941,17 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Naive Nature  
 - Thunderbolt  
 - Volt Tackle  
-- Ice Punch  
 - V-create  
+- Agility  
 
 Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
 EVs: 252 SpA / 4 SpD / 252 Spe  
-Naive Nature  
+Hasty Nature  
 - Stored Power  
-- Aura Sphere  
-- mineralcannon  
+- psychofire  
 - Night Daze  
+- receivingstrike  
 
 Bellsprout (M) @ Toxic Orb  
 Ability: Sheer Force  
@@ -3962,33 +3962,32 @@ Jolly Nature
 - Poison Sting  
 - sludgeswitch  
 
-Dialga @ Dark Memory  
+Dialga @ Metal Coat  
 Ability: Regenerator  
-EVs: 144 Atk / 224 Def / 140 Spe  
-Adamant Nature  
+EVs: 116 HP / 252 Atk / 140 Spe  
+Lonely Nature  
 - Breaking Swipe  
-- memoryblast  
 - Earthquake  
+- Iron Head  
 - Shell Smash  
 
-Greninja-Ash (M) @ Expert Belt  
-Ability: Tough Claws  
-Shiny: Yes  
-EVs: 4 HP / 252 Atk / 252 Spe  
-Jolly Nature  
-- Wave Crash  
+Greninja-Ash @ Choice Scarf  
+Ability: Battle Bond  
+EVs: 128 Atk / 128 SpA / 252 Spe  
+Naive Nature  
+- Water Sport  
 - Night Slash  
 - Gunk Shot  
-- Trailblaze  
+- Flip Turn  
 
-Ho-Oh @ Sweet Apple  
-Ability: Magic Guard  
-EVs: 252 HP / 4 Atk / 252 Def  
-Impish Nature  
-- Sacred Fire  
+Klinklang @ Metal Coat  
+Ability: utilitylock  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
+- Gear Grind  
+- Thunder Wave  
 - Stealth Rock  
-- flameswitch  
-- Aromatic Mist  
+- royalretreat  
 
 
 === [gen6ubers] Champion (Rayquaza, Fairy) ===
@@ -4012,7 +4011,7 @@ Adamant Nature
 - Agility  
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: Light Inversion  
+Ability: lightinversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -4090,7 +4089,7 @@ Jolly Nature
 - Trailblaze  
 
 Eternatus @ Prism Scale  
-Ability: Space Power  
+Ability: spacepower  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
 IVs: 0 Atk  
@@ -4183,7 +4182,7 @@ Timid Nature
 - Volt Switch  
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: Light Inversion  
+Ability: lightinversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -4280,7 +4279,7 @@ Careful Nature
 - Aromatic Mist  
 
 Eternatus @ Black Sludge  
-Ability: Space Power  
+Ability: spacepower  
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
 - sludgeswitch  
@@ -4459,7 +4458,7 @@ Impish Nature
 - U-turn  
 
 Eternatus @ Prism Scale  
-Ability: Space Power  
+Ability: spacepower  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
 IVs: 0 Atk  
@@ -4640,7 +4639,7 @@ Careful Nature
 - Aromatic Mist  
 
 Eternatus @ Prism Scale  
-Ability: Space Power  
+Ability: spacepower  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
 IVs: 0 Atk  
@@ -4999,7 +4998,7 @@ IVs: 0 Atk
 - Withdraw  
 
 Eternatus @ Prism Scale  
-Ability: Space Power  
+Ability: spacepower  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
 IVs: 0 Atk  
@@ -5890,7 +5889,7 @@ Timid Nature
 - fluttersong  
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: Light Inversion  
+Ability: lightinversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -6132,7 +6131,7 @@ Jolly Nature
 - sludgeswitch  
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: Light Inversion  
+Ability: lightinversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -6880,7 +6879,7 @@ Jolly Nature
 === [gen6ubers] Perpetuity (Mewtwo, Water) ===
 
 Eternatus @ Black Sludge  
-Ability: Space Power  
+Ability: spacepower  
 EVs: 252 HP / 252 SpA / 4 Spe  
 Modest Nature  
 IVs: 0 Atk  
@@ -8301,7 +8300,7 @@ Timid Nature
 - slushswitch  
 
 Eternatus @ Black Sludge  
-Ability: Space Power  
+Ability: spacepower  
 EVs: 252 HP / 252 SpA / 4 Spe  
 Modest Nature  
 - Venom Drench  
@@ -10097,7 +10096,7 @@ Careful Nature
 === [gen6ubers] Celestial Night (Xerneas, Poison) ===
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: Light Inversion  
+Ability: lightinversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -10263,7 +10262,7 @@ Careful Nature
 - royalretreat  
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: Light Inversion  
+Ability: lightinversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -10401,7 +10400,7 @@ Shiny: Yes
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Stored Power  
-- infernobeam  
+- psychofire  
 - Water Sport  
 - Night Daze  
 
@@ -10651,7 +10650,7 @@ Ability: psychicpower
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Hasty Nature  
 - Stored Power  
-- Mud Sport  
+- infernobeam  
 - Night Daze  
 - receivingstrike  
 
@@ -10698,7 +10697,7 @@ Careful Nature
 === [gen6ubers] Revengers (Magnezone, Grass) ===
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: Light Inversion  
+Ability: lightinversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -10751,7 +10750,7 @@ Ability: psychicpower
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Hasty Nature  
 - Stored Power  
-- Mud Sport  
+- psychofire  
 - Night Daze  
 - receivingstrike  
 
@@ -10797,7 +10796,7 @@ Jolly Nature
 - Volt Switch  
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: Light Inversion  
+Ability: lightinversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -10827,7 +10826,7 @@ Naive Nature
 - Flip Turn  
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: Light Inversion  
+Ability: lightinversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -11035,7 +11034,7 @@ Modest Nature
 - Flip Turn  
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: Light Inversion  
+Ability: lightinversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -11104,7 +11103,7 @@ Careful Nature
 - royalretreat  
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: Light Inversion  
+Ability: lightinversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -11138,7 +11137,7 @@ Ability: psychicpower
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
 - Stored Power  
-- Mud Sport  
+- infernobeam  
 - Night Daze  
 - pixierun  
 
@@ -11205,7 +11204,7 @@ Ability: psychicpower
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Hasty Nature  
 - Stored Power  
-- Mud Sport  
+- psychofire  
 - Night Daze  
 - receivingstrike  
 
@@ -11219,7 +11218,126 @@ Careful Nature
 - royalretreat  
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: Light Inversion  
+Ability: lightinversion  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+- Moongeist Beam  
+- Signal Beam  
+- expressheal  
+- sludgeswitch  
+
+
+=== [gen6ubers] Armored (Rayquaza, Ground) ===
+
+Dialga @ Metal Coat  
+Ability: Regenerator  
+EVs: 116 HP / 252 Atk / 140 Spe  
+Lonely Nature  
+- Breaking Swipe  
+- Earthquake  
+- Iron Head  
+- Shell Smash  
+
+Greninja-Ash @ Choice Scarf  
+Ability: Battle Bond  
+EVs: 128 Atk / 128 SpA / 252 Spe  
+Naive Nature  
+- Water Sport  
+- Darkest Lariat  
+- Gunk Shot  
+- Flip Turn  
+
+Rayquaza @ Ground Memory  
+Ability: dragonheart  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Dragon Ascent  
+- memoryblast  
+- Aromatic Mist  
+- Agility  
+
+Klinklang @ Metal Coat  
+Ability: utilitylock  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
+- Gear Grind  
+- Thunder Wave  
+- Stealth Rock  
+- royalretreat  
+
+Zeraora @ Choice Scarf  
+Ability: Volt Absorb  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Naughty Nature  
+- Plasma Fists  
+- Close Combat  
+- Brutal Swing  
+- Volt Switch  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Hasty Nature  
+- Stored Power  
+- psychofire  
+- Night Daze  
+- receivingstrike  
+
+
+=== [gen6ubers] Dragon's Reign (Zacian-Crowned, Ground) ===
+
+Rayquaza @ White Herb  
+Ability: dragonheart  
+Shiny: Yes  
+EVs: 252 HP / 4 Atk / 252 Spe  
+Jolly Nature  
+- Dragon Ascent  
+- Earthquake  
+- Aromatic Mist  
+- chaosswitch  
+
+Kyogre @ Rose Incense  
+Ability: Drizzle  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Timid Nature  
+IVs: 0 Atk  
+- Origin Pulse  
+- Ice Beam  
+- Thunder Wave  
+- Tailwind  
+
+Palkia @ Choice Scarf  
+Ability: dracolate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- royalsubmersion  
+- Boomburst  
+- Dragon Breath  
+- Flip Turn  
+
+Zacian-Crowned @ Ground Memory  
+Ability: Intrepid Sword  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Play Rough  
+- memoryblast  
+- Volt Tackle  
+- Agility  
+
+Klinklang @ Metal Coat  
+Ability: utilitylock  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
+- Gear Grind  
+- Thunder Wave  
+- Stealth Rock  
+- royalretreat  
+
+Necrozma-Dawn-Wings @ Assault Vest  
+Ability: lightinversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  

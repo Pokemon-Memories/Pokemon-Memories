@@ -118,27 +118,27 @@ Note: Pokemon beneath the A-Tier, are listed alphabetically; Pokemon in the lowe
 
 Viability Rankings
 
-S-Tier (9 Total)
+S-Tier (7 Total)
 
 S+
 Mewtwo
 
 S
-Greninja-Ash
 Zacian-Crowned (A-; Ground Memory)
+Greninja-Ash
 Dialga
-Meowscarada
 Kyogre
 
 S-
-Marshadow (A-; Fighting Memory)
-Calyrex-Shadow
+Meowscarada
 Palkia
 
 
 A-Tier (38 Total)
 
 A+
+Marshadow (A-; Fighting Memory)
+Calyrex-Shadow
 Klinklang
 Arceus-Ground
 Magnezone (B+; Grass Memory)
@@ -159,20 +159,20 @@ Meloetta
 Meloetta-Pirouette
 Zoroark-Hisui
 Necrozma-Dawn-Wings
-Skarmory
-Thundurus-Therian
-Entei
 Phione
+Bellsprout
 Groudon (B+; Fire Memory)
 
 A-
+Skarmory
+Thundurus-Therian
+Entei
 Necrozma-Dusk-Mane (B+; Steel Memory)
 Eternatus
 Calyrex-Ice (B+; Electric Memory)
 Arceus
 Mew (B+; Protean + Fighting Memory)
 Regieleki (B- Ice Memory/Any Memory)
-Bellsprout
 Rayquaza (B+; Fairy Memory)
 Lucario-Mega
 Porygon-Z (B; Dark Memory)

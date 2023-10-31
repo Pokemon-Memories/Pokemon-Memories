@@ -1,5 +1,29 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v1.7.1
+Abilities
+- Battle Bond
+	- Initial Hit Base Power: x1.3 -> x1.5
+Pokemon
+- Mewtwo
+	- Learnset Removals
+		- Mud Sport
+- Necrozma-Dawn-Wings
+	- Base Stats
+		- Atk: 263 -> 253
+		- SpD: 237 -> 247
+- Rayquaza
+	- Learnset Additions
+		- Chaos Switch
+	- Learnset Removals
+		- Roost
+- Bellsprout Evolutionary Line
+	- Learnset Removals
+		- Strength Sap
+	- Victreebel
+		- Base Stats
+			- Def: 215 -> 245
+
 Pokemon Memories v1.7.0
 Entry Hazards
 - Stealth Rock
