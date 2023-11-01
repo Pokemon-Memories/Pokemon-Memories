@@ -106,7 +106,7 @@ A-Tier: Reserved for exemplary Pokemon that either fulfil a multitude of roles, 
 
 B-Tier: Reserved for Pokemon that serve noticeable functions in the Meta, with varying degrees of success. Many of the Pokemon in this Tier have profound, or even rare strengths which cannot be found in the A-Tier proper, but possess glaring weaknesses that prevent them from gaining a spot in the aforementioned Tier themselves. Strategic play and additional support may be required to bring out these Pokemons' full potential, however when played optimally, they may be able to give Players the particular utility they'll need to gain traction in the Meta.
 
-C-Tier: Reserved for Pokemon that are capable of fulfilling certain roles with a certain degree of success, but lack either the consistency or environment to fully capitalize on their positive attributes. These Pokemon are typically outclassed by the Pokemon in the Tiers above them due to either lacking a sufficient number of relevant strengths, or possessing too many exploitable weaknessness, however many of these Pokemon may be capable of rising to one of the higher Tiers, should either the meta change, or new sets end up being discovered within their current Meta. These Pokemon may require considerable skill to play, but might just provide the necessary resources to help players gain traction in the Meta.
+C-Tier: Reserved for Pokemon that are capable of fulfilling certain roles with varying degrees of success, but lack either the consistency or environment to fully capitalize on their positive attributes. These Pokemon are typically outclassed by the Pokemon in the Tiers above them due to either lacking a sufficient number of relevant strengths, or possessing too many exploitable weaknessness, however many of these Pokemon may be capable of rising to one of the higher Tiers, should either the meta change, or new sets end up being discovered within their current Meta. These Pokemon may require considerable skill to play, but might just provide the necessary resources to help players gain traction in the Meta.
 
 D-Tier: Reserved for Pokemon that are almost completely outclassed by the Pokemon in the Tiers above them due to a number of intrinsic factors, which may never be completely remedied even with new set discoveries or drastic Meta changes. Pokemon often merit this Tier, either due to insufficient stats, poor typing(s), insufficient movepools, or being completely outclassed in the few roles they do have by other, significantly more powerful Pokemon, among which, may even be variants of themselves. Researching these Pokemon may be helpful should an opponent endeavor to use one of these Pokemon in a game, however well-designed Teams will likely have resources that can handle one, or even many of these Pokemon, regardless. As such, these Pokemon are not helpful for gaining any traction in the Meta.
 
@@ -118,23 +118,24 @@ Note: Pokemon beneath the A-Tier, are listed alphabetically; Pokemon in the lowe
 
 Viability Rankings
 
-S-Tier (7 Total)
+S-Tier (8 Total)
 
 S+
 Mewtwo
 
 S
 Zacian-Crowned (A-; Ground Memory)
-Greninja-Ash
 Dialga
 Kyogre
 
 S-
+Greninja-Ash
+Lilligant (B+; Grass Memory)
 Meowscarada
 Palkia
 
 
-A-Tier (38 Total)
+A-Tier (36 Total)
 
 A+
 Marshadow (A-; Fighting Memory)
@@ -148,17 +149,16 @@ Yveltal
 Tapu Koko
 Darkrai
 Xerneas (A; Memory Armor + Memory Disc)
+Arceus
 
 A
-Jellicent
-Lilligant (B+; Grass Memory)
+Necrozma-Dawn-Wings
 Ho-Oh
 Arceus-Electric
 Arceus-Fairy
 Meloetta
 Meloetta-Pirouette
 Zoroark-Hisui
-Necrozma-Dawn-Wings
 Phione
 Bellsprout
 Groudon (B+; Fire Memory)
@@ -170,7 +170,6 @@ Entei
 Necrozma-Dusk-Mane (B+; Steel Memory)
 Eternatus
 Calyrex-Ice (B+; Electric Memory)
-Arceus
 Mew (B+; Protean + Fighting Memory)
 Regieleki (B- Ice Memory/Any Memory)
 Rayquaza (B+; Fairy Memory)
@@ -185,7 +184,7 @@ Zarude
 Deoxys-Speed
 
 
-B-Tier (66 Total)
+B-Tier (67 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
@@ -203,6 +202,7 @@ Keldeo
 Kyurem-Black
 Kyurem-White
 Hoopa Unbound
+Jellicent
 Lunala
 Magearna
 Magearna-Original

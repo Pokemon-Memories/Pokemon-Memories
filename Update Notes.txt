@@ -4,7 +4,15 @@ Pokemon Memories v1.7.1
 Abilities
 - Battle Bond
 	- Initial Hit Base Power: x1.3 -> x1.5
+- Flower Shield
+	- Passive Recovery Condition: __ -> Only activates if the Pokemon has at least 1/2 Max Hp
 Pokemon
+- Lilligant
+	- Learnset Additions
+		- Aromatic Mist
+	- Learnset Removals
+		- Recover
+		- Synthesis
 - Mewtwo
 	- Learnset Removals
 		- Mud Sport

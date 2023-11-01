@@ -4419,6 +4419,7 @@ Ability 2: Own Tempo/Leaf Guard -> Flower Shield/Power Drive
 New Moves
 Agility
 Apple Acid
+Aromatic Mist
 Bubble
 Earth Power
 Feather Dance
@@ -4437,7 +4438,6 @@ Play Rough
 Power Gem
 Quiver Dance
 Rapid Spin
-Recover
 Royal Forestation
 Shatter Fist
 Slush Switch
@@ -4448,6 +4448,9 @@ Superpower
 Teeter Dance
 Trailblaze
 Water Pulse
+
+Unlearned
+Synthesis
 
 Flower Shield
 Effect: All Semi-Effective attacks, and Priority Moves against the user deal x0.5 damage
@@ -9383,7 +9386,7 @@ Fairy Aura
 Effect: (Memory Ability only): 30% Power Bonus granted to Fairy-Type moves, will only be active if the Pokemon does not have any positive stat boosts in the stat they are attacking in. This condition does not apply to Pokemon that naturally have Fairy Aura as their Ability
 --
 Flower Shield
-Memory Effect: Raises the Pokemon's Def and SpD by 1 stage each upon switching in; Pokemon restores 1/16 Max Hp at the end of each turn
+Memory Effect: Raises the Pokemon's Def and SpD by 1 stage each upon switching in; Pokemon restores 1/16 Max Hp at the end of each turn, if it has 1/2 Max Hp or more
 --
 Lightning Force
 Memory Effect: Pokemon's Electric-Type Moves have x1.3 Base Power. Has no effect if the Pokemon has Memorized into an Electric-Type
