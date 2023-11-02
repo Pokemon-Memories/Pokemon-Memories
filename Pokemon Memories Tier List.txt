@@ -118,7 +118,7 @@ Note: Pokemon beneath the A-Tier, are listed alphabetically; Pokemon in the lowe
 
 Viability Rankings
 
-S-Tier (8 Total)
+S-Tier (7 Total)
 
 S+
 Mewtwo
@@ -126,18 +126,19 @@ Mewtwo
 S
 Zacian-Crowned (A-; Ground Memory)
 Dialga
-Kyogre
 
 S-
+Kyogre
+Arceus-Water
 Greninja-Ash
 Lilligant (B+; Grass Memory)
-Meowscarada
-Palkia
 
 
-A-Tier (36 Total)
+A-Tier (42 Total)
 
 A+
+Meowscarada
+Palkia
 Marshadow (A-; Fighting Memory)
 Calyrex-Shadow
 Klinklang
@@ -184,14 +185,13 @@ Zarude
 Deoxys-Speed
 
 
-B-Tier (67 Total)
+B-Tier (68 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
 Arceus-Fire
 Arceus-Flying
 Arceus-Ghost
-Arceus-Water
 Blastoise
 Blastoise-Mega
 Celebi
