@@ -475,13 +475,13 @@ Palkia: 			BST: 1340
 Solgaleo: 			BST: 1340
 Mega Lopunny: 			BST: 1330
 Carracosta: 			BST: 1328
+Bellsprout: 			BST: 1304
 Pikachu Alola: 			BST: 1304
 Pikachu Original: 		BST: 1304
 Pikachu Sinnoh: 		BST: 1304
 Sawsbuck-Autumn: 		BST: 1304
 Sawsbuck-Summer: 		BST: 1304
 Sawsbuck-Winter: 		BST: 1304
-Bellsprout: 			BST: 1300
 Mega Charizard X: 		BST: 1300
 Mega Charizard Y: 		BST: 1300
 Drive Genesect: 		BST: 1300
@@ -867,6 +867,7 @@ Darkrai: 185
 Dragalge: 185
 Jolteon: 185
 Mega Beedrill: 185
+Bellsprout: 181
 Sawsbuck-Autumn: 184
 Sawsbuck-Summer: 184
 Sawsbuck-Winter: 184
@@ -881,7 +882,6 @@ Shaymin-Sky: 182
 Zapdos-Galar: 182
 Weavile: 182
 Rotom: 181
-Bellsprout: 181
 Meowscarada: 181
 Virizion: 181
 Naganadel: 181
@@ -1761,10 +1761,10 @@ Bellsprout
 Hp: 50 -> 123 = +73
 Atk: 75 -> 315 = +240
 Def: 35 -> 152 = +77
-SpA: 70 -> 314 = +244
+SpA: 70 -> 315 = +245
 SpD: 30 -> 215 = +95
-Spe: 40 -> 181 = +141
-BST: 300 -> 1300
+Spe: 40 -> 184 = +144
+BST: 300 -> 1304
 Ability: Chlorophyll -> Sheer Force
 Added Ability: Plant Power (AG Exclusive)
 Moveset Synchronized with Victreebel
@@ -1824,7 +1824,7 @@ Victreebel-Specific New Moves
 Apple Acid
 
 Hope Sprout (New Ability)
-Effect: Pokemon's Poison-Type Weaknesses are ignored; Pokemon restores 1/4 Max Hp upon switching out
+Effect: Pokemon's Poison-Type Weaknesses are ignored; Pokemon cannot be Paralyzed. Gaining this Ability while Paralyzed, cures it; Pokemon restores 1/4 Max Hp upon switching out
 
 Pollution (New Ability)
 Effect: All Pokemon that are poisoned or intoxicated lose an additional 1/6 Max Hp at the end of each turn.
@@ -7457,7 +7457,9 @@ Icicle Crash
 Leafage
 Mist Ball
 Sheer Cold
+Slush Switch
 Stealth Rock
+Teleport
 
 Unlearned
 Agility
@@ -9584,6 +9586,9 @@ Damage: 1/8 -> 1/10
 Delta Stream
 Additional Effect: Flying-Type Moves receive a x1.5 Power Boost
 --
+Fatigue
+Effect: Disables Status Moves, and prevents them from being used
+--
 Freeze
 Effect: Disables Pokemon -> 50% thaw rate each turn; Automatically unthaws in Sunlight -> x0.5 Atk/SpA and x0.1 Spe.
 Secondary Effect: Opposing Fire-Type moves deal half damage when Frozen.
@@ -9776,7 +9781,7 @@ Base Power: __
 Category: Status
 Accuracy: true
 Contact: No
-Effect: Raises User's Spe by 1 stage; Pokemon cannot use any Status moves--including Express Heal, after using this move, until they switch out.
+Effect: Raises User's Spe by 1 stage; Induces the Fatigue Status: Pokemon cannot use any Status moves--including Express Heal, after using this move, until they switch out.
 Priority: +0
 PP: 5
 Target: Normal
@@ -9836,8 +9841,8 @@ Base Power: __
 Accuracy: True
 Category: Status
 Contact: No
-Effect: Raises user's Spe by 1 stage, and raises either that Atk or SpA by 1 stage, depending on which is higher; Raises only Speed if both attacking stats are equal; All of the Pokemon's stats are reset after 3 Turns. Only works on Arceus-Water. Can only be used once until Pokemon has switched out.
-Penalty: Prevents the user from using any other Status Moves--including Express Heal, after this move's use, until the user switches out.
+Effect: Raises user's Spe by 2 stages, and raises either its Atk or SpA by 1 stage, depending on which is higher; Raises Speed by 3 Stages if both attacking stats are equal; All of the Pokemon's stats are reset after 3 Turns. Only works on Arceus-Water. Can only be used once until Pokemon has switched out.
+Penalty: Induces the Fatigue Status: Prevents the user from using any other Status Moves--including Express Heal, after this move's use, until the user switches out.
 PP: 5
 Target: Self
 Type: Water
@@ -11215,7 +11220,7 @@ Base Power: 75 -> 90
 --
 Howl
 Mechanics: Raises Atk by 1 stage -> Raises Spe by 1 Stage, and Atk or SpA by 1 stage, depending on which is higher; Raises neither if both stats are equal.
-Condition: Can only be used once, until Pokemon switches out; Using this move will disable access to any Status Move, and Express Heal, until user switches out
+Condition: Induces the Fatigue Status: Can only be used once, until Pokemon switches out; Using this move will disable access to any Status Move, and Express Heal, until user switches out
 --
 Hurricane
 Base Power: 110 -> 150
@@ -13154,7 +13159,7 @@ Base Power: __
 Accuracy: True
 Category: Status
 Contact: No
-Effect: Raises user's Atk by 1 stage, and Spe by 2 stages. Can only be used once until Pokemon has switched out.
+Effect: Raises user's Atk by 1 stage, and Spe by 2 stages. Induces the Fatigue Status: Can only be used once until Pokemon has switched out.
 Penalty: Prevents the user from using any other Status Moves--including Express Heal, after this move's use, until the user switches out.
 PP: 5
 Target: Self
@@ -13466,8 +13471,8 @@ Category: H
 Happy Dance
 Effect: All moves on the field have Perfect Accuracy
 --
-Hope Sprout
-Effect: Pokemon's Poison-Type Weaknesses are ignored; Pokemon restores 1/4 Max Hp upon switching out
+Hope Sprout 
+Effect: Pokemon's Poison-Type Weaknesses are ignored; Pokemon cannot be Paralyzed. Gaining this Ability while Paralyzed, cures it; Pokemon restores 1/4 Max Hp upon switching out
 --
 Hyper Speed
 Effect: Pokemon's Speed is doubled if it has at least 1/2 Max Hp, at the cost of losing 1/8 Hp at the end of each turn. Certain Items won't heal the user.

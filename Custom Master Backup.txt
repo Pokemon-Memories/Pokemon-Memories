@@ -1718,7 +1718,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -1758,7 +1758,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -2139,7 +2139,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -2189,7 +2189,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -2256,7 +2256,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -2575,7 +2575,7 @@ Timid Nature
 - Night Daze  
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: Light Inversion  
+Ability: lightinversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -2734,7 +2734,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -2966,7 +2966,7 @@ Calm Nature
 - slushswitch  
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: Light Inversion  
+Ability: lightinversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -2996,7 +2996,7 @@ Careful Nature
 - royalretreat  
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: Light Inversion  
+Ability: lightinversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -3205,7 +3205,7 @@ Adamant Nature
 - accelerate  
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: Light Inversion  
+Ability: lightinversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -3327,7 +3327,7 @@ Jolly Nature
 - heavendance  
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: Light Inversion  
+Ability: lightinversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -3348,7 +3348,7 @@ Timid Nature
 - slushswitch  
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: Light Inversion  
+Ability: lightinversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -3555,7 +3555,7 @@ IVs: 0 Atk
 - Parting Shot  
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: Light Inversion  
+Ability: lightinversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -3807,7 +3807,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -3846,7 +3846,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -4011,7 +4011,7 @@ Adamant Nature
 - Agility  
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: Light Inversion  
+Ability: lightinversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -4182,7 +4182,7 @@ Timid Nature
 - Volt Switch  
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: Light Inversion  
+Ability: lightinversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -4424,7 +4424,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -4624,7 +4624,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -4673,7 +4673,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -4762,7 +4762,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -4871,7 +4871,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -5489,7 +5489,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -5889,7 +5889,7 @@ Timid Nature
 - fluttersong  
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: Light Inversion  
+Ability: lightinversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -6131,7 +6131,7 @@ Jolly Nature
 - sludgeswitch  
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: Light Inversion  
+Ability: lightinversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -6860,7 +6860,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -6979,7 +6979,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -7228,7 +7228,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -7360,7 +7360,7 @@ Palkia @ Choice Specs
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -7554,7 +7554,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -7622,7 +7622,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -9043,7 +9043,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -9094,7 +9094,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -9274,7 +9274,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -9354,7 +9354,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -9446,7 +9446,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -9596,7 +9596,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -9697,7 +9697,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -9800,7 +9800,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -10096,7 +10096,7 @@ Careful Nature
 === [gen6ubers] Celestial Night (Xerneas, Poison) ===
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: Light Inversion  
+Ability: lightinversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -10207,7 +10207,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -10262,7 +10262,7 @@ Careful Nature
 - royalretreat  
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: Light Inversion  
+Ability: lightinversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -10376,7 +10376,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -10438,7 +10438,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -10509,7 +10509,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -10590,7 +10590,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -10697,7 +10697,7 @@ Careful Nature
 === [gen6ubers] Revengers (Magnezone, Grass) ===
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: Light Inversion  
+Ability: lightinversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -10796,7 +10796,7 @@ Jolly Nature
 - Volt Switch  
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: Light Inversion  
+Ability: lightinversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -10826,7 +10826,7 @@ Naive Nature
 - Flip Turn  
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: Light Inversion  
+Ability: lightinversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -10959,7 +10959,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -11028,13 +11028,13 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: Light Inversion  
+Ability: lightinversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -11103,7 +11103,7 @@ Careful Nature
 - royalretreat  
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: Light Inversion  
+Ability: lightinversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -11218,7 +11218,7 @@ Careful Nature
 - royalretreat  
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: Light Inversion  
+Ability: lightinversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -11312,7 +11312,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -11337,7 +11337,7 @@ Careful Nature
 - royalretreat  
 
 Necrozma-Dawn-Wings @ Assault Vest  
-Ability: Light Inversion  
+Ability: lightinversion  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -11403,5 +11403,67 @@ IVs: 0 Atk
 - Ice Beam  
 - Thunder Wave  
 - Tailwind  
+
+
+=== [gen6ubers] Sheets of Gold (Mewtwo, Dark) ===
+
+Arceus-Water @ Splash Plate  
+Ability: Multitype  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- sacredwater  
+- Earthquake  
+- royalturbulence  
+- aquacharge  
+
+Bellsprout (M) @ Toxic Orb  
+Ability: Sheer Force  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Seed Bomb  
+- Bullet Seed  
+- Poison Sting  
+- sludgeswitch  
+
+Mewtwo @ Dark Memory  
+Ability: psychicpower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Hasty Nature  
+- psychofire  
+- memoryblast  
+- receivingstrike  
+- Uproar  
+
+Tapu Koko @ Light Ball  
+Ability: lightningforce  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Bolt Strike  
+- Nature's Madness  
+- Aeroblast  
+- Volt Switch  
+
+Giratina @ Leftovers  
+Ability: distortionveil  
+Shiny: Yes  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Calm Nature  
+- shadowsteal  
+- Thunder Wave  
+- Protect  
+- Teleport  
+
+Klinklang @ Metal Coat  
+Ability: utilitylock  
+Shiny: Yes  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
+- Gear Grind  
+- Thunder Wave  
+- Stealth Rock  
+- royalretreat  
 
 
