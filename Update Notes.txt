@@ -1,11 +1,21 @@
 Pokemon Memories Update Notes
 
 Pokemon Memories v1.7.1
+Formats
+- Balanced Hackmons
+	- Ruleset
+		- Rayquaza-Mega has been banned from Standard Balanced Hackmons
+		- Corrected an error where Mewtwo-Mega-X, and Mewtwo-Mega-Y were banned from Unlimited BH, despite the Changelog stating otherwise
+
 Abilities
 - Battle Bond
 	- Initial Hit Base Power: x1.3 -> x1.5
 - Flower Shield
 	- Passive Recovery Condition: __ -> Only activates if the Pokemon has at least 1/2 Max Hp
+
+Items
+- Gold Bottle Cap
+	- Deactivation Conditions: __ -> After fainting two Pokemon, or being active for 4 Turns, whichever happens first
 
 Moves
 - Aqua Charge

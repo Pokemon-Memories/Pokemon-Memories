@@ -1,14 +1,33 @@
-=== [gen6balancedhackmons] Untitled 172 ===
+=== [gen6unlimitedbh] Unlimited BH Testing ===
 
-Rayquaza-Mega @ Flying Memory  
+Mewtwo-Mega-Y @ Flying Memory  
 Ability: Delta Stream  
 Shiny: Yes  
-EVs: 252 HP / 252 Atk / 252 Def / 248 SpA / 252 SpD / 252 Spe  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
 Naive Nature  
-- Bleakwind Storm  
+IVs: 0 Atk  
+- Psystrike  
 - Oblivion Wing  
 - Heal Order  
 - Tailwind  
+
+Mewtwo-Mega-X @ Dubious Disc  
+Ability: inertia  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Jolly Nature  
+- vanishingstrike  
+- Storm Throw  
+- royalpunishment  
+- Extreme Speed  
+
+Mewtwo @ Berserk Gene  
+Ability: Primordial Sea  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Jolly Nature  
+- Sacred Sword  
+- Storm Throw  
+- glacialstrike  
+- Heal Order  
 
 
 === [gen6balancedhackmons] Berserk Gene ===
@@ -41,7 +60,7 @@ Jolly Nature
 - glacialstrike  
 - slushswitch  
 
-Rayquaza-Mega (M) @ Steel Memory  
+Thundurus-Therian (M) @ Steel Memory  
 Ability: Unseen Fist  
 Shiny: Yes  
 EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
@@ -74,7 +93,7 @@ Serious Nature
 === [gen6balancedhackmons] Fairy Aura ===
 
 Mewtwo @ Fairy Memory  
-Ability: flowershield  
+Ability: Flower Shield  
 EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
 Timid Nature  
 - cosmicstarfall  
@@ -89,7 +108,7 @@ Sassy Nature
 IVs: 0 Spe  
 - Origin Pulse  
 - Spectral Thief  
-- expressheal  
+- Express Heal  
 - royalretreat  
 
 Arceus-Fairy @ Bright Powder  
@@ -103,7 +122,7 @@ IVs: 0 Atk
 - Celebrate  
 
 Tapu Koko (M) @ Dragon Memory  
-Ability: hyperspeed  
+Ability: Hyper Speed  
 Shiny: Yes  
 EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
 Naive Nature  
@@ -162,7 +181,7 @@ Modest Nature
 - Strength Sap  
 - Shift Gear  
 
-Rayquaza-Mega (M) @ Life Orb  
+Thundurus (M) @ Life Orb  
 Ability: Triage  
 Shiny: Yes  
 EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
@@ -240,7 +259,7 @@ Sassy Nature
 IVs: 0 Spe  
 - Origin Pulse  
 - Spectral Thief  
-- expressheal  
+- Express Heal  
 - royalretreat  
 
 Eternatus (M) @ Black Sludge  
@@ -363,7 +382,7 @@ Impish Nature
 - Sacred Fire  
 - Dragon Breath  
 - flameswitch  
-- expressheal  
+- Express Heal  
 
 Unown-S @ assistdrive  
 Ability: Shadow Tag  
@@ -456,7 +475,7 @@ Impish Nature
 - Sacred Fire  
 - Dragon Breath  
 - flameswitch  
-- expressheal  
+- Express Heal  
 
 Celesteela @ Metal Coat  
 Ability: Filter  
@@ -546,7 +565,7 @@ Impish Nature
 - Sacred Fire  
 - Dragon Breath  
 - flameswitch  
-- expressheal  
+- Express Heal  
 
 Camerupt (M) @ assistdrive  
 Ability: Magma Armor  
@@ -642,7 +661,7 @@ Impish Nature
 - Sacred Fire  
 - Dragon Breath  
 - flameswitch  
-- expressheal  
+- Express Heal  
 
 Mewtwo @ Adrenaline Orb  
 Ability: antipathy  
@@ -1020,7 +1039,7 @@ Bold Nature
 - Sandsear Storm  
 - Stealth Rock  
 - U-turn  
-- expressheal  
+- Express Heal  
 
 Arceus-Fairy @ Pixie Plate  
 Ability: Multitype  
@@ -1071,7 +1090,7 @@ Bold Nature
 - Sandsear Storm  
 - Rapid Spin  
 - U-turn  
-- expressheal  
+- Express Heal  
 
 Zacian-Crowned @ Metal Coat  
 Ability: Intrepid Sword  
@@ -1344,7 +1363,7 @@ Impish Nature
 - Sandsear Storm  
 - Stealth Rock  
 - U-turn  
-- expressheal  
+- Express Heal  
 
 Gardevoir @ assistdrive  
 Ability: Trace  
@@ -1479,7 +1498,7 @@ Bold Nature
 - Sandsear Storm  
 - Sludge Bomb  
 - U-turn  
-- expressheal  
+- Express Heal  
 
 
 === [gen6ultraassist] Ultra Assist/Contrarian (Def Assist: Unown-?) ===
@@ -1529,7 +1548,7 @@ Impish Nature
 - Sandsear Storm  
 - Stealth Rock  
 - U-turn  
-- expressheal  
+- Express Heal  
 
 Rotom-Wash @ Sweet Apple  
 Ability: doubledown  
@@ -1560,7 +1579,7 @@ Impish Nature
 - Sandsear Storm  
 - Rock Tomb  
 - U-turn  
-- expressheal  
+- Express Heal  
 
 Dialga @ Dusk Stone  
 Ability: Regenerator  
@@ -1621,7 +1640,7 @@ Impish Nature
 - Sandsear Storm  
 - Stealth Rock  
 - U-turn  
-- expressheal  
+- Express Heal  
 
 Xerneas @ assistdrive  
 Ability: Fairy Aura  
@@ -1718,7 +1737,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- Royal Submersion  
+- royalsubmersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -1758,7 +1777,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- Royal Submersion  
+- royalsubmersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -2139,7 +2158,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- Royal Submersion  
+- royalsubmersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -2148,7 +2167,7 @@ Timid Nature
 === [gen6ubers] Lilligant's Exuberance (Deoxys-Attack, ???) ===
 
 Lilligant @ Flower Sweet  
-Ability: flowershield  
+Ability: Flower Shield  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
@@ -2173,7 +2192,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - lustrousstream  
 - Stealth Rock  
-- expressheal  
+- Express Heal  
 - slushswitch  
 
 Zamazenta-Crowned @ Rusted Shield  
@@ -2189,7 +2208,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- Royal Submersion  
+- royalsubmersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -2212,7 +2231,7 @@ EVs: 4 HP / 252 SpD / 252 Spe
 Jolly Nature  
 - Sandsear Storm  
 - memoryblast  
-- expressheal  
+- Express Heal  
 - U-turn  
 
 Giratina @ Leftovers  
@@ -2256,7 +2275,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- Royal Submersion  
+- royalsubmersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -2280,7 +2299,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - lustrousstream  
 - Stealth Rock  
-- expressheal  
+- Express Heal  
 - slushswitch  
 
 Tornadus @ Choice Scarf  
@@ -2524,7 +2543,7 @@ Naive Nature
 - Volt Switch  
 
 Lilligant @ Flower Sweet  
-Ability: flowershield  
+Ability: Flower Shield  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
@@ -2539,7 +2558,7 @@ EVs: 4 HP / 252 Def / 252 Spe
 Impish Nature  
 - Sandsear Storm  
 - Aeroblast  
-- expressheal  
+- Express Heal  
 - U-turn  
 
 Deoxys-Speed @ Life Orb  
@@ -2580,7 +2599,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - mindcleaner  
-- expressheal  
+- Express Heal  
 - sludgeswitch  
 
 Mew @ energypowder  
@@ -2599,7 +2618,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - lustrousstream  
 - Stealth Rock  
-- expressheal  
+- Express Heal  
 - slushswitch  
 
 Ho-Oh @ Sweet Apple  
@@ -2734,7 +2753,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- Royal Submersion  
+- royalsubmersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -2837,7 +2856,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - lustrousstream  
 - Stealth Rock  
-- expressheal  
+- Express Heal  
 - slushswitch  
 
 Ho-Oh @ Sweet Apple  
@@ -2962,7 +2981,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - lustrousstream  
 - Stealth Rock  
-- expressheal  
+- Express Heal  
 - slushswitch  
 
 Necrozma-Dawn-Wings @ Assault Vest  
@@ -2971,7 +2990,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - mindcleaner  
-- expressheal  
+- Express Heal  
 - sludgeswitch  
 
 
@@ -3001,7 +3020,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- expressheal  
+- Express Heal  
 - sludgeswitch  
 
 Dialga @ Metal Coat  
@@ -3037,7 +3056,7 @@ IVs: 0 Atk
 === [gen6ubers] Lilligant (Lilligant, Ground) ===
 
 Lilligant @ Ground Memory  
-Ability: flowershield  
+Ability: Flower Shield  
 Shiny: Yes  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
@@ -3210,7 +3229,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - mindcleaner  
-- expressheal  
+- Express Heal  
 - sludgeswitch  
 
 
@@ -3332,7 +3351,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - mindcleaner  
-- expressheal  
+- Express Heal  
 - sludgeswitch  
 
 
@@ -3353,7 +3372,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - royalturbulence  
-- expressheal  
+- Express Heal  
 - sludgeswitch  
 
 Arceus-Ice @ Icicle Plate  
@@ -3560,7 +3579,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - royalturbulence  
-- expressheal  
+- Express Heal  
 - sludgeswitch  
 
 Giratina-Origin @ Griseous Orb  
@@ -3745,11 +3764,12 @@ Jolly Nature
 
 Arceus-Water @ Splash Plate  
 Ability: Multitype  
+Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - sacredwater  
-- Ice Hammer  
 - Earthquake  
+- Ice Hammer  
 - aquacharge  
 
 
@@ -3807,7 +3827,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- Royal Submersion  
+- royalsubmersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -3846,7 +3866,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- Royal Submersion  
+- royalsubmersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -3976,7 +3996,7 @@ Ability: Battle Bond
 EVs: 128 Atk / 128 SpA / 252 Spe  
 Naive Nature  
 - Water Sport  
-- Night Slash  
+- Darkest Lariat  
 - Gunk Shot  
 - Flip Turn  
 
@@ -4016,7 +4036,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - royalturbulence  
-- expressheal  
+- Express Heal  
 - sludgeswitch  
 
 Manaphy @ Sea Incense  
@@ -4166,7 +4186,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - lustrousstream  
 - Stealth Rock  
-- expressheal  
+- Express Heal  
 - slushswitch  
 
 
@@ -4187,7 +4207,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - royalturbulence  
-- expressheal  
+- Express Heal  
 - sludgeswitch  
 
 Deoxys-Attack @ Life Orb  
@@ -4345,7 +4365,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Careful Nature  
 - Sandsear Storm  
 - Rock Tomb  
-- expressheal  
+- Express Heal  
 - U-turn  
 
 
@@ -4398,7 +4418,7 @@ Calm Nature
 - Teleport  
 
 Lilligant @ Flower Sweet  
-Ability: flowershield  
+Ability: Flower Shield  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
@@ -4424,7 +4444,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- Royal Submersion  
+- royalsubmersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -4454,7 +4474,7 @@ EVs: 252 HP / 252 Def / 4 Spe
 Impish Nature  
 - Sandsear Storm  
 - Rock Tomb  
-- expressheal  
+- Express Heal  
 - U-turn  
 
 Eternatus @ Prism Scale  
@@ -4558,7 +4578,7 @@ Careful Nature
 - Sacred Fire  
 - Dragon Breath  
 - flameswitch  
-- expressheal  
+- Express Heal  
 
 Cresselia @ Electric Memory  
 Ability: Regenerator  
@@ -4624,7 +4644,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- Royal Submersion  
+- royalsubmersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -4673,7 +4693,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- Royal Submersion  
+- royalsubmersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -4746,7 +4766,7 @@ EVs: 252 HP / 108 Def / 144 SpD / 4 Spe
 Impish Nature  
 - Sandsear Storm  
 - memoryblast  
-- expressheal  
+- Express Heal  
 - U-turn  
 
 Dialga @ Sweet Apple  
@@ -4762,7 +4782,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- Royal Submersion  
+- royalsubmersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -4786,7 +4806,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - memoryblast  
 - Body Press  
-- expressheal  
+- Express Heal  
 - Parting Shot  
 
 Mewtwo @ Adrenaline Orb  
@@ -4846,7 +4866,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Careful Nature  
 - Sandsear Storm  
 - Rock Tomb  
-- expressheal  
+- Express Heal  
 - U-turn  
 
 Arceus-Ice @ Icicle Plate  
@@ -4871,7 +4891,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- Royal Submersion  
+- royalsubmersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -5287,7 +5307,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Careful Nature  
 - Sandsear Storm  
 - Rock Tomb  
-- expressheal  
+- Express Heal  
 - U-turn  
 
 Ho-Oh @ Sweet Apple  
@@ -5420,7 +5440,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Careful Nature  
 - Sandsear Storm  
 - Rock Tomb  
-- expressheal  
+- Express Heal  
 - U-turn  
 
 Yveltal @ Zoom Lens  
@@ -5489,7 +5509,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- Royal Submersion  
+- royalsubmersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -5614,7 +5634,7 @@ EVs: 252 HP / 252 Def / 4 Spe
 Impish Nature  
 - Sandsear Storm  
 - Rock Tomb  
-- expressheal  
+- Express Heal  
 - U-turn  
 
 
@@ -5646,7 +5666,7 @@ EVs: 252 HP / 252 Def / 4 Spe
 Impish Nature  
 - Sandsear Storm  
 - Rock Tomb  
-- expressheal  
+- Express Heal  
 - U-turn  
 
 Zoroark-Hisui (M) @ Spooky Plate  
@@ -5706,7 +5726,7 @@ EVs: 252 HP / 108 Def / 144 SpD / 4 Spe
 Impish Nature  
 - Sandsear Storm  
 - memoryblast  
-- expressheal  
+- Express Heal  
 - U-turn  
 
 Dialga @ Sweet Apple  
@@ -5729,11 +5749,11 @@ Careful Nature
 
 Arceus-Water @ Splash Plate  
 Ability: Multitype  
-EVs: 4 HP / 252 SpA / 252 Spe  
-Timid Nature  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
 - sacredwater  
-- glacialstrike  
-- Focus Blast  
+- Earthquake  
+- Ice Hammer  
 - aquacharge  
 
 
@@ -5783,7 +5803,7 @@ EVs: 252 HP / 252 Def / 4 Spe
 Impish Nature  
 - Sandsear Storm  
 - Stealth Rock  
-- expressheal  
+- Express Heal  
 - U-turn  
 
 Arceus @ Payapa Berry  
@@ -5823,7 +5843,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Careful Nature  
 - Sandsear Storm  
 - Rock Tomb  
-- expressheal  
+- Express Heal  
 - U-turn  
 
 Calyrex-Shadow @ Choice Scarf  
@@ -5894,7 +5914,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - royalturbulence  
-- expressheal  
+- Express Heal  
 - sludgeswitch  
 
 Ho-Oh @ Sweet Apple  
@@ -5966,17 +5986,16 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Careful Nature  
 - Sandsear Storm  
 - Rock Tomb  
-- expressheal  
+- Express Heal  
 - U-turn  
 
-Greninja-Ash (M) @ Expert Belt  
-Ability: Tough Claws  
-Shiny: Yes  
-EVs: 4 HP / 252 Atk / 252 Spe  
-Jolly Nature  
-- Wave Crash  
-- Night Slash  
-- Trailblaze  
+Greninja-Ash @ Choice Scarf  
+Ability: Battle Bond  
+EVs: 128 Atk / 128 SpA / 252 Spe  
+Naive Nature  
+- Water Sport  
+- Darkest Lariat  
+- Gunk Shot  
 - Flip Turn  
 
 
@@ -6095,7 +6114,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Careful Nature  
 - Sandsear Storm  
 - Rock Tomb  
-- expressheal  
+- Express Heal  
 - U-turn  
 
 
@@ -6111,14 +6130,13 @@ Jolly Nature
 - aquafang  
 - Agility  
 
-Greninja-Ash (M) @ Expert Belt  
-Ability: Tough Claws  
-Shiny: Yes  
-EVs: 4 HP / 252 Atk / 252 Spe  
-Jolly Nature  
-- Wave Crash  
-- Night Slash  
-- Trailblaze  
+Greninja-Ash @ Choice Scarf  
+Ability: Battle Bond  
+EVs: 128 Atk / 128 SpA / 252 Spe  
+Naive Nature  
+- Water Sport  
+- Darkest Lariat  
+- Gunk Shot  
 - Flip Turn  
 
 Bellsprout (M) @ Toxic Orb  
@@ -6136,7 +6154,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Heat Wave  
-- expressheal  
+- Express Heal  
 - sludgeswitch  
 
 Genesect @ Sweet Apple  
@@ -6393,7 +6411,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Careful Nature  
 - Sandsear Storm  
 - Rock Tomb  
-- expressheal  
+- Express Heal  
 - U-turn  
 
 
@@ -6617,14 +6635,13 @@ IVs: 5 SpA
 - flyingdeluge  
 - slushswitch  
 
-Greninja-Ash (M) @ Expert Belt  
-Ability: Tough Claws  
-Shiny: Yes  
-EVs: 4 HP / 252 Atk / 252 Spe  
-Jolly Nature  
-- Wave Crash  
-- Night Slash  
-- Trailblaze  
+Greninja-Ash @ Choice Scarf  
+Ability: Battle Bond  
+EVs: 128 Atk / 128 SpA / 252 Spe  
+Naive Nature  
+- Water Sport  
+- Darkest Lariat  
+- Gunk Shot  
 - Flip Turn  
 
 Vaporeon @ Leftovers  
@@ -6742,7 +6759,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Careful Nature  
 - Sandsear Storm  
 - Rock Tomb  
-- expressheal  
+- Express Heal  
 - U-turn  
 
 Mewtwo @ Adrenaline Orb  
@@ -6860,7 +6877,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- Royal Submersion  
+- royalsubmersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -6979,7 +6996,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- Royal Submersion  
+- royalsubmersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -7133,7 +7150,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - lustrousstream  
 - Stealth Rock  
-- expressheal  
+- Express Heal  
 - slushswitch  
 
 Kyurem-Black @ Ice Memory  
@@ -7228,7 +7245,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- Royal Submersion  
+- royalsubmersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -7360,7 +7377,7 @@ Palkia @ Choice Specs
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- Royal Submersion  
+- royalsubmersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -7472,7 +7489,7 @@ EVs: 252 HP / 108 Def / 144 SpD / 4 Spe
 Impish Nature  
 - Sandsear Storm  
 - memoryblast  
-- expressheal  
+- Express Heal  
 - U-turn  
 
 
@@ -7554,7 +7571,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- Royal Submersion  
+- royalsubmersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -7565,7 +7582,7 @@ EVs: 252 HP / 108 Def / 144 SpD / 4 Spe
 Impish Nature  
 - Sandsear Storm  
 - memoryblast  
-- expressheal  
+- Express Heal  
 - U-turn  
 
 Arceus @ Payapa Berry  
@@ -7622,7 +7639,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- Royal Submersion  
+- royalsubmersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -8246,7 +8263,7 @@ EVs: 252 HP / 108 Def / 144 SpD / 4 Spe
 Impish Nature  
 - Sandsear Storm  
 - memoryblast  
-- expressheal  
+- Express Heal  
 - U-turn  
 
 Deoxys-Speed @ Nomel Berry  
@@ -8516,7 +8533,7 @@ EVs: 252 Def / 252 SpD / 4 Spe
 Impish Nature  
 - Sandsear Storm  
 - Stealth Rock  
-- expressheal  
+- Express Heal  
 - turbineturn  
 
 Skarmory (M) @ Choice Scarf  
@@ -8540,7 +8557,7 @@ Rash Nature
 - Uproar  
 
 Lilligant @ Grass Memory  
-Ability: flowershield  
+Ability: Flower Shield  
 Shiny: Yes  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
@@ -8975,7 +8992,7 @@ EVs: 252 HP / 108 Def / 144 SpD / 4 Spe
 Impish Nature  
 - Sandsear Storm  
 - memoryblast  
-- expressheal  
+- Express Heal  
 - U-turn  
 
 Vaporeon @ Leftovers  
@@ -9043,7 +9060,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- Royal Submersion  
+- royalsubmersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -9094,7 +9111,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- Royal Submersion  
+- royalsubmersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -9274,7 +9291,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- Royal Submersion  
+- royalsubmersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -9354,7 +9371,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- Royal Submersion  
+- royalsubmersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -9446,7 +9463,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- Royal Submersion  
+- royalsubmersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -9596,7 +9613,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- Royal Submersion  
+- royalsubmersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -9697,7 +9714,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- Royal Submersion  
+- royalsubmersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -9800,7 +9817,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- Royal Submersion  
+- royalsubmersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -9973,7 +9990,7 @@ IVs: 0 Atk
 === [gen6ubers] Lilligant's Adventure (Lilligant, Ground) ===
 
 Lilligant @ Ground Memory  
-Ability: flowershield  
+Ability: Flower Shield  
 Shiny: Yes  
 EVs: 248 HP / 8 Def / 68 SpD / 184 Spe  
 Jolly Nature  
@@ -10101,7 +10118,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- expressheal  
+- Express Heal  
 - sludgeswitch  
 
 Xerneas @ Poison Memory  
@@ -10207,7 +10224,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- Royal Submersion  
+- royalsubmersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -10267,7 +10284,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- expressheal  
+- Express Heal  
 - sludgeswitch  
 
 
@@ -10376,7 +10393,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- Royal Submersion  
+- royalsubmersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -10438,7 +10455,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- Royal Submersion  
+- royalsubmersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -10509,7 +10526,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- Royal Submersion  
+- royalsubmersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -10590,7 +10607,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- Royal Submersion  
+- royalsubmersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -10702,7 +10719,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- expressheal  
+- Express Heal  
 - sludgeswitch  
 
 Klinklang @ Metal Coat  
@@ -10801,7 +10818,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- expressheal  
+- Express Heal  
 - sludgeswitch  
 
 Klinklang @ Metal Coat  
@@ -10831,7 +10848,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- expressheal  
+- Express Heal  
 - sludgeswitch  
 
 Dialga @ Sweet Apple  
@@ -10959,7 +10976,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- Royal Submersion  
+- royalsubmersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -11028,7 +11045,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- Royal Submersion  
+- royalsubmersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -11039,7 +11056,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- expressheal  
+- Express Heal  
 - sludgeswitch  
 
 Mewtwo @ Adrenaline Orb  
@@ -11064,7 +11081,7 @@ Impish Nature
 - flipkick  
 
 Lilligant @ Grass Memory  
-Ability: flowershield  
+Ability: Flower Shield  
 Shiny: Yes  
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
@@ -11108,7 +11125,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- expressheal  
+- Express Heal  
 - sludgeswitch  
 
 
@@ -11223,7 +11240,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- expressheal  
+- Express Heal  
 - sludgeswitch  
 
 
@@ -11312,7 +11329,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- Royal Submersion  
+- royalsubmersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -11342,7 +11359,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- expressheal  
+- Express Heal  
 - sludgeswitch  
 
 
@@ -11367,7 +11384,7 @@ Hasty Nature
 - receivingstrike  
 
 Lilligant @ Grass Memory  
-Ability: flowershield  
+Ability: Flower Shield  
 Shiny: Yes  
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
@@ -11405,7 +11422,7 @@ IVs: 0 Atk
 - Tailwind  
 
 
-=== [gen6ubers] Sheets of Gold (Mewtwo, Dark) ===
+=== [gen6ubers] Sheets of Gold (Zacian-Crowned, Ground) ===
 
 Arceus-Water @ Splash Plate  
 Ability: Multitype  
@@ -11414,7 +11431,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - sacredwater  
 - Earthquake  
-- royalturbulence  
+- Ice Hammer  
 - aquacharge  
 
 Bellsprout (M) @ Toxic Orb  
@@ -11427,24 +11444,24 @@ Jolly Nature
 - Poison Sting  
 - sludgeswitch  
 
-Mewtwo @ Dark Memory  
+Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
-EVs: 4 HP / 252 SpA / 252 Spe  
+EVs: 252 SpA / 4 SpD / 252 Spe  
 Hasty Nature  
+- Stored Power  
 - psychofire  
-- memoryblast  
+- Night Daze  
 - receivingstrike  
-- Uproar  
 
-Tapu Koko @ Light Ball  
-Ability: lightningforce  
+Zacian-Crowned @ Ground Memory  
+Ability: Intrepid Sword  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- Bolt Strike  
-- Nature's Madness  
-- Aeroblast  
-- Volt Switch  
+- Play Rough  
+- memoryblast  
+- Volt Tackle  
+- Agility  
 
 Giratina @ Leftovers  
 Ability: distortionveil  
@@ -11465,5 +11482,62 @@ Careful Nature
 - Thunder Wave  
 - Stealth Rock  
 - royalretreat  
+
+
+=== [gen6ubers] Extrapolation (Mewtwo, Grass) ===
+
+Groudon @ Gold Bottle Cap  
+Ability: Drought  
+EVs: 116 HP / 252 Atk / 140 Spe  
+Adamant Nature  
+- Precipice Blades  
+- Flame Wheel  
+- Stone Edge  
+- Rock Polish  
+
+Greninja-Ash @ Choice Scarf  
+Ability: Battle Bond  
+EVs: 128 Atk / 128 SpA / 252 Spe  
+Naive Nature  
+- Water Sport  
+- Darkest Lariat  
+- Gunk Shot  
+- Flip Turn  
+
+Necrozma-Dawn-Wings @ Assault Vest  
+Ability: lightinversion  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+- Moongeist Beam  
+- Signal Beam  
+- Express Heal  
+- sludgeswitch  
+
+Dialga @ Metal Coat  
+Ability: Regenerator  
+EVs: 116 HP / 252 Atk / 140 Spe  
+Lonely Nature  
+- Breaking Swipe  
+- Earthquake  
+- Iron Head  
+- Shell Smash  
+
+Klinklang @ Metal Coat  
+Ability: utilitylock  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
+- Gear Grind  
+- Thunder Wave  
+- Stealth Rock  
+- royalretreat  
+
+Mewtwo @ Grass Memory  
+Ability: psychicpower  
+EVs: 144 Atk / 112 SpA / 252 Spe  
+Hasty Nature  
+- memoryblast  
+- psychofire  
+- Night Daze  
+- Trailblaze  
 
 

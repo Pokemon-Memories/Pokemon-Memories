@@ -130,19 +130,20 @@ Dialga
 S-
 Kyogre
 Arceus-Water
-Greninja-Ash
 Lilligant (B+; Grass Memory)
+Calyrex-Shadow
 
 
-A-Tier (42 Total)
+A-Tier (39 Total)
 
 A+
+Greninja-Ash
 Meowscarada
 Palkia
 Marshadow (A-; Fighting Memory)
-Calyrex-Shadow
 Klinklang
 Arceus-Ground
+Groudon
 Magnezone (B+; Grass Memory)
 Landorus-Therian (A+; Grass Memory)
 Vaporeon
@@ -162,10 +163,8 @@ Meloetta-Pirouette
 Zoroark-Hisui
 Phione
 Bellsprout
-Groudon (B+; Fire Memory)
 
 A-
-Skarmory
 Thundurus-Therian
 Entei
 Necrozma-Dusk-Mane (B+; Steel Memory)
@@ -182,18 +181,15 @@ Thundurus
 Lugia (B; Ice Memory)
 Cryogonal (B; Ground Memory)
 Zarude
-Deoxys-Speed
 
 
-B-Tier (68 Total)
+B-Tier (70 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
 Arceus-Fire
 Arceus-Flying
 Arceus-Ghost
-Blastoise
-Blastoise-Mega
 Celebi
 Gardevoir
 Genesect
@@ -202,7 +198,6 @@ Keldeo
 Kyurem-Black
 Kyurem-White
 Hoopa Unbound
-Jellicent
 Lunala
 Magearna
 Magearna-Original
@@ -215,6 +210,7 @@ Rapidash-Galar
 Reshiram
 Salamence-Mega
 Sawsbuck
+Skarmory
 Suicune
 Swampert
 Tapu Fini
@@ -231,13 +227,17 @@ Abomasnow
 Arceus-Bug
 Arceus-Dark
 Arctozolt
+Blastoise
+Blastoise-Mega
 Blissey
 Corviknight
 Darmanitan-Galar
 Darmanitan-Galar-Zen
+Deoxys-Speed
 Emolga
 Giratina-Origin
 Gyarados-Mega
+Jellicent
 Landorus-Incarnate
 Mesprit
 Moltres-Galar
@@ -1365,8 +1365,8 @@ Ability: Psychic Power
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature
 - [STAB Slot] Stored Power (Consistency) / Psystrike (Anti Set-Up) / Psychic Storm (Anti-Water) / Psycho Fire (Anti-Steel)
-- [Steel/Dark Coverage] Aura Sphere (Most coverage, but Dialga can tank) / Inferno Beam (Nails Dialga, but not Dark-Types)
-- [Bonus Slot] Water Sport (Base Power; Ho-Oh) / Mineral Cannon (Ho-Oh) / Aurora Beam (Lando-T) / Venoshock (Water/Fairy)
+- [Steel/Dark Coverage] Aura Sphere (Most coverage, but Dialga can tank) / Inferno Beam (Nails Dialga, but not Dark-Types) / Psycho Fire (Hits Steels the hardest, but doesn't hit Dark-Types)
+- [Bonus Slot] Water Sport (Base Power; Ho-Oh) / Mineral Cannon (Ho-Oh) / Aurora Beam (Lando-T) / Venoshock (Water/Fairy) / Receiving Strike (Hits Darks; Good for supplementing Psycho Fire) / Crystal Rush (Usually OHKOs Ho-Oh)
 - [Mandatory Psychic Coverage] Night Daze (Consistency; Meloetta) / Comeuppance (Strongest) / Malice Run (Speed Boosts)
 
 Mewtwo @ Dawn Stone  
@@ -1576,12 +1576,12 @@ Strengths
 - Changes its losing Matchup against Calyrex-Shadow into a semi-advantageous one; Capable of setting up a speed boost on any Scarfrex set--including Modest sets, provided it is near or at Full Hp. In particular, Modest Psycho Boost Scarfex only has an 18.8% chance of OHKO'ing an uninvested Mewtwo after receiving Stealth Rock damage
 - Automatically siphons Hp from opposing Water-Type Pokemon, allowing it to simultaneously improve its survivability, and passively weaken its adversaries
 - Allows it to pick off potentially problematic threats, such as Vaporeon, Palkia, and Manaphy, which could otherwise endure at least one hit under most circumstances.
-- Its Status Immunity allows it to potentially use disruptors such as Vaporeon and Klinklan is Recover/Set-Up Fodder
+- Its Status Immunity allows it to potentially use disruptors such as Vaporeon and Klinklang as Recover/Set-Up Fodder
 
 Weaknesses
 - Dubious defensive typing: Exchanges the immediate concern of Calyrex-Shadow, for a laundary list of other Weaknesses, the most notable being Fire and Ice.
 - Sustains significant damage from opposing Kyurem-Black Ice Shards, and gets erased by Bellsprout's Poison Sting
-- 4MSS: Mewtwo needs Memory Blast to justify this set, however it also needs Inferno Beam to ensure that Dialga and opposing Steels cannot stop it. If it wants to run a speed boosting Move to avoid getting quashed by Scarfers, it only has one Moveslot left to cover its remaining adversaries. Mineral Cannon destroys Ho-Oh and Flying-Types, but leaves it vulnerable to a healthy Entei, while Water Sport destroys both Ho-Oh and Entei, but leaves it vulnerable to Birds. Even if Mewtwo manages to deal with the aforementioned threats: Without a Psychic Move, it will get walled and obliterated by opposing Poison-Type Pokemon. Stored Power can be run as a remedy to this, as well as to grant it another powerful STAB move, however it will still lose against a healthy Ho-Oh
+- 4MSS: Mewtwo needs Memory Blast to justify this set, however it also needs Inferno Beam or Psycho Fire to ensure that Dialga and opposing Steels cannot stop it. If it elects to run a speed boosting Move to avoid getting quashed by Scarfers, it will only be left with one Moveslot to cover its remaining adversaries. Mineral Cannon destroys Ho-Oh and Flying-Types, but leaves it vulnerable to a healthy Entei, while Water Sport destroys both Ho-Oh and Entei, but leaves it vulnerable to Birds. Even if Mewtwo manages to deal with the aforementioned threats: Without a Psychic Move, it will get walled and obliterated by opposing Poison-Type Pokemon. Stored Power can be run as a remedy to this, as well as to grant it another powerful STAB move, however it will still lose against a healthy Ho-Oh
 
 Ground Memory
 Mewtwo @ Ground Memory  

@@ -9182,7 +9182,7 @@ Banlist
 	- Mewtwo-Mega-Y
 	- Rayquaza-Mega
 
-Balanced Hackmons
+Balanced Hackmons   
 Ruleset
 - Assist Clause: Only one Assist Drive is allowed per Team*
 - Compound Clause: No more than two Memory Discs are allowed on a Team*
@@ -9233,6 +9233,7 @@ Pokemon
 	- Eternatus-Eternamax
 	- Mewtwo-Mega-X*
 	- Mewtwo-Mega-Y*
+	- Rayquaza-Mega*
 
 * Does not apply to Unlimited BH
 ⚫ Exclusively applies to Unlimited BH
@@ -14140,7 +14141,7 @@ Activation Range: 1/4 Hp
 Instant activation if Pokemon has Gluttony
 --
 Gold Bottle Cap
-Effect: (If holder is a Fire-Type or Ground-Type): Raises Atk by 1 stage if sunny day or desolate land is active. Single Use.
+Effect: (If holder is a Fire-Type, Grass-Type, or Ground-Type): Raises Atk by 1 stage if sunny day or desolate land is active. Pokemon loses boosts if they successfully cause two Pokemon to faint with an Attacking Move, or if 4 Turns pass. Single Use.
 --
 Griseous Orb
 Additional Effect: Item cannot be removed from Giratina.
