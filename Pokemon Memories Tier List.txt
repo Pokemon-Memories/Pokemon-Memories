@@ -125,11 +125,11 @@ Mewtwo
 
 S
 Dialga
-Groudon
 Kyogre
 Lilligant (S; Grass Memory)
 
 S-
+Groudon
 Zacian-Crowned (A-; Ground Memory)
 Arceus-Water
 Calyrex-Shadow
@@ -150,7 +150,7 @@ Yveltal
 Tapu Koko
 Darkrai
 Xerneas (A; Memory Armor + Memory Disc)
-Arceus
+Phione
 
 A
 Necrozma-Dawn-Wings
@@ -160,10 +160,10 @@ Arceus-Fairy
 Meloetta
 Meloetta-Pirouette
 Zoroark-Hisui
-Phione
 Bellsprout
 
 A-
+Arceus
 Greninja-Ash
 Thundurus-Therian
 Entei
