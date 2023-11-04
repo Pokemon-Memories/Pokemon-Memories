@@ -139,7 +139,6 @@ A-Tier (38 Total)
 
 A+
 Palkia
-Greninja-Ash
 Meowscarada
 Marshadow (A-; Fighting Memory)
 Klinklang
@@ -165,6 +164,7 @@ Phione
 Bellsprout
 
 A-
+Greninja-Ash
 Thundurus-Therian
 Entei
 Necrozma-Dusk-Mane (B+; Steel Memory)
