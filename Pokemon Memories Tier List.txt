@@ -124,26 +124,26 @@ S+
 Mewtwo
 
 S
-Zacian-Crowned (A-; Ground Memory)
 Dialga
+Groudon
+Kyogre
+Lilligant (S; Grass Memory)
 
 S-
-Kyogre
+Zacian-Crowned (A-; Ground Memory)
 Arceus-Water
-Lilligant (B+; Grass Memory)
 Calyrex-Shadow
 
 
-A-Tier (39 Total)
+A-Tier (38 Total)
 
 A+
+Palkia
 Greninja-Ash
 Meowscarada
-Palkia
 Marshadow (A-; Fighting Memory)
 Klinklang
 Arceus-Ground
-Groudon
 Magnezone (B+; Grass Memory)
 Landorus-Therian (A+; Grass Memory)
 Vaporeon
@@ -269,6 +269,7 @@ C+
 Arceus-Poison
 Articuno-Galar
 Charizard-Mega X
+Dragapult
 Infernape
 Lopunny-Mega
 Excadrill
@@ -294,7 +295,6 @@ C-
 Articuno
 Gallade
 Gallade-Mega
-Dragapult
 Rapidash
 Registeel
 Sableye
@@ -607,6 +607,7 @@ Common Items
 - Shuca Berry
 - Star Sweet
 - Sweet Apple
+- Syrupy Apple
 - Weakness Policy
 
 Common Memories
@@ -866,6 +867,7 @@ Common Items
 - Full Incense
 - Gold Bottle Cap
 - Light Ball
+- Room Service
 - White Herb
 - Yache Berry
 
@@ -916,6 +918,31 @@ Weaknesses
 - Because of this, its bulk mainly just serves as a vehicle to help it set up, making it predictable
 - Since Groudon is not a Fire-Type by default: Its Ability, Drought, can potentially enable the Fire-Type and Fire-Adjacent Moves of its opponents, which it will not be capable of effectively resisting.
 
+Room Service
+Groudon @ Room Service  
+Ability: Drought  
+EVs: 116 HP / 252 Atk / 140 Spe  
+Adamant Nature  
+- Precipice Blades  
+- Flame Wheel  
+- Rock Slide / Stone Edges
+- Rock Polish
+
+Strengths
+- Significantly increases the power of Precipice Blades, allowing it to OHKO Mewtwo, and deal heavy damage to Palkia
+- Insulates it against its Grass-Type Weakness, allowing it to stalemate, or even defeat stubborn Grass-Type Pokemon
+- Simultaneously restores its own Hp, whilst eroding its opponent's, via its Item, and Sandstorm's Residual Damage, respectively
+- Excellent at creating massive vulnerabilities in opposing Teams, or decimating them in the late game
+- Due to Groudon's power being tied to its Ability: It can utilize these boosts repeatedly
+- Compared to Zacian-Crowned's Intrepid Sword, or Groudon's other common Item, Gold Bottle Cap: The effects of Sandstorm consistently tend to last significantly longer compared to the former two.
+
+Weaknesses
+- Lack of Sunlight means that Groudon possesses a limited number of tools to effective manage opposing Grass-Types, with its unboosted, weather-less Fire-Type Moves being rather ineffective
+- This also worsens its Matchup against opposing Fairy-Type Pokemon, which it often relied on Flame Wheel to make progress against
+- Opposing Weather setters, such as Kyogre, can neutralize its power and potentially check it, or force it out
+- The passive damage that Sandstorm afflicts also serves as a liability to its own Teammates, worsening its overall Team synergy
+
+
 Fire Memory
 Groudon @ Fire Memory  
 Ability: Drought  
@@ -956,9 +983,11 @@ Weaknesses
 Category: K  
 =====================================================================================================================
 Kyogre
+Hp: 160/Atk: 240/Def: 180/SpA: 320/SpD: 280/Spe: 160
 Common Items
 - Choice Scarf
 - Choice Specs
+- Room Service
 - Rose Incense
 
 Common Memories
@@ -1007,6 +1036,26 @@ Weaknesses
 - Depends on Thunder Wave to break through many of its checks, which is especially problematic against Eternatus and Meowscarada.
 - Possesses common weaknesses, in Electric, and Grass
 - Completely lacks a Pivot Move, forcing it to potentially sacrifice momentum every time it switches out, while leaving itself vulnerable to opposing Water-Trappers
+
+Room Service
+Kyogre @ Room Service  
+Ability: Drizzle  
+EVs: 252 HP / 252 Def / 4 SpA  
+Timid Nature  
+- Origin Pulse  
+- Chilling Water  
+- Thunder Wave  
+- Tailwind
+
+Strengths
+- With Room Service as its Item: Kyogre becomes the best Hail setter in the game, allowing it to check Shell Smash Dialga without compromising its Team
+- Additionally, Kyogre can utilize this Item to check other potential threats, such as Palkia, and Necrozma-Dusk-Mane.
+- Hail gives Kyogre the ability to OHKO opposing Meowscarada with Chilling Water, while also 2HKO'ing -1 SpD Dialga (Shell Smash), and dealing decent damage to opposing Lilligant
+
+Weaknesses
+- Despite arguably strengthening its Defensive Capabilities, its Offensive prowess is relatively hindered, due to losing the additional Power Boost that Drizzle provided to its Water-Type STAB, as well as the passive damage that it could inflict in the Rain with Thunder Wave
+- Additionally, while Room Service still provides Kyogre with a passive means of restoring its Hp: Its effects are noticeably milder compared to its Rose Incense effectss
+
 
 Grass Memory
 Kyogre @ Grass Memory  
@@ -1303,7 +1352,7 @@ Category: Mewtwo
 						Mewtwo Setpedia Entry
 
 
-Mewtwo
+Mewtwo   
 Hp: 170/Atk: 335/Def: 185/SpA: 338/SpD: 185/Spe: 187
 Common Items
 - Adrenaline Orb
@@ -1311,6 +1360,7 @@ Common Items
 - Energy Powder*
 - Odd Incense*
 - Sweet Apple*
+- Syrupy Apple*
 - Twisted Spoon
 
 Anything Goes Items
@@ -1329,17 +1379,18 @@ Common Memories
 - Ground Memory*
 - Ice Memory
 - Poison Memory
-- Psychic Memory
+- Psychic Memory*
 - Water Memory
 
 Common Moves
 - Aqua Step*
 - Aura Sphere
 - Aurora Beam*
+- Comeuppance
 - Dark Pulse
 - Ethereal Stream
 - Expanding Force*
-- Frost Step
+- Frost Step*
 - Inferno Beam
 - Malice Run
 - Memory Blast
@@ -1347,10 +1398,11 @@ Common Moves
 - Nasty Plot*
 - Night Daze
 - Psychic Storm
-- Psychic Wind
+- Psychic Wind*
 - Psycho Fire
 - Psycho Rush*
 - Psystrike*
+- Receiving Strike
 - Stored Power
 - Trailblaze
 - Venoshock

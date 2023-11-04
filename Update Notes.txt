@@ -1,5 +1,74 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v1.7.2
+Abilities
+- Dragon Armor
+	- Power Boost Limitations: __ -> Only applies to Dragon-Type, and Ground-Type Moves
+- Flower Sweet
+	- Memory-Interactive Def/SpD Boost Duration: __ -> 2 Active Turns
+
+Items
+- Flower Sweet
+	- Duration: __ -> 2 Active Turns
+- Never-Melt Ice
+	- Now mitigates the Damage of any attack that targets the Pokemon's Def Stat
+- Room Service
+	- Implemented
+	- Effect: Changes the effect of various Weather-related Abilities, and restores 1/8 of the Pokemon's Max Hp at the end of each turn, as long as either Rain, Sunlight, Sandstorm, or Hail are active
+		- Drizzle Weather: Rain -> Hail
+		- Drought Weather: Sunlight -> Sandstorm
+		- Sand Stream Weather: Sandstorm -> Sunlight
+		- Snow Warning Weather: Hail -> Rain
+- Star Sweet
+	- Additional Moves: Magnetic Flux
+- Syrupy Apple
+	- Implemented
+	- Effect: Pokemon heals a set amount of Hp for every Super-Effective Hit they successfully land
+		- First: 25% Max Hp
+		- Second: 20% Max Hp
+		- Third: 15% Max Hp
+		- Fourth: 10% Max Hp
+
+Weather
+- Hail
+	- Ice-Type Power Boost: x1.2 -> x1.3
+- Sandstorm
+	- Power Boosts
+		- Ground-Type Boost: __ -> x1.3
+		- Rock-Type Boost: __ -> x1.3
+	- Power Reduction
+		- Grass-Type Reduction: __ -> x0.5
+
+Pokemon
+- Bellsprout
+	- Learnset Additions
+		- Toxic Spikes
+- Braixen
+	- Base Stats
+		- Atk: 209 -> 269
+		- Def: 125 -> 165
+		- SpA: 240 -> 270
+		- SpD: 121 -> 141
+	- Learnset Additions
+		- Flame Switch
+- Calyrex Formes
+	- Calyrex-Ice
+		- Learnset Additions
+			- Leech Seed
+			- Royal Retreat
+	- Calyrex-Shadow
+		- Learnset Additions
+			- Psych Up
+- Garchomp
+	- Ability: Sand Stream -> Dragon Heart
+- Groudon
+	- Learnset Additions
+		- Withdraw
+- Lilligant
+	- Learnset Removals
+		- Power Gem
+		- Teeter Dance
+
 Pokemon Memories v1.7.1
 Formats
 - Balanced Hackmons

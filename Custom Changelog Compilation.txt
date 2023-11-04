@@ -570,6 +570,7 @@ Shaymin: 			BST: 1195
 Florges: 			BST: 1192
 Floette: 			BST: 1191
 Eternal Floette: 		BST: 1191
+Braixen: 			BST: 1190
 Darkrai: 			BST: 1184
 Cresselia: 			BST: 1184
 Klinklang: 			BST: 1181
@@ -748,7 +749,6 @@ Bewear: 			BST: 1020
 Cherrim: 			BST: 1020
 Chesnaught:			BST: 1020
 Delphox: 			BST: 1020
-Braixen: 			BST: 1020
 Greninja: 			BST: 1020
 Tyrantrum: 			BST: 1020
 Skarmory: 			BST: 1015
@@ -1789,6 +1789,7 @@ Sludge Rush
 Sludge Switch
 Spikes
 Stealth Rock
+Toxic Spikes
 Trailblaze
 Venoshock
 Wild Charge
@@ -2997,6 +2998,7 @@ Flame Wheel
 High Horsepower
 Shattered Earth
 Thermal Press
+Withdraw
 
 Unlearned
 Dragon Tail
@@ -3348,7 +3350,7 @@ SpA: 80 -> 128 = +48
 SpD: 85 -> 155 = +70
 Spe: 102 -> 164 = +62
 BST: 600 -> 1080
-Ability: Sand Veil -> Sand Stream
+Ability: Sand Veil -> Dragon Heart
 Added Ability: Dragon Armor
 
 Mega Garchomp
@@ -3373,7 +3375,7 @@ Tailwind
 Thermal Press
 
 Dragon Armor (New Ability)
-Effect: Pokemon's Moves have x1.3 Base Power when they have any positive stat boosts. Opposing Rock-Type and Ice-Type Moves deal halved Damage; Pokemon is immune to recoil damage
+Effect: Pokemon's Dragon-Type, and Ground-Type Moves have x1.2 Base Power when they have any positive stat boosts. Opposing Rock-Type and Ice-Type Moves deal halved Damage; Pokemon is immune to recoil damage
 ------------------------------------------------------------------------
 Lucario
 Hp: 70 -> 140 = +70
@@ -4435,7 +4437,6 @@ Mystery Slash
 Mystery Sphere
 Mystery Wave
 Play Rough
-Power Gem
 Quiver Dance
 Rapid Spin
 Royal Forestation
@@ -5414,7 +5415,7 @@ Shell Smash
 Slush Switch
 X-Scissor
 ------------------------------------------------------------------------
-Chesnaught
+Chesnaught   
 Hp: 88 -> 183 = +20
 Atk: 107 -> 287 = +180
 Def: 122 -> 195 = +73
@@ -5424,21 +5425,22 @@ Spe: 64 -> 157 = +93
 BST: 530 -> 1020
 Ability: Bulletproof -> Architect/Dyslexia
 --
-Braixen
+Braixen   
 Hp: 59 -> 139 = +80
-Atk: 59 -> 209 = +150
-Def: 58 -> 125 = +67
-SpA: 90 -> 240 = +150
-SpD: 70 -> 121 = +51
+Atk: 59 -> 269 = +210
+Def: 58 -> 165 = +107
+SpA: 90 -> 270 = +180
+SpD: 70 -> 141 = +71
 Spe: 73 -> 186 = +113
-BST: 409 -> 1020
+BST: 409 -> 1190
 Added Ability: No Guard
 New Move
+Flame Switch
 Blazing Blast
 Blazing Velocity
 Stone Edge
 
-Delphox
+Delphox   
 Hp: 75 -> 149 = +74
 Atk: 69 -> 39 = -30
 Def: 72 -> 187 = +107
@@ -5448,7 +5450,7 @@ Spe: 104 -> 157 = +53
 BST: 534 -> 1020
 Added Ability: Sheer Force
 --
-Greninja
+Greninja  
 Hp: 72 -> 135 = +63
 Atk: 95 -> 218 = +123
 Def: 67 -> 132 = +65
@@ -6131,7 +6133,7 @@ Shadow Force
 Hyper Drill
 Drain Punch
 ------------------------------------------------------------------------
-Tyranitar
+Tyranitar   
 Hp: 100 -> 180 = +80
 Atk: 134 -> 294 = +60
 Def: 110 -> 230 = +120
@@ -7161,7 +7163,6 @@ Ethereal Stream
 Stealth Rock
 Night Shade
 Anchor Shot
-Thunder Wave
 Dragon Breath
 Quiver Dance
 Perish Song
@@ -7455,7 +7456,9 @@ Aromatic Mist
 Aurora Beam
 Icicle Crash
 Leafage
+Leech Seed
 Mist Ball
+Royal Retreat
 Sheer Cold
 Slush Switch
 Stealth Rock
@@ -7471,7 +7474,6 @@ Double Kick
 Expanding Force
 High Horsepower
 Lash Out
-Leech Seed
 Seed Bomb
 Solar Blade
 Stomping Tantrum
@@ -7498,6 +7500,7 @@ Parting Shot
 Poltergeist
 Psybeam
 Psycho Boost
+Psych Up
 Shadow Force
 Shadow Steal
 Shatter Reign
@@ -9389,7 +9392,7 @@ Fairy Aura
 Effect: (Memory Ability only): 30% Power Bonus granted to Fairy-Type moves, will only be active if the Pokemon does not have any positive stat boosts in the stat they are attacking in. This condition does not apply to Pokemon that naturally have Fairy Aura as their Ability
 --
 Flower Shield
-Memory Effect: Raises the Pokemon's Def and SpD by 1 stage each upon switching in; Pokemon restores 1/16 Max Hp at the end of each turn, if it has 1/2 Max Hp or more
+Memory Effect: Raises the Pokemon's Def and SpD by 1 stage each upon switching in. This effect lasts for the first 2 Active Turns, after which, the boosts will disappear; Pokemon restores 1/16 Max Hp at the end of each turn, if it has 1/2 Max Hp or more
 --
 Lightning Force
 Memory Effect: Pokemon's Electric-Type Moves have x1.3 Base Power. Has no effect if the Pokemon has Memorized into an Electric-Type
@@ -9599,7 +9602,7 @@ Permafrost Effect: If Frozen, Pokemon will not thaw as long as Hail is active, e
 Info: Freeze power debuffs are handled in battle-engine.js (for Guts and Facade); Speed debuff is handled in statuses.js
 --
 Hail
-Ice-Boost: __ -> x1.2
+Ice-Boost: __ -> x1.3
 Dragon-Penalty: __ -> x0.5
 Damage: 1/16 Max Hp -> ___
 --
@@ -9628,6 +9631,20 @@ New Mechanics
 Attrition  
 Effect: Moves that sharply raise one of the user's stats will have diminishing returns after reaching a stat stage equal to the stat stage boost of the move itself (e.g. Swords Dance is +2, so any Pokemon with a stat stage equal or greater than 2, will only receive a single stage boost beyond that point)
 
+Affected Abilities  
+Beast Boost: Limit: __ -> 1 Boost
+Belligerent: Limit: __ -> 1 Boost
+Dauntless Shield: Threshold: __ -> +1 Def; Attrition: +1 Def -> __
+Download: Attrition: Resets all stat stages after one active turn.
+Intrepid Sword: Threshold: __ -> +1 Atk; Attrition: +1 Atk -> __
+Moxie: Limit: __ -> 1 Boost
+Power Surge: Limit: __ -> 1 set of Boosts
+Soul Heart: Limit: __ -> 1 Boost
+Speed Boost: Limit: __ -> 1 Boost
+
+Affected Items
+Syrupy Apple: Function: Restores a set amount of HP; Attrition: (25%, 20%, 15%, 10%)
+
 Affected Moves  
 Note: "__" means that boosts stop altogether at this point
 Acid Armor: Threshold: +2 Def; Attrition: +2 Def -> +1 Def
@@ -9650,6 +9667,7 @@ Fly: Threshold: +1 Atk; Attrition: +1 Atk -> __
 Flutter Song: Threshold: +1 Spe; Attrition: +1 Spe -> __
 Flutter Step: Threshold: +1 Spe; Attrition: +1 Spe -> __
 Glacial Strike: Threshold: +1 Atk; Attrition: +1 Atk -> __
+Heal Order: Function: Inflicted Damage-Based Recovery: Attrition: (200%, 150%, 100%, 67%)
 Heaven Dance: Threshold: +2 Atk; Attrition: +2 Atk -> +1 Atk 
 Iron Defense: Threshold: +2 Def; Attrition: +2 Def -> +1 Def
 Iron Run: Threshold: +1 Spe; Attrition: +1 Spe -> __
@@ -9679,17 +9697,6 @@ Tail Glow: Threshold: +3 SpA; Attrition: +3 SpA -> __
 Trailblaze: Threshold: +1 Spe; Attrition: +1 Spe -> __
 Vital Dance: Threshold: +1 SpA; Attrition: +1 SpA/+1 Spe -> +1 Spe
 Whirlwind: Threshold: +1 Spe; Attrition: +1 Spe -> __
-
-Affected Abilities  
-Beast Boost: Limit: __ -> 1 Boost
-Belligerent: Limit: __ -> 1 Boost
-Dauntless Shield: Threshold: __ -> +1 Def; Attrition: +1 Def -> __
-Download: Attrition: Resets all stat stages after one active turn.
-Intrepid Sword: Threshold: __ -> +1 Atk; Attrition: +1 Atk -> __
-Moxie: Limit: __ -> 1 Boost
-Power Surge: Limit: __ -> 1 set of Boosts
-Soul Heart: Limit: __ -> 1 Boost
-Speed Boost: Limit: __ -> 1 Boost
 ------------------------------------------------------------------------
 Limited Distribution Moves/Universally Unlearned Moves    
 Description: These moves have been removed from all Pokemon's learnsets, unless stated otherwise.
@@ -13419,7 +13426,7 @@ Dracolate
 Effect: Transforms Normal-Type moves into Dragon-Type attacks. x1.2 power.
 --
 Dragon Armor 
-Effect: Effect: Pokemon's Moves have x1.3 Base Power when they have any positive stat boosts. Opposing Rock-Type and Ice-Type Moves deal halved Damage; Pokemon is immune to recoil damage
+Effect: Pokemon's Dragon-Type, and Ground-Type Moves have x1.2 Base Power when they have any positive stat boosts. Opposing Rock-Type and Ice-Type Moves deal halved Damage; Pokemon is immune to recoil damage
 --
 Dragon Heart
 Effect: Halves the damage of opposing Physical Attacks when above 1/2 Max Hp.
@@ -14130,7 +14137,7 @@ Focus Sash
 Effect: 25% chance to survive move that would normally OHKO at Full HP.
 --
 Flower Sweet
-Effect: Raises Def and SpD by 1 stage each upon switching in if the holder is a Pure Grass-Type; Fails if Pokemon has any additional Types, regardless of whether or not it has the Grass-Typing; Does not consume Item.
+Effect: Raises Def and SpD by 1 stage each upon switching in if the holder is a Pure Grass-Type; Fails if Pokemon has any additional Types, regardless of whether or not it has the Grass-Typing; The effects of this Item last for 2 Active Turns, after which, the boosts will disappear. Multi-Use.
 --
 Full Incense
 Effect: Holder moves last in Priority Bracket -> Multiplies the power of Ground-Type and Fire-Type Attacks by x1.2 if sunny day or desolate land is active.
@@ -14211,7 +14218,7 @@ Nanab Berry
 Effect: __ -> Restores 1/2 Max Hp upon being hit Super-Effectively. 
 --
 Never-Melt Ice
-Effect: Ice-Type Moves have x1.2 Base Power -> Ice-Type Pokemon receive x0.67 damage from Physical Moves under Hail.
+Effect: Ice-Type Moves have x1.2 Base Power -> Ice-Type Pokemon receive x0.67 damage from Physical Moves--or any Move that targets the Pokemon's Defense Stat under Hail.
 --
 Odd Incense
 Effect: Multiplies the power of Psychic-Type Attacks by x2 if the user is at or below 1/4 max hp.
@@ -14250,6 +14257,14 @@ Effect: Reduces the damage of Contact-Moves to 1; Halves damage taken by Storm T
 --
 Rock Incense
 Effect: Removes Holder's Rock-Type weaknesses while Sandstorm is active.
+--
+Room Service
+Effect: Changes the effect of various Weather-related Abilities, and restores 1/8 of the Pokemon's Max Hp at the end of each turn, as long as either Rain, Sunlight, Sandstorm, or Hail are active
+Mechanics:
+- Drizzle Weather: Rain -> Hail
+- Drought Weather: Sunlight -> Sandstorm
+- Sand Stream Weather: Sandstorm -> Sunlight
+- Snow Warning Weather: Hail -> Rain
 --
 Rose Incense
 Additional Effect: Heals 1/5 max hp at the end of each turn if rain is active. Loses 1/6 max hp at the end of each turn if sun or hail is active.
@@ -14294,6 +14309,13 @@ Instant activation if Pokemon has Gluttony
 --
 Sweet Apple
 Effect: Restores 1/5 of the user's hp upon switching out.
+--
+Syrupy Apple
+Effect: Restores a certain amount of the holder's HP each time they successfully land a Super-Effective Move
+- First: 25% Max Hp
+- Second: 20% Max Hp
+- Third: 15% Max Hp
+- Fourth+: 10% Max Hp
 --
 Tart Apple
 Effect: If the holder has more than 1/4 hp, takes 1/4 hp upon switching out. Doesn't affect Ghost-Types.
@@ -14376,7 +14398,7 @@ Mechanics: Actual boosts: +2 Atk, +2 SpA, +2 Spe; After V-Create; +2 Atk, +2 SpA
 --
 Star Sweet
 Effect: Holder automatically switches out upon successfully using a Charity Move. Multi-Use.
-List of Charity Moves: Aurora Veil, Jungle Healing, Leech Seed, Lucky Chant, Mist, Safeguard, Wish
+List of Charity Moves: Aurora Veil, Jungle Healing, Leech Seed, Lucky Chant, Magnetic Flux, Mist, Safeguard, Wish
 Prohibited Charity Moves: Aromatherapy, Heal Bell, Healing Wish, Light Screen, Lunar Dance, Reflect, Tailwind
 --
 Thunder Stone
