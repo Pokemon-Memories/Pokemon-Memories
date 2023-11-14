@@ -20,7 +20,7 @@ Section C
 	• Viability Rankings
 	• History of the Format
 
-(170 Total)
+(174 Total)
 						      Section A    
 						    Standard Ubers
 						      Highlights
@@ -120,77 +120,80 @@ Viability Rankings
 
 S-Tier (7 Total)
 
-S+
+S
 Mewtwo
 
-S
+S-
+Arceus-Grass
+Rayquaza (A; Electric Memory)
+Yveltal
+Landorus-Therian
+Arceus-Ground
+Gliscor (A-; Ice Memory)
+
+
+A-Tier (42 Total)
+
+A+
+Greninja-Ash
+Groudon (A+; Room Service)
+Calyrex-Shadow (A; Ground Memory)
 Dialga
 Kyogre
 Lilligant (S; Grass Memory)
-
-S-
-Groudon
-Zacian-Crowned (A-; Ground Memory)
 Arceus-Water
-Calyrex-Shadow
-
-
-A-Tier (38 Total)
-
-A+
 Palkia
-Meowscarada
+Muk-Alola
+Tornadus
+Ho-Oh
+
+A
+Vaporeon
+Minun
 Marshadow (A-; Fighting Memory)
 Klinklang
-Arceus-Ground
-Magnezone (B+; Grass Memory)
-Landorus-Therian (A+; Grass Memory)
-Vaporeon
-Yveltal
-Tapu Koko
 Darkrai
 Xerneas (A; Memory Armor + Memory Disc)
 Phione
-
-A
+Zacian-Crowned (A-; Ground Memory)
 Necrozma-Dawn-Wings
-Ho-Oh
 Arceus-Electric
 Arceus-Fairy
 Meloetta
 Meloetta-Pirouette
 Zoroark-Hisui
-Bellsprout
+Sunflora
 
 A-
+Tapu Koko
+Meowscarada
+Magnezone (B+; Grass Memory)
+Suicune (B+; Ice Memory)
 Arceus
-Greninja-Ash
 Thundurus-Therian
 Entei
 Necrozma-Dusk-Mane (B+; Steel Memory)
-Eternatus
-Calyrex-Ice (B+; Electric Memory)
-Mew (B+; Protean + Fighting Memory)
+Calyrex-Ice
 Regieleki (B- Ice Memory/Any Memory)
-Rayquaza (B+; Fairy Memory)
-Lucario-Mega
-Porygon-Z (B; Dark Memory)
 Cresselia
 Ludicolo
 Thundurus
 Lugia (B; Ice Memory)
 Cryogonal (B; Ground Memory)
-Zarude
+Victreebel
 
 
-B-Tier (70 Total)
+B-Tier (73 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
 Arceus-Fire
 Arceus-Flying
 Arceus-Ghost
+Bellsprout
 Celebi
+Empoleon
+Eternatus
 Gardevoir
 Genesect
 Giratina
@@ -198,6 +201,7 @@ Keldeo
 Kyurem-Black
 Kyurem-White
 Hoopa Unbound
+Lucario-Mega
 Lunala
 Magearna
 Magearna-Original
@@ -206,18 +210,18 @@ Mimikyu
 Mimikyu-Busted
 Necrozma-Ultra
 Pikachu-Original
+Porygon-Z
 Rapidash-Galar
 Reshiram
 Salamence-Mega
-Sawsbuck
+Shaymin-Sky
 Skarmory
-Suicune
 Swampert
 Tapu Fini
 Umbreon
 Urshifu-R
-Victreebel
 Zamazenta-Crowned
+Zarude
 Zekrom
 Zygarde
 Zygarde-Complete
@@ -244,7 +248,6 @@ Moltres-Galar
 Pikachu-Alola
 Regigigas
 Solgaleo
-Tornadus
 Torterra
 Urshifu-S
 Victini
@@ -255,11 +258,11 @@ B-
 Arceus-Dragon
 Darmanitan
 Decidueye
-Empoleon
 Gengar
 Gengar-Mega
+Mew
 Regidrago
-Shaymin-Sky
+Sawsbuck
 Snorlax
 
 
@@ -301,7 +304,7 @@ Sableye
 Volcanion
 
 
-D-Tier (15 Total)
+D-Tier (14 Total)
 
 D+
 Cobalion
@@ -311,7 +314,6 @@ Heatran
 Latios-Mega
 Maractus
 Milotic
-Sunflora
 Tyranitar
 
 D

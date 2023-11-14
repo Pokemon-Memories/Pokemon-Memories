@@ -430,7 +430,10 @@ Mega Camerupt
 Klinklang
 Claydol
 Jellicent
-Total: 383
+Alolan Muk
+Minun
+Plusle
+Total: 386
 ============================================================
 Section A   
 Base Stat Total Compendium  
@@ -511,6 +514,7 @@ Ho-Oh: 				BST: 1270
 Lugia: 				BST: 1270
 Zarude-Dada: 			BST: 1270
 Zarude: 			BST: 1270
+Raichu: 			BST: 1264
 Zoroark-Hisui: 			BST: 1262
 Lapras: 			BST: 1260
 Tapu Fini: 			BST: 1260
@@ -568,8 +572,8 @@ Mega Gallade: 			BST: 1195
 Mega Gardevoir: 		BST: 1195
 Shaymin: 			BST: 1195
 Florges: 			BST: 1192
-Floette: 			BST: 1191
 Eternal Floette: 		BST: 1191
+Floette: 			BST: 1191
 Braixen: 			BST: 1190
 Darkrai: 			BST: 1184
 Cresselia: 			BST: 1184
@@ -579,6 +583,7 @@ Sawsbuck: 			BST: 1177
 Zacian-Crowned 			BST: 1171
 Zamazenta-Crowned 		BST: 1171
 Cinccino: 			BST: 1171
+Chandelure: 			BST: 1170
 Sunflora: 			BST: 1170
 Latios: 			BST: 1170
 Latias: 			BST: 1170
@@ -592,19 +597,21 @@ Rotom-Fan: 			BST: 1165
 Rotom-Wash: 			BST: 1165
 Rotom-Mow: 			BST: 1165
 Articuno-Galar: 		BST: 1160
-Zapdos-Galar: 			BST: 1160
-Moltres-Galar: 			BST: 1160
-Mega Garchomp: 			BST: 1160
-Lilligant: 			BST: 1160
 Articuno: 			BST: 1160
-Zapdos: 			BST: 1160
-Moltres: 			BST: 1160
-Golurk: 			BST: 1160
-Dragonite: 			BST: 1160
-Deoxys: 			BST: 1160
 Deoxys-Attack: 			BST: 1160
 Deoxys-Defense: 		BST: 1160
 Deoxys-Speed: 			BST: 1160
+Deoxys: 			BST: 1160
+Dragonite: 			BST: 1160
+Golurk: 			BST: 1160
+Lilligant: 			BST: 1160
+Mega Garchomp: 			BST: 1160
+Minun: 				BST: 1160
+Moltres-Galar: 			BST: 1160
+Moltres: 			BST: 1160
+Plusle: 			BST: 1160
+Zapdos-Galar: 			BST: 1160
+Zapdos: 			BST: 1160
 Dracozolt: 			BST: 1155
 Swanna: 			BST: 1150
 Flygon: 			BST: 1150
@@ -612,6 +619,7 @@ Mantine: 			BST: 1145
 Porygon2: 			BST: 1144
 Porygon-Z: 			BST: 1144
 Maractus: 			BST: 1142
+Gliscor: 			BST: 1140
 Naganadel: 			BST: 1140
 Primarina: 			BST: 1140
 Decidueye: 			BST: 1140
@@ -646,7 +654,6 @@ Arcanine: 			BST: 1115
 Diggersby: 			BST: 1113
 Hydreigon: 			BST: 1110
 Sceptile: 			BST: 1110
-Gliscor: 			BST: 1110
 Talonflame: 			BST: 1108
 Pikachu: 			BST: 1104
 =============================================
@@ -669,6 +676,7 @@ Dragalge: 			BST: 1080
 Sudowoodo: 			BST: 1080
 Snorlax: 			BST: 1080
 Minior: 			BST: 1080
+Alolan Muk: 			BST: 1080
 Garchomp: 			BST: 1080
 Haxorus: 			BST: 1080
 Roserade: 			BST: 1080
@@ -764,7 +772,6 @@ Bastiodon: 			BST: 1005
 Vanilluxe: 			BST: 1005
 Eevee: 				BST: 1004
 Stakataka: 			BST: 1000
-Chandelure: 			BST: 1000
 Metagross: 			BST: 1000
 Goodra: 			BST: 1000
 =============================================
@@ -788,7 +795,6 @@ Blissey: 			BST: 945
 Meowth: 			BST: 945
 Persian: 			BST: 945
 Scolipede: 			BST: 945
-Raichu: 			BST: 944
 Gigalith: 			BST: 944
 Delibird: 			BST: 940
 Gyarados: 			BST: 940
@@ -852,7 +858,7 @@ Mega Mewtwo Y: 210
 Category: 190s (1 Total)
 Rotom-Frost: 195
 ===============
-Category: 180s (63 Total)
+Category: 180s (65 Total)
 Mewtwo: 187
 Deoxys: 186
 Tapu Koko: 186
@@ -866,6 +872,8 @@ Beedrill: 185
 Darkrai: 185
 Dragalge: 185
 Jolteon: 185
+Minun: 185
+Plusle: 185
 Mega Beedrill: 185
 Bellsprout: 181
 Sawsbuck-Autumn: 184
@@ -916,8 +924,9 @@ Zapdos: 180
 Minior: 180
 Raikou: 180
 ===============
-Category: 170s (61 Total)
+Category: 170s (62 Total)
 --
+Raichu: 179
 Rotom-Heat: 179
 Thundurus: 179
 Thundurus-Therian: 179
@@ -980,7 +989,7 @@ Mega Blaziken: 170
 Blaziken: 170
 Mienshao: 170
 ===============
-Category: 160s (79 Total)
+Category: 160s (78 Total)
 --
 Charizard: 169
 Mega Charizard X: 169
@@ -989,7 +998,6 @@ Porygon: 169
 Genesect: 169
 Metagross: 169
 Mega Metagross: 169
-Raichu: 169
 Vanilluxe: 169
 Excadrill: 168
 Hydreigon: 168
@@ -1217,7 +1225,7 @@ Cloyster: 100
 Camerupt: 100
 Mega Camerupt: 100
 ===============
-Category: Below 100 (44 Total)
+Category: Below 100 (45 Total)
 --
 Arctozolt: 95
 Drapion: 95
@@ -1246,6 +1254,7 @@ Celesteela: 61
 Carracosta: 60
 Darmanitan-Zen: 55
 Graveler: 55
+Alolan Muk: 50
 Muk: 50
 Mega Sableye: 50
 Sableye: 50
@@ -1332,7 +1341,9 @@ Dark Pulse
 Dazzling Gleam
 Detect
 Dragon Pulse
+Dynamic Punch
 Earth Power
+Earth Run
 Electro Strike
 Ember
 Endeavor
@@ -1358,6 +1369,7 @@ Mind Cleaner
 Mineral Cannon
 Mirror Coat
 Mist Ball
+Mud Bomb
 Mystery Bind
 Mystery Deluge
 Mystery Slash
@@ -1370,6 +1382,7 @@ Pixie Run
 Poltergeist
 Power Gem
 Prattle Rattle
+Psychic Quake
 Psychic Storm
 Psychic Wind
 Psycho Blitz
@@ -1393,6 +1406,7 @@ Sparkling Ice
 Stomping Tantrum
 Stored Power
 Submission
+Sweet Retreat
 Tailwind
 Teleport
 Thermal Press
@@ -1436,7 +1450,7 @@ Special Moves
 Psychic Infinity
 
 Psychic Power
-Effect: Multiplies damage of Super-Effective Attacks by x1.3; Pokemon's Burst-Moves are always at Full Power. Immunity to Abilities that lower the Pokemon's stats, when the opponent switches in. Incapacitates if user isn't Mewtwo.
+Effect: Multiplies damage of Super-Effective Attacks by x1.3; Pokemon's Moves have x1.1 Base Power, if they are holding a Choice Item. Pokemon's Burst-Moves are always at Full Power. Immunity to Abilities that lower the Pokemon's stats when the opponent switches in. Incapacitates if user isn't Mewtwo.
 
 Hightened Mind
 Effect: Multiplies Pokemon's Spe by x1.5, if they lose their held Item; Pokemon's Atk and SpA will also be multiplied by x1.3 each, provided they do not have any boosts in each respective stat. Pokemon cannot use Status Moves. Once activated: This Ability deactivates after the Pokemon successfully K.O.'s two opponents. Pokemon K.O.'d during the turn that this Ability was activated do not count. Incapacitates if the user isn't Mewtwo.
@@ -1546,7 +1560,7 @@ Celebrate
 Topsy-Turvy
 Anchor Shot
 ------------------------------------------------------------------------
-Pikachu
+Pikachu   
 Hp: 35 -> 157 = +122
 Atk: 55 -> 252 = +197
 Def: 40 -> 140 = +100
@@ -1664,28 +1678,31 @@ SpD: 130 ->
 Spe: 175 -> 
 BST: 1104 -> 
 --
-Raichu
-Hp: 60 -> 140 = +80
-Atk: 90 -> 203 = +113
-Def: 55 -> 122 = +67
-SpA: 90 -> 200 = +110
-SpD: 80 -> 110 = +30
-Spe: 110 -> 169 = +59
-BST: 485 -> 944
+Raichu   
+Hp: 60 -> 200 = +140
+Atk: 90 -> 253 = +163
+Def: 55 -> 232 = +177
+SpA: 90 -> 250 = +160
+SpD: 80 -> 150 = +70
+Spe: 110 -> 179 = +69
+BST: 485 -> 1264
+Added Ability: Lightning Tunnel
 New Moves
-Reflect
+Celebrate
+Close Combat
+Electro Ball
+Electro Strike
+Extreme Speed
+High Jump Kick
 Light Screen
 Mystery Bind
 Mystery Slash
-Close Combat
-High Jump Kick
+Reflect
 Slush Switch
 Stealth Rock
 Uproar
-Celebrate
-Zap Cannon
 Volt Tackle
-Extreme Speed
+Zap Cannon
 ------------------------------------------------------------------------
 Jigglypuff
 Hp: 115 -> 185 = +70
@@ -1771,8 +1788,10 @@ Moveset Synchronized with Victreebel
 New Moves
 Agility
 Baneful Bunker
+Bubble Beam
 Close Combat
 Defog
+Earth Run
 Final Gambit
 Gunk Shot
 Heal Order
@@ -1792,6 +1811,7 @@ Stealth Rock
 Toxic Spikes
 Trailblaze
 Venoshock
+Waterfall
 Wild Charge
 Withdraw
 Leaf Switch
@@ -1948,7 +1968,7 @@ Venom Drench
 Shadow Draw
 Effect: User heals 1/4 of damage inflicted on opponent upon successfully landing an attack.
 ------------------------------------------------------------------------
-Chansey
+Chansey   
 Hp: 250 -> 330 = +80
 Atk: 5 -> 115 = +110
 Def: 5 -> 35 = +70
@@ -1959,11 +1979,12 @@ BST: 450 -> 815
 Ability: Healer -> Blissful
 New Moves
 Psycho Shift
+Shadow Claw
 Sparkling Ice
 Teleport
 Wish
 
-Blissey
+Blissey   
 Hp: 255 -> 345 = +90
 Atk: 10 -> 120 = +130
 Def: 10 -> 70 = +60
@@ -1976,6 +1997,7 @@ New Moves
 Express Heal
 Poison Jab
 Psycho Shift
+Shadow Claw
 Sparkling Ice
 Stomping Tantrum
 Teleport
@@ -2282,6 +2304,7 @@ Mystery Slash
 Mystery Sphere
 Mystery Wave
 Poltergeist
+Psychic Quake
 Psycho Blitz
 Rising Voltage
 Royal Eruption
@@ -2368,29 +2391,36 @@ Moveset Synchronized with Sunflora's
 --
 Sunflora   
 Hp: 75 -> 205 = +130
-Atk: 75 -> 80 = +5
-Def: 55 -> 170 = +115
-SpA: 105 -> 280 = +175
+Atk: 75 -> 130 = +55
+Def: 55 -> 150 = +95
+SpA: 105 -> 250 = +145
 SpD: 85 -> 300 = +215
 Spe: 30 -> 135 = +135
 BST: 425 -> 1170
-Ability: Early Bird -> Weather Guard
+Ability: Solar Power/Early Bird -> Sand Eater/Weather Guard
 New Moves
+Aromatic Mist
+Aurora Beam
+Block
+Calm Mind
+Clear Smog
+Confide
+Encore
 Focus Blast
 Frost Breath
-Stealth Rock
-Rapid Spin
-Quiver Dance
-Aurora Beam
+Leaf Switch
 Parting Shot
-Clear Smog
-Calm Mind
-Confide
-Block
-Encore
-Recover
-Morning Sun
+Quiver Dance
+Rapid Spin
+Stealth Rock
 Trailblaze
+
+Unlearned
+Morning Sun
+Synthesis
+
+Sand Eater (New Ability)
+Effect: Pokemon's Grass-Type Moves have quadrupled power under Sandstorm. All Status Conditions are cured at the end of each turn, if Pokemon is under Sandstorm. Pokemon does not take damage from Sandstorm
 
 Weather Guard (New Ability)
 Effect: Removes the user's weaknesses if Weather is active.
@@ -2494,7 +2524,7 @@ SpA: 115 -> 256 = +141
 SpD: 100 -> 210 = +130
 Spe: 115 -> 180 = +65
 BST: 580 -> 1230
-Added Ability: Combative
+Added Ability: Lightning Tunnel
 New Moves
 Rising Voltage
 --
@@ -2620,6 +2650,7 @@ Nasty Plot
 Psychic Light
 Psycho Drain
 Shatter Beam
+Sweet Retreat
 
 Mega Gardevoir
 Hp: 180 -> 180 = +0
@@ -2777,7 +2808,7 @@ Leaf Switch
 Strange Wave
 Trailblaze
 ------------------------------------------------------------------------
-Salamence
+Salamence   
 Hp: 95 -> 152 = +57
 Atk: 135 -> 255 = +120
 Def: 80 -> 163 = +83
@@ -2788,10 +2819,11 @@ BST: 600 -> 1022
 Abilities: Intimidate -> Pacify
 Added Ability: Tough Claws
 New Moves
-Dual Wingbeat
 Boomburst
+Dual Wingbeat
 Explosion
 Howl
+Regal Exit
 
 Unlearned
 Dragon Dance
@@ -3033,6 +3065,7 @@ Counter
 Cross Poison
 Dragon Jaw
 Dragon Lunge
+Frosty Glide
 Hurricane
 Hyper Drill
 Metal Burst
@@ -3040,6 +3073,8 @@ Mystery Deluge
 Mystery Slash
 Mystery Sphere
 Power Whip
+Regal Exit
+Royal Rampage
 Royal Shattering
 Royal Turbulence
 Scale Shot
@@ -3069,7 +3104,7 @@ Mega Evolution Item: Dragon Fang
 Dragon Heart (New Ability)
 Effect: Halves the damage of opposing attacks when above 1/2 Max Hp.
 ------------------------------------------------------------------------
-Jirachi
+Jirachi   
 Hp: 100 -> 220 = +120
 Atk: 100 -> 255 = +155
 Def: 100 -> 160 = +60
@@ -3094,6 +3129,7 @@ Meteor Beam
 Mineral Cannon
 Nasty Plot
 Psychic Light
+Psychic Quake
 Psycho Cut
 Psycho Drain
 Psycho Shift
@@ -3260,8 +3296,7 @@ Spe: 60 -> 152 = +92
 BST: 363 -> 677
 Ability: Intimidate -> Volt Absorb
 --
-Luxray
-Type: Electric -> Electric
+Luxray   
 Hp: 80 -> 150 = +70
 Atk: 120 -> 250 = +130
 Def: 79 -> 158 = +79
@@ -3271,12 +3306,13 @@ Spe: 70 -> 174 = +104
 BST: 523 -> 963
 Ability: Rivalry/Intimidate -> Focused/Technician
 New Moves
+Double Team
 Mystery Slash
+Power Trip
+Slush Switch
 Swords Dance
 Volt Tackle
-Slush Switch
-Double Team
-Power Trip
+Zing Zap
 
 Focused
 Effect: Multiplies the power of Dark-Type Attacks by x1.5
@@ -3350,7 +3386,7 @@ SpA: 80 -> 128 = +48
 SpD: 85 -> 155 = +70
 Spe: 102 -> 164 = +62
 BST: 600 -> 1080
-Ability: Sand Veil -> Dragon Heart
+Ability: Sand Veil -> Stamina
 Added Ability: Dragon Armor
 
 Mega Garchomp
@@ -3364,20 +3400,23 @@ BST: 1080 -> 1280
 Ability: Dyslexia
 New Moves
 Agility
+Breaking Swipe
 Counter
 Dragon Jaw
 Dragon Lunge
-Stomping Tantrum
-Breaking Swipe
+Earth Run
 Heat Crash
+Milk Drink
+Regal Exit
 Scale Shot
+Stomping Tantrum
 Tailwind
 Thermal Press
 
 Dragon Armor (New Ability)
-Effect: Pokemon's Dragon-Type, and Ground-Type Moves have x1.2 Base Power when they have any positive stat boosts. Opposing Rock-Type and Ice-Type Moves deal halved Damage; Pokemon is immune to recoil damage
+Effect: Pokemon's Dragon-Type, and Ground-Type Moves have x1.2 Base Power when they have any positive stat boosts; Opposing Choice-Locked Pokemon deal 1/4 their usual Damage; Pokemon is immune to recoil damage
 ------------------------------------------------------------------------
-Lucario
+Lucario    
 Hp: 70 -> 140 = +70
 Atk: 110 -> 285 = +105
 Def: 70 -> 179 = +109
@@ -3395,6 +3434,7 @@ Comeuppance
 Crunch
 Dark Pulse
 Dragon Dance
+Dynamic Punch
 Flame Charge
 Leaf Blade
 Light Screen
@@ -4026,6 +4066,7 @@ Agility
 Amnesia
 Aqua Charge
 Aqua Drain
+Aqua Soul
 Ascending Power
 Block
 Body Press
@@ -4039,10 +4080,11 @@ Dazzling Gleam
 Dragon Lunge
 Dragon Rush
 Dual Chop
-Electro Ball
+Earthen Song
 Ember
 Essence Crusher
 Extreme Speed
+Fall Back
 Flame Burst
 Flash
 Frenzy Plant
@@ -4064,6 +4106,7 @@ Multi-Attack
 Mystery Bind
 Mystery Slash
 Mystery Wave
+Nature's Voice
 Photon Geyser
 Power Whip
 Psycho Drain
@@ -4122,14 +4165,18 @@ Passho Berry = Water Immunity
 Enigma Berry = ??? Immunity
 --
 Type-Specific Moves Information
-Mechanics: Certain Arceus Formes have Signature Moves assigned to them; These moves can only be used by either the corresponding Forme, or Normal-Type Arceus; Other Formes cannot use moves that do not correspond to them.
+Mechanics: Certain Arceus Formes have Signature Moves assigned to them; Unless stated otherwise (as marked with a "*"), these moves can only be used by either the corresponding Forme, or Normal-Type Arceus; Other Formes cannot use moves that do not correspond to them.
+
+Note: If Arceus-Normal is holding an Enigma Plate, it will not be able to use the moves of other Arceus Types. Additionally, Arceus-Normal with an Enigma Plate cannot use any of Arceus-Normal's signature moves
 
 Special Moves
-Normal: Heaven Dance
 Dark: Darkest Nightfall
-Fire: Infinite Velocity
-Fighting: Rising Power
 Dragon: Ascending Power
+Fighting: Rising Power
+Fire: Infinite Velocity
+Grass: Nature's Voice*
+Ground: Earthen Song
+Normal: Heaven Dance
 Water: Aqua Charge
 --
 Signature Moves (i.e. moves designed for Arceus, that can be used by other Pokemon)
@@ -4309,7 +4356,17 @@ Def: 210 -> 170 = -40
 SpA: 300 -> 300 = +0
 SpD: 210 -> 220 = +10
 Spe: 180 -> 180 = +0
-BST: 1400 -> 1400		
+BST: 1400 -> 1400
+
+Arceus ??? (Through the Enigma Plate)
+Formula: No changes
+Hp: 200 -> 200 = +0
+Atk: 300 -> 300 = +0
+Def: 210 -> 210 = +0
+SpA: 300 -> 300 = +0
+SpD: 210 -> 210 = +0
+Spe: 180 -> 180 = +0
+BST: 1400 -> 1400	
 ------------------------------------------------------------------------
 Victini
 Hp: 100 -> 210 = +110
@@ -4446,6 +4503,7 @@ Sparkling Ice
 Stealth Rock
 Strange Wave
 Superpower
+Sweet Retreat
 Teeter Dance
 Trailblaze
 Water Pulse
@@ -4715,19 +4773,22 @@ Infestation
 Withdraw
 Trick
 ------------------------------------------------------------------------
-Chandelure
+Chandelure     
 Hp: 60 -> 150 = +90
-Atk: 55 -> 108 = +53
+Atk: 55 -> 208 = +153
 Def: 90 -> 150 = +90
-SpA: 145 -> 215 = +70
+SpA: 145 -> 265 = +120
 SpD: 90 -> 220 = +130
-Spe: 80 -> 157 = +77
-BST: 520 -> 1000
+Spe: 80 -> 177 = +97
+BST: 520 -> 1170
 Ability: Flash Fire/Flame Body -> Candle Trap/Antipathy
 New Moves
-Taunt
-Parting Shot
+Earth Power
+Charm
 Milk Drink
+Parting Shot
+Recover
+Taunt
 
 Unlearned
 Acid Armor
@@ -4736,7 +4797,7 @@ Substitute
 Swagger
 
 Candle Trap
-Effect: If an opposing Ground-Type or Fire-Type Pokemon is on the field: Opponent becomes Trapped, and loses 1/4 Max Hp at the end of each turn, while the Pokemon with this Ability restores 1/8 Max Hp
+Effect: If an opposing Ground-Type or Fire-Type Pokemon is on the field: Opponent becomes Trapped, and loses 1/4 Max Hp at the end of each turn, while the Pokemon with this Ability restores 1/6 Max Hp
 ------------------------------------------------------------------------
 Vanilluxe
 Hp: 71 -> 141 = +70
@@ -4938,6 +4999,7 @@ Brave Bird
 Brutal Swing
 Defog
 Earth Power
+Earth Run
 Earthquake
 Express Heal
 Giga Drain
@@ -4981,11 +5043,14 @@ Added Ability: Pressure
 New Moves
 Acrobatics
 Aeroblast
+Aqua Step
 Astonish
+Aura Sphere
 Bleakwind Storm
 Brutal Swing
 Bubble
 Dark Pulse
+Electro Strike
 Hydro Pump
 Lash Out
 Sludge Bomb
@@ -4993,6 +5058,7 @@ Sludge Wave
 Slush Switch
 Swords Dance
 Tailwind
+Triple Kick
 U-Turn
 Volt Tackle
 Water Gun
@@ -5119,6 +5185,7 @@ Slush Switch
 Strange Wave
 Thunder Wave
 Tailwind
+Zing Zap
 
 Idealist (New Ability)
 Effect: All of the Pokemon's Moves have x1.3 Base Power when at Max Hp; x1.5 Damage on Semi-Effective Moves; Pokemon's Moves lose their Secondary Effects
@@ -5472,6 +5539,7 @@ New Moves
 Brutal Swing
 Darkest Lariat
 Flip Turn
+Leaf Switch
 Malice Run
 Mystery Bind
 Mystery Slash
@@ -5668,6 +5736,7 @@ Simple Beam
 Sparkling Ice
 Spiky Shield
 Stealth Rock
+Sweet Retreat
 Teleport
 Twinkle Tackle
 Vital Dance
@@ -5737,22 +5806,23 @@ Spe: 164 -> 150 = -14
 BST: 1020 -> 1400
 Ability: Aura Break
 New Moves
-Dragon Jaw
+Body Press
 Breaking Swipe
+Cross Poison
+Dragon Jaw
+Earth Run
+Extreme Speed
+Haze
 High Horsepower
-Royal Shattering
+Mystery Bind
+Mystery Drain
 Mystery Slash
 Mystery Sphere
 Mystery Wave
-Mystery Bind
-Mystery Drain
-Extreme Speed
-Swords Dance
+Royal Shattering
 Stealth Rock
-Cross Poison
-Body Press
+Swords Dance
 Withdraw
-Haze
 ------------------------------------------------------------------------
 Diancie   
 Hp: 50 -> 170 = +120
@@ -5926,7 +5996,7 @@ SpD: 69 -> 159 = +90
 Spe: 126 -> 176 = +50 
 BST: 499 -> 1108
 ------------------------------------------------------------------------
-Blaziken
+Blaziken   
 Hp: 80 -> 140 = +60
 Atk: 120 -> 240 = +120
 Def: 70 -> 130 = +60
@@ -5938,6 +6008,7 @@ Added Ability: Anger Point
 New Moves
 Blazing Velocity
 Close Combat
+Dynamic Punch
 Flame Switch
 Brutal Swing
 Knock Off
@@ -6216,7 +6287,7 @@ Aqua Rise
 Sharpened Sword (New Ability)
 Effect: Multiplies the power of "sword" moves by x1.2.
 ------------------------------------------------------------------------
-Swampert
+Swampert   
 Hp: 100 -> 160 = +60
 Atk: 110 -> 270 = +160
 Def: 90 -> 220 = +130
@@ -6232,6 +6303,7 @@ Aqua Leap
 Defog
 Dragon Dance
 Flip Turn
+Frosty Glide
 High Horsepower
 Milk Drink
 Uproar
@@ -6922,6 +6994,7 @@ Fire Fang
 Meteor Mash
 Twinkle Tackle
 Volt Tackle
+Wave Crash
 
 Unlearned Moves
 Quick Attack
@@ -7000,6 +7073,7 @@ Magma Storm
 Mystery Deluge
 Nasty Plot
 Poltergeist
+Regal Exit
 Revelation Dance
 Shatter Reign
 Sludge Rush
@@ -7494,6 +7568,7 @@ Added Abilities: Double-Layer/Antipathy
 New Moves
 Accelerate
 Dazzling Gleam
+Earth Power
 Mind Cleaner
 Mystery Sphere
 Parting Shot
@@ -7610,6 +7685,7 @@ Focus Blast
 Meteor Beam
 Mind Cleaner
 Nasty Plot
+Psychic Quake
 Psychic Wind
 Psycho Boost
 Psycho Fire
@@ -7665,6 +7741,7 @@ Nasty Plot
 Parting Shot
 Power Gem
 Power Trip
+Psychic Quake
 Psychic Storm
 Psychic Wind
 Psycho Boost
@@ -8046,17 +8123,20 @@ Milk Drink
 ------------------------------------------------------------------------
 Gliscor   
 Hp: 75 -> 205 = +130
-Atk: 95 -> 205 = +110
+Atk: 95 -> 235 = +140
 Def: 125 -> 285 = +160
 SpA: 45 -> 105 = +60
 SpD: 75 -> 135 = +60
 Spe: 95 -> 165 = +70
-BST: 510 -> 1110
+BST: 510 -> 1140
 New Moves
 Cross Poision
 Baneful Bunker
 Dragon Breath
+Earth Run
 Express Heal
+Howl
+Toxic Spikes
 Turbine Turn
 Withdraw
 ------------------------------------------------------------------------
@@ -8241,7 +8321,10 @@ SpD: 80 -> 170 = +90
 Spe: 75 -> 120 = +45
 BST: 505 -> 1020
 New Moves
+Aqua Jet
 Dragon Jaw
+Royal Submersion
+Slush Switch
 ------------------------------------------------------------------------
 Arctovish
 Hp: 90 -> 200 = +110
@@ -8281,13 +8364,14 @@ SpA: 80 -> 200 = +120
 SpD: 70 -> 250 = +180
 Spe: 75 -> 75 = +0
 BST: 600 -> 1155
-Ability: Volt Absorb -> Dragon Heart
+Ability: Volt Absorb -> Speed Boost
 New Moves
 Aromatic Mist
 Agility
-Stealth Rock
 Dragon Breath
+Howl
 Parting Shot
+Stealth Rock
 -------------------------------------------------------------------------
 Darmanitan Galar
 Hp: 105 -> 145 = +40
@@ -8555,7 +8639,7 @@ SpA: 63 -> 73 = +10
 SpD: 60 -> 160 = +100
 Spe: 97 -> 161 = +64 
 BST: 550 -> 1074
-Note: Refer to the Abilities Section to see the changes to Unseen Fist.
+Updated Ability: Unseen Fist.
 Added Ability: Power Drive/Memory Armor
 New Moves
 Malice Run
@@ -8571,7 +8655,7 @@ SpA: 63 -> 73 = +10
 SpD: 60 -> 230 = +170
 Spe: 97 -> 161 = +64
 BST: 550 -> 1074
-Note: Refer to the Abilities Section to see the changes to Unseen Fist.
+Updated Ability: Unseen Fist.
 Added Ability: Stamina/Memory Armor
 New Moves
 Aqua Step
@@ -9066,6 +9150,67 @@ Royal Submersion
 Stealth Rock
 Wish
 Withdraw
+------------------------------------------------------------------------
+Alolan Muk  
+Hp: 105 -> 225 = +120
+Atk: 105 -> 205 = +100
+Def: 75 -> 195 = +120
+SpA: 65 -> 165 = +100
+SpD: 100 -> 240 = +140
+Spe: 50 -> 50 = +0
+BST: 500 -> 1080
+Updated Ability: Power of Alchemy
+New Moves
+Dragon Breath
+Ember
+Knock Off
+Milk Drink
+Spikes
+Sludge Switch
+Stealth Rock
+Whirlwind
+Withdraw
+
+Power of Alchemy
+Effect: Pokemon loses its Psychic-Type weakness from its Poison-Typing; Opposing Burst-Moves have halved Base Power against this Pokemon. Opposing Pokemon's Moves have halved Damage if they have any Positive Stat Boosts in the stat they are attacking in (Psychic Power is not subject to this particular effect). Opposing Ground-Type Moves have x0.67 Base Power when used by non-Ground-Type Pokemon.
+--------------------------------------------------------------------------
+Plusle and Minun
+Plusle   
+Hp: 60 -> 250 = +190
+Atk: 50 -> 145 = +95
+Def: 40 -> 150 = +110
+SpA: 85 -> 275 = +190
+SpD: 75 -> 155 = +80
+Spe: 95 -> 185 = +90
+BST: 405 -> 1160
+Added Ability: Double-Layer
+New Moves
+Aurora Beam
+Energy Ball
+Focus Blast
+Slush Switch
+Volt Switch
+
+Minun   
+Hp: 60 -> 150 = +90
+Atk: 40 -> 250 = +110
+Def: 50 -> 145 = +95
+SpA: 75 -> 275 = +100
+SpD: 85 -> 155 = +70
+Spe: 95 -> 185 = +90
+BST: 405 -> 1160
+Added Ability: Dual Wielder
+New Moves
+Earth Power
+Leaf Switch
+
+Unlearned Moves
+Agility
+Double Team
+Nuzzle
+
+Dual Wielder (New Ability)
+Effect: Pokemon's Resisted STAB-Moves have quadrupled power; If the Pokemon is Memorized, their Memory-STAB and their Original-STAB will receive this effect; Does not override Resistances
 =========================================================
 Template Compendium
 Template Stats   
@@ -9110,7 +9255,7 @@ Templates
 Learnset Template  
 		
 		: ["5L1"],
-
+		
 : ["5L1"],
 		
 =========================================================================================
@@ -9405,6 +9550,9 @@ Special Properties: Ignores Mold Breaker
 Oversight
 Effect: 20% Power Bonus granted to ???-Type moves, will only be active if the Pokemon does not have any positive stat boosts in the stat they are attacking in. This condition does not apply to Pokemon that naturally have Oversight as their Ability
 --
+Poison Heal
+Memory Effect: Attempts to poison the Pokemon upon switching in.
+--
 Power Spot
 Memory Effect: Pokemon's Ghost-Type Moves have x1.3 Base Power if they do not have any Positive Boosts in the stat they are attacking with.
 --
@@ -9616,7 +9764,8 @@ Paralysis
 Effect: Deals 1/4 max hp if it is Raining
 --
 Sandstorm
-Damage: 1/16 Max Hp -> 1/10 Max Hp
+Effect: Raises the Special Defense of Rock-Type Pokemon -> x1.3 Base Power on Ground-Type and Rock-Type Moves; x0.5 Base Power for Grass-Type Moves
+Secondary Effect: 1/16 Residual Damage -> 1/10 Residual Damage
 --
 Tailwind      
 Additional Effect: Flying-Type Moves deal x1.3 Damage; x1.5 Power, if the Pokemon is Memorized into a Flying-Type.
@@ -9660,12 +9809,14 @@ Crystal Rush: Threshold: +1 Spe; Attrition: +1 Spe -> __
 Dig: Threshold: +1 Spe; Attrition: +1 Spe -> __
 Dive: Threshold: +1 Spe; Attrition: +1 Spe -> __
 Dragon Tail: Threshold: +1 Def; Attrition: +1 Def -> __
+Earthen Song: Threshold: +2 Spe; Attrition: +2 Spe -> __
 Electro Strike: Threshold: +1 Spe; Attrition: +1 Spe -> __
 Feather Dance: Threshold: +1 Atk; Attrition: +1 Atk/+1 Spe -> __/+1 Spe
 Flame Charge: Threshold: +1 Spe; Attrition: +1 Spe -> __
 Fly: Threshold: +1 Atk; Attrition: +1 Atk -> __
 Flutter Song: Threshold: +1 Spe; Attrition: +1 Spe -> __
 Flutter Step: Threshold: +1 Spe; Attrition: +1 Spe -> __
+Frosty Glide: Threshold: +2 Spe; Attrition: +2 Spe -> __
 Glacial Strike: Threshold: +1 Atk; Attrition: +1 Atk -> __
 Heal Order: Function: Inflicted Damage-Based Recovery: Attrition: (200%, 150%, 100%, 67%)
 Heaven Dance: Threshold: +2 Atk; Attrition: +2 Atk -> +1 Atk 
@@ -9702,6 +9853,7 @@ Limited Distribution Moves/Universally Unlearned Moves
 Description: These moves have been removed from all Pokemon's learnsets, unless stated otherwise.
 
 Affected Moves
+Dynamic Punch
 Flash
 Knock Off
 Sky Attack
@@ -9789,7 +9941,7 @@ Base Power: __
 Category: Status
 Accuracy: true
 Contact: No
-Effect: Raises User's Spe by 1 stage; Induces the Fatigue Status: Pokemon cannot use any Status moves--including Express Heal, after using this move, until they switch out.
+Effect: Raises User's Spe by 2 stages; Induces the Fatigue Status: Pokemon cannot use any Status moves--including Express Heal, after using this move, until they switch out.
 Priority: +0
 PP: 5
 Target: Normal
@@ -10615,20 +10767,35 @@ Base Power: 100 -> 150
 Secondary Effect: __ -> Raises user's SpA by 1 stage upon successfully fainting an opponent
 PP: 5 -> 15
 --
-Dynamic Punch
-Base Power: 100 -> Varies
-Accuracy: 50 -> 90
+Dynamic Punch   
+Base Power: 100 -> Varies (520 - User's Raw Defense Stat, before modifiers)
+- Minimum Power: 70 BP
+- Maximum Power: 200 BP
+Accuracy: 50 -> 100
 Confusion Chance: 100 -> __
-Mechanics: Power scales depending on user's Base Defense stat
-Base Power Calculation
-Under 100 = 160 BP
-Above 100 = 140 BP
-Above 150 = 120 BP
-Above 200 = 100 BP
-Above 250 = 70 BP
-Above or Equal to 300 = 50 BP
 ------------------------------------------------------------------------
 Category: E 
+--
+Earth Run (New Move)
+Base Power: 110
+Accuracy: 100
+Category: Special
+Priority: +0
+Contact: Yes
+Effect: Raises the Pokemon's Speed Stat by 1 Stage. Pokemon's Speed will be automatically be boosted if used against Flying-Types, however this Move does not ignore immunities.
+PP: 5
+Target: Normal
+Type: Ground
+--
+Earthen Song (New Move)
+Base Power: __
+Accuracy: True
+Category: Status
+Contact: No
+Effect: Raises user's Spe by 2 stages, and attempts to summon Sandstorm. Only works on Arceus-Ground.
+PP: 5
+Target: Self
+Type: Ground
 --
 Earth Power
 Base Power: 90 -> 120
@@ -10642,19 +10809,16 @@ Effect: Multiplied power with successive uses -> 10% chance to lower SpA by 1 st
 Type: Normal -> Fighting
 --
 Egg Bomb
-Base Power: 200
+Base Power: Varies (Pokemon's Raw Special Defense Stat / 2; 100 BP Floor; 300 BP Ceiling)
 Accuracy: 75 -> 100
+Special Mechanics: This move will always become a ???-Type Move if the Pokemon has Oversight
 Conditions: Can only be used by Blissey or Chansey
 PP: 10 -> 15
 --
 Electro Ball
-Mechanics: Power depends on user's base speed.
-Base Power Calculation
-Under 100 = 40 BP
-Above 100 = 70 BP
-Above 150 = 110 BP
-Above 180 = 150 BP
-Above 250 = 180 BP
+Base Power Calculation: (User's Speed) / (Target's Speed) -> ((User's Raw Speed before modifiers) / 4) + 30
+Minimum Power: 30 BP
+Maximum Power: 200 BP
 --
 Electro Strike (New Move)
 Base Power: 100
@@ -10662,7 +10826,7 @@ Accuracy: 100
 Category: Special
 Priority: +0
 Contact: Yes
-Effect: Raises the Pokemon's Speed Stat by 1 Stage. x1.5 Base Power under Rain
+Effect: Raises the Pokemon's Speed Stat by 1 Stage. Pokemon's Speed will be automatically be boosted if used against a Ground-Type, however this Move does not ignore immunities. x1.5 Base Power under Rain
 PP: 5
 Target: Normal
 Type: Electric
@@ -11021,6 +11185,17 @@ PP: 5
 Target: Normal
 Type: Ice
 --
+Frosty Glide (New Move)
+Base Power: 50
+Accuracy: 100
+Category: Physical
+Priority: +0
+Contact: Yes
+Effect: Raises the Pokemon's Speed Stat by 2 Stages.
+PP: 5
+Target: Normal
+Type: Ice
+--
 Fury Attack
 Base Power: 15 -> 35
 --
@@ -11098,7 +11273,9 @@ Secondary Effect: 100% chance to lower speed -> 50% chance to lower speed
 Can now be learned by Kyurem-Black and Kyurem-White
 --
 Grass Knot
-Base Power: Varies -> 120
+Base Power Formula: Static Weight-Dependent BP -> Dynamic Power (Target's Max HP / 4)
+Minimum Base Power: 20 -> 80
+Maximum Base Power: 120 -> 250
 --
 Grass Whistle
 Accuracy: 55
@@ -11560,9 +11737,8 @@ Atk Boost Chance: 20% -> __
 Recoil: __ -> 1/5
 PP: 10 -> 5
 --
-Milk Drink
+Milk Drink   
 Recovery: 1/2 -> 1/3
-PP: 10 -> 5 (Static)
 --
 Mind Cleaner (New Move)
 Base Power: 90
@@ -11608,9 +11784,9 @@ Moongeist Beam
 Base Power: 100 -> 160
 --
 Mud Bomb
-Base Power: 65 -> 140
+Base Power: 65 -> 150
 Accuracy: 85 -> 100
-Secondary Effect: 30% chance to lower SpA by 1 stage
+Secondary Effect: 20% chance to lower SpA by 1 stage
 --
 Mud Shot
 Base Power: 55 -> 95
@@ -11725,6 +11901,16 @@ Nature's Madness
 Accuracy: 90 -> 100
 Base Power: __ -> 140
 Effect: Takes 1/2 of target's current HP -> Doubled Power if opponent has any stat boosts; Hits Geomancy-boosted Pokemon with Quadrupled Base Power.
+--
+Nature's Voice (New Move)
+Base Power: __
+Accuracy: True
+Category: Status
+Contact: No
+Effect: Raises the user's Special Attack by 1 Stage, and their Special Defense and Speed by 2 stages each. This move permanently disappears immediately after it is successfully used. Pokemon cannot use any Status Moves upon successfully using this move, unless they switch out. All of the Pokemon's Stat Changes reset 3 Turns after successfully using this move. This move can only be used by Arceus-Grass.
+PP: 5
+Target: Self
+Type: Grass
 --
 Night Daze
 Base Power: 85 -> 135
@@ -11960,18 +12146,28 @@ Category: Varies (Special by Default; Physical if Attack Stat is higher)
 Priority: +0
 Contact: No
 Effect: Hits opposing Dark-Type Pokemon Super-Effectively.
-Conditions: This Move can only be used by Base Forme Mewtwo; Mega Mewtwo X and Mega Mewtwo Y cannot use this move.
 PP: 5
 Target: Normal
 Type: Psychic
 --
-Psycho Rush (New Move)
+Psychic Quake (New Move)
+Base Power: 155
+Accuracy: 100
+Category: Special
+Priority: +0
+Contact: No
+Effect: Hits opposing Ground-Type Pokemon Super-Effectively; x1.5 Power if Sandstorm is Active.
+PP: 5
+Target: Normal
+Type: Psychic
+--
+Psychic Rush (New Move)
 Base Power: 110
 Accuracy: 100
 Category: Physical
 Priority: +0
 Contact: No
-Effect: Clears Hazards, and Raises user's Speed by 1 stage; Base Power becomes 165 if used by Mega Mewtwo X
+Effect: Clears Hazards, and Raises user's Speed by 1 stage; 165 BP if used by Mega Mewtwo X
 PP: 10
 Target: Normal
 Type: Psychic
@@ -11982,7 +12178,7 @@ Accuracy: 100
 Category: Special
 Priority: +0
 Contact: No
-Effect: Hits opposing Water-Type and Ice-Type Pokemon Super-Effectively; x1.5 Power if Rain or Sandstorm is Active.
+Effect: Hits opposing Water-Type Pokemon Super-Effectively; x1.5 Power if Rain or Sandstorm is Active.
 PP: 5
 Target: Normal
 Type: Psychic
@@ -12009,17 +12205,6 @@ Priority: +0
 Contact: Yes
 Effect: Lowers User's Def and SpD by 1 stage each; Does not lower Mewtwo's stats; 190 BP if used by Mega Mewtwo X
 PP: 5
-Target: Normal
-Type: Psychic
---
-Psychic Rush (New Move)
-Base Power: 110
-Accuracy: 100
-Category: Physical
-Priority: +0
-Contact: No
-Effect: Clears Hazards, and Raises user's Speed by 1 stage; 165 BP if used by Mega Mewtwo X
-PP: 10
 Target: Normal
 Type: Psychic
 --
@@ -12058,6 +12243,17 @@ Category: Special
 Priority: +0
 Contact: No
 Effect: Hits opposing Steel-Type Pokemon Super-Effectively; x1.5 Power if Sun or Sandstorm is Active.
+PP: 10
+Target: Normal
+Type: Psychic
+--
+Psycho Rush (New Move)
+Base Power: 110
+Accuracy: 100
+Category: Physical
+Priority: +0
+Contact: No
+Effect: Clears Hazards, and Raises user's Speed by 1 stage; Base Power becomes 165 if used by Mega Mewtwo X
 PP: 10
 Target: Normal
 Type: Psychic
@@ -12143,6 +12339,17 @@ PP: 5
 Reflect
 PP: 20 -> 3 (static)
 Priority: 0 -> -5
+--
+Regal Exit (New Move)
+Base Power: 85
+Accuracy: 100
+Category: Physical (Special if SpA stat is higher Atk)
+Contact: No
+Effect: 30% chance to flinch; Switches user out
+Priority: +0
+PP: 5
+Target: Normal
+Type: Dragon
 --
 Regi Ball (New Move)
 Base Power: 100
@@ -12250,7 +12457,7 @@ Type: Normal
 Royal Nourishment (New Move)
 Category: Status
 Accuracy: true
-Effect: Heals 2/3 Max HP.
+Effect: Pokemon restores 2/3 of their Max HP.
 Priority: -6
 PP: 5
 Target: Normal
@@ -12735,7 +12942,7 @@ Accuracy: 100
 Category: Special
 Priority: +0
 Contact: Yes
-Effect: Raises the Pokemon's Speed Stat by 1 Stage. Pokemon's Speed will be automatically be boosted if used against a Steel-Type, however this Move does not ignore immunities.
+Effect: Raises the Pokemon's Speed Stat by 1 Stage. Pokemon's Speed will be automatically be boosted if used against a Steel-Types, however this Move does not ignore immunities.
 PP: 5
 Target: Normal
 Type: Poison
@@ -12958,6 +13165,16 @@ Added Effect: x1.5 Power if it is raining
 Surging Strikes
 Base Power: 25 -> 33
 --
+Sweet Retreat (New Move)
+Base Power: __
+Accuracy: true
+Category: Status
+Effect: Switches the Pokemon out, while restoring 1/8 of their Max Hp in the process.
+Priority: -5
+PP: 5 (Static)
+Target: Normal
+Type: Fairy
+--
 Swift
 Base Power: 60 -> 140
 PP: 20 -> 30
@@ -12999,12 +13216,11 @@ Effect: Switches User out
 PP: 20 -> 5 (Static)
 --
 Thermal Press (New Move)
-Base Power: 130
+Base Power: 100
 Category: Physical
 Accuracy: 100
 Contact: Yes
-Effect: Hits opposing Ice, and Steel -Types, Super-Effectively; Becomes a Fire-Type Move, under Sunlight
-Secondary Effect: 10% Chance to Burn the opponent
+Effect: Hits opposing Ice, and Steel -Types, Super-Effectively; Becomes a Fire-Type Move, when Sunlight or Sandstorm are active. x1.5 Base Power when Sunlight or Sandstorm are active
 Priority: +0
 PP: 10
 Target: Normal
@@ -13264,6 +13480,12 @@ Wave Crash
 Base Power: 120 -> 160
 Penalty: 1/3 Recoil -> -1 Def/-1 SpD
 --
+Weather Ball
+Base Power: 50 -> 100
+Weather Base Power: 100 -> 150
+Category: Special -> Varies (Special by Default; Physical if Pokemon's Attack Stat is higher)
+Sandstorm Type: Rock -> Ground
+--
 Whirlpool
 Base Power: 35 -> 120
 PP: 15 -> 5
@@ -13321,6 +13543,11 @@ Penalty: __ -> Lowers user's SpA by 2 stages.
 Zen Headbutt
 Base Power: 80 -> 150
 Secondary Effect: 1/4 recoil
+--
+Zing Zap
+Base Power: 80 -> 60
+Flinch Chance: 30% -> 15%
+Multi-Hits: __ -> 2
 =========================================================
 Section G  
 Ability Changelog   
@@ -13357,7 +13584,7 @@ Battle Armor
 Additional Effect: Pokemon cannot lower its own stats
 --
 Battle Bond   
-Effect: Pokemon's First Successful Move has x1.5 Base Power. Pokemon's Resisted Moves have x1.2 Base Power. Pokemon ignores the effects of Weather
+Effect: Pokemon's First Successful Move has x1.5 Base Power. Pokemon's Resisted Moves have x1.5 Base Power. Pokemon ignores the effects of Weather
 --
 Barricade
 Effect: Reduces the Damage of opposing Ice-Type Attacks to x0.25; Pokemon cannot be Frozen.
@@ -13381,16 +13608,13 @@ Effect: Raises the user's Atk and SpA by 1 stage each upon switching in. Drops A
 Category: C 
 --
 Candle Trap
-Effect: If an opposing Ground-Type or Fire-Type Pokemon is on the field: Opponent loses 1/4 Max Hp; Pokemon with Ability restores 1/4 Max Hp.
+Effect: If an opposing Ground-Type or Fire-Type Pokemon is on the field: Opponent loses 1/4 Max Hp; Pokemon with Ability restores 1/6 Max Hp.
 --
 Climate Change
 Effect: Transforms Sawsbuck depending on the weather, if it is holding a Float Stone.
 Sunny Day = Summer Forme
 Rainy Day = Autumn Forme
 Hail = Winter Forme
---
-Combative 
-Effect: Ignores Electric Immunities
 --
 Cute Charm
 Effect: 30% Infatuation Chance if opposite Gender makes Contact -> Opposing Contact-Moves have Halved Power
@@ -13426,7 +13650,7 @@ Dracolate
 Effect: Transforms Normal-Type moves into Dragon-Type attacks. x1.2 power.
 --
 Dragon Armor 
-Effect: Pokemon's Dragon-Type, and Ground-Type Moves have x1.2 Base Power when they have any positive stat boosts. Opposing Rock-Type and Ice-Type Moves deal halved Damage; Pokemon is immune to recoil damage
+Effect: Pokemon's Dragon-Type, and Ground-Type Moves have x1.2 Base Power when they have any positive stat boosts; Opposing Choice-Locked Pokemon deal 1/4 their usual Damage; Pokemon is immune to recoil damage
 --
 Dragon Heart
 Effect: Halves the damage of opposing Physical Attacks when above 1/2 Max Hp.
@@ -13532,6 +13756,11 @@ Category: K
 Keen Eye
 Additional Effect: All moves become Critical-Hits.
 ------------------------------------------------------------------------
+Category: L  
+--
+Lightning Tunnel   
+Effect: Ignores Electric Immunities
+------------------------------------------------------------------------
 Category: M 
 --
 Mach Speed
@@ -13591,11 +13820,17 @@ Boost: x1.2
 Plant Power
 Effect: Multiplies all stats by x1.5 if sunlight is active.
 --
+Poison Heal
+Health Restoration: 1/8 -> 1/5
+--
 Pollution
 Effect: All Pokemon that are poisoned or intoxicated lose an additional 1/5 Max Hp at the end of each turn.
 --
 Power Drive
 Effect: Bypasses Substitutes. Multiplies Damage of Super-Effective Attacks by x1.2.
+--
+Power of Alchemy   
+Effect: Pokemon loses its Psychic-Type weakness from its Poison-Typing; Opposing Burst-Moves have halved Base Power against this Pokemon. Opposing Pokemon's Moves have halved Damage if they have any Positive Stat Boosts in the stat they are attacking in (Psychic Power is not subject to this particular effect). Opposing Ground-Type Moves have x0.67 Base Power when used by non-Ground-Type Pokemon.
 --
 Power Surge
 Effect: User's Atk and SpA raise by 1 stage each upon successfully fainting an opponent. Only activates once, while the Pokemon is on the field. Refreshes upon switching out.
@@ -13646,6 +13881,9 @@ Effect: Prevents Pokemon from being trapped
 ------------------------------------------------------------------------
 Category: S 
 --
+Sand Eater  
+Effect: Pokemon's Grass-Type Moves have quadrupled power under Sandstorm. All Status Conditions are cured at the end of each turn, if Pokemon is under Sandstorm. Pokemon does not take damage from Sandstorm
+--
 Serene Grace
 Effect: Restores 1/16 Max Hp upon successfully fainting an opponent with a damaging move
 --
@@ -13663,6 +13901,9 @@ Effect: Transforms Minior-Meteor into Minior if at or below 1/2 Hp -> Minior-Cor
 --
 Slow Start
 Effect: Halves Atk/Spe for 5 Turns -> Pokemon moves last within its Priority Group.
+--
+Solar Power
+Effect: Pokemon have x1.5 Special Attack when Sunlight is active, but lose 1/8 Max Hp at the end of each turn -> Pokemon have x1.5 Special Attack under Sunlight.
 --
 Soul Heart
 Conditions: Only activates if the Pokemon directly caused their opponent to faint
@@ -13761,7 +14002,7 @@ Pokemon Exclusive Ability List
 Category: Mewtwo Exclusive Abilities
 --
 Psychic Power    
-Effect: Multiplies damage of Super-Effective Attacks by x1.3; Pokemon's Burst-Moves are always at Full Power. Immunity to Abilities that lower the Pokemon's stats, when the opponent switches in. Ignores Mold Breaker. Incapacitates if user isn't Mewtwo.
+Effect: Multiplies damage of Super-Effective Attacks by x1.3; Pokemon's Moves have x1.1 Base Power, if they are holding a Choice Item. Pokemon's Burst-Moves are always at Full Power. Immunity to Abilities that lower the Pokemon's stats, when the opponent switches in. Ignores Mold Breaker. Incapacitates if user isn't Mewtwo.
 --
 Hightened Mind
 Effect: Multiplies Pokemon's Spe by x1.5, if they lose their held Item; Pokemon's Atk and SpA will also be multiplied by x1.3 each, provided they do not have any boosts in each respective stat. Pokemon cannot use Status Moves. Once activated: This Ability deactivates after the Pokemon successfully K.O.'s two opponents. Pokemon K.O.'d during the turn that this Ability was activated do not count. Incapacitates if the user isn't Mewtwo.
@@ -14112,7 +14353,7 @@ Charizardite
 Effect: Now automatically Mega Evolves Charizard.
 --
 Choice Items
-Collective Penalty: Immediately destroyed if holder has the following abilities: Beast Boost, Bulldozer, Download, Huge Power, Illusion, Libero, Parlor Trick, Pure Power, Protean
+Collective Penalty: Immediately destroyed if holder has the following abilities: Beast Boost, Bulldozer, Download, Dual Wielder, Huge Power, Illusion, Libero, Parlor Trick, Pure Power, Protean
 --
 Diancite
 Effect: Automatically transforms Diancie into Mega Diancie
@@ -14259,7 +14500,7 @@ Rock Incense
 Effect: Removes Holder's Rock-Type weaknesses while Sandstorm is active.
 --
 Room Service
-Effect: Changes the effect of various Weather-related Abilities, and restores 1/8 of the Pokemon's Max Hp at the end of each turn, as long as either Rain, Sunlight, Sandstorm, or Hail are active
+Effect: Changes the effect of various Weather-related Abilities, and restores 1/8 of the Pokemon's Max Hp at the end of each turn, as long as either Rain, Sunlight, Sandstorm, or Hail are active. Permanently protects the Pokemon's Team from Weather Damage.
 Mechanics:
 - Drizzle Weather: Rain -> Hail
 - Drought Weather: Sunlight -> Sandstorm
@@ -14327,7 +14568,7 @@ Toxic Orb
 Additional Effect: Multiplies the damage of Poison-Type Attacks by x1.5; Attempts to intoxicate at the end of each turn.
 --
 Twisted Spoon
-Special Effect: Raises Pokemon's Spe by 1 stage upon successfully using a Status-move, if the holder is Mewtwo. All of the holder's stat changes are reset after 3 turns after Item is used; Item cannot be removed from Mewtwo.
+Special Effect: Raises Pokemon's Spe by 2 stages, and Boosts the Base Power of their Psychic-Type Moves by x1.2 upon successfully using a Status-move, if the holder is Mewtwo. All of these effects are reset after 3 turns after Item is used; Item cannot be removed from Mewtwo.
 Additional Effect: When active; Bypasses Protect, Spiky Shield, Baneful Bunker, King's Shield, Mat Block, and Obstruct, and hits Protected Pokemon for 1/2 Damage
 --
 Type-Dependent Gem

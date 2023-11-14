@@ -1,5 +1,346 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v1.7.3
+Miscellaneous
+- Ability Names
+	- Combative
+		- Renamed to Lightning Tunnel
+
+Abilities
+- Battle Bond
+	- Resisted Moves Base Power: x1.2 -> x1.5
+- Blissful
+	- Activation Threshold: 1/4 Max Hp -> 1/2 Max Hp
+	- Additional Effect: This move will still become a ???-Type Move if the Pokemon has Oversight, regardless of its Base Power
+- Candle Trap
+	- User Health Restoration: 1/8 -> 1/6
+- Dragon Armor
+	- Additional Effect: Opposing Choice-Locked Pokemon deal 1/4 their usual Damage
+- Dragon Heart
+	- Additional Effect: Pokemon's Moves have x1.3 Base Power if they have any Positive Stat Boosts
+- Dual Wielder
+	- Implemented
+	- Effect: Pokemon's Resisted STAB-Moves deal quadrupled Damage. If the Pokemon is Memorized, their new Memory-STAB--as well as their Original-STAB, will receive this effect; Does not override resistances
+- Poison Heal
+	- Health Restoration: 1/8 -> 1/5
+	- Memory Effect: Attempts to poison the Pokemon upon switching in, if it is Memorized.
+- Power of Alchemy
+	- Effect: Pokemon gains the Ability of the last Fainted Ally -> Pokemon loses its Psychic-Type weakness from its Poison-Typing; Opposing Burst-Moves have halved Base Power against this Pokemon. Opposing Pokemon's Moves have halved Damage if they have any Positive Stat Boosts in the stat they are attacking in (This particular effect does not affect Pokemon with Psychic Power as their Ability). Opposing Ground-Type Moves have x0.67 Base Power when used by non-Ground-Type Pokemon.
+- Psychic Power
+	- Additional Effect: Pokemon's Moves have x1.1 Base Power, if they are holding a Choice Item.
+- Sand Eater
+	- Implemented
+	- Effect: Pokemon's Grass-Type Moves have quadrupled power under Sandstorm. All Status Conditions are cured at the end of each turn, if Pokemon is under Sandstorm.
+- Solar Power
+	- Pokemon no longer lose 1/8 of their Max Hp when under Sunlight.
+
+Items
+- Enigma Plate
+	- Implemented
+	- Effect: Forces Arceus into its Normal Forme, and changes it into a ???-Type; Judgment and Multi-Attack become ???-Type Moves, and ???-Type Moves have x1.2 Base Power. This Item cannot be removed from Arceus.
+- Room Service
+	- Additional Effect: Permanently protects the Team from Sandstorm Damage.
+- Twisted Spoon
+	- Speed Boost: +1 -> +2
+	- Additional Effect: Pokemon's Psychic-Type Attacks have an additional x1.2 Base Power, while this Item's effects are active
+
+Moves
+- Accelerate
+	- Speed Boost: +1 -> +2
+- Dynamic Punch
+	- Revised Base Calculation: 520 - (User's Raw Defense before modifiers)
+		- Minimum Power: 70 BP
+		- Maximum Power: 200 BP
+	- Accuracy: 90 -> 100
+	- Distribution: Universally Unlearned: Can only be used by a limited number of Pokemon
+		- Current Users: Blaziken, Deoxys (All Formes), Lucario, Meowscarada, Mewtwo, Pikachu
+- Earth Run
+	- Implemented
+	- Base Power: 110
+	- Accuracy: 100
+	- Category: Special
+	- PP: 5
+	- Effect: Raises the user's Speed by 1 stage. Pokemon's Speed will be automatically be boosted if used against a Flying-Type, however this Move does not ignore immunities. Subject to Attrition.
+	- Contact: No
+	- Type: Ground
+	- Users: Bellsprout, Garchomp, Landorus, Mewtwo, Zygarde
+- Egg Bomb
+	- Base Power: 200 -> Varies (Pokemon's Raw Special Defense Stat / 2; 100 BP Floor; 300 BP Ceiling)
+- Electro Ball
+	- Revised Base Power Calculation: ((User's Raw Speed before modifiers) / 4) + 30
+		- Minimum Power: 30 BP
+		- Maximum Power: 200 BP
+- Frosty Glide
+	- Implemented
+	- Base Power: 50
+	- Accuracy: 100
+	- Category: Physical
+	- PP: 5
+	- Effect: Raises the user's Speed by 2 stages. Subject to Attrition.
+	- Contact: No
+	- Type: Ice
+	- Users: Rayquaza, Swampert
+- Fall Back
+	- Base Power: 65 -> 85
+- Grass Knot
+	- Base Power: 120 -> Dynamic Calculation (Target's Max Hp / 4)
+	- Minimum Power: 80 BP
+	- Maximum Power: 250 BP
+- Low Kick
+	- Base Power: 120 -> Dynamic Calculation (Target's Max Hp / 4)
+	- Minimum Power: 80 BP
+	- Maximum Power: 250 BP
+- Lunar Dance
+	- Priority: 0 -> -1
+	- Additional Effect: Sharply raises the Speed stat of the subsequent Pokemon. All of the Pokemon's Stat Changes are reset after 3 Turns
+- Milk Drink
+	- PP: 5 (Static) -> 5 (Maximum: 8)
+- Mud Bomb
+	- Base Power: 140 -> 150
+	- SpA Lowering Chance: 30% -> 20%
+	- PP: 10 -> 5
+- Psychic Quake
+	- Implemented
+	- Base Power: 155
+	- Accuracy: 100
+	- Category: Special
+	- Priority: +0
+	- Effect: Hits opposing Ground-Type Pokemon Super-Effectively; x1.5 Power if Sandstorm is Active.
+	- PP: 5
+	- Contact: No
+	- Type: Psychic
+	- Users: Azelf, Jirachi, Mesprit, Mewtwo, Mew
+- Regal Exit
+	- Implemented
+		- Base Power: 85
+		- Accuracy: 100
+		- Category: Physical (Special if the Pokemon's SpA stat is higher)
+		- Contact: No
+		- Effect: 30% chance to flinch; Switches the user out
+		- Priority: 0
+		- PP: 5
+		- Type: Dragon
+		- Users: Eternatus, Garchomp, Rayquaza, Salamence
+- Sweet Retreat
+	- Implemented
+		- Base Power: __
+		- Accuracy: __
+		- Category: Status
+		- Priority: -5
+		- PP: 5 (Static)
+		- Effect: Switches the user out, restoring 1/8 of their Max Hp in the process
+		- Contact: No
+		- Type: Fairy
+		- Users: Cresselia, Gardevoir, Lilligant, Mewtwo, Xerneas
+- Thermal Press
+	- Base Power: 130 -> 100
+	- Additional Effect: x1.5 Base Power when Sunlight or Sandstorm are active; Becomes a Fire-Type Move when Sandstorm is active
+- Weather Ball
+	- Base Power: 50 -> 100
+	- Weather Base Power: 100 -> 150
+	- Sandstorm Type: Rock -> Ground
+- Zing Zap
+	- Base Power: 80 -> 60
+	- Flinch Chance: 30% -> 15%
+	- Multi-Hits: __ -> 2
+	- New Users: Luxray, Thundurus, Zekrom
+
+
+Weather
+- Sandstorm
+	- No longer boosts the Special Defense of Rock-Type Pokemon
+
+Pokemon
+- Arceus
+	- Forme-Specific Moves
+		- Aqua Charge
+			- Can now be used by Arceus-Normal
+		- Earthen Song
+			- Implemented
+			- Base Power: __
+			- Accuracy: __
+			- Category: Status
+			- PP: 5
+			- Effect: Raises the user's Speed by 2 stages, and sets Sandstorm.
+			- Contact: No
+			- Type: Ground
+		- Nature's Voice
+			- Implemented
+			- Base Power: __
+			- Accuracy: __
+			- Category: Status
+			- PP: 5
+			- Effect: Raises the user's Special Attack by 1 Stage, and their Special Defense and Speed by 2 stages each. This move permanently disappears immediately after it is successfully used. Pokemon cannot use any Status Moves upon successfully using this move, unless they switch out. All of the Pokemon's Stat Changes reset 3 Turns after successfully using this move. This move can only be used by Arceus-Grass.
+			- Contact: No
+			- Type: Grass
+		- Learnset Additions
+			- Fall Back
+		- Learnset Removals
+			- Electro Ball
+- Bellsprout
+	- Learnset Additions
+		- Bubble Beam
+		- Waterfall
+- Calyrex-Shadow
+	- Learnset Additions
+		- Earth Power
+- Chansey Evolutionary Line
+	- Learnset Additions
+		- Shadow Claw
+- Chandelure
+	- Base Stats
+		- Atk: 108 -> 208
+		- SpA: 215 -> 265
+		- Spe: 157 -> 177
+	- Learnset Additions
+		- Charm
+		- Earth Power
+		- Recover
+- Cresselia
+	- Learnset Additions
+		- Sweet Retreat
+- Garchomp
+	- Learnset Additions
+		- Milk Drink
+		- Regal Exit
+- Gliscor
+	- Base Stats
+		- Atk: 205 -> 235
+	- Learnset Additions
+		- Earth Run
+		- Howl
+		- Toxic Spikes
+- Dracovish
+	- Learnset Additions
+		- Aqua Jet
+		- Royal Submersion
+		- Slush Switch
+- Dracozolt
+	- Ability: Dragon Heart -> Speed Boost
+	- Learnset Additions
+		- Howl
+- Garchomp
+	- Ability: Dragon Heart -> Stamina
+- Gardevoir
+	- Learnset Additions
+		- Sweet Retreat
+- Greninja
+	- Learnset Additions
+		- Leaf Switch
+- Lilligant
+	- Learnset Additions
+		- Sweet Retreat
+- Lucario
+	- Dynamic Punch
+- Luxray
+	- Learnset Additions
+		- Zing Zap
+- Mewtwo
+	- Learnset Additions
+		- Mud Bomb
+		- Psychic Quake
+		- Sweet Retreat
+- Muk-Alola
+	- Base Stats
+		- Hp: 105 -> 225
+		- Atk: 105 -> 205
+		- Def: 75 -> 195
+		- SpA: 65 -> 165
+		- SpD: 100 -> 240
+		- Spe: 50 -> 50
+		- BST: 500 -> 1080
+	- Learnset Additions
+		- Dragon Breath
+		- Ember
+		- Knock Off
+		- Milk Drink
+		- Sludge Switch
+		- Spikes
+		- Stealth Rock
+		- Whirlwind
+		- Withdraw
+- Plusle and Minun
+	- Plusle
+		- Added Ability: Double-Layer
+		- Base Stats
+			- Hp: 60 -> 250
+			- Atk: 50 -> 145
+			- Def: 40 -> 150
+			- SpA: 85 -> 275
+			- SpD: 75 -> 155
+			- Spe: 95 -> 185
+			- BST: 405 -> 1160
+		- Learnset Additions
+			- Aurora Beam
+			- Energy Ball
+			- Focus Blast
+			- Slush Switch
+			- Volt Switch
+	- Minun
+		- Added Ability: Dual Wielder
+		- Base Stats
+			- Hp: 60 -> 150
+			- Atk: 40 -> 250
+			- Def: 50 -> 145
+			- SpA: 75 -> 275
+			- SpD: 85 -> 155
+			- Spe: 95 -> 185
+			- BST: 405 -> 1160
+		- Learnset Additions
+			- Earth Power
+			- Leaf Switch
+		- Learnset Removals
+			- Agility
+			- Double Team
+			- Nuzzle
+- Raichu
+	- Added Ability: Lightning Tunnel
+	- Base Stats
+		- Hp: 140 -> 200
+		- Atk: 203 -> 253
+		- Def: 122 -> 232
+		- SpA: 200 -> 250
+		- SpD: 110 -> 150
+		- Spe: 169 -> 179
+	- Learnset Additions
+		- Electro Ball
+		- Electro Strike
+- Rayquaza
+	- Learnset Additions
+		- Frosty Glide
+		- Royal Rampage
+- Sunflora
+	- Ability: Solar Power -> Sand Eater
+	- Base Stats
+		- Atk: 80 -> 130
+		- Def: 175 -> 150
+		- SpA: 280 -> 250
+	- Learnset Additions
+		- Aromatic Mist
+		- Leaf Switch
+	- Learnset Removals
+		- Morning Sun
+		- Recover
+		- Synthesis
+- Swampert
+	- Learnset Additions
+		- Frosty Glide
+- Tornadus
+	- Learnset Additions
+		- Aqua Step
+		- Aura Sphere
+		- Electro Strike
+		- Triple Kick
+- Xerneas
+	- Learnset Additions
+		- Sweet Retreat
+- Zacian
+	- Learnset Additions
+		- Wave Crash
+- Zekrom
+	- Learnset Additions
+		- Zing Zap
+
 Pokemon Memories v1.7.2
 Abilities
 - Dragon Armor
