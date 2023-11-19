@@ -1,5 +1,125 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v1.7.4
+Mechanics
+- Ability Interactions
+	- Breakable Attributes Additions
+		- Abilities that change the Pokemon's Defensive Type Interactions can now be "Broken" by Mold Breaking.
+- Memorization
+	- Type-Based Accuracy: Pokemon's Attacking Moves that share their Memory Disc's Type have Perfect Accuracy
+
+Formats
+- Rulesets
+	- Ubers
+		- "Arceus + Dubious Disc" has been unbanned from Ubers
+General
+- Non-Status Healing Moves
+	- Express Heal and Royal Retreat now bypass Abilities
+
+
+Abilities
+- Midnight Veil
+	- Additional Effect: Opposing Super-Effective Moves from Choice-Locked Pokemon have their Base Power reduced to half
+- Moonlight Veil
+	Additional Effect Opposing Super-Effective Moves from Choice-Locked Pokemon have their Base Power reduced to half
+- Power of Alchemy
+	- Additional Effect: Pokemon is immune to Critical Hits; Prevents opposing Pokemon from using Tailwind
+	- Additional Weaknesses: Pokemon with Psychic Assault, Psychic Power, or Psycho Force ignore the effects of this Ability that halves the damage of boosted Pokemon, and reduces the damage of Ground-Type Moves that aren't used by a Ground-Type Pokemon
+
+
+Items
+- Ability Shield
+	- Implemented
+	- Effect: Pokemon's Damaging-Moves gain Mold-Breaking Properties, however the holder loses 1/10 of their Max Hp upon successfully landing an attack. Holder's Moves receive a x1.2 Base Power Boost, if they have a Mold Breaking Ability
+	- Recognized Mold-Breaking Abilities: Format Drive, Mold Breaker, Space Power, Teravolt, Turboblaze
+	- Conditions: This Item does not bypass Utility Lock
+	- Recoil-Immune Abilities: Any Mold Breaking Abilities; Hightened Mind, Psychic Assault, Psychic Power, Psycho Force
+- Energy Powder/Booster Energy
+	- Speed Boost: +1 -> +2
+- Twisted Spoon
+	- Deactivation Conditions: After 3 Turns -> After successfully causing two Pokemon to faint
+
+Moves
+- Aqua Guard
+	- SpD Boost: +1 -> +2 (Subject to Attrition)
+- Aurora Beam
+	- Base Power: 130 -> 140
+- Blizzard
+	- Base Power: 145 -> 150
+- Grass Knot
+	- Base Power Formula: (Target's Max Hp / 4) -> ((Target's Max Hp / 4) + 10)
+- Gyro Ball
+	- Base Power: 75 (150 if Pokemon moves after the opponent) -> Dynamic Formula: (450 - (User's Raw Speed Stat before modifiers))
+	- Minimum Power: 50 BP
+	- Maximum Power: 220 BP
+- Heat Crash
+	- Base Power Formula: Static Base-Stat Dependent Power -> Dynamic Formula: ((User's Raw Atk before modifiers) / 5)
+	- Minimum Power: 80 BP
+	- Maximum Power: 200 BP
+- Low Kick
+	- Base Power Formula: (Target's Max Hp / 4) -> ((Target's Max Hp / 4) + 10)
+- Psystrike
+	- Additional Effect: Hits opposing Psychic-Types neutrally (Does not work against Mega Mewtwo X)
+	- Accessibility: Only Mewtwo can use this Move; It can no longer be called by Metronome
+- Punishment
+	- Base Power Boost: +60 -> +40
+	- Power Ceiling: 300 -> 380
+- Sweet Retreat
+	- Health Restoration: 1/8 -> 1/4
+- Thunder
+	- Base Power: 140 -> 150
+- Valor Charge
+	- Corrected an error where Valor Charge wouldn't boost the Pokemon's Special Attack when intended
+
+Pokemon
+- Deoxys Formes
+	- General
+		- Learnset Additions
+			- Dark Pulse
+				- Applies to: Deoxys, Deoxys-Defense
+			- Earth Power
+				- Applies to: All Formes
+			- Earthquake
+				- Applies to: All Formes
+			- Lash Out
+				- Applies to: Deoxys, Deoxys-Defense
+			- Shadow Ball
+				- Applies to: Deoxys, Deoxys-Defense
+			- Shattered Earth
+				- Applies to: Deoxys, Deoxys-Defense
+			- Signal Beam
+				- Applies to: Deoxys, Deoxys-Defense
+	- Deoxys
+		- Base Stats
+			- Atk: 280 -> 320
+			- SpA: 280 -> 320
+	- Deoxys-Attack
+		- Base Stats
+			- Def: 5 -> 45
+			- SpD: 5 -> 45
+	- Deoxys-Defense
+		- Base Stats
+			- Atk: 100 -> 50
+			- SpA: 100 -> 230
+	- Deoxys-Speed
+		- Base Stats
+			- Hp: 110 -> 150
+			- Atk: 214 -> 234
+			- SpA: 214 -> 234
+- Kyogre
+	- Learnset Additions
+		- Grass Knot
+		- Waterfall
+- Mewtwo
+	- Learnset Additions
+		- Blue Flare
+- Muk-Alola
+	- Learnset Additions
+		- Memory Blast
+- Registeel
+	- Learnset Additions
+		- Sweet Retreat
+
 Pokemon Memories v1.7.3
 Miscellaneous
 - Ability Names

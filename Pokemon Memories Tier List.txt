@@ -20,7 +20,7 @@ Section C
 	• Viability Rankings
 	• History of the Format
 
-(174 Total)
+(175 Total)
 						      Section A    
 						    Standard Ubers
 						      Highlights
@@ -118,36 +118,42 @@ Note: Pokemon beneath the A-Tier, are listed alphabetically; Pokemon in the lowe
 
 Viability Rankings
 
-S-Tier (7 Total)
+S-Tier (9 Total)
 
-S
-Mewtwo
-
-S-
-Arceus-Grass
-Rayquaza (A; Electric Memory)
-Yveltal
-Landorus-Therian
-Arceus-Ground
+S+
 Gliscor (A-; Ice Memory)
 
+S
+Muk-Alola
+Greninja-Ash
+Kyogre
 
-A-Tier (42 Total)
+S-
+Mewtwo
+Rayquaza
+Dialga
+Landorus-Therian
+Arceus-Ground
+
+
+A-Tier (40 Total)
 
 A+
-Greninja-Ash
+Meloetta
+Meloetta-Pirouette
+Arceus-Grass
+Yveltal
 Groudon (A+; Room Service)
 Calyrex-Shadow (A; Ground Memory)
-Dialga
-Kyogre
-Lilligant (S; Grass Memory)
+Lilligant
+Garchomp (A-; Ice Memory)
 Arceus-Water
 Palkia
-Muk-Alola
 Tornadus
 Ho-Oh
 
 A
+Deoxys-Attack
 Vaporeon
 Minun
 Marshadow (A-; Fighting Memory)
@@ -159,12 +165,10 @@ Zacian-Crowned (A-; Ground Memory)
 Necrozma-Dawn-Wings
 Arceus-Electric
 Arceus-Fairy
-Meloetta
-Meloetta-Pirouette
 Zoroark-Hisui
-Sunflora
 
 A-
+Sunflora
 Tapu Koko
 Meowscarada
 Magnezone (B+; Grass Memory)
@@ -602,6 +606,7 @@ Category: D
 Dialga
 Hp: 230/Atk: 280/Def: 210/SpA: 280/SpD: 180/Spe: 160
 Common Items
+- Ability Shield
 - Chople Berry
 - Dawn Stone
 - Metal Coat
@@ -997,6 +1002,7 @@ Common Memories
 - Water Memory
 
 Common Moves
+- Grass Knot
 - Ice Beam
 - Memory Blast
 - Origin Pulse
@@ -1019,7 +1025,7 @@ Ability: Drizzle
 EVs: 252 HP / 4 SpA / 252 SpD  
 Timid Nature
 - Origin Pulse  
-- Ice Beam  
+- Ice Beam / Grass Knot
 - Thunder Wave  
 - Tailwind
 
@@ -1387,7 +1393,7 @@ Common Memories
 Common Moves
 - Aqua Step*
 - Aura Sphere
-- Aurora Beam*
+- Aurora Beam
 - Comeuppance
 - Dark Pulse
 - Ethereal Stream
@@ -1397,7 +1403,8 @@ Common Moves
 - Malice Run
 - Memory Blast
 - Mineral Cannon
-- Nasty Plot*
+- Mud Bomb
+- Nasty Plot
 - Night Daze
 - Psychic Storm
 - Psychic Wind*
@@ -1405,6 +1412,7 @@ Common Moves
 - Psycho Rush*
 - Psystrike*
 - Receiving Strike
+- Shattered Earth
 - Stored Power
 - Trailblaze
 - Venoshock

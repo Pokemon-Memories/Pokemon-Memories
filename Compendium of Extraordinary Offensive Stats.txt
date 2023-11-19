@@ -1,6 +1,6 @@
 Offensive Stats over 300
 
-Attack (69 Total)
+Attack (70 Total)
 
 Mega Mewtwo X: 450
 Deoxys Attack: 405
@@ -23,6 +23,7 @@ Mewtwo: 335
 Melmetal: 333
 Mega Latios: 330
 Solgaleo: 327
+Deoxys: 320
 Gallade: 320
 Groudon: 320
 Rayquaza: 320
@@ -70,7 +71,7 @@ Regigigas: 300
 Terrakion: 300
 Zapdos-Galar: 300
 
-Special Attack (59 Total)
+Special Attack (60 Total)
 
 Mega Mewtwo Y: 450
 Deoxys Attack: 405
@@ -90,6 +91,7 @@ Tapu Lele: 330
 Lunala: 327
 Mega Camerupt: 325
 Arceus-Ghost: 320
+Deoxys: 320
 Kyogre: 320
 Mega Gardevoir: 320
 Rayquaza: 320
