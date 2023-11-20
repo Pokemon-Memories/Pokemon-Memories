@@ -1,5 +1,21 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v1.7.5
+Memorization
+- Memory Abilities
+	- Strategist
+		- Now boosts automatically boosts the power of Increment-Moves, and Scalar-Moves (See the Changelog Compilation for the list of affected moves)
+
+
+Pokemon
+- Tapu Koko
+	- Learnset Additions
+		- Shattered Earth
+
+- Victreebel
+	- Learnset Additions
+		- Dragon Breath
+
 Pokemon Memories v1.7.4
 Mechanics
 - Ability Interactions

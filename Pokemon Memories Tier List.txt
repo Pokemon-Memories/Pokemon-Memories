@@ -142,6 +142,7 @@ A+
 Meloetta
 Meloetta-Pirouette
 Arceus-Grass
+Darkrai (A; Grass Memory)
 Yveltal
 Groudon (A+; Room Service)
 Calyrex-Shadow (A; Ground Memory)
@@ -158,7 +159,6 @@ Vaporeon
 Minun
 Marshadow (A-; Fighting Memory)
 Klinklang
-Darkrai
 Xerneas (A; Memory Armor + Memory Disc)
 Phione
 Zacian-Crowned (A-; Ground Memory)
@@ -1796,22 +1796,22 @@ Cons: Sacrifices the power of Adrenaline Orb, and only activates once. If Mewtwo
 
 Odd Incense
 Mechanics: Doubles the Base-Power of Psychic-Type moves, if the Pokemon is at or below 1/4 Max HP
-Usage: Run Psystrike/Stored Power, Psycho Fire/Aura Sphere/Electro Ball/Dark Pulse, Psycho Darts, and Nasty Plot.
+Usage: Run Psystrike/Stored Power, Psycho Fire/Aura Sphere/Mud Bomb/Night Daze/Water Sport, Psycho Darts, and Nasty Plot.
 Pros: Easily the set with the highest overall Damage Output; Allows it to beat opposing priority with its own; Doesn't depend on coverage as a primary means to deal game-deciding Damage; Can potentially sweep Teams.
 
-Cons: Requires extensive knowledge on the Metagame, so as to know what will proc, and what will just be unnecessary Damage, that potentially causes other moves that would have procced, to simply K.O. Mewtwo, instead; Most limited coverage out of all of Mewtwo's sets; Mewtwo needs Psycho Darts to justify this set's use over another, more consistent one, yet it also needs Psystrike, to improve its Matchup against Meloetta, Cresselia, and both Calyrexs, (Stored Power can potentially one shot the first three, but will fail to OHKO Calyrex-Ice). This leaves one final slot to handle the rest of Odd Incense Mewtwo's Bad MUs, such as Yveltal, Empoleon, a healthy Caly-Ice, and most concerning of all, Necrozma-Dusk-Mane, which tanks both Psystrike and Psycho Darts, and generally gives this set a hard time.
+Cons: Requires extensive knowledge on the Metagame, so as to know what will proc, and what will just be unnecessary Damage, that potentially causes other moves that would have procced, to simply K.O. Mewtwo, instead; Most limited coverage out of all of Mewtwo's sets; Mewtwo needs Psycho Darts to justify this set's use over another, more consistent one, yet it also needs Psystrike, to improve its Matchup against Meloetta, Cresselia, and both Calyrexs, (Stored Power can potentially one shot the first three, but will fail to OHKO Calyrex-Ice). This leaves one final slot to handle the rest of Odd Incense Mewtwo's Bad MUs, such as Yveltal, Empoleon, Darkrai, and most concerning of all, Muk-Alola, which tanks both Psystrike and Psycho Darts, and generally gives this set a hard time.
 
 Sweet Apple
 Mechanics: Heals Pokemon by a certain amount, upon switching out
-Usage Tips: Allows Mewtwo to fearlessly brawl with Pokemon that otherwise might not always be OHKO'd by Mewtwo, but cannot OHKO it, in return, such as Cresselia, Ho-Oh, or Corviknight; Keeps Mewtwo healthy, which is relevant in certain Matchups, such as Timid Scarf Palkia, which threatens Mewtwo, but does not usually OHKO it, outright.
+Usage Tips: Allows Mewtwo to fearlessly brawl with Pokemon that otherwise might not always be OHKO'd by Mewtwo, but cannot OHKO it, in return, such as Cresselia, Gliscor-Ice, and Muk-Alola; Keeps Mewtwo healthy, which is relevant in certain Matchups, such as Timid Scarf Palkia, which threatens Mewtwo, but does not usually OHKO it, outright.
 Pros: Significantly improves Mewtwo's longevity; Enables Mewtwo to play more aggressively, and wear down bad Matchups
 Cons: Sacrifices the Power Boost of Adrenaline Orb, which in turn may force it into using redundant, or otherwise riskier moves to achieve the desired damage output.
 
 Twisted Spoon
-Mechanics: Raises Mewtwo's Spe by 1 stage, upon using a Status-Move; Resets all stats after 3 turns. Single Use.
-Usage Tips: Hits through Protect, for 1/2 Damage; Best used with Nasty Plot; Good for crippling opposing Teams in the Mid to Late game stage; Keeps Twisted Spoon's Native x1.2 Psychic-Move boost
-Pros: Enables Mewtwo to overcome Scarfers, whilst allowing it to use Nasty Plot, without sacrificing its momentum
-Cons: Significantly narrower intrinsic Power Boost, compared to Adrenaline Orb; Immediately renders Mewtwo Itemless, upon successfully activating this Item's effects; Potentially vulnerable to being timed out
+Mechanics: Raises Mewtwo's Spe by 2 stages upon using a Status-Move; Resets all stats after successfully causing two Pokemon to faint via an attacking move. Single Use.
+Usage Tips: Hits through Protect for 1/2 Damage; Best used with Nasty Plot; Good for crippling opposing Teams in the Mid to Late game; Keeps Twisted Spoon's Native x1.2 Psychic-Move boost
+Pros: Enables Mewtwo to overcome Scarfers, whilst allowing it to use Nasty Plot without sacrificing its momentum
+Cons: Significantly narrower intrinsic Power Boost compared to Adrenaline Orb; Decentivizes switching, as doing so after activating the Item would waste it; Mewtwo becomes itemless after depleting its Twisted Spoon, or switching out after it has been activated
 
 
 

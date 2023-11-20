@@ -582,7 +582,7 @@ IVs: 0 Atk / 0 Spe
 === [gen6ultraassist] Ultra Assist/Power of Stall (EX Lugia) ===
 
 Mewtwo @ Leftovers  
-Ability: Antipathy  
+Ability: antipathy  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
@@ -664,7 +664,7 @@ Impish Nature
 - expressheal  
 
 Mewtwo @ Adrenaline Orb  
-Ability: Antipathy  
+Ability: antipathy  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Psystrike  
@@ -928,7 +928,7 @@ Naive Nature
 - Synchronoise  
 - Storm Throw  
 - Frost Breath  
-- Flutter Song  
+- fluttersong  
 
 Celesteela @ Metal Coat  
 Ability: Filter  
@@ -1020,7 +1020,7 @@ Timid Nature
 - Hyper Voice  
 - Echoed Voice  
 - Frost Breath  
-- Flutter Song  
+- fluttersong  
 
 Gengar (M) @ Gengarite  
 Ability: dyslexia  
@@ -1624,7 +1624,7 @@ IVs: 0 Spe
 === [gen6ultraassist] Ultra Assist/Eternal Life (EX Xerneas) ===
 
 Kyogre @ Choice Scarf  
-Ability: Antipathy  
+Ability: antipathy  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
 IVs: 0 Atk  
@@ -1812,7 +1812,7 @@ Timid Nature
 - Hyper Voice  
 - Storm Throw  
 - Frost Breath  
-- Flutter Song  
+- fluttersong  
 
 Kyogre @ Rose Incense  
 Ability: Drizzle  
@@ -1946,7 +1946,7 @@ IVs: 0 Atk
 - Teleport  
 
 Deoxys-Attack @ Life Orb  
-Ability: Antipathy  
+Ability: antipathy  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Naive Nature  
 - Zen Headbutt  
@@ -1955,7 +1955,7 @@ Naive Nature
 - Extreme Speed  
 
 Deoxys-Attack @ Dubious Disc  
-Ability: Antipathy  
+Ability: antipathy  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Naive Nature  
 - Secret Power  
@@ -2389,7 +2389,7 @@ Timid Nature
 - Flip Turn  
 
 Deoxys-Attack @ Dubious Disc  
-Ability: Antipathy  
+Ability: antipathy  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Naughty Nature  
 - Secret Power  
@@ -2429,7 +2429,7 @@ Careful Nature
 - Aromatic Mist  
 
 Deoxys-Attack @ Life Orb  
-Ability: Antipathy  
+Ability: antipathy  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
 - Psycho Boost  
@@ -2657,7 +2657,7 @@ Adamant Nature
 - accelerate  
 
 Deoxys-Attack @ Life Orb  
-Ability: Antipathy  
+Ability: antipathy  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
 - Psycho Boost  
@@ -2882,7 +2882,7 @@ Timid Nature
 - Hyper Voice  
 - Disarming Voice  
 - Screech  
-- Flutter Song  
+- fluttersong  
 
 Regigigas @ Toxic Orb  
 Ability: Guts  
@@ -3121,7 +3121,7 @@ Jolly Nature
 - Flip Turn  
 
 Deoxys-Attack @ Life Orb  
-Ability: Antipathy  
+Ability: antipathy  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
 - Psycho Boost  
@@ -4263,7 +4263,7 @@ Timid Nature
 - Hyper Voice  
 - Disarming Voice  
 - Screech  
-- Flutter Song  
+- fluttersong  
 
 Meowscarada (F) @ Lax Incense  
 Ability: parlortrick  
@@ -4377,7 +4377,7 @@ Calm Nature
 - sludgeswitch  
 
 Deoxys-Attack @ Life Orb  
-Ability: Antipathy  
+Ability: antipathy  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
 - Psycho Boost  
@@ -4418,7 +4418,7 @@ Careful Nature
 === [gen6ubers] Enigma (Deoxys-Attack, ???) ===
 
 Deoxys-Attack @ Dubious Disc  
-Ability: Antipathy  
+Ability: antipathy  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Naughty Nature  
 - Secret Power  
@@ -4434,7 +4434,7 @@ Timid Nature
 - Hyper Voice  
 - Disarming Voice  
 - Screech  
-- Flutter Song  
+- fluttersong  
 
 Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
@@ -4789,7 +4789,7 @@ Timid Nature
 - slushswitch  
 
 Deoxys-Attack @ Life Orb  
-Ability: Antipathy  
+Ability: antipathy  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
 - Psycho Boost  
@@ -4964,7 +4964,7 @@ Naive Nature
 - Hyper Voice  
 - Storm Throw  
 - Frost Breath  
-- Flutter Song  
+- fluttersong  
 
 Diggersby @ Rock Memory  
 Ability: appetite  
@@ -5354,7 +5354,7 @@ Naive Nature
 - Hyper Voice  
 - Storm Throw  
 - Frost Breath  
-- Flutter Song  
+- fluttersong  
 
 Arceus @ Chople Berry  
 Ability: impervious  
@@ -6028,7 +6028,7 @@ Naive Nature
 - Hyper Voice  
 - Storm Throw  
 - Frost Breath  
-- Flutter Song  
+- fluttersong  
 
 Vaporeon @ Leftovers  
 Ability: utilitylock  
@@ -6070,7 +6070,7 @@ Timid Nature
 - Hyper Voice  
 - Storm Throw  
 - Screech  
-- Flutter Song  
+- fluttersong  
 
 Necrozma-Dawn-Wings @ Assault Vest  
 Ability: lightinversion  
@@ -6664,7 +6664,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Naive Nature  
 - Bolt Strike  
 - Nature's Madness  
-- Magnitude  
+- shatteredearth  
 - Volt Switch  
 
 Vaporeon @ Leftovers  
@@ -7008,7 +7008,7 @@ Naive Nature
 - Hyper Voice  
 - Storm Throw  
 - Frost Breath  
-- Flutter Song  
+- fluttersong  
 
 Mewtwo @ Dubious Disc  
 Ability: psychicpower  
@@ -7337,7 +7337,7 @@ Impish Nature
 - U-turn  
 
 Deoxys-Attack @ Protector  
-Ability: Antipathy  
+Ability: antipathy  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
 - Psycho Boost  
@@ -7547,7 +7547,7 @@ Modest Nature
 - Flip Turn  
 
 Deoxys-Attack @ Protector  
-Ability: Antipathy  
+Ability: antipathy  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
 - Psycho Boost  
@@ -7971,7 +7971,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Bolt Strike  
 - Nature's Madness  
-- Earth Power  
+- shatteredearth  
 - Volt Switch  
 
 Groudon @ Fire Memory  
@@ -8418,7 +8418,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Bolt Strike  
 - Nature's Madness  
-- Earth Power  
+- shatteredearth  
 - Volt Switch  
 
 Landorus-Therian @ Grass Memory  
@@ -9003,7 +9003,7 @@ Ability: Serene Grace
 Shiny: Yes  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- Flutter Song  
+- fluttersong  
 - Echoed Voice  
 - Sparkling Aria  
 - Recover  
@@ -9237,7 +9237,7 @@ Timid Nature
 - Hyper Voice  
 - Storm Throw  
 - Screech  
-- Flutter Song  
+- fluttersong  
 
 
 === [gen6ubers] Shifting Gears (Zacian, Ground) ===
@@ -9443,7 +9443,7 @@ Timid Nature
 - Night Daze  
 
 Deoxys-Attack @ Dubious Disc  
-Ability: Antipathy  
+Ability: antipathy  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Naughty Nature  
 - Secret Power  
@@ -9640,7 +9640,7 @@ Timid Nature
 - Hyper Voice  
 - Storm Throw  
 - Screech  
-- Flutter Song  
+- fluttersong  
 
 Meowscarada (F) @ Lax Incense  
 Ability: parlortrick  
@@ -9665,7 +9665,7 @@ Careful Nature
 === [gen6ubers] Mewtwo #150: Psycho Killer (Mewtwo, Psychic) ===
 
 Mewtwo @ Psychic Memory  
-Ability: Antipathy  
+Ability: antipathy  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - psychofire  
@@ -9751,7 +9751,7 @@ Timid Nature
 - Hyper Voice  
 - Storm Throw  
 - Screech  
-- Flutter Song  
+- fluttersong  
 
 Xerneas @ Power Herb  
 Ability: Fairy Aura  
@@ -9821,7 +9821,7 @@ Timid Nature
 - Hyper Voice  
 - Storm Throw  
 - Screech  
-- Flutter Song  
+- fluttersong  
 
 Vaporeon @ Sitrus Berry  
 Ability: utilitylock  
@@ -9863,7 +9863,7 @@ Timid Nature
 - Hyper Voice  
 - Storm Throw  
 - Screech  
-- Flutter Song  
+- fluttersong  
 
 Dialga @ Sweet Apple  
 Ability: Regenerator  
@@ -10171,7 +10171,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Bolt Strike  
 - Nature's Madness  
-- Earth Power  
+- shatteredearth  
 - Volt Switch  
 
 Vaporeon (F) @ Sitrus Berry  
@@ -10812,7 +10812,7 @@ Timid Nature
 - Hyper Voice  
 - Storm Throw  
 - Screech  
-- Flutter Song  
+- fluttersong  
 
 
 === [gen6ubers] Free Radicals (Calyrex-Shadow, Ghost) ===
@@ -12006,7 +12006,7 @@ Calm Nature
 === [gen6ubers] Mewtwo's Antipathy (Mewtwo, Psychic) ===
 
 Mewtwo @ Psychic Memory  
-Ability: Antipathy  
+Ability: antipathy  
 EVs: 252 SpA / 252 Spe  
 Timid Nature  
 - Psystrike  
@@ -12391,7 +12391,7 @@ Timid Nature
 - Hyper Voice  
 - Storm Throw  
 - Frost Breath  
-- Flutter Song  
+- fluttersong  
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
@@ -12518,7 +12518,7 @@ Timid Nature
 - Hyper Voice  
 - Storm Throw  
 - Frost Breath  
-- Flutter Song  
+- fluttersong  
 
 Ho-Oh @ Sweet Apple  
 Ability: Magic Guard  
@@ -12705,7 +12705,7 @@ Timid Nature
 - Hyper Voice  
 - Storm Throw  
 - Frost Breath  
-- Flutter Song  
+- fluttersong  
 
 Garchomp (M) @ Ice Memory  
 Ability: dragonarmor  
@@ -12818,7 +12818,7 @@ Modest Nature
 - Flip Turn  
 
 Deoxys-Attack @ Life Orb  
-Ability: Antipathy  
+Ability: antipathy  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Hasty Nature  
 IVs: 0 Def  
@@ -13026,7 +13026,7 @@ Timid Nature
 - Hyper Voice  
 - Storm Throw  
 - Frost Breath  
-- Flutter Song  
+- fluttersong  
 
 Kyogre @ Rose Incense  
 Ability: Drizzle  
@@ -13067,7 +13067,7 @@ Jolly Nature
 - Agility  
 
 Deoxys-Attack @ Life Orb  
-Ability: Antipathy  
+Ability: antipathy  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Hasty Nature  
 IVs: 0 Def  
@@ -13136,6 +13136,128 @@ Quiet Nature
 - Apple Acid  
 - Gunk Shot  
 - Recover  
+- Parting Shot  
+
+
+=== [gen6ubers] Evening (Gliscor, Ice) ===
+
+Tapu Koko @ Light Ball  
+Ability: lightningforce  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Bolt Strike  
+- Aeroblast  
+- shatteredearth  
+- Volt Switch  
+
+Porygon-Z @ Ability Shield  
+Ability: formatdrive  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- enigmacharge  
+- Earthquake  
+- Parabolic Charge  
+- mysteryspeed  
+
+Ho-Oh @ Flame Orb  
+Ability: Regenerator  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Sacred Fire  
+- Feather Dance  
+- Aromatic Mist  
+- flameswitch  
+
+Muk-Alola (M) @ Black Sludge  
+Ability: Power of Alchemy  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
+- Crunch  
+- Spikes  
+- Milk Drink  
+- Withdraw  
+
+Gliscor (M) @ Ice Memory  
+Ability: Poison Heal  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
+- Earthquake  
+- Dragon Breath  
+- expressheal  
+- turbineturn  
+
+Greninja-Ash @ Choice Scarf  
+Ability: Battle Bond  
+EVs: 128 Atk / 128 SpA / 252 Spe  
+Naive Nature  
+- Water Sport  
+- Darkest Lariat  
+- Water Shuriken  
+- leafswitch  
+
+
+=== [gen6ubers] Mind Control (Mewtwo, Psychic) ===
+
+Mewtwo @ Psychic Memory  
+Ability: psychicpower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psystrike  
+- Power Gem  
+- Earth Power  
+- Grass Knot  
+
+Victreebel (M) @ Lax Incense  
+Ability: hopesprout  
+Shiny: Yes  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Quiet Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Dragon Breath  
+- Recover  
+- Parting Shot  
+
+Muk-Alola (M) @ Black Sludge  
+Ability: Power of Alchemy  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
+- Crunch  
+- Spikes  
+- Milk Drink  
+- Withdraw  
+
+Lucario @ Cover Fossil  
+Ability: speedtouch  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Hasty Nature  
+IVs: 0 Def  
+- Dynamic Punch  
+- Stone Edge  
+- Low Sweep  
+- Bullet Punch  
+
+Landorus-Therian @ Assault Vest  
+Ability: pacify  
+EVs: 4 HP / 252 SpD / 252 Spe  
+Calm Nature  
+- Sandsear Storm  
+- Aeroblast  
+- expressheal  
+- U-turn  
+
+Cresselia @ Leftovers  
+Ability: Regenerator  
+Shiny: Yes  
+EVs: 252 HP / 252 Def / 4 Spe  
+Serious Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Moonlight 
+- Lunar Dance  
 - Parting Shot  
 
 

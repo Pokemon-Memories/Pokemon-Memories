@@ -1792,6 +1792,7 @@ Baneful Bunker
 Bubble Beam
 Close Combat
 Defog
+Dragon Breath
 Earth Run
 Final Gambit
 Gunk Shot
@@ -8174,6 +8175,7 @@ Magnitude
 Moonblast
 Nasty Plot
 Shatter Beam
+Shattered Earth
 Swords Dance
 Tailwind
 
@@ -9534,7 +9536,7 @@ Spectral Force
 Effect: Pokemon's Ghost-Type Moves ignore the target's Type-Based immunities; Pokemon restores 1/16 of the Damage inflicted upon the opponent. Pokemon's Damaging-Moves have Mold Breaking Properties.
 --
 Strategist
-Effect: Pokemon's Psychic-Type Moves with a Base Power up to 155--or any Special Move with a Base Power up to 120 receive a x1.4 Power Boost. Pokemon's Burst-Moves, Kinetic-Moves, and Priority Moves cannot be boosted by this ability. 
+Effect: Pokemon's Psychic-Type Moves with a Base Power up to 155--or any Special Move with a Base Power up to 120 receive a x1.4 Power Boost. Increment and Scalar Moves are always boosted. Pokemon's Burst-Moves, Kinetic-Moves, and Priority Moves cannot be boosted by this ability. 
 -----------------------------------
 Memory-Interactive Abilities   
 Description: List of Special Abilities, or Special Properties on Abilities, that activate when the Pokemon is Memorized.
@@ -9896,6 +9898,13 @@ Venom Drench
 Water Sport
 Water Spout
 
+Increment Moves
+Description: Attacking moves that increase in power by a linear amount, depending on certain conditions
+Force Palm
+Psychic Infinity
+Psystrike
+Punishment
+
 Kinetic Moves   
 Description: Attacking moves that have their power increased under certain conditions 
 Beak Blast
@@ -9923,6 +9932,16 @@ Vanishing Strike
 Venoshock
 Wake-Up Slap
 Weather Ball
+
+Scalar Moves
+Description: Moves with Dynamic Base Power values
+Dynamic Punch
+Electro Ball
+Grass Knot
+Gyro Ball
+Heat Crash
+Low Kick
+Strange Wave
 
 Super Moves   
 Description: Attacking moves that hit most or all Types Super-Effectively
