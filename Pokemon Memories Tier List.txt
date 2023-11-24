@@ -118,79 +118,78 @@ Note: Pokemon beneath the A-Tier, are listed alphabetically; Pokemon in the lowe
 
 Viability Rankings
 
-S-Tier (9 Total)
-
-S+
-Gliscor (A-; Ice Memory)
+S-Tier (10 Total)
 
 S
+Arceus
 Muk-Alola
-Greninja-Ash
-Kyogre
 
 S-
+Gliscor (A-; Ice Memory)
 Mewtwo
-Rayquaza
-Dialga
-Landorus-Therian
-Arceus-Ground
-
-
-A-Tier (40 Total)
-
-A+
 Meloetta
 Meloetta-Pirouette
-Arceus-Grass
-Darkrai (A; Grass Memory)
-Yveltal
+Greninja-Ash
+Landorus-Therian
+Cresselia
+Zekrom (A-; Electric Memory)
+
+
+A-Tier (39 Total)
+
+A+
+Victreebel
+Kyogre
+Tornadus
+Rayquaza
 Groudon (A+; Room Service)
-Calyrex-Shadow (A; Ground Memory)
+Arceus-Grass
+Lucario-Mega
+Arceus-Ground
 Lilligant
 Garchomp (A-; Ice Memory)
 Arceus-Water
 Palkia
-Tornadus
 Ho-Oh
 
 A
+Darkrai (A; Grass Memory)
+Yveltal
+Dialga
 Deoxys-Attack
 Vaporeon
-Minun
 Marshadow (A-; Fighting Memory)
 Klinklang
-Xerneas (A; Memory Armor + Memory Disc)
 Phione
 Zacian-Crowned (A-; Ground Memory)
 Necrozma-Dawn-Wings
-Arceus-Electric
 Arceus-Fairy
 Zoroark-Hisui
 
 A-
-Sunflora
+Xerneas (A; Memory Armor + Memory Disc)
+Calyrex-Shadow (B+; Ground Memory)
 Tapu Koko
 Meowscarada
 Magnezone (B+; Grass Memory)
 Suicune (B+; Ice Memory)
-Arceus
 Thundurus-Therian
 Entei
 Necrozma-Dusk-Mane (B+; Steel Memory)
 Calyrex-Ice
 Regieleki (B- Ice Memory/Any Memory)
-Cresselia
 Ludicolo
 Thundurus
 Lugia (B; Ice Memory)
 Cryogonal (B; Ground Memory)
-Victreebel
+Minun
 
 
 B-Tier (73 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
+Arceus-Electric
 Arceus-Fire
 Arceus-Flying
 Arceus-Ghost
@@ -205,7 +204,6 @@ Keldeo
 Kyurem-Black
 Kyurem-White
 Hoopa Unbound
-Lucario-Mega
 Lunala
 Magearna
 Magearna-Original
@@ -220,13 +218,13 @@ Reshiram
 Salamence-Mega
 Shaymin-Sky
 Skarmory
+Sunflora
 Swampert
 Tapu Fini
 Umbreon
 Urshifu-R
 Zamazenta-Crowned
 Zarude
-Zekrom
 Zygarde
 Zygarde-Complete
 

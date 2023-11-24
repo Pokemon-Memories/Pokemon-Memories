@@ -1,20 +1,112 @@
 Pokemon Memories Update Notes
 
 Pokemon Memories v1.7.5
+General
+- Important Ubers Ruleset Fix
+	- Corrected an oversight where Mega Mewtwo X/Y could be played through its Mewtwonite(s), despite both of the Formes themselves, being banned
+- Stat-Lowering Abilities
+	- Domineer, Inveigle, Pacify, and Petrify no longer affect Pokemon with: Format Drive, Mold Breaker, Teravolt, or Turboblaze; Pokemon with Space Power are still affected
+- Ability Replacements
+	- Impervious has been replaced by Omnipotent: This Ability retains the properties of Impervious, and gains a number of new attributes
+- Ultra Assist
+	- Calyrex EX now imparts the affected Pokemon with True STABs, rather than Pseudo-STABs
+
 Memorization
 - Memory Abilities
 	- Strategist
-		- Now boosts automatically boosts the power of Increment-Moves, and Scalar-Moves (See the Changelog Compilation for the list of affected moves)
+		- Now automatically boosts the power of Special Increment-Moves, and Scalar-Moves (See the Changelog Compilation for the list of affected moves)
+- Original STAB Retention Mechanics
+	- Functionality: Independent x1.5 Power Boost (Pseudo-STAB) -> True STAB
 
+Abilities
+- Domineer
+	- Effect: Raises the Pokemon's SpA by 1 stage, and lowers their SpD by 2 stages upon switching in -> Lowers the opponent's SpD by 1 stage upon switching in
+- Omnipotent
+	- Additional Effects: All of Arceus-Normal's non-STAB Moves receive a x1.3 STAB Boost; Arceus-Normal receives a x1.5 Base Power Boost for moves sharing its held Super-Effective Berry's Type (e.g. Passho Berry provides a x1.5 Boost to its Water-Type Attacks). Pokemon receives the Permaburst effect
+	- Penalty: Pokemon cannot Healing Moves
+- Petrify
+	- Effect: Pokemon's Moves have a 10% Flinch Chance -> Lowers the opponent's Def by 1 Stage upon switching in
+- Power of Alchemy
+	- The Damage-Reduction of opposing Ground-Type Moves from non-Ground Type Pokemon now affects Pokemon with Psychic Assault, Psychic Power, and Psycho Force
+	- The property of neutralizing the Poison-Type's Psychic-Weakness is now ignored by Psystrike, provided the Pokemon is not Memorized into a Psychic-Type
+
+Moves
+- Dragon Energy
+	- Move will always have its Maximum Power if used by a Pokemon with the Permaburst Effect
+- Eruption
+	- Move will always have its Maximum Power if used by a Pokemon with the Permaburst Effect
+- Frosty Glide
+	- Corrected an error where Frosty Glide's Base Power was 110, rather than 50, as intended
+	- New Base Power: 50 -> 80
+- Howl
+	- Equilibrium Boost: +1 Spe -> +2 Spe
+- Multi-Attack
+	- Still makes Contact, but no longer receives the penalties associated with it
+- Sprout Seed
+	- Implemented
+		- Base Power: __
+		- Accuracy: __
+		- Category: Status
+		- PP: 5
+		- Effect: Raises the Pokemon's Speed Stat--as well as their highest Offensive Stat by 1 stage each. If the Pokemon's Offensive Stats are equal, the Pokemon's Speed Stat will be sharply raised instead. This move can only be used by Bellsprout
+		- Penalty: After being used: Pokemon will be unable to use Status-Moves--as well as this move, specifically, until the Pokemon switches out
+		- Contact: No
+		- Type: Grass
+- Water Spout
+	- Move will always have its Maximum Power if used by a Pokemon with the Permaburst Effect
+- Zing Zap
+	- Base Power: 60 -> 50
+	- Flinch Chance: 15% -> __
+	- Multi-Hits: 2 -> __
+	- Priority: +0 -> +1
+	- PP: 10 -> 5
+
+Items
+- Ability Shield
+	- Recoil Damage removed
+- Enigma Plate
+	- No longer usable outside of Custom Battles
 
 Pokemon
+- Arceus
+	- General
+		- Learnset Additions
+			- Poltergeist
+	- Forme-Specific Moves
+		- Aqua Charge
+			- No longer usable by Arceus-Normal
+	- Arceus-Ghost
+		- Base Stats
+			- Def: 100 -> 160
+			- SpA: 320 -> 300
+			- SpD: 340 -> 300
+- Bellsprout
+	- Learnset Additions
+		- Sprout Seed
+- Groudon
+	- Learnset Additions
+		- Ice Punch
+- Hoopa
+	- Learnset Additions
+		- Dynamic Punch
+		- Uproar
 - Tapu Koko
 	- Learnset Additions
 		- Shattered Earth
-
+- Trevenant
+	- Base Stats
+		- Atk: 165 -> 265
+	- Learnset Additions
+		- Leaf Switch
+		- Milk Drink
+		- Parting Shot
+		- Sweet Retreat
 - Victreebel
 	- Learnset Additions
 		- Dragon Breath
+- Zekrom
+	- Learnset Additions
+		- Frosty Glide
 
 Pokemon Memories v1.7.4
 Mechanics
