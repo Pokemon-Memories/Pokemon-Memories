@@ -120,31 +120,35 @@ Viability Rankings
 
 S-Tier (10 Total)
 
+S+
+Mewtwo
+
 S
 Arceus
 Muk-Alola
 
 S-
 Gliscor (A-; Ice Memory)
-Mewtwo
 Meloetta
 Meloetta-Pirouette
-Greninja-Ash
 Landorus-Therian
 Cresselia
-Zekrom (A-; Electric Memory)
+Golurk
+Tornadus
 
 
 A-Tier (39 Total)
 
 A+
 Victreebel
+Zekrom (A-; Electric Memory)
+Greninja-Ash
 Kyogre
-Tornadus
 Rayquaza
 Groudon (A+; Room Service)
 Arceus-Grass
 Lucario-Mega
+Urshifu-S
 Arceus-Ground
 Lilligant
 Garchomp (A-; Ice Memory)
@@ -153,6 +157,7 @@ Palkia
 Ho-Oh
 
 A
+Calyrex-Ice
 Darkrai (A; Grass Memory)
 Yveltal
 Dialga
@@ -176,7 +181,6 @@ Suicune (B+; Ice Memory)
 Thundurus-Therian
 Entei
 Necrozma-Dusk-Mane (B+; Steel Memory)
-Calyrex-Ice
 Regieleki (B- Ice Memory/Any Memory)
 Ludicolo
 Thundurus
@@ -215,6 +219,7 @@ Pikachu-Original
 Porygon-Z
 Rapidash-Galar
 Reshiram
+Reuniclus
 Salamence-Mega
 Shaymin-Sky
 Skarmory
@@ -251,7 +256,6 @@ Pikachu-Alola
 Regigigas
 Solgaleo
 Torterra
-Urshifu-S
 Victini
 Weavile
 Zapdos-Galar
@@ -306,12 +310,11 @@ Sableye
 Volcanion
 
 
-D-Tier (14 Total)
+D-Tier (13 Total)
 
 D+
 Cobalion
 Gigalith
-Golurk
 Heatran
 Latios-Mega
 Maractus

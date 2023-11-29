@@ -1,5 +1,105 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v1.7.6
+Learnsets
+- Trick Room
+	- Added to the following Pokemon: Camerupt, Golurk
+
+Abilities
+- Hightened Mind
+	- Attack Boost: x1.3 -> x1.5
+	- Special Attack Boost: x1.3 -> x1.5
+- Klutz
+	- Additional Effect: Pokemon's Moves have a 50% Chance to remove the opponent's Held Item.
+- Overmind
+	- Effect: The Pokemon's raw Hp Stat is added to its Offensive Stats (e.g. New Attack = (Raw Attack + Raw Hp)). Positive changes to its Atk or SpA are converted into Health (+25%), while Negative changes reduce its Health (-10%)
+- Power of Alchemy
+	- Additional Effect: Blocks Trick Room from activating
+	- No longer neutralizes the Poison-Type's Psychic-Weakness, unless this Pokemon is Memorized
+	- The Damage-Reduction of opposing Ground-Type Moves from non-Ground Type Pokemon no longer affects Pokemon with Psychic Assault, Psychic Power, and Psycho Force
+	- Burst-Move Damage Reduction: x0.5 -> x0.67
+	- Psyshock now bypasses this ability's weakness-nullifying properties
+	- Psychic-Memorized Pokemon are no longer penalized, allowing them to also bypass the anti-weakness property, provided they use the proper moves
+- Unseen Fist
+	- Additional Effect: Pokemon now receives the Doubled-Base Power Bonus against Pokemon carrying Choice Items
+- Utility Lock
+	- Additional Effect: Blocks Trick Room from activating
+
+Items
+- Syrupy Apple
+	- Hp Restoration: 25%, 20%, 15%, 10% -> 30%, 25%, 20%, 15%
+
+Moves
+- Heavy Moves
+	- Base Power: 170 -> 180
+	- Affects: Draco Meteor, Fleur Cannon, Leaf Storm, Overheat, Zap Cannon (Cosmic Starfall already had a 180 BP) 
+- Psychic Fangs
+	- Additional Effect: Ignores the Abilities of opposing Pokemon
+
+Pokemon
+- Camerupt
+	- Learnset Additions
+		- Flame Switch
+- Ducklett Evolutionary Line
+	- Universal
+		- Learnset Additions
+			- Turbine Turn
+			- Waterfall
+	- Ducklett
+		- Ability: Technician -> Keen Eye
+		- Base Stats
+			- Hp: 152 -> 172
+	- Swanna
+		- Base Stats
+			- Atk: 195 -> 245
+			- SpA: 195 -> 245
+- Golurk
+	- General
+		- Corrected an error where Golurk did not have Magic Bounce, despite being listed as having it
+	- Learnset Additions
+		- Aromatic Mist
+- Mewtwo
+	- Learnset Additions
+		- Meteor Beam
+- Reuniclus
+	- Ability: Overcoat -> Overmind
+	- Base Stats
+		- Hp: 110 -> 190
+		- Atk: 65 -> 225
+		- Def: 75 -> 175
+		- SpA: 125 -> 265
+		- SpD: 85 -> 185
+		- Spe: 30 -> 100
+		- BST: 490 -> 1140
+	- Learnset Additions
+		- Aura Sphere
+		- Autotomize
+		- Earth Power
+		- Expaning Force
+		- Fairy Wind
+		- Magnitude
+		- Meteor Beam
+		- Mineral Cannon
+		- Psycho Blitz
+		- Shadow Ball
+		- Shadow Claw
+		- Slush Switch
+		- Stealth Rock
+		- Stored Power
+		- Sweet Retreat
+		- Teleport
+- Tornadus
+	- Learnset Additions
+		- Turbine Turn
+- Volcanion
+	- Learnset Additions
+		- Aromatic Mist
+		- Ember
+		- Inferno Beam
+- Zacian
+	- Learnset Additions
+		- Aerial Ace
+
 Pokemon Memories v1.7.5
 General
 - Important Ubers Ruleset Fix
