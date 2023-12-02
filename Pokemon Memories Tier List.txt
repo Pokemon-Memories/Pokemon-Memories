@@ -20,7 +20,7 @@ Section C
 	• Viability Rankings
 	• History of the Format
 
-(175 Total)
+(176 Total)
 						      Section A    
 						    Standard Ubers
 						      Highlights
@@ -122,9 +122,9 @@ S-Tier (10 Total)
 
 S+
 Mewtwo
+Arceus (S; Omnipotent + Chilan Berry)
 
 S
-Arceus
 Muk-Alola
 
 S-
@@ -165,14 +165,14 @@ Deoxys-Attack
 Vaporeon
 Marshadow (A-; Fighting Memory)
 Klinklang
-Phione
 Zacian-Crowned (A-; Ground Memory)
+Weavile
 Necrozma-Dawn-Wings
 Arceus-Fairy
-Zoroark-Hisui
+Azumarill
 
 A-
-Xerneas (A; Memory Armor + Memory Disc)
+Phione
 Calyrex-Shadow (B+; Ground Memory)
 Tapu Koko
 Meowscarada
@@ -186,10 +186,10 @@ Ludicolo
 Thundurus
 Lugia (B; Ice Memory)
 Cryogonal (B; Ground Memory)
-Minun
+Meowth
 
 
-B-Tier (73 Total)
+B-Tier (75 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
@@ -214,6 +214,7 @@ Magearna-Original
 Manaphy
 Mimikyu
 Mimikyu-Busted
+Minun
 Necrozma-Ultra
 Pikachu-Original
 Porygon-Z
@@ -228,6 +229,7 @@ Swampert
 Tapu Fini
 Umbreon
 Urshifu-R
+Xerneas
 Zamazenta-Crowned
 Zarude
 Zygarde
@@ -257,8 +259,8 @@ Regigigas
 Solgaleo
 Torterra
 Victini
-Weavile
 Zapdos-Galar
+Zoroark-Hisui
 
 B-
 Arceus-Dragon
@@ -272,7 +274,7 @@ Sawsbuck
 Snorlax
 
 
-C-Tier (29 Total)
+C-Tier (28 Total)
 
 C+
 Arceus-Poison
@@ -294,7 +296,6 @@ Serperior
 C
 Dracozolt
 Leafeon
-Meowth
 Naganadel
 Starmie
 Tapu Lele

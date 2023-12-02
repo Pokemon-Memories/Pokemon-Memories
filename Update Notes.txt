@@ -1,5 +1,108 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v1.7.7
+Annoucement
+- Until Further Notice, Pokemon will no longer receive an entry under their "Learnset Additions" Section for Moves that they are already stated to learn within the Move's "Users" Category.
+
+Mechanics
+- Multi-Hit Moves
+	- Corrected an error where Multi-Hit Moves would occassionally fail to activate
+
+Memory Abilities
+- Exterminator
+	- Corrected an error where the Pokemon's Poison-Type Moves bypassed Immunities, rather than its Bug-Type Moves, as intended
+
+Abilities
+- Corrosion
+	- Implemented
+	- Additional Effect: Pokemon's Poison-Type Moves can affect opposing Steel-Type Pokemon; Resisted Poison-Type Hits deal x1.5 Damage
+- Full Moon
+	- Effect: Pokemon becomes a Ghost/Water Type; Pokemon restores 1/10 Max Hp for each stat that is raised.
+- Golden Touch
+	- Effect: Pokemon's Contact Moves have a guaranteed chance to lower the target's Defense Stat by 1 Stage. This effect is calculated per-Hit, and will activate as many times as the Pokemon manages to hit their Target. The Target's Defense Stat will not drop beyond -3 Stages.
+- Klutz
+	- Mechanics: Item-Dropping Chance is now calculated after each hit, rather than at the Move's conclusion
+
+Moves
+- Apple Acid
+	- Base Power: 150 -> 130
+- Bubble Beam
+	- Secondary Effect: 30% Chance to lower the opponent's Speed by 1 Stage -> 100% Chance to lower the opponent's Special Defense by 1 Stage
+- Fury Swipes
+	- Increased Critical Hit Ratio removed
+- Fury Slash
+	- Increased Critical Hit Ratio removed
+- Grav Apple
+	- Base Power: 150 -> 130
+- Rental Charge
+	- Implemented
+		- Base Power: __
+		- Accuracy: __
+		- Category: Status
+		- Contact: No
+		- Effect: Raises the Pokemon's Speed by 2 Stages, and its Highest Attacking Stat by 1 Stage, for 3 Turns, before clearing all of the Pokemon's Boosts. If both Offensive Stats are equal, this move will raise both of the Pokemon's Attacking Stats, and their Speed, by 1 stage each. This move can only be used once per Battle.
+		- Priority: 0
+		- PP: 5
+		- Type: Normal
+		- Users: Darkrai, Groudon, Necrozma-Dusk-Mane, Reshiram, Tapu Koko, Zacian
+- Shell Smash
+	- Additional Penalty: Immediately destroys the Pokemon's held Dragon Scale or Light Clay
+- Wave Turn
+	- Implemented
+		- Base Power: 85
+		- Accuracy: 100
+		- Category: Special (Physical if the Pokemon's Atk stat is higher)
+		- Contact: No
+		- Effect: 30% chance to flinch; Switches the user out
+		- Priority: 0
+		- PP: 5
+		- Type: Water
+		- Users: Azumarill, Lunala, Manaphy, Meowth, Mew, Phione, Swampert
+
+Pokemon
+- Azumarill
+	- Base Stats
+		- Atk: 150 -> 200
+		- Spe: 150 -> 175
+	- Learnset Additions
+		- Low Kick
+- Kartana
+	- Learnset Additions
+		- Sacred Sword
+- Lunala
+	- Abilities
+		- Added Ability: Full Moon
+	- Base Stats
+		- Atk: 208 -> 158
+		- Def: 129 -> 179
+	- Learnset Additions
+		- Amnesia
+		- Aqua Soul
+		- Bubble Beam
+		- Hydro Pump
+		- Rain Dance
+		- Surf
+		- Water Spout
+- Meowth
+	- Ability: Unnerve -> Golden Touch
+- Naganadel
+	- Added Ability: Corrosion
+- Nihilego
+	- Added Ability: Corrosion
+	- Learnset Additions
+		- Aromatic Mist
+- Solgaleo
+	- Base Stats
+		- SpA: 258 -> 208
+		- SpD: 129 -> 179
+	- Learnset Additions
+		- Shift Gear
+- Weavile
+	- Ability: Pressure -> Klutz
+- Xurkitree
+	- Learnset Additions
+		- Agility
+
 Pokemon Memories v1.7.6
 Learnsets
 - Trick Room

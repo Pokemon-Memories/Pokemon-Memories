@@ -737,6 +737,7 @@ Mega Mawile: 			BST: 1030
 Golem: 				BST: 1030
 Whimsicott: 			BST: 1030
 Heracross: 			BST: 1030
+Azumarill: 			BST: 1025
 Salamence: 			BST: 1022
 Lopunny: 			BST: 1020
 Dracovish: 			BST: 1020
@@ -789,7 +790,6 @@ Cacturne: 			BST: 970
 Beedrill: 			BST: 965
 Luxray: 			BST: 963
 Noivern: 			BST: 955
-Azumarill: 			BST: 950
 Aerodactyl: 			BST: 951
 Braviary: 			BST: 950
 Emolga: 			BST: 948
@@ -926,7 +926,7 @@ Zapdos: 180
 Minior: 180
 Raikou: 180
 ===============
-Category: 170s (62 Total)
+Category: 170s (63 Total)
 --
 Raichu: 179
 Rotom-Heat: 179
@@ -940,6 +940,7 @@ Rapidash: 176
 Whimsicott: 176
 Talonflame: 176
 Cinccino: 176
+Azumarill: 175
 Delibird: 175
 Zarude: 175
 Zarude-Dada: 175
@@ -1073,7 +1074,7 @@ Braviary: 160
 Flareon: 160
 Jumpluff: 160
 ===============
-Category: 150s (54 Total)
+Category: 150s (53 Total)
 --
 Missingno: 159
 Zamazenta: 159
@@ -1119,7 +1120,6 @@ Mega Diancie: 150
 Victini: 150
 Incineroar: 150
 Tentacruel: 150
-Azumarill: 150
 Mantine: 150
 Vileplume: 150
 Glaceon: 150
@@ -1738,7 +1738,7 @@ New Moves
 Belly Drum
 Chilling Water
 ------------------------------------------------------------------------
-Meowth
+Meowth    
 Hp: 40 -> 140 = +100
 Atk: 45 -> 230 = +185
 Def: 35 -> 150 = +115
@@ -1746,7 +1746,7 @@ SpA: 40 -> 100 = +60
 SpD: 40 -> 160 = +120
 Spe: 90 -> 165 = +75
 BST: 290 -> 945
-Ability: Pickup -> Petrify
+Ability: Pickup/Unnerve -> Petrify/Golden Touch
 Learnset Synchronized with Persian
 New Moves
 Happy Hour
@@ -1758,8 +1758,12 @@ Slush Switch
 Play Rough
 Petal Dance
 Punishment
+Wave Turn
+
+Golden Touch (New Ability)
+Effect: Pokemon's Contact Moves have a guaranteed chance to lower the target's Defense Stat by 1 Stage. This effect is calculated per-Hit, and will activate as many times as the Pokemon manages to hit their Target. The Target's Defense Stat will not drop beyond -3 Stages.
 --
-Persian
+Persian   
 Hp: 65 -> 250 = +185
 Atk: 70 -> 200 = +130
 Def: 60 -> 170 = +110
@@ -2336,6 +2340,7 @@ Thunder Wave
 Uproar
 Water Punch
 Wave Crash
+Wave Turn
 
 Unlearned Moves
 Acrobatics
@@ -3039,6 +3044,7 @@ Body Press
 Flame Wheel
 High Horsepower
 Ice Punch
+Rental Charge
 Shattered Earth
 Thermal Press
 Withdraw
@@ -3939,6 +3945,7 @@ Moonlight
 Mystery Bind
 Mystery Sphere
 Night Daze
+Rental Charge
 Roar of Time
 Royal Obfuscation
 Shadow Ball
@@ -3990,6 +3997,7 @@ Sludge Wave
 Slush Switch
 Take Heart
 Uproar
+Wave Turn
 
 Unlearned
 Tail Glow
@@ -4016,6 +4024,7 @@ Stealth Rock
 Take Heart
 Thunder
 U-Turn
+Wave Turn
 Withdraw
 
 Unlearned
@@ -5174,6 +5183,7 @@ Fire Spin
 Flame Charge
 Flame Switch
 Icy Wind
+Rental Charge
 Thunder
 Twister
 
@@ -6342,6 +6352,7 @@ High Horsepower
 Milk Drink
 Uproar
 Water Break
+Wave Turn
 Withdraw
 
 Mega Swampert
@@ -6447,21 +6458,22 @@ Lash Out
 Pragmatic (New Ability)
 Effect: Fairy-Type Attacks used against this Pokemon deal 1/2 Damage. Attacks have x2 power if used against a Fairy-Type Pokemon.
 ------------------------------------------------------------------------
-Azumarill
+Azumarill  
 Hp: 100 -> 170 = +70
-Atk: 50 -> 150 = +100
+Atk: 50 -> 200 = +150
 Def: 80 -> 170 = +90
 SpA: 60 -> 130 = +70
 SpD: 80 -> 180 = +100
-Spe: 50 -> 150 = +100
-BST: 420 -> 950
+Spe: 50 -> 175 = +125
+BST: 420 -> 1025
 New Moves
-Liquidation
 Draining Kiss
+Flip Turn
+Liquidation
 Moonlight
 Swords Dance
 Wave Crash
-Flip Turn
+Wave Turn
 ------------------------------------------------------------------------
 Togekiss
 Hp: 85 -> 165 = +80 
@@ -6678,6 +6690,7 @@ Haze
 High Horsepower
 Lash Out
 Psycho Blitz
+Rental Charge
 Steel Beam
 Teleport
 
@@ -6821,14 +6834,15 @@ Solgaleo
 Hp: 137 -> 217 = +80
 Atk: 137 -> 327 = +190
 Def: 107 -> 237 = +130
-SpA: 113 -> 258 = +145
-SpD: 89 -> 129 = +40
+SpA: 113 -> 208 = +95
+SpD: 89 -> 179 = +90
 Spe: 97 -> 172 = +75
 BST: 680 -> 1340
 Ability: Blazing Body
 New Moves
 Autotomize
 Flame Switch
+Shift Gear
 Stealth Rock
 Steel Beam
 Teleport
@@ -6838,18 +6852,22 @@ Effect: Prevents other Pokemon from lowering this Pokemon's stat stages. Sunstee
 ------------------------------------------------------------------------
 Lunala   
 Hp: 137 -> 217 = +80
-Atk: 113 -> 208 = +95
-Def: 89 -> 129 = +40
+Atk: 113 -> 158 = +45
+Def: 89 -> 179 = +90
 SpA: 137 -> 327 = +190
 SpD: 107 -> 287 = +180
 Spe: 97 -> 172 = +75
 BST: 680 -> 1340
-Added Ability: Shadow Draw
+Added Ability: Shadow Draw/Full Moon
 New Moves
+Amnesia
+Aqua Soul
+Bubble Beam
 Cosmic Starfall
 Dual Wingbeat
 Expanding Force
 Focus Blast
+Hydro Pump
 Magma Storm
 Meteor Beam
 Mind Cleaner
@@ -6858,13 +6876,20 @@ Psychic Storm
 Psychic Wind
 Psycho Darts
 Psycho Fire
+Rain Dance
 Shadow Flame
 Shadow Steal
 Sludge Switch
 Spooky Revenge
+Surf
 Tailwind
 Teleport
 Uproar
+Water Spout
+Wave Turn
+
+Full Moon (New Ability)
+Effect: Pokemon becomes a Ghost/Water Type; Pokemon restores 1/10 Max Hp for each stat that is raised.
 ------------------------------------------------------------------------
 Pheromosa   
 Hp: 71 -> 141 = +70
@@ -6889,6 +6914,7 @@ Spe: 83 -> 153 = +70
 BST: 570 -> 1140
 Added Ability: Galvanize
 New Moves
+Agility
 Hyper Voice
 Rising Voltage
 ------------------------------------------------------------------------
@@ -6938,8 +6964,9 @@ SpA: 127 -> 277 = +100
 SpD: 131 -> 281 = +150
 Spe: 103 -> 163 = +60
 BST: 570 -> 1140
-Added Ability: Levitate
+Added Abilities: Corrosion/Levitate
 New Moves
+Aromatic Mist
 Meteor Beam
 Sludge Switch
 ------------------------------------------------------------------------
@@ -8195,6 +8222,7 @@ Earth Power
 Magnitude
 Moonblast
 Nasty Plot
+Rental Charge
 Shatter Beam
 Shattered Earth
 Swords Dance
@@ -8481,7 +8509,7 @@ BST: 540 -> 1135
 Ability: Zen Mode -> Pressure
 Added Ability: Unaware
 -------------------------------------------------------------------------
-Naganadel
+Naganadel    
 Hp: 73 -> 143 = +70
 Atk: 73 -> 223 = +150
 Def: 73 -> 143 = +70
@@ -8489,7 +8517,7 @@ SpA: 127 -> 307 = +180
 SpD: 73 -> 143 = +70
 Spe: 121 -> 181 = +60
 BST: 570 -> 1140
-Added Ability: Speed Pledge
+Added Ability: Corrosion/Speed Pledge
 New Moves
 Meteor Beam
 
@@ -8681,6 +8709,7 @@ New Moves
 Malice Run
 Milk Drink
 Power Trip
+Rental Charge
 Substitute
 
 Urshifu-R   
@@ -8698,6 +8727,7 @@ Aqua Step
 Flip Turn
 Milk Drink
 Water Break
+Rental Charge
 Substitute
 ------------------------------------------------------------------------
 Meowscarada   
@@ -10088,8 +10118,9 @@ Boost Chance: 10% -> 35%
 Boosts: All Stats -> SpA
 PP: 5 -> 10
 --
-Apple Acid
-Base Power: 80 -> 150
+Apple Acid    
+Base Power: 80 -> 130
+Secondary Effect: 100% Chance to lower opponent's SpD by 1 Stage
 Additional Effect: Hits Steel-Type Pokemon Super-Effectively
 --
 Aqua Charge (New Move)
@@ -11302,7 +11333,7 @@ Category: Physical
 Contact: Yes
 Multi-Hits: 4-5
 Priority: +0
-Effect: Increased Crit Ratio
+Effect: __
 PP: 15
 Target: Normal
 Type: Normal
@@ -11376,9 +11407,10 @@ Maximum Base Power: 120 -> 250
 Grass Whistle
 Accuracy: 55
 --
-Grav Apple
-Base Power: 80 -> 150
-Effect: x1.5 Power under Gravity -> Hits Steel-Types Super-Effectively
+Grav Apple   
+Base Power: 80 -> 130
+Secondary Effect: 100% Chance to lower opponent's Def by 1 Stage
+Additional Effect: x1.5 Power under Gravity -> Hits Steel-Types Super-Effectively
 --
 Guard Swap
 Effect: Swaps user's Defense and Special Defense
@@ -12460,6 +12492,16 @@ Relic Song
 Base Power: 75 -> 150
 Slp Chance: 10% -> 15%
 Becomes Physical Move if user's Attack Stat is higher
+--
+Rental Charge (New Move)
+Base Power: __
+Accuracy: True
+Category: Status
+Contact: No
+Effect: Raises the Pokemon's Speed by 2 Stages, and its Highest Attacking Stat by 1 Stage, for 3 Turns, before clearing all of the Pokemon's Boosts. If both Offensive Stats are equal, this move will raise both of the Pokemon's Attacking Stats, and their Speed, by 1 stage each. This move can only be used once per Battle.
+PP: 5
+Target: Self
+Type: Normal
 --
 Rest
 Penalty: Will not activate if the Pokemon has Life Force
@@ -13586,6 +13628,17 @@ Wave Crash
 Base Power: 120 -> 160
 Penalty: 1/3 Recoil -> -1 Def/-1 SpD
 --
+Wave Turn (New Move)
+Base Power: 85
+Accuracy: 100
+Category: Special (Physical if SpA stat is higher Atk)
+Contact: No
+Effect: 30% chance to flinch; Switches user out
+Priority: +0
+PP: 5
+Target: Normal
+Type: Water
+--
 Weather Ball
 Base Power: 50 -> 100
 Weather Base Power: 100 -> 150
@@ -13723,6 +13776,9 @@ Sunny Day = Summer Forme
 Rainy Day = Autumn Forme
 Hail = Winter Forme
 --
+Corrosion
+Additional Effect: Pokemon's Poison-Type Moves can affect opposing Steel-Type Pokemon; Resisted Poison-Type Hits deal x1.5 Damage
+--
 Cute Charm
 Effect: 30% Infatuation Chance if opposite Gender makes Contact -> Opposing Contact-Moves have Halved Power
 ------------------------------------------------------------------------
@@ -13795,6 +13851,9 @@ Category: G
 --
 Galvanize
 Boost: x1.2
+--
+Golden Touch   
+Effect: Pokemon's Contact Moves have a guaranteed chance to lower the target's Defense Stat by 1 Stage. This effect is calculated per-Hit, and will activate as many times as the Pokemon manages to hit their Target. The Target's Defense Stat will not drop beyond -3 Stages.
 --
 Goon Patrol
 Effect: Attacks have x1.5 power if one of the user's teammates fainted last turn.
@@ -14311,6 +14370,11 @@ Effect: All of the Pokemon's Moves have x1.3 Base Power when at Max Hp; x1.5 Dam
 --
 Realist: 
 Effect: All of the Pokemon's Moves have x1.3 Base Power when at Max Hp; Pokemon cannot be Burned, Poisoned, or Intoxicated; Pokemon's Moves lose their Secondary Effects
+-----------------------------------------------------------------------------
+Category: Lunala Exclusive Abilities
+--
+Full Moon    
+Effect: Pokemon becomes a Ghost/Water Type; Pokemon restores 1/10 Max Hp for each stat that is raised.
 =========================================================
 Section H  
 Modified Type Interactions  
