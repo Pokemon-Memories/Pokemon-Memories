@@ -87,7 +87,7 @@ Serious Nature
 - Nature's Madness  
 - Stealth Rock  
 - Strength Sap  
-- Royal Retreat  
+- royalretreat  
 
 
 === [gen6balancedhackmons] Fairy Aura ===
@@ -109,7 +109,7 @@ IVs: 0 Spe
 - Origin Pulse  
 - Spectral Thief  
 - expressheal  
-- Royal Retreat  
+- royalretreat  
 
 Arceus-Fairy @ Bright Powder  
 Ability: doubledown  
@@ -199,7 +199,7 @@ IVs: 0 Spe
 - Core Enforcer  
 - Spectral Thief  
 - royalnourishment  
-- Royal Retreat  
+- royalretreat  
 
 Xerneas (M) @ Bright Powder  
 Ability: spectralveil  
@@ -209,7 +209,7 @@ Sassy Nature
 - Nature's Madness  
 - Toxic Spikes  
 - royalnourishment  
-- Royal Retreat  
+- royalretreat  
 
 
 === [gen6balancedhackmons] Team Medley ===
@@ -241,7 +241,7 @@ IVs: 0 Spe
 - Core Enforcer  
 - Spectral Thief  
 - royalnourishment  
-- Royal Retreat  
+- royalretreat  
 
 Arceus-Fairy @ Bright Powder  
 Ability: Fur Coat  
@@ -260,7 +260,7 @@ IVs: 0 Spe
 - Origin Pulse  
 - Spectral Thief  
 - expressheal  
-- Royal Retreat  
+- royalretreat  
 
 Eternatus (M) @ Black Sludge  
 Ability: spectralveil  
@@ -911,7 +911,7 @@ Timid Nature
 - Night Daze  
 
 Arceus @ Payapa Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Shiny: Yes  
 EVs: 252 Atk / 4 Def / 252 Spe  
 Jolly Nature  
@@ -963,7 +963,7 @@ Naive Nature
 - Poltergeist  
 
 Arceus @ Kasib Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 EVs: 252 Atk / 4 Def / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
@@ -1033,7 +1033,7 @@ Timid Nature
 - sludgeswitch  
 
 Landorus-Therian (M) @ Sweet Apple  
-Ability: pacify  
+Ability: Pacify  
 EVs: 252 HP / 252 Def / 4 Spe  
 Bold Nature  
 - Sandsear Storm  
@@ -1084,7 +1084,7 @@ IVs: 0 Atk
 - Volt Switch  
 
 Landorus-Therian (M) @ Sweet Apple  
-Ability: pacify  
+Ability: Pacify  
 EVs: 252 HP / 252 Def / 4 Spe  
 Bold Nature  
 - Sandsear Storm  
@@ -1223,7 +1223,7 @@ Jolly Nature
 - Dragon Dance  
 
 Arceus @ Roseli Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Shiny: Yes  
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
@@ -1251,7 +1251,7 @@ IVs: 0 Spe
 - royalpunishment  
 - Toxic  
 - royalnourishment  
-- Royal Retreat  
+- royalretreat  
 
 
 === [gen6ultraassist] Ultra Assist/Mewtwo's Hightened Mind (SpA Assist: Wigglytuff) ===
@@ -1418,7 +1418,7 @@ Jolly Nature
 - Autotomize  
 
 Arceus @ Payapa Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Shiny: Yes  
 EVs: 252 Atk / 4 Def / 252 Spe  
 Jolly Nature  
@@ -1654,7 +1654,7 @@ IVs: 0 Atk / 0 Spe
 - Aromatic Mist  
 
 Arceus @ Payapa Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Shiny: Yes  
 EVs: 252 Atk / 4 Def / 252 Spe  
 Jolly Nature  
@@ -1729,7 +1729,7 @@ IVs: 0 Spe
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Necrozma-Dawn-Wings @ Assault Vest  
 Ability: lightinversion  
@@ -1790,7 +1790,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Palkia @ Choice Scarf  
 Ability: dracolate  
@@ -2323,7 +2323,7 @@ Adamant Nature
 - Aromatic Mist  
 - accelerate  
 
-Giratina @ Leftovers  
+Giratina @ Chipped Pot  
 Ability: distortionveil  
 Shiny: Yes  
 EVs: 252 HP / 4 SpA / 252 SpD  
@@ -2413,7 +2413,7 @@ Jolly Nature
 - expressheal  
 - U-turn  
 
-Giratina @ Leftovers  
+Giratina @ Chipped Pot  
 Ability: distortionveil  
 Shiny: Yes  
 EVs: 252 HP / 4 SpA / 252 SpD  
@@ -2482,7 +2482,7 @@ Calm Nature
 - slushswitch  
 
 Tornadus @ Choice Scarf  
-Ability: Tempest  
+Ability: tempest  
 Shiny: Yes  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
@@ -2511,7 +2511,7 @@ IVs: 0 Atk
 - Roost  
 - Uproar  
 
-Giratina @ Leftovers  
+Giratina @ Chipped Pot  
 Ability: distortionveil  
 Shiny: Yes  
 EVs: 252 HP / 4 SpA / 252 SpD  
@@ -2729,7 +2729,7 @@ Timid Nature
 - Quiver Dance  
 
 Landorus-Therian @ Assault Vest  
-Ability: pacify  
+Ability: Pacify  
 EVs: 4 HP / 252 Def / 252 Spe  
 Impish Nature  
 - Sandsear Storm  
@@ -2899,7 +2899,7 @@ Jolly Nature
 - Double Team  
 
 Salamence (M) @ Salamencite  
-Ability: pacify  
+Ability: Pacify  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Adamant Nature  
 - Body Slam  
@@ -3018,7 +3018,7 @@ IVs: 0 Atk
 - Uproar  
 
 Salamence (M) @ Salamencite  
-Ability: pacify  
+Ability: Pacify  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Adamant Nature  
 - Body Slam  
@@ -3188,7 +3188,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Necrozma-Dawn-Wings @ Assault Vest  
 Ability: lightinversion  
@@ -3242,7 +3242,7 @@ Timid Nature
 - Aromatic Mist  
 
 Arceus @ Chople Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
@@ -3510,7 +3510,7 @@ IVs: 0 Atk
 - Recover  
 
 Arceus @ Chople Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
@@ -3635,14 +3635,14 @@ Careful Nature
 - Aromatic Mist  
 
 Arceus @ Payapa Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Shiny: Yes  
 EVs: 252 HP / 4 Atk / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
 - darkestnightfall  
 - Rock Wrecker  
-- Royal Retreat  
+- royalretreat  
 
 
 === [gen6ubers] Merciless (Groudon, Fire) ===
@@ -3838,7 +3838,7 @@ Timid Nature
 - slushswitch  
 
 Arceus @ Chople Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
@@ -4109,7 +4109,7 @@ EVs: 4 Atk / 252 Def / 252 Spe
 Jolly Nature  
 - infinitevelocity  
 - royalforestation  
-- Royal Retreat  
+- royalretreat  
 - Recover  
 
 Vaporeon @ Leftovers  
@@ -4177,7 +4177,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 
 === [gen6ubers] Champion (Rayquaza, Fairy) ===
@@ -4230,7 +4230,7 @@ IVs: 0 Atk
 - Parting Shot  
 
 Arceus @ Payapa Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
@@ -4321,7 +4321,7 @@ Careful Nature
 - Aromatic Mist  
 
 Tornadus @ Choice Scarf  
-Ability: Tempest  
+Ability: tempest  
 Shiny: Yes  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
@@ -4551,7 +4551,7 @@ Timid Nature
 - Aromatic Mist  
 
 Arceus @ Chople Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
@@ -4577,7 +4577,7 @@ Naive Nature
 - mineralcannon  
 - Poltergeist  
 
-Giratina @ Leftovers  
+Giratina @ Chipped Pot  
 Ability: distortionveil  
 Shiny: Yes  
 EVs: 252 HP / 4 SpA / 252 SpD  
@@ -4639,7 +4639,7 @@ IVs: 0 Atk
 - Withdraw  
 
 Landorus-Therian @ Assault Vest  
-Ability: pacify  
+Ability: Pacify  
 EVs: 252 HP / 252 Def / 4 Spe  
 Impish Nature  
 - Sandsear Storm  
@@ -4772,7 +4772,7 @@ IVs: 0 Atk
 - Thunder Wave  
 
 Arceus @ Chople Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
@@ -4869,14 +4869,14 @@ Timid Nature
 - Flip Turn  
 
 Arceus @ Payapa Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Shiny: Yes  
 EVs: 252 HP / 4 Atk / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
 - Rock Wrecker  
 - Earthquake  
-- Royal Retreat  
+- royalretreat  
 
 Celesteela @ Metal Coat  
 Ability: Filter  
@@ -4931,7 +4931,7 @@ IVs: 0 Atk
 - Parting Shot  
 
 Landorus-Therian @ Grass Memory  
-Ability: pacify  
+Ability: Pacify  
 EVs: 252 HP / 108 Def / 144 SpD / 4 Spe  
 Impish Nature  
 - Sandsear Storm  
@@ -5008,14 +5008,14 @@ Jolly Nature
 - Stone Edge  
 
 Arceus @ Payapa Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Shiny: Yes  
 EVs: 252 HP / 4 Atk / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
 - Earthquake  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 
 === [gen6ubers] Is It Scary? (Calyrex-Shadow, Ghost) ===
@@ -5290,7 +5290,7 @@ IVs: 0 Atk
 - Nasty Plot  
 
 Arceus @ Payapa Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -5361,7 +5361,7 @@ Naive Nature
 - fluttersong  
 
 Arceus @ Chople Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -5418,7 +5418,7 @@ Jolly Nature
 - Ice Hammer  
 - Fire Blast  
 - Stone Edge  
-- Royal Retreat  
+- royalretreat  
 
 Meowscarada (F) @ Lax Incense  
 Ability: parlortrick  
@@ -5767,7 +5767,7 @@ IVs: 0 Atk
 - Withdraw  
 
 Arceus @ Payapa Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -5797,7 +5797,7 @@ IVs: 0 Atk
 - Parting Shot  
 
 Landorus-Therian @ Assault Vest  
-Ability: pacify  
+Ability: Pacify  
 EVs: 252 HP / 252 Def / 4 Spe  
 Impish Nature  
 - Sandsear Storm  
@@ -5829,7 +5829,7 @@ IVs: 0 Atk
 - Parting Shot  
 
 Landorus-Therian @ Assault Vest  
-Ability: pacify  
+Ability: Pacify  
 EVs: 252 HP / 252 Def / 4 Spe  
 Impish Nature  
 - Sandsear Storm  
@@ -5889,7 +5889,7 @@ IVs: 0 Atk
 - Parting Shot  
 
 Landorus-Therian @ Grass Memory  
-Ability: pacify  
+Ability: Pacify  
 EVs: 252 HP / 108 Def / 144 SpD / 4 Spe  
 Impish Nature  
 - Sandsear Storm  
@@ -5966,7 +5966,7 @@ Careful Nature
 - Shell Smash  
 
 Landorus-Therian @ White Herb  
-Ability: pacify  
+Ability: Pacify  
 EVs: 252 HP / 252 Def / 4 Spe  
 Impish Nature  
 - Sandsear Storm  
@@ -5975,7 +5975,7 @@ Impish Nature
 - U-turn  
 
 Arceus @ Payapa Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -6006,7 +6006,7 @@ Naive Nature
 - Charge  
 
 Landorus-Therian @ Assault Vest  
-Ability: pacify  
+Ability: Pacify  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Careful Nature  
 - Sandsear Storm  
@@ -6149,7 +6149,7 @@ IVs: 0 Atk
 - Withdraw  
 
 Landorus-Therian @ Assault Vest  
-Ability: pacify  
+Ability: Pacify  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Careful Nature  
 - Sandsear Storm  
@@ -6277,7 +6277,7 @@ Jolly Nature
 - Trailblaze  
 
 Landorus-Therian @ Assault Vest  
-Ability: pacify  
+Ability: Pacify  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Careful Nature  
 - Sandsear Storm  
@@ -6574,7 +6574,7 @@ IVs: 0 Atk
 - Happy Hour  
 
 Landorus-Therian @ Assault Vest  
-Ability: pacify  
+Ability: Pacify  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Careful Nature  
 - Sandsear Storm  
@@ -6860,7 +6860,7 @@ Jolly Nature
 - Ice Hammer  
 - Earthquake  
 - Recover  
-- Royal Retreat  
+- royalretreat  
 
 Vaporeon @ Leftovers  
 Ability: utilitylock  
@@ -6922,7 +6922,7 @@ Jolly Nature
 - Trailblaze  
 
 Landorus-Therian @ Assault Vest  
-Ability: pacify  
+Ability: Pacify  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Careful Nature  
 - Sandsear Storm  
@@ -7158,7 +7158,7 @@ Jolly Nature
 - Extreme Speed  
 - memoryblast  
 - heavendance  
-- Royal Retreat  
+- royalretreat  
 
 Palkia @ Choice Scarf  
 Ability: dracolate  
@@ -7244,7 +7244,7 @@ Careful Nature
 === [gen6ubers] Dawn of Time (Mewtwo, Fairy) ===
 
 Arceus @ Enigma Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
@@ -7391,7 +7391,7 @@ Careful Nature
 - Aromatic Mist  
 
 Arceus @ Enigma Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
@@ -7536,7 +7536,7 @@ Impish Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 
 === [gen6ubers] Entropy (✗) ===
@@ -7581,13 +7581,13 @@ Jolly Nature
 - Roost  
 
 Arceus @ Payapa Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Shiny: Yes  
 EVs: 252 HP / 4 Atk / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 - heavendance  
 
 Zoroark-Hisui (M) @ Spooky Plate  
@@ -7632,13 +7632,13 @@ Hasty Nature
 - Night Daze  
 
 Arceus @ Payapa Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Shiny: Yes  
 EVs: 252 HP / 4 Atk / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
 - darkestnightfall  
-- Royal Retreat  
+- royalretreat  
 - heavendance  
 
 Manaphy @ Sea Incense  
@@ -7652,7 +7652,7 @@ IVs: 0 Atk
 - Stealth Rock  
 
 Landorus-Therian @ Grass Memory  
-Ability: pacify  
+Ability: Pacify  
 EVs: 252 HP / 108 Def / 144 SpD / 4 Spe  
 Impish Nature  
 - Sandsear Storm  
@@ -7745,7 +7745,7 @@ Timid Nature
 - Flip Turn  
 
 Landorus-Therian @ Grass Memory  
-Ability: pacify  
+Ability: Pacify  
 EVs: 252 HP / 108 Def / 144 SpD / 4 Spe  
 Impish Nature  
 - Sandsear Storm  
@@ -7754,14 +7754,14 @@ Impish Nature
 - U-turn  
 
 Arceus @ Payapa Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Shiny: Yes  
 EVs: 252 HP / 4 Atk / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
 - darkestnightfall  
 - Rock Wrecker  
-- Royal Retreat  
+- royalretreat  
 
 Deoxys-Speed @ Nomel Berry  
 Ability: inertia  
@@ -7874,14 +7874,14 @@ Jolly Nature
 - Roost  
 
 Arceus @ Payapa Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Shiny: Yes  
 EVs: 252 HP / 4 Atk / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
 - Rock Wrecker  
 - Earthquake  
-- Royal Retreat  
+- royalretreat  
 
 Deoxys-Speed @ Nomel Berry  
 Ability: inertia  
@@ -8091,14 +8091,14 @@ Adamant Nature
 === [gen6ubers] Dominance (✗) ===
 
 Arceus @ Payapa Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Shiny: Yes  
 EVs: 252 HP / 4 Atk / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
 - Earthquake  
 - Rock Wrecker  
-- Royal Retreat  
+- royalretreat  
 
 Ho-Oh @ Sweet Apple  
 Ability: Magic Guard  
@@ -9056,7 +9056,7 @@ EVs: 4 Atk / 252 Def / 252 Spe
 Jolly Nature  
 - infinitevelocity  
 - royalforestation  
-- Royal Retreat  
+- royalretreat  
 - Recover  
 
 
@@ -9155,7 +9155,7 @@ Jolly Nature
 - Roost  
 
 Landorus-Therian @ Grass Memory  
-Ability: pacify  
+Ability: Pacify  
 EVs: 252 HP / 108 Def / 144 SpD / 4 Spe  
 Impish Nature  
 - Sandsear Storm  
@@ -9187,7 +9187,7 @@ IVs: 0 Atk
 === [gen6ubers] Release the Darkness (Zoro-H, Ghost) ===
 
 Hoopa-Unbound @ Choice Scarf  
-Ability: pacify  
+Ability: Pacify  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Hyperspace Fury  
@@ -9212,7 +9212,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Zoroark-Hisui (M) @ Ghost Memory  
 Ability: Tough Claws  
@@ -9253,7 +9253,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Zacian-Crowned @ Ground Memory  
 Ability: Intrepid Sword  
@@ -9393,7 +9393,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Zekrom @ Choice Scarf  
 Ability: idealist  
@@ -9533,7 +9533,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Palkia @ Choice Scarf  
 Ability: dracolate  
@@ -9694,7 +9694,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Meowscarada (F) @ Lax Incense  
 Ability: parlortrick  
@@ -9745,7 +9745,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Meloetta @ Throat Spray  
 Ability: ensemble  
@@ -10256,7 +10256,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Meloetta @ Sweet Apple  
 Ability: ensemble  
@@ -10315,7 +10315,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
@@ -10444,7 +10444,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Necrozma-Dawn-Wings @ Assault Vest  
 Ability: lightinversion  
@@ -10514,7 +10514,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 
 === [gen6ubers] Kyogre's Comeback (Mewtwo, Dark) ===
@@ -10545,7 +10545,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Darkrai @ Bright Powder  
 Ability: midnightveil  
@@ -10607,7 +10607,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Meowscarada (F) @ Lax Incense  
 Ability: parlortrick  
@@ -10688,7 +10688,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Palkia @ Choice Scarf  
 Ability: dracolate  
@@ -10738,7 +10738,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Meowscarada (F) @ Lax Incense  
 Ability: parlortrick  
@@ -10796,7 +10796,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Meowscarada (F) @ Lax Incense  
 Ability: parlortrick  
@@ -10856,7 +10856,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Meowscarada (F) @ Lax Incense  
 Ability: parlortrick  
@@ -10896,7 +10896,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Yveltal @ Zoom Lens  
 Ability: Dark Aura  
@@ -10919,7 +10919,7 @@ Quiet Nature
 - Thunder Wave  
 
 Tornadus @ Rose Incense  
-Ability: Tempest  
+Ability: tempest  
 Shiny: Yes  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
@@ -10996,7 +10996,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 
 === [gen6ubers] Deluge (Zacian-Crowned, Ground) ===
@@ -11036,7 +11036,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Calyrex-Shadow @ Choice Scarf  
 Ability: Power Spot  
@@ -11062,7 +11062,7 @@ Jolly Nature
 === [gen6ubers] Enter the Darkness (Mewtwo, Fairy) ===
 
 Gyarados (M) @ Gyaradosite  
-Ability: pacify  
+Ability: Pacify  
 EVs: 252 Atk / 252 Spe  
 Jolly Nature  
 - Waterfall  
@@ -11096,7 +11096,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Kyogre @ Rose Incense  
 Ability: Drizzle  
@@ -11150,13 +11150,13 @@ Modest Nature
 - Flip Turn  
 
 Arceus @ Payapa Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
 - Earthquake  
 - heavendance  
-- Royal Retreat  
+- royalretreat  
 
 Corviknight @ Snowball  
 Ability: Mirror Armor  
@@ -11187,7 +11187,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Zacian-Crowned @ Ground Memory  
 Ability: Intrepid Sword  
@@ -11284,7 +11284,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Necrozma-Dawn-Wings @ Assault Vest  
 Ability: lightinversion  
@@ -11351,7 +11351,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 
 === [gen6ubers] Bokutachi no Victory (Marshadow, Fighting) ===
@@ -11399,7 +11399,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Necrozma-Dawn-Wings @ Assault Vest  
 Ability: lightinversion  
@@ -11448,7 +11448,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Zeraora @ Choice Scarf  
 Ability: Volt Absorb  
@@ -11518,7 +11518,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Necrozma-Dawn-Wings @ Assault Vest  
 Ability: lightinversion  
@@ -11533,7 +11533,7 @@ Calm Nature
 === [gen6ubers] On His Throne (Lilligant, Grass) ===
 
 Arceus @ Chople Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
@@ -11576,7 +11576,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Kyogre @ Rose Incense  
 Ability: Drizzle  
@@ -11630,7 +11630,7 @@ Jolly Nature
 - Volt Tackle  
 - Agility  
 
-Giratina @ Leftovers  
+Giratina @ Chipped Pot  
 Ability: distortionveil  
 Shiny: Yes  
 EVs: 252 HP / 4 SpA / 252 SpD  
@@ -11648,7 +11648,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 
 === [gen6ubers] Extrapolation (Mewtwo, Grass) ===
@@ -11696,7 +11696,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Mewtwo @ Grass Memory  
 Ability: psychicpower  
@@ -11728,7 +11728,7 @@ IVs: 0 Spe
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
@@ -11797,7 +11797,7 @@ IVs: 0 Spe
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Kyogre @ Room Service  
 Ability: Drizzle  
@@ -11928,7 +11928,7 @@ Hasty Nature
 - froststep  
 
 Landorus-Therian @ Assault Vest  
-Ability: pacify  
+Ability: Pacify  
 EVs: 4 HP / 252 Def / 252 Spe  
 Bold Nature  
 - Sandsear Storm  
@@ -12089,7 +12089,7 @@ Timid Nature
 - Quiver Dance  
 
 Landorus-Therian @ Assault Vest  
-Ability: pacify  
+Ability: Pacify  
 EVs: 4 HP / 252 Def / 252 Spe  
 Bold Nature  
 - Sandsear Storm  
@@ -12158,7 +12158,7 @@ Jolly Nature
 - aquacharge  
 
 Landorus-Therian @ Assault Vest  
-Ability: pacify  
+Ability: Pacify  
 EVs: 4 HP / 252 Def / 252 Spe  
 Bold Nature  
 - Sandsear Storm  
@@ -12280,7 +12280,7 @@ Timid Nature
 - naturesvoice  
 
 Landorus-Therian @ Fairy Memory  
-Ability: pacify  
+Ability: Pacify  
 EVs: 4 HP / 252 SpD / 252 Spe  
 Calm Nature  
 - Sandsear Storm  
@@ -12350,7 +12350,7 @@ Adamant Nature
 - Rock Polish  
 
 Landorus-Therian @ Assault Vest  
-Ability: pacify  
+Ability: Pacify  
 EVs: 4 HP / 252 SpD / 252 Spe  
 Calm Nature  
 - Sandsear Storm  
@@ -12425,7 +12425,7 @@ Jolly Nature
 - Glacial Lance  
 - Stealth Rock  
 - accelerate  
-- Royal Retreat  
+- royalretreat  
 
 
 === [gen6ubers] It's Not That Easy (Caly-S, Ground) ===
@@ -12459,7 +12459,7 @@ IVs: 0 Spe
 - Withdraw  
 
 Tornadus @ Rose Incense  
-Ability: Tempest  
+Ability: tempest  
 Shiny: Yes  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
@@ -12620,7 +12620,7 @@ IVs: 0 Atk
 - Night Daze  
 
 Tornadus @ Rose Incense  
-Ability: Tempest  
+Ability: tempest  
 Shiny: Yes  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
@@ -12630,7 +12630,7 @@ Timid Nature
 - Tailwind  
 
 Landorus-Therian @ Grass Memory  
-Ability: pacify  
+Ability: Pacify  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Careful Nature  
 - Sandsear Storm  
@@ -12659,7 +12659,7 @@ IVs: 0 Atk
 - Withdraw  
 
 Arceus @ Chilan Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Multi-Attack  
@@ -12687,7 +12687,7 @@ Adamant Nature
 - Glacial Lance  
 - Leafage  
 - accelerate  
-- Royal Retreat  
+- royalretreat  
 
 Arceus-Ground @ Earth Plate  
 Ability: Multitype  
@@ -12802,7 +12802,7 @@ Jolly Nature
 - aquacharge  
 
 Landorus-Therian @ Assault Vest  
-Ability: pacify  
+Ability: Pacify  
 EVs: 4 HP / 252 SpD / 252 Spe  
 Calm Nature  
 - Sandsear Storm  
@@ -13260,7 +13260,7 @@ Naive Nature
 - leafswitch  
 
 Landorus-Therian @ Assault Vest  
-Ability: pacify  
+Ability: Pacify  
 EVs: 4 HP / 252 SpD / 252 Spe  
 Calm Nature  
 - Sandsear Storm  
@@ -13283,7 +13283,7 @@ IVs: 0 Atk
 === [gen6ubers] Omnipotent (Zekrom, Electric) ===
 
 Arceus @ Chilan Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
@@ -13351,10 +13351,10 @@ Adamant Nature
 - Glacial Lance  
 - Leafage  
 - accelerate  
-- Royal Retreat  
+- royalretreat  
 
 Tornadus @ Rose Incense  
-Ability: Tempest  
+Ability: tempest  
 Shiny: Yes  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
@@ -13414,7 +13414,7 @@ Timid Nature
 - psychodarts  
 
 Tornadus @ Rose Incense  
-Ability: Tempest  
+Ability: tempest  
 Shiny: Yes  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
@@ -13576,7 +13576,7 @@ IVs: 0 Spe
 - Withdraw  
 
 Arceus @ Chilan Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
@@ -13666,7 +13666,7 @@ Adamant Nature
 - rentalcharge  
 
 Landorus-Therian @ Grass Memory  
-Ability: pacify  
+Ability: Pacify  
 EVs: 252 HP / 252 Atk / 4 Spe  
 Adamant Nature  
 - Sandsear Storm  
@@ -13705,15 +13705,14 @@ Timid Nature
 
 === [gen6ubers] Calming Light (Meowth, ???) ===
 
-Lunala @ Leftovers  
+Lunala @ Chipped Pot  
 Ability: fullmoon  
-EVs: 4 HP / 252 SpD / 252 Spe  
+EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-IVs: 0 Atk  
-- Bubble Beam  
+- purifyingwater  
 - Moongeist Beam  
-- Cosmic Power  
-- Moonlight  
+- Meteor Beam  
+- Howl  
 
 Meowth (M) @ Dubious Disc  
 Ability: goldentouch  
@@ -13736,7 +13735,7 @@ IVs: 0 Atk
 - Parting Shot  
 
 Arceus @ Chilan Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Extreme Speed  

@@ -15,10 +15,19 @@ Mechanics
 - Weather
 	- Sunlight
 		- Additional Effect: All Grass-Type Pokemon on the field restore 1/10 of their Max Hp at the end of each turn
+- Weather-Defying Moves
+	- Moves that gain a Power Boost under their antagonistic Weather Conditions now receive a x1.5 Damage Boost from the Weather itself, rather than a x3 Boost against the Weather's negative effects
+	- Affected Moves: Sacred Fire, Sacred Water, Steam Eruption
 
 Abilities
 - Download
 	- Boost Duration: 1 Turn -> 4 Active Turns
+
+Items
+- Chipped Pot
+	- Implemented
+	- Effect: Heals holder by 1/10 max hp each turn if it is a Ghost-Type.
+
 
 Moves
 - Berserk Blaze
@@ -34,12 +43,44 @@ Moves
 		- PP: 5
 		- Type: Steel
 		- Users: Aegislash, Genesect, Lucario, Zacian, Zamazenta
+- Covert Switch
+	- Implemented
+		- Base Power: 85
+		- Accuracy: 100
+		- Category: Special (Physical if the Pokemon's Atk stat is higher)
+		- Contact: No
+		- Effect: 30% chance to lower the opponent's SpA by 1 stage; Hits Normal-Type Pokemon Semi-Effectively; Switches the user out
+		- Priority: 0
+		- PP: 5
+		- Type: Water
+		- Users: Gengar, Giratina, Golurk, Lunala, Rotom
 - Flame Switch
 	- Now becomes a Physical Move if the Pokemon's Atk Stat is higher
+- Moonlight
+	- Health Restoration
+		- Floor: 25% -> 40%
+- Morning Sun
+	- Health Restoration
+		- Floor: 25% -> 40%
 - Pay Day
 	- Base Power: 90 -> 40
 	- Priority: +0 -> +4
 	- Additional Effect: Guaranteed Chance to Flinch the Opponent; Can only be used once per Switch-In
+- Purifying Water
+	- Implemented
+		- Base Power: 120
+		- Accuracy: 100
+		- Category: Special
+		- Contact: No
+		- Effect: Hits opposing Poison-Type Pokemon Super-Effectively; 30% Chance to lower the target's SpD by 1 Stage.
+		- Priority: 0
+		- PP: 10
+		- Type: Water
+		- Users: Lunala
+- Synthesis	
+	- Health Restoration
+		- Ceiling: 75% -> 66.7%
+		- Floor: 25% -> 40%
 - Wave Switch
 	- Corrected an error where this move was labelled incorrectly
 
@@ -47,9 +88,21 @@ Pokemon
 - Aegislash
 	- Learnset Additions
 		- Autotomize
+- Lunala
+	- Learnset Additions
+		- Compact Stream
+		- Ethereal Stream
+		- Lustrous Stream
+		- Purifying Water
 - Zacian
 	- Learnset
 		- Corrected an error where Zacian was stated to learn Rental Charge, despite not being able to use it; Zacian can now learn Rental Charge
+
+
+
+
+
+
 
 Pokemon Memories v1.7.7
 Annoucement

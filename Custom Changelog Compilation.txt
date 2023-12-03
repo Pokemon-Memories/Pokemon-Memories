@@ -1965,6 +1965,7 @@ BST: 894 -> 1220
 Ability: Shadow Tag -> Shadow Draw
 New Moves
 Bitter Malice
+Covert Switch
 Mystery Slash
 Mystery Sphere
 Mystery Wave
@@ -3610,6 +3611,7 @@ Spe: 91 -> 181 = +90
 BST: 440 -> 1165
 New Ability: Magic Bounce
 New Moves
+Covert Switch
 Rising Voltage
 Shatter Shade
 Poltergeist
@@ -3857,6 +3859,7 @@ Ancient Power
 Autotomize
 Breaking Swipe
 Cosmic Power
+Covert Switch
 Dragon Jaw
 Dragon Rage
 Dual Wingbeat
@@ -4921,6 +4924,7 @@ Pillars of Enlightenment
 New Moves
 Agility
 Aromatic Mist
+Covert Switch
 Darkest Lariat
 High Horsepower
 Poltergeist
@@ -6866,11 +6870,16 @@ New Moves
 Amnesia
 Aqua Soul
 Bubble Beam
+Compact Stream
 Cosmic Starfall
+Covert Switch
 Dual Wingbeat
+Ethereal Stream
 Expanding Force
 Focus Blast
+Howl
 Hydro Pump
+Lustrous Stream
 Magma Storm
 Meteor Beam
 Mind Cleaner
@@ -6879,6 +6888,7 @@ Psychic Storm
 Psychic Wind
 Psycho Darts
 Psycho Fire
+Purifying Water
 Rain Dance
 Shadow Flame
 Shadow Steal
@@ -10513,7 +10523,7 @@ No longer hits multiple times
 Bullet Switch (New Move)
 Base Power: 85
 Accuracy: 100
-Category: Physical (Special if SpA stat is higher Atk)
+Category: Varies (Physical by Default; Special, if SpA is higher)
 Contact: No
 Effect: 30% chance to lower the opponent's Attack Stat by 1 Stage; Switches user out
 Priority: +0
@@ -10531,7 +10541,7 @@ Can be snatched
 Celestial Strike (New Move)
 Base Power: 170
 Accuracy: 100
-Category: Physical (Special if SpA stat is higher)
+Category: Varies (Physical by Default; Special, if SpA is higher)
 Priority: +0
 Contact: No
 Effect: 50% chance to burn the opponent
@@ -10647,6 +10657,17 @@ Effect: Lowers user's SpA by 2 stages, and the opponent's SpA by 1 stage
 PP: 5
 Target: Normal
 Type: Psychic
+--
+Covert Switch (New Move)
+Base Power: 85
+Accuracy: 100
+Category: Varies (Special by Default; Physical, if SpA is higher)
+Contact: No
+Effect: 30% chance to lower the opponent's Special Attack by 1 Stage; Hits Normal-Types Semi-Effectively; Switches user out
+Priority: +0
+PP: 5
+Target: Normal
+Type: Ghost
 --
 Crabhammer
 Base Power: 100 -> 150
@@ -11095,7 +11116,7 @@ Base Power: 40 -> 50
 Fall Back (New Move)
 Base Power: 65
 Accuracy: 100
-Category: Physical (Special if SpA stat is higher Atk)
+Category: Varies (Physical by Default; Special, if SpA is higher)
 Contact: No
 Effect: 30% chance to flinch; Switches user out
 Priority: +0
@@ -11730,7 +11751,7 @@ Base Power: 90 -> 120
 Leaf Switch (New Move)
 Base Power: 85
 Accuracy: 100
-Category: Physical (Special if SpA stat is higher Atk)
+Category: Varies (Physical by Default; Special, if SpA is higher)
 Contact: No
 Effect: 30% chance to flinch; Switches user out
 Priority: +0
@@ -11924,6 +11945,12 @@ PP: 15 -> 10
 --
 Moongeist Beam
 Base Power: 100 -> 160
+--
+Moonlight
+Minimum Restoration: 25% Max Hp -> 40% Max Hp
+--
+Morning Sun
+Minimum Restoration: 25% Max Hp -> 40% Max Hp
 --
 Mud Bomb
 Base Power: 65 -> 150
@@ -12418,6 +12445,17 @@ Base Power: 60
 Formula: +20 Power per boosted opposing stat -> +80 Power
 Threshold: 200 -> 380
 --
+Purifying Water (New Move)
+Base Power: 120
+Category: Special
+Accuracy: 100
+Contact: No
+Effect: Hits opposing Poison-Type Pokemon Super-Effectively; 30% Chance to lower the target's SpD by 1 Stage.
+Priority: +0
+PP: 10
+Target: Normal
+Type: Water
+--
 Pursuit
 Base Power: 55 -> 75
 Status: Considered as unreleased; Unusable.
@@ -12489,7 +12527,7 @@ Priority: 0 -> -5
 Regal Exit (New Move)
 Base Power: 85
 Accuracy: 100
-Category: Physical (Special if SpA stat is higher Atk)
+Category: Varies (Physical by Default; Special, if SpA is higher)
 Contact: No
 Effect: 30% chance to flinch; Switches user out
 Priority: +0
@@ -12779,8 +12817,7 @@ Sacred Fire
 Base Power: 100 -> 150
 Accuracy: 95% -> 100%
 Bonus Effect: Hits Dragon-Types neutrally
-Additional Effect: Ignores stage changes to foe's Def/SpD; Tripled Base Power in Rain (Weather reduction still applies)
-Weather Base Power: 225 in Sun (150 * 1.5 = 225); 225 in Rain ((150 * 3 = 450) * 0.5 = 225)
+Additional Effect: Ignores stage changes to foe's Def/SpD; Damage is boosted by x1.5 under Rain, rather than reduced
 --
 Sacred Sword
 Base Power: 90 -> 145
@@ -12794,7 +12831,7 @@ Base Power: 180
 Accuracy: 100
 Category: Physical
 Contact: No
-Effect: Hits Water-Types, and Ice-Types, neutrally; Tripled Base Power under Sun (Weather reduction still applies).
+Effect: Hits Water-Types, and Ice-Types, neutrally; Damage is boosted by x1.5 under Sunlight, rather than reduced
 PP: 10
 Target: Normal
 Type: Water
@@ -12875,7 +12912,7 @@ Base Power: 40 -> 70
 Shadow Flame (New Move)
 Base Power: 140
 Accuracy: 100
-Category: Physical (Special if SpA is higher)
+Category: Varies (Physical by Default; Special, if SpA is higher)
 Priority: +0
 Contact: Yes
 Effect: Hits opposing Steel-Type Pokemon Super-Effectively
@@ -13106,7 +13143,7 @@ Type: Poison
 Sludge Switch (New Move)
 Base Power: 85
 Accuracy: 100
-Category: Physical (Special if SpA stat is higher Atk)
+Category: Varies (Physical by Default; Special, if SpA is higher)
 Contact: No
 Effect: 20% chance to poison; Switches user out; Hits Steel-Types Semi-Effectively
 Priority: +0
@@ -13117,7 +13154,7 @@ Type: Poison
 Slush Switch (New Move)
 Base Power: 85
 Accuracy: 100
-Category: Physical (Special if SpA stat is higher Atk)
+Category: Varies (Physical by Default; Special, if SpA is higher)
 Contact: No
 Effect: 30% chance to flinch; Switches user out
 Priority: +0
@@ -13242,7 +13279,7 @@ Type: Psychic
 Steam Eruption
 Base Power: 110 -> 180
 Accuracy: 95 -> 100
-Additional Effect: Hits Ice-Types, and Steel-Types Super-Effectively; x3 Base Power in Sunlight (Weather reduction still applies)
+Additional Effect: Hits Ice-Types, and Steel-Types Super-Effectively; Damage is boosted by x1.5 under Sunlight, rather than reduced
 --
 Steamroller
 Base Power: 65 -> 135
@@ -13352,7 +13389,7 @@ Now counts as a sound-based attack.
 No longer requires opponent to be a Psychic-Type to work
 --
 Synthesis
-Maximum Restoration: 66.7% -> 75%
+Minimum Restoration: 25% Max Hp -> 40% Max Hp
 ------------------------------------------------------------------------
 Category: T 
 --
@@ -13490,7 +13527,7 @@ Cumulative Power: 60 -> 156
 Turbine Turn (New Move)
 Base Power: 85
 Accuracy: 100
-Category: Physical (Special if SpA stat is higher Atk)
+Category: Varies (Physical by Default; Special, if SpA is higher)
 Contact: No
 Effect: 30% chance to flinch; Switches user out
 Priority: +0
@@ -14556,6 +14593,9 @@ Effect: Attempts to switch user out at the end of each turn that Sun is active; 
 --
 Charizardite
 Effect: Now automatically Mega Evolves Charizard.
+--
+Chipped Pot
+Effect: Heals holder by 1/10 max hp each turn if it is a Ghost-Type.
 --
 Choice Items
 Collective Penalty: Immediately destroyed if holder has the following abilities: Beast Boost, Bulldozer, Download, Dual Wielder, Huge Power, Illusion, Libero, Parlor Trick, Pure Power, Protean

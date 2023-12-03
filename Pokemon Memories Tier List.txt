@@ -125,10 +125,10 @@ Arceus (S; Omnipotent + Chilan Berry)
 Mewtwo
 
 S
+Gliscor (A-; Ice Memory)
 Muk-Alola
 
 S-
-Gliscor (A-; Ice Memory)
 Meloetta
 Meloetta-Pirouette
 Landorus-Therian
@@ -148,53 +148,50 @@ Kyogre
 Rayquaza
 Groudon (A+; Room Service)
 Arceus-Grass
-Lucario-Mega
 Urshifu-S
 Arceus-Ground
 Lilligant
 Garchomp (A-; Ice Memory)
-Arceus-Water
 Palkia
 Ho-Oh
 
 A
+Arceus-Water
+Yveltal
+Deoxys-Attack
 Calyrex-Ice
 Darkrai (A; Grass Memory)
-Yveltal
-Dialga
-Deoxys-Attack
 Marshadow (A-; Fighting Memory)
 Zacian-Crowned (A-; Ground Memory)
 Weavile
 Necrozma-Dawn-Wings
-Arceus-Fairy
-Azumarill
-Klinklang
+Infernape
 
 A-
 Volcanion
+Lucario-Mega
+Azumarill
+Klinklang
 Phione
+Arceus-Fairy
 Calyrex-Shadow (B+; Ground Memory)
-Tapu Koko
 Meowscarada
 Vaporeon
 Suicune (B+; Ice Memory)
-Thundurus-Therian
 Entei
-Necrozma-Dusk-Mane (B+; Steel Memory)
-Regieleki (B- Ice Memory/Any Memory)
+Thundurus-Therian
 Thundurus
-Lugia (B; Ice Memory)
-Cryogonal (B; Ground Memory)
+Tapu Koko
 
 
-B-Tier (69 Total)
+B-Tier (73 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
 Arceus-Electric
 Arceus-Flying
 Arceus-Ghost
+Dialga
 Empoleon
 Eternatus
 Genesect
@@ -231,6 +228,7 @@ Blastoise
 Blastoise-Mega
 Blissey
 Corviknight
+Cryogonal
 Darmanitan-Galar
 Darmanitan-Galar-Zen
 Deoxys-Speed
@@ -239,6 +237,7 @@ Gyarados-Mega
 Jellicent
 Landorus-Incarnate
 Ludicolo
+Lugia
 Magnezone
 Mesprit
 Moltres-Galar
@@ -260,6 +259,7 @@ Gengar
 Gengar-Mega
 Hoopa Unbound
 Minun
+Necrozma-Dusk-Mane
 Rapidash-Galar
 Salamence-Mega
 Sawsbuck
@@ -277,7 +277,6 @@ Articuno-Galar
 Charizard-Mega X
 Gardevoir
 Dragapult
-Infernape
 Lopunny-Mega
 Emolga
 Excadrill
@@ -285,6 +284,7 @@ Jirachi
 Kartana
 Mew
 Pheromosa
+Regieleki
 Rotom-Wash
 Rotom-Fan
 Rotom-Frost
