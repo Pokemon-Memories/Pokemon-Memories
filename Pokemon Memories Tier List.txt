@@ -118,11 +118,11 @@ Note: Pokemon beneath the A-Tier, are listed alphabetically; Pokemon in the lowe
 
 Viability Rankings
 
-S-Tier (10 Total)
+S-Tier (11 Total)
 
 S+
-Mewtwo
 Arceus (S; Omnipotent + Chilan Berry)
+Mewtwo
 
 S
 Muk-Alola
@@ -135,9 +135,10 @@ Landorus-Therian
 Cresselia
 Golurk
 Tornadus
+Meowth (A; Dubious Disc)
 
 
-A-Tier (39 Total)
+A-Tier (37 Total)
 
 A+
 Victreebel
@@ -162,73 +163,60 @@ Darkrai (A; Grass Memory)
 Yveltal
 Dialga
 Deoxys-Attack
-Vaporeon
 Marshadow (A-; Fighting Memory)
-Klinklang
 Zacian-Crowned (A-; Ground Memory)
 Weavile
 Necrozma-Dawn-Wings
 Arceus-Fairy
 Azumarill
+Klinklang
 
 A-
+Volcanion
 Phione
 Calyrex-Shadow (B+; Ground Memory)
 Tapu Koko
 Meowscarada
-Magnezone (B+; Grass Memory)
+Vaporeon
 Suicune (B+; Ice Memory)
 Thundurus-Therian
 Entei
 Necrozma-Dusk-Mane (B+; Steel Memory)
 Regieleki (B- Ice Memory/Any Memory)
-Ludicolo
 Thundurus
 Lugia (B; Ice Memory)
 Cryogonal (B; Ground Memory)
-Meowth
 
 
-B-Tier (75 Total)
+B-Tier (69 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
 Arceus-Electric
-Arceus-Fire
 Arceus-Flying
 Arceus-Ghost
-Bellsprout
-Celebi
 Empoleon
 Eternatus
-Gardevoir
 Genesect
 Giratina
 Keldeo
 Kyurem-Black
 Kyurem-White
-Hoopa Unbound
 Lunala
 Magearna
 Magearna-Original
 Manaphy
 Mimikyu
 Mimikyu-Busted
-Minun
 Necrozma-Ultra
 Pikachu-Original
 Porygon-Z
-Rapidash-Galar
 Reshiram
-Reuniclus
-Salamence-Mega
 Shaymin-Sky
-Skarmory
 Sunflora
 Swampert
 Tapu Fini
 Umbreon
-Urshifu-R
 Xerneas
 Zamazenta-Crowned
 Zarude
@@ -236,10 +224,9 @@ Zygarde
 Zygarde-Complete
 
 B
-Abomasnow
-Arceus-Bug
 Arceus-Dark
-Arctozolt
+Arceus-Fire
+Bellsprout
 Blastoise
 Blastoise-Mega
 Blissey
@@ -247,45 +234,56 @@ Corviknight
 Darmanitan-Galar
 Darmanitan-Galar-Zen
 Deoxys-Speed
-Emolga
 Giratina-Origin
 Gyarados-Mega
 Jellicent
 Landorus-Incarnate
+Ludicolo
+Magnezone
 Mesprit
 Moltres-Galar
 Pikachu-Alola
 Regigigas
+Reuniclus
+Skarmory
 Solgaleo
 Torterra
-Victini
+Urshifu-R
 Zapdos-Galar
 Zoroark-Hisui
 
 B-
 Arceus-Dragon
+Celebi
 Darmanitan
-Decidueye
 Gengar
 Gengar-Mega
-Mew
-Regidrago
+Hoopa Unbound
+Minun
+Rapidash-Galar
+Salamence-Mega
 Sawsbuck
 Snorlax
+Victini
 
 
-C-Tier (28 Total)
+C-Tier (35 Total)
 
 C+
+Abomasnow
+Arceus-Bug
 Arceus-Poison
 Articuno-Galar
 Charizard-Mega X
+Gardevoir
 Dragapult
 Infernape
 Lopunny-Mega
+Emolga
 Excadrill
 Jirachi
 Kartana
+Mew
 Pheromosa
 Rotom-Wash
 Rotom-Fan
@@ -294,21 +292,23 @@ Sableye-Mega
 Serperior
 
 C
+Decidueye
 Dracozolt
 Leafeon
 Naganadel
+Regidrago
 Starmie
 Tapu Lele
 Zapdos
 
 C-
+Arctozolt
 Articuno
 Gallade
 Gallade-Mega
 Rapidash
 Registeel
 Sableye
-Volcanion
 
 
 D-Tier (13 Total)

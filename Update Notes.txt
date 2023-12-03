@@ -1,5 +1,56 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v1.7.8
+Mechanics
+- Type-Matchups
+	- Dark
+		- Damage Received
+			- Steel: x1/2 -> x1
+	- Fighting
+		- Damage Received
+			- Steel: x1/2 -> x1
+	- Poison
+		- Damage Received
+			- Fire Damage: x1/2 -> x1
+- Weather
+	- Sunlight
+		- Additional Effect: All Grass-Type Pokemon on the field restore 1/10 of their Max Hp at the end of each turn
+
+Abilities
+- Download
+	- Boost Duration: 1 Turn -> 4 Active Turns
+
+Moves
+- Berserk Blaze
+	- Base Power: 190 -> 200
+- Bullet Switch
+	- Implemented
+		- Base Power: 85
+		- Accuracy: 100
+		- Category: Physical
+		- Contact: No
+		- Effect: 30% chance to lower the target's Atk by 1 stage; Switches the user out
+		- Priority: 0
+		- PP: 5
+		- Type: Steel
+		- Users: Aegislash, Genesect, Lucario, Zacian, Zamazenta
+- Flame Switch
+	- Now becomes a Physical Move if the Pokemon's Atk Stat is higher
+- Pay Day
+	- Base Power: 90 -> 40
+	- Priority: +0 -> +4
+	- Additional Effect: Guaranteed Chance to Flinch the Opponent; Can only be used once per Switch-In
+- Wave Switch
+	- Corrected an error where this move was labelled incorrectly
+
+Pokemon
+- Aegislash
+	- Learnset Additions
+		- Autotomize
+- Zacian
+	- Learnset
+		- Corrected an error where Zacian was stated to learn Rental Charge, despite not being able to use it; Zacian can now learn Rental Charge
+
 Pokemon Memories v1.7.7
 Annoucement
 - Until Further Notice, Pokemon will no longer receive an entry under their "Learnset Additions" Section for Moves that they are already stated to learn within the Move's "Users" Category.

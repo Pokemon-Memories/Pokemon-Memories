@@ -3456,6 +3456,7 @@ Auto-Mega Item: Cover Fossil
 New Moves
 Agility
 Aura Drain
+Bullet Switch
 Comeuppance
 Crunch
 Dark Pulse
@@ -5502,6 +5503,7 @@ New Moves
 Acrobatics
 Bulldoze
 Bullet Seed
+Bullet Switch
 Dragon Pulse
 Dragon Rush
 Echoed Voice
@@ -5636,10 +5638,11 @@ Spe: 90 -> 90 = +0
 BST: 1020 -> 1020
 
 New Moves
-Entrainment
 Anchor Shot
-Shatter Shade
+Bullet Switch
+Entrainment
 Secret Sword
+Shatter Shade
 Valor Charge
 
 Unlearned Moves
@@ -7052,8 +7055,10 @@ New Moves
 Aerial Ace
 Agility
 Aqua Fang
+Bullet Switch
 Fire Fang
 Meteor Mash
+Rental Charge
 Twinkle Tackle
 Volt Tackle
 Wave Crash
@@ -7087,6 +7092,7 @@ Anchor Shot
 Aromatic Mist
 Autotomize
 Body Press
+Bullet Switch
 Clear Smog
 Defog
 Dragon Breath
@@ -9893,7 +9899,7 @@ Affected Abilities
 Beast Boost: Limit: __ -> 1 Boost
 Belligerent: Limit: __ -> 1 Boost
 Dauntless Shield: Threshold: __ -> +1 Def; Attrition: +1 Def -> __
-Download: Attrition: Resets all stat stages after one active turn.
+Download: Attrition: Resets all stat stages after four active turns.
 Intrepid Sword: Threshold: __ -> +1 Atk; Attrition: +1 Atk -> __
 Moxie: Limit: __ -> 1 Boost
 Power Surge: Limit: __ -> 1 set of Boosts
@@ -10336,7 +10342,7 @@ Recoil: __ -> 1/4 per hit
 Contact: Yes
 --
 Berserk Blaze (New Move)
-Base Power: 190
+Base Power: 200
 Accuracy: 100
 Category: Physical
 Priority: +0
@@ -10503,6 +10509,17 @@ Bullet Seed
 Base Power: 25 -> 70
 Priority: 0 -> 1
 No longer hits multiple times
+--
+Bullet Switch (New Move)
+Base Power: 85
+Accuracy: 100
+Category: Physical (Special if SpA stat is higher Atk)
+Contact: No
+Effect: 30% chance to lower the opponent's Attack Stat by 1 Stage; Switches user out
+Priority: +0
+PP: 5
+Target: Normal
+Type: Steel
 ------------------------------------------------------------------------
 Category: C 
 --
@@ -11161,7 +11178,7 @@ Base Power: 90 -> 120
 Flame Switch (New Move)
 Base Power: 85
 Accuracy: 100
-Category: Special
+Category: Special (Physical if Pokemon's Atk Stat is Higher)
 Contact: No
 Effect: 20% chance to brn
 Switches user out
@@ -12107,7 +12124,9 @@ Payback
 Base Power: 50 -> 80
 --
 Pay Day
-Base Power: 40 -> 90
+Base Power: 40
+Additional Effect: Guaranteed Chance to Flinch the Opponent; Can only be used once per Switch-In
+Priority: +0 -> +4
 --
 Peck
 Base Power: 35 -> 60
@@ -14380,6 +14399,7 @@ Section H
 Modified Type Interactions  
 ---------------------------------------------------------
 Type Chart/Typechart
+Note: The Entries under each Type go by Damage Received (Defensive Matchups), thus, (e.g. "Fire Damage: x0.5") would signify that a Pokemon of the designated Type resists opposing Fire-Type Moves
 Bug (Type) 
 Ghost Damage: x1 -> x0
 Water Damage: x1 -> x2
@@ -14396,7 +14416,7 @@ Bug Damage: x0.5 -> x1
 Dragon Damage: x0 -> x0.5
 --
 Fighting (Type) 
-Steel Damage: x1 -> x0.5
+No Changes
 --
 Fire (Type) 
 Freeze Immunity
@@ -14407,6 +14427,7 @@ Trapping Immunity
 --
 Ghost (Type) 
 Trapping Immunity
+Steel Damage: x1 -> x0.5
 --
 Grass (Type) 
 Fairy: Damage: x1 -> x0.5
@@ -14425,7 +14446,6 @@ Recharge Immunity
 --
 Poison (Type) 
 Bug Damage: x0.5 -> x0
-Fire Damage: x1 -> x0.5
 --
 Psychic (Type) 
 Confusion Immunity
