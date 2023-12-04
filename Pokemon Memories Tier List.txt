@@ -118,7 +118,7 @@ Note: Pokemon beneath the A-Tier, are listed alphabetically; Pokemon in the lowe
 
 Viability Rankings
 
-S-Tier (11 Total)
+S-Tier (10 Total)
 
 S+
 Arceus (S; Omnipotent + Chilan Berry)
@@ -133,18 +133,19 @@ Meloetta
 Meloetta-Pirouette
 Landorus-Therian
 Cresselia
-Golurk
-Tornadus
 Meowth (A; Dubious Disc)
+Eternatus
 
 
-A-Tier (37 Total)
+A-Tier (35 Total)
 
 A+
 Victreebel
+Tornadus
 Zekrom (A-; Electric Memory)
 Greninja-Ash
 Kyogre
+Golurk
 Rayquaza
 Groudon (A+; Room Service)
 Arceus-Grass
@@ -156,7 +157,7 @@ Palkia
 Ho-Oh
 
 A
-Arceus-Water
+Azumarill
 Yveltal
 Deoxys-Attack
 Calyrex-Ice
@@ -166,11 +167,11 @@ Zacian-Crowned (A-; Ground Memory)
 Weavile
 Necrozma-Dawn-Wings
 Infernape
+Arceus-Water
 
 A-
 Volcanion
 Lucario-Mega
-Azumarill
 Klinklang
 Phione
 Arceus-Fairy
@@ -184,7 +185,7 @@ Thundurus
 Tapu Koko
 
 
-B-Tier (73 Total)
+B-Tier (72 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
@@ -193,7 +194,6 @@ Arceus-Flying
 Arceus-Ghost
 Dialga
 Empoleon
-Eternatus
 Genesect
 Giratina
 Keldeo

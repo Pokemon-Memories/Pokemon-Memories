@@ -7134,11 +7134,13 @@ BST: 690 -> 1400
 Added Ability: Space Power
 New Moves
 Anchor Shot
+Aromatic Mist
 Autotomize
 Blizzard
 Cross Poison
 Discharge
 Dragon Breath
+Earth Power
 Earthquake
 Ember
 Focus Blast
@@ -7166,6 +7168,7 @@ Venoshock
 Unlearned
 Agility
 Dragon Dance
+Recover
 
 Space Power (New Ability)
 Effect: Pokemon does not receive status conditions from Flame Orb, Toxic Orb, Light Ball, or Snowball; Immunity to Paralysis Damage. Pokemon's Damage-Dealing Moves bypass the opposing Pokemon's Abilities
@@ -9686,6 +9689,9 @@ Effect (Memory Ability Only): 30% Power Bonus granted to Moves with a secondary 
 Shield Power
 Memory Effect: (Porygon-2): Multiplies Def and SpD by x1.5 each.
 --
+Space Power   
+Effect: Pokemon receives a x1.5 Stat Multiplier depending on its Positive Nature; Pokemon will receive its Speed Multiplier after successfully causing the opposing Pokemon to faint with an Attacking Move; If a neutral Nature is selected, the Pokemon will restore 1/8 of its Max Hp at the end of each turn.
+--
 Spectral Force
 Effect: 30% Power Bonus granted to Ghost-Type moves, will only be active if the Pokemon does not have any positive stat boosts, in the stat they are attacking in. This condition does not apply to Pokemon that naturally have Spectral Force as their Ability
 --
@@ -11064,7 +11070,7 @@ Target: Any
 Type: Water
 --
 Eternabeam
-Base Power: 160 -> 220
+Base Power: 160 -> 190
 Effect: User must recharge -> Lowers Def and SpD by 1 stage each.
 --
 Ethereal Stream (New Move)
@@ -11406,6 +11412,7 @@ Gear Up
 Effect: Raises SpA and Spe by 1 stage each.
 --
 Geomancy
+Additional Effect: Pokemon's Moves ignore the Boosted-Move Power Reduction from Power of Alchemy for as long as this move is active
 Penalty: Can only be used once, until user switches out; Attempting to use again will induce the charge turn, but will not impart any stat boosts. User takes doubled damage from Sound-Based attacks upon successfully using this move; These penalties, alongside all of the user's stat stage changes, will be cleared 4 turns after this move is used (whereupon the move can be used again).
 PP: 10 -> 5 (static)
 --
@@ -14337,7 +14344,7 @@ Effect: Alternates between Meloetta-Aria and Meloetta-Pirouette depending on the
 Category: Eternatus Exclusive Abilities
 --
 Space Power 
-Effect: Pokemon does not receive status conditions from Flame Orb, Toxic Orb, Light Ball, or Snowball; Immunity to Paralysis Damage. Bypasses Abilities
+Effect: Pokemon does not receive status conditions from Flame Orb, Toxic Orb, Light Ball, or Snowball; Immunity to Paralysis Damage. Pokemon's Damage-Dealing Moves bypass the opposing Pokemon's Abilities
 ------------------------------------------------------------------------
 Category: Eternal Floette Exclusive Abilities
 --

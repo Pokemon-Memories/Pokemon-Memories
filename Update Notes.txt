@@ -1,5 +1,27 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v1.7.9
+Abilities
+- Space Power
+	- Memory Effect: Pokemon receives a x1.5 Stat Multiplier depending on its Positive Nature; Pokemon will receive its Speed Multiplier after successfully causing the opposing Pokemon to faint with an Attacking Move; If a neutral Nature is selected, the Pokemon will restore 1/8 of its Max Hp at the end of each turn
+
+Moves
+- Eternabeam
+	- Base Power: 220 -> 190
+- Geomancy
+	- Additional Effect: While this Move's Effects are active, the Pokemon is able to ignore the effects of Power of Alchemy's Boosted-Attack Power Reduction
+
+Pokemon
+- Eternatus
+	- Learnset Additions
+		- Aromatic Mist
+		- Earth Power
+	- Learnset Removals
+		- Recover
+
+
+
+
 Pokemon Memories v1.7.8
 Mechanics
 - Type-Matchups
