@@ -58,7 +58,7 @@ Jolly Nature
 - Fake Out  
 - Extreme Speed  
 - glacialstrike  
-- slushswitch  
+- Slush Switch  
 
 Thundurus-Therian (M) @ Steel Memory  
 Ability: Unseen Fist  
@@ -129,7 +129,7 @@ Naive Nature
 - Sunsteel Strike  
 - Eruption  
 - Bolt Beak  
-- slushswitch  
+- Slush Switch  
 
 Regigigas (M) @ Toxic Orb  
 Ability: Guts  
@@ -329,7 +329,7 @@ EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
 Jolly Nature  
 - vanishingstrike  
 - Submission  
-- memoryblast  
+- Memory Blast  
 - Shell Smash  
 
 
@@ -349,7 +349,7 @@ Ability: Intrepid Sword
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- Meteor Mash  
+- Smart Strike  
 - Close Combat  
 - Wave Crash  
 - Volt Tackle  
@@ -389,7 +389,7 @@ Ability: Shadow Tag
 EVs: 252 Def  
 Relaxed Nature  
 IVs: 0 Spe  
-- memoryblast  
+- Memory Blast  
 - Hidden Power [Ice]  
 - Perish Song  
 - Parting Shot  
@@ -414,7 +414,7 @@ EVs: 252 HP / 252 Atk / 4 Spe
 Adamant Nature  
 - royalsnowstorm  
 - Stealth Rock  
-- slushswitch  
+- Slush Switch  
 - Roost  
 
 Arceus-Ground @ Earth Plate  
@@ -760,7 +760,7 @@ Ability: Shadow Tag
 EVs: 252 SpD  
 Sassy Nature  
 IVs: 0 Spe  
-- memoryblast  
+- Memory Blast  
 - Hidden Power [Ice]  
 - Perish Song  
 - Parting Shot  
@@ -921,14 +921,14 @@ Jolly Nature
 - heavendance  
 
 Meloetta @ Throat Spray  
-Ability: ensemble  
+Ability: Ensemble  
 Shiny: Yes  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
 - Synchronoise  
 - Storm Throw  
 - Frost Breath  
-- fluttersong  
+- Flutter Song  
 
 Celesteela @ Metal Coat  
 Ability: Filter  
@@ -1020,7 +1020,7 @@ Timid Nature
 - Hyper Voice  
 - Echoed Voice  
 - Frost Breath  
-- fluttersong  
+- Flutter Song  
 
 Gengar (M) @ Gengarite  
 Ability: dyslexia  
@@ -1353,7 +1353,7 @@ EVs: 252 HP / 252 Atk / 4 Spe
 Adamant Nature  
 - royalsnowstorm  
 - Stealth Rock  
-- slushswitch  
+- Slush Switch  
 - Roost  
 
 Landorus-Therian (M) @ Sweet Apple  
@@ -1526,7 +1526,7 @@ Unown-Question @ assistdrive
 Ability: Shadow Tag  
 EVs: 252 Def / 52 SpA / 204 SpD  
 Relaxed Nature  
-- memoryblast  
+- Memory Blast  
 - Hidden Power [Ice]  
 - Perish Song  
 - Parting Shot  
@@ -1688,7 +1688,7 @@ Arceus @ Dubious Disc
 Ability: Multitype  
 EVs: 252 HP / 252 Atk / 4 Def  
 Adamant Nature  
-- memoryblast  
+- Memory Blast  
 - Safeguard  
 - Recover  
 - Agility  
@@ -1700,7 +1700,7 @@ Hasty Nature
 - psychofire  
 - Water Sport  
 - Comeuppance  
-- Receiving Strike  
+- receivingstrike  
 
 Lilligant @ Flower Sweet  
 Ability: flowershield  
@@ -1708,7 +1708,7 @@ Shiny: Yes
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
 - Apple Acid  
-- slushswitch  
+- Slush Switch  
 - Aromatic Mist  
 - Quiver Dance  
 
@@ -1769,7 +1769,7 @@ EVs: 252 SpA / 252 Spe
 Timid Nature  
 - Stored Power  
 - Aura Sphere  
-- memoryblast  
+- Memory Blast  
 - Uproar  
 
 Meowscarada (F) @ Lax Incense  
@@ -1779,7 +1779,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Klinklang @ Metal Coat  
@@ -1796,7 +1796,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -1805,14 +1805,14 @@ Modest Nature
 === [gen6anythinggoes] Dubiouceus was retested, and banned again (Arceus, ???) ===
 
 Meloetta @ Throat Spray  
-Ability: ensemble  
+Ability: Ensemble  
 Shiny: Yes  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Hyper Voice  
 - Storm Throw  
 - Frost Breath  
-- fluttersong  
+- Flutter Song  
 
 Kyogre @ Rose Incense  
 Ability: Drizzle  
@@ -1849,7 +1849,7 @@ Shiny: Yes
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Sacred Sword  
-- Meteor Mash  
+- Smart Strike  
 - Wave Crash  
 - Agility  
 
@@ -1857,7 +1857,7 @@ Arceus @ Dubious Disc
 Ability: Multitype  
 EVs: 252 HP / 252 Atk / 4 Def  
 Adamant Nature  
-- memoryblast  
+- Memory Blast  
 - Safeguard  
 - Recover  
 - Agility  
@@ -1897,7 +1897,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -1906,7 +1906,7 @@ Arceus @ Dubious Disc
 Ability: Multitype  
 EVs: 252 HP / 252 Atk / 4 Def  
 Adamant Nature  
-- memoryblast  
+- Memory Blast  
 - Safeguard  
 - Recover  
 - Agility  
@@ -1917,7 +1917,7 @@ EVs: 252 Def
 Relaxed Nature  
 IVs: 0 Spe  
 - Hidden Power  
-- memoryblast  
+- Memory Blast  
 - Perish Song  
 - Parting Shot  
 
@@ -2027,7 +2027,7 @@ Arceus @ Dubious Disc
 Ability: Multitype  
 EVs: 252 HP / 252 Atk / 4 Def  
 Adamant Nature  
-- memoryblast  
+- Memory Blast  
 - Safeguard  
 - Recover  
 - Agility  
@@ -2039,7 +2039,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 
@@ -2088,7 +2088,7 @@ Arceus @ Dubious Disc
 Ability: Multitype  
 EVs: 252 HP / 252 Atk / 4 Def  
 Adamant Nature  
-- memoryblast  
+- Memory Blast  
 - Safeguard  
 - Recover  
 - Agility  
@@ -2138,7 +2138,7 @@ Arceus @ Dubious Disc
 Ability: Multitype  
 EVs: 252 HP / 252 Atk / 4 Def  
 Adamant Nature  
-- memoryblast  
+- Memory Blast  
 - Safeguard  
 - Recover  
 - Agility  
@@ -2150,7 +2150,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Manaphy @ Nomel Berry  
@@ -2170,7 +2170,7 @@ Arceus @ Dubious Disc
 Ability: Multitype  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- memoryblast  
+- Memory Blast  
 - Safeguard  
 - Recover  
 - Agility  
@@ -2190,7 +2190,7 @@ Shiny: Yes
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
 - Apple Acid  
-- slushswitch  
+- Slush Switch  
 - Aromatic Mist  
 - Quiver Dance  
 
@@ -2233,7 +2233,7 @@ Timid Nature
 IVs: 0 Atk  
 - Stored Power  
 - Aura Sphere  
-- memoryblast  
+- Memory Blast  
 - Uproar  
 
 Necrozma-Dusk-Mane @ Metal Coat  
@@ -2290,7 +2290,7 @@ Dialga @ Fairy Memory
 Ability: Regenerator  
 EVs: 200 SpA / 168 SpD / 140 Spe  
 Calm Nature  
-- memoryblast  
+- Memory Blast  
 - Draco Meteor  
 - Fire Blast  
 - Shell Smash  
@@ -2337,7 +2337,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -2372,7 +2372,7 @@ Calm Nature
 - lustrousstream  
 - Stealth Rock  
 - expressheal  
-- slushswitch  
+- Slush Switch  
 
 Zamazenta-Crowned @ Rusted Shield  
 Ability: Dauntless Shield  
@@ -2387,7 +2387,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -2409,7 +2409,7 @@ Ability: inveigle
 EVs: 4 HP / 252 SpD / 252 Spe  
 Jolly Nature  
 - Sandsear Storm  
-- memoryblast  
+- Memory Blast  
 - expressheal  
 - U-turn  
 
@@ -2454,7 +2454,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -2479,7 +2479,7 @@ Calm Nature
 - lustrousstream  
 - Stealth Rock  
 - expressheal  
-- slushswitch  
+- Slush Switch  
 
 Tornadus @ Choice Scarf  
 Ability: tempest  
@@ -2489,7 +2489,7 @@ Naive Nature
 - Hydro Pump  
 - Bleakwind Storm  
 - Iron Tail  
-- slushswitch  
+- Slush Switch  
 
 Zekrom @ Dark Memory  
 Ability: Teravolt  
@@ -2497,7 +2497,7 @@ Shiny: Yes
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Bolt Strike  
-- memoryblast  
+- Memory Blast  
 - royalrampage  
 - Agility  
 
@@ -2570,7 +2570,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Ho-Oh @ Sweet Apple  
@@ -2599,7 +2599,7 @@ Ability: psychicpower
 EVs: 4 HP / 252 SpA / 252 Spe  
 Hasty Nature  
 - psychicstorm  
-- memoryblast  
+- Memory Blast  
 - mineralcannon  
 - Night Daze  
 
@@ -2626,7 +2626,7 @@ Ability: psychicpower
 EVs: 140 Atk / 116 SpA / 252 Spe  
 Naive Nature  
 - psychofire  
-- memoryblast  
+- Memory Blast  
 - Avalanche  
 - psychicwind  
 
@@ -2635,7 +2635,7 @@ Ability: psychicpower
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - psychofire  
-- memoryblast  
+- Memory Blast  
 - psychicwind  
 - Nasty Plot  
 
@@ -2647,7 +2647,7 @@ Ability: machspeed
 EVs: 212 Atk / 224 SpA / 72 Spe  
 Naive Nature  
 - V-create  
-- memoryblast  
+- Memory Blast  
 - Bolt Strike  
 - Final Gambit  
 
@@ -2708,7 +2708,7 @@ Timid Nature
 - compactstream  
 - Sludge Wave  
 - Agility  
-- slushswitch  
+- Slush Switch  
 
 Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
@@ -2724,7 +2724,7 @@ Ability: flowershield
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Apple Acid  
-- slushswitch  
+- Slush Switch  
 - Aromatic Mist  
 - Quiver Dance  
 
@@ -2795,7 +2795,7 @@ Calm Nature
 - lustrousstream  
 - Stealth Rock  
 - expressheal  
-- slushswitch  
+- Slush Switch  
 
 Ho-Oh @ Sweet Apple  
 Ability: Magic Guard  
@@ -2813,7 +2813,7 @@ Jolly Nature
 - Lash Out  
 - Triple Axel  
 - Cross Poison  
-- slushswitch  
+- Slush Switch  
 
 
 === [gen6ubers] Bulky Xerneas (Xerneas, Poison) ===
@@ -2873,7 +2873,7 @@ Naive Nature
 - Volt Tackle  
 - Superpower  
 - Aeroblast  
-- slushswitch  
+- Slush Switch  
 
 
 === [gen6ubers] Meloetta in Motion (✗) ===
@@ -2886,7 +2886,7 @@ Timid Nature
 - Hyper Voice  
 - Disarming Voice  
 - Screech  
-- fluttersong  
+- Flutter Song  
 
 Regigigas @ Toxic Orb  
 Ability: Guts  
@@ -2929,7 +2929,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -2953,7 +2953,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Calyrex-Shadow @ Choice Scarf  
@@ -3033,7 +3033,7 @@ Calm Nature
 - lustrousstream  
 - Stealth Rock  
 - expressheal  
-- slushswitch  
+- Slush Switch  
 
 Ho-Oh @ Sweet Apple  
 Ability: Magic Guard  
@@ -3061,7 +3061,7 @@ Ability: Regenerator
 Shiny: Yes  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
-- memoryblast  
+- Memory Blast  
 - Dragon Breath  
 - Moonlight  
 - Parting Shot  
@@ -3158,7 +3158,7 @@ Calm Nature
 - lustrousstream  
 - Stealth Rock  
 - expressheal  
-- slushswitch  
+- Slush Switch  
 
 Necrozma-Dawn-Wings @ Assault Vest  
 Ability: lightinversion  
@@ -3177,7 +3177,7 @@ Ability: psychicpower
 EVs: 4 Atk / 252 SpA / 252 Spe  
 Naive Nature  
 - Stored Power  
-- memoryblast  
+- Memory Blast  
 - infernobeam  
 - malicerun  
 
@@ -3215,7 +3215,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Kyogre @ Rose Incense  
@@ -3237,7 +3237,7 @@ Shiny: Yes
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Apple Acid  
-- memoryblast  
+- Memory Blast  
 - Quiver Dance  
 - Aromatic Mist  
 
@@ -3308,7 +3308,7 @@ IVs: 5 SpA
 - Bolt Strike  
 - royalrampage  
 - flyingdeluge  
-- slushswitch  
+- Slush Switch  
 
 Calyrex-Shadow @ Choice Scarf  
 Ability: Power Spot  
@@ -3357,7 +3357,7 @@ Shiny: Yes
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - glacialstrike  
-- memoryblast  
+- Memory Blast  
 - Fusion Bolt  
 - Agility  
 
@@ -3369,7 +3369,7 @@ Timid Nature
 - Dark Pulse  
 - Venom Drench  
 - Dark Void  
-- slushswitch  
+- Slush Switch  
 
 Eternatus @ Black Sludge  
 Ability: spacepower  
@@ -3414,7 +3414,7 @@ Lapras (M) @ Grass Memory
 Ability: Water Absorb  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
-- memoryblast  
+- Memory Blast  
 - Ice Beam  
 - Perish Song  
 - Aromatic Mist  
@@ -3476,7 +3476,7 @@ Ability: Ice Scales
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Glacial Lance  
-- memoryblast  
+- Memory Blast  
 - Aromatic Mist  
 - accelerate  
 
@@ -3536,8 +3536,8 @@ EVs: 4 HP / 252 SpA / 252 Spe
 Timid Nature  
 - Electro Ball  
 - Blizzard  
-- memoryblast  
-- slushswitch  
+- Memory Blast  
+- Slush Switch  
 
 Necrozma-Dawn-Wings @ Assault Vest  
 Ability: lightinversion  
@@ -3593,7 +3593,7 @@ Ability: Power Spot
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Astral Barrage  
-- memoryblast  
+- Memory Blast  
 - Nasty Plot  
 - accelerate  
 
@@ -3691,7 +3691,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Zekrom @ Choice Scarf  
@@ -3703,7 +3703,7 @@ IVs: 5 SpA
 - Bolt Strike  
 - royalrampage  
 - flyingdeluge  
-- slushswitch  
+- Slush Switch  
 
 
 === [gen6ubers] Offensive Weavile (Weavile, Dark) ===
@@ -3774,7 +3774,7 @@ EVs: 4 Atk / 252 SpA / 252 Spe
 Naive Nature  
 - Thief  
 - Venoshock  
-- memoryblast  
+- Memory Blast  
 - Teeter Dance  
 
 Ho-Oh @ Sweet Apple  
@@ -3794,7 +3794,7 @@ Jolly Nature
 - Multi-Attack  
 - Ice Hammer  
 - Sunsteel Strike  
-- earthensong  
+- Earthen Song  
 
 Meowscarada (F) @ Lax Incense  
 Ability: parlortrick  
@@ -3803,7 +3803,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Calyrex-Shadow @ Choice Scarf  
@@ -3832,10 +3832,10 @@ Cryogonal @ Ground Memory
 Ability: Multiscale  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- memoryblast  
+- Memory Blast  
 - Aurora Beam  
 - Sheer Cold  
-- slushswitch  
+- Slush Switch  
 
 Arceus @ Chople Berry  
 Ability: omnipotent  
@@ -3871,7 +3871,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Calyrex-Shadow @ Choice Scarf  
@@ -3903,7 +3903,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Mewtwo @ Adrenaline Orb  
@@ -3931,7 +3931,7 @@ Jolly Nature
 - Lash Out  
 - Triple Axel  
 - Cross Poison  
-- slushswitch  
+- Slush Switch  
 
 Arceus-Water @ Splash Plate  
 Ability: Multitype  
@@ -3972,7 +3972,7 @@ Timid Nature
 IVs: 0 Atk  
 - Stored Power  
 - Aura Sphere  
-- memoryblast  
+- Memory Blast  
 - Uproar  
 
 Dialga @ Expert Belt  
@@ -3991,14 +3991,14 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Palkia @ Choice Scarf  
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -4021,7 +4021,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Bellsprout (M) @ Toxic Orb  
@@ -4037,7 +4037,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -4141,7 +4141,7 @@ Hasty Nature
 - Stored Power  
 - psychofire  
 - Night Daze  
-- Receiving Strike  
+- receivingstrike  
 
 Bellsprout (M) @ Toxic Orb  
 Ability: Sheer Force  
@@ -4189,13 +4189,13 @@ Jolly Nature
 - Volt Tackle  
 - Close Combat  
 - Ice Punch  
-- slushswitch  
+- Slush Switch  
 
 Rayquaza @ Fairy Memory  
 Ability: dragonheart  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Adamant Nature  
-- memoryblast  
+- Memory Blast  
 - Stone Edge  
 - V-create  
 - Agility  
@@ -4245,7 +4245,7 @@ Luxray (M) @ Dark Memory
 Ability: focused  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- memoryblast  
+- Memory Blast  
 - Double Kick  
 - Volt Tackle  
 - Double Team  
@@ -4267,7 +4267,7 @@ Timid Nature
 - Hyper Voice  
 - Disarming Voice  
 - Screech  
-- fluttersong  
+- Flutter Song  
 
 Meowscarada (F) @ Lax Incense  
 Ability: parlortrick  
@@ -4275,7 +4275,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Eternatus @ Prism Scale  
@@ -4328,7 +4328,7 @@ Naive Nature
 - Hydro Pump  
 - Bleakwind Storm  
 - Volt Tackle  
-- slushswitch  
+- Slush Switch  
 
 Ludicolo (M) @ Sweet Apple  
 Ability: happydance  
@@ -4357,7 +4357,7 @@ Calm Nature
 - lustrousstream  
 - Stealth Rock  
 - expressheal  
-- slushswitch  
+- Slush Switch  
 
 
 === [gen6ubers] Faster than Mewtwo (Regieleki, Ice) ===
@@ -4366,7 +4366,7 @@ Regieleki @ Ice Memory
 Ability: Transistor  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- memoryblast  
+- Memory Blast  
 - Thunder Cage  
 - Zap Cannon  
 - Volt Switch  
@@ -4438,7 +4438,7 @@ Timid Nature
 - Hyper Voice  
 - Disarming Voice  
 - Screech  
-- fluttersong  
+- Flutter Song  
 
 Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
@@ -4484,7 +4484,7 @@ Heatran (M) @ Poison Memory
 Ability: Mold Breaker  
 EVs: 4 HP / 252 Def / 252 SpD  
 Impish Nature  
-- memoryblast  
+- Memory Blast  
 - Magma Storm  
 - Recover  
 - Withdraw  
@@ -4546,7 +4546,7 @@ Ability: memoryarmor
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Moonblast  
-- memoryblast  
+- Memory Blast  
 - vitaldance  
 - Aromatic Mist  
 
@@ -4592,7 +4592,7 @@ Ability: flowershield
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Apple Acid  
-- slushswitch  
+- Slush Switch  
 - Aromatic Mist  
 - Quiver Dance  
 
@@ -4613,7 +4613,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -4653,7 +4653,7 @@ Shiny: Yes
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
 - Apple Acid  
-- slushswitch  
+- Slush Switch  
 - Aromatic Mist  
 - Quiver Dance  
 
@@ -4787,10 +4787,10 @@ Cryogonal @ Ground Memory
 Ability: Multiscale  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- memoryblast  
+- Memory Blast  
 - Aurora Beam  
 - Solar Beam  
-- slushswitch  
+- Slush Switch  
 
 Deoxys-Attack @ Life Orb  
 Ability: antipathy  
@@ -4814,7 +4814,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -4847,7 +4847,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Thunderous Kick  
 - Brave Bird  
-- memoryblast  
+- Memory Blast  
 - flipkick  
 
 Mewtwo @ Adrenaline Orb  
@@ -4863,7 +4863,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -4935,7 +4935,7 @@ Ability: pacify
 EVs: 252 HP / 108 Def / 144 SpD / 4 Spe  
 Impish Nature  
 - Sandsear Storm  
-- memoryblast  
+- Memory Blast  
 - expressheal  
 - U-turn  
 
@@ -4952,7 +4952,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -4961,20 +4961,20 @@ Timid Nature
 === [gen6ubers] Meloetta's Aria (Diggersby, Rock) ===
 
 Meloetta @ Throat Spray  
-Ability: ensemble  
+Ability: Ensemble  
 Shiny: Yes  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
 - Hyper Voice  
 - Storm Throw  
 - Frost Breath  
-- fluttersong  
+- Flutter Song  
 
 Diggersby @ Rock Memory  
 Ability: appetite  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Careful Nature  
-- memoryblast  
+- Memory Blast  
 - Body Press  
 - expressheal  
 - Parting Shot  
@@ -5061,7 +5061,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -5124,7 +5124,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Vaporeon @ Leftovers  
@@ -5162,7 +5162,7 @@ Dialga @ Rock Memory
 Ability: Regenerator  
 EVs: 192 HP / 176 SpD / 140 Spe  
 Careful Nature  
-- memoryblast  
+- Memory Blast  
 - Breaking Swipe  
 - Earthquake  
 - Shell Smash  
@@ -5244,7 +5244,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Vaporeon @ Sitrus Berry  
@@ -5276,7 +5276,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Phione @ Sea Incense  
@@ -5326,7 +5326,7 @@ Ability: psychicpower
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - psychicstorm  
-- memoryblast  
+- Memory Blast  
 - psychofire  
 - Night Daze  
 
@@ -5351,14 +5351,14 @@ IVs: 0 Atk
 - Withdraw  
 
 Meloetta @ Throat Spray  
-Ability: ensemble  
+Ability: Ensemble  
 Shiny: Yes  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
 - Hyper Voice  
 - Storm Throw  
 - Frost Breath  
-- fluttersong  
+- Flutter Song  
 
 Arceus @ Chople Berry  
 Ability: omnipotent  
@@ -5398,7 +5398,7 @@ Shiny: Yes
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Photon Geyser  
-- memoryblast  
+- Memory Blast  
 - Dragon Dance  
 - Aromatic Mist  
 
@@ -5427,7 +5427,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Phione @ Choice Scarf  
@@ -5437,7 +5437,7 @@ Timid Nature
 - Surf  
 - Mud Sport  
 - Sludge Wave  
-- slushswitch  
+- Slush Switch  
 
 
 === [gen6ubers] Water, Water... (Carracosta, Water) ===
@@ -5631,7 +5631,7 @@ Shiny: Yes
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Bolt Strike  
-- memoryblast  
+- Memory Blast  
 - royalrampage  
 - Agility  
 
@@ -5678,7 +5678,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -5712,7 +5712,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Vaporeon @ Leftovers  
@@ -5752,7 +5752,7 @@ Ability: psychicpower
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Stored Power  
-- memoryblast  
+- Memory Blast  
 - Aura Sphere  
 - Uproar  
 
@@ -5813,7 +5813,7 @@ Ability: formatdrive
 Shiny: Yes  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
-- memoryblast  
+- Memory Blast  
 - Aura Sphere  
 - Avalanche  
 - Water Sport  
@@ -5893,7 +5893,7 @@ Ability: pacify
 EVs: 252 HP / 108 Def / 144 SpD / 4 Spe  
 Impish Nature  
 - Sandsear Storm  
-- memoryblast  
+- Memory Blast  
 - expressheal  
 - U-turn  
 
@@ -6025,14 +6025,14 @@ IVs: 0 Atk
 - Parting Shot  
 
 Meloetta @ Throat Spray  
-Ability: ensemble  
+Ability: Ensemble  
 Shiny: Yes  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
 - Hyper Voice  
 - Storm Throw  
 - Frost Breath  
-- fluttersong  
+- Flutter Song  
 
 Vaporeon @ Leftovers  
 Ability: utilitylock  
@@ -6051,7 +6051,7 @@ Dialga @ Dubious Disc
 Ability: Regenerator  
 EVs: 116 HP / 252 SpA / 140 Spe  
 Modest Nature  
-- memoryblast  
+- Memory Blast  
 - Fire Blast  
 - Thunder Wave  
 - Shell Smash  
@@ -6067,14 +6067,14 @@ IVs: 0 Atk
 - Parting Shot  
 
 Meloetta @ Throat Spray  
-Ability: ensemble  
+Ability: Ensemble  
 Shiny: Yes  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Hyper Voice  
 - Storm Throw  
 - Screech  
-- fluttersong  
+- Flutter Song  
 
 Necrozma-Dawn-Wings @ Assault Vest  
 Ability: lightinversion  
@@ -6133,7 +6133,7 @@ Ability: memoryarmor
 Shiny: Yes  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- memoryblast  
+- Memory Blast  
 - Aurora Beam  
 - vitaldance  
 - Aromatic Mist  
@@ -6214,14 +6214,14 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Dialga @ Ice Memory  
 Ability: Regenerator  
 EVs: 192 HP / 176 SpD / 140 Spe  
 Careful Nature  
-- memoryblast  
+- Memory Blast  
 - Iron Head  
 - Aura Sphere  
 - Shell Smash  
@@ -6233,7 +6233,7 @@ Mewtwo @ Dark Memory
 Ability: psychicpower  
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
-- memoryblast  
+- Memory Blast  
 - psychofire  
 - Aurora Beam  
 - Uproar  
@@ -6273,7 +6273,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Landorus-Therian @ Assault Vest  
@@ -6339,7 +6339,7 @@ Ability: inveigle
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Sandsear Storm  
-- memoryblast  
+- Memory Blast  
 - Rock Tomb  
 - Howl  
 
@@ -6361,7 +6361,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Zacian-Crowned @ Ground Memory  
@@ -6370,7 +6370,7 @@ Shiny: Yes
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Play Rough  
-- memoryblast  
+- Memory Blast  
 - Volt Tackle  
 - Agility  
 
@@ -6430,7 +6430,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Calyrex-Shadow @ Choice Scarf  
@@ -6472,7 +6472,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Mewtwo @ Adrenaline Orb  
@@ -6539,7 +6539,7 @@ Rayquaza @ Fairy Memory
 Ability: dragonheart  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Adamant Nature  
-- memoryblast  
+- Memory Blast  
 - Stone Edge  
 - V-create  
 - Agility  
@@ -6550,7 +6550,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Necrozma-Dusk-Mane @ Light Clay  
@@ -6590,7 +6590,7 @@ Ability: psychicpower
 EVs: 140 Atk / 116 SpA / 252 Spe  
 Naive Nature  
 - psychofire  
-- memoryblast  
+- Memory Blast  
 - Overheat  
 - crystalrush  
 
@@ -6600,7 +6600,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Dialga @ Sweet Apple  
@@ -6647,7 +6647,7 @@ Mewtwo @ Water Memory
 Ability: psychicpower  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Naive Nature  
-- memoryblast  
+- Memory Blast  
 - psychofire  
 - aqualeap  
 - aquarise  
@@ -6658,7 +6658,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Tapu Koko @ Light Ball  
@@ -6748,7 +6748,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Vaporeon (F) @ Sitrus Berry  
@@ -6789,7 +6789,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Zekrom @ Choice Scarf  
@@ -6801,7 +6801,7 @@ IVs: 5 SpA
 - Bolt Strike  
 - royalramapge  
 - flyingdeluge  
-- slushswitch  
+- Slush Switch  
 
 Greninja-Ash @ Choice Scarf  
 Ability: Battle Bond  
@@ -6829,7 +6829,7 @@ Dialga @ Fairy Memory
 Ability: Regenerator  
 EVs: 192 HP / 176 SpA / 140 Spe  
 Modest Nature  
-- memoryblast  
+- Memory Blast  
 - Draco Meteor  
 - Fire Blast  
 - Shell Smash  
@@ -6878,7 +6878,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 
@@ -6901,7 +6901,7 @@ Timid Nature
 - Surf  
 - Mud Sport  
 - Sludge Wave  
-- slushswitch  
+- Slush Switch  
 
 Bellsprout (M) @ Toxic Orb  
 Ability: Sheer Force  
@@ -6918,7 +6918,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Landorus-Therian @ Assault Vest  
@@ -6958,7 +6958,7 @@ Shiny: Yes
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Play Rough  
-- memoryblast  
+- Memory Blast  
 - Volt Tackle  
 - Agility  
 
@@ -6969,7 +6969,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Ho-Oh @ Sweet Apple  
@@ -7005,14 +7005,14 @@ Naive Nature
 === [gen6ubers] Meloetta's Aria (Mewtwo, ???) ===
 
 Meloetta @ Throat Spray  
-Ability: ensemble  
+Ability: Ensemble  
 Shiny: Yes  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
 - Hyper Voice  
 - Storm Throw  
 - Frost Breath  
-- fluttersong  
+- Flutter Song  
 
 Mewtwo @ Dubious Disc  
 Ability: psychicpower  
@@ -7045,7 +7045,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -7057,7 +7057,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 
@@ -7080,7 +7080,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Phione @ Choice Scarf  
@@ -7090,7 +7090,7 @@ Timid Nature
 - Surf  
 - Mud Sport  
 - Sludge Wave  
-- slushswitch  
+- Slush Switch  
 
 Ho-Oh @ Sweet Apple  
 Ability: Magic Guard  
@@ -7148,7 +7148,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Arceus @ Ice Memory  
@@ -7156,7 +7156,7 @@ Ability: Multitype
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
-- memoryblast  
+- Memory Blast  
 - heavendance  
 - royalretreat  
 
@@ -7164,7 +7164,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -7207,7 +7207,7 @@ Ability: psychicpower
 EVs: 140 Atk / 116 SpA / 252 Spe  
 Naive Nature  
 - psychofire  
-- memoryblast  
+- Memory Blast  
 - Overheat  
 - crystalrush  
 
@@ -7218,7 +7218,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Calyrex-Shadow @ Choice Scarf  
@@ -7266,7 +7266,7 @@ Ability: psychicpower
 EVs: 140 Atk / 116 SpA / 252 Spe  
 Naive Nature  
 - psychofire  
-- memoryblast  
+- Memory Blast  
 - Overheat  
 - crystalrush  
 
@@ -7286,7 +7286,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Calyrex-Shadow @ Choice Scarf  
@@ -7310,7 +7310,7 @@ Timid Nature
 - Dark Pulse  
 - royalobfuscation  
 - Venoshock  
-- slushswitch  
+- Slush Switch  
 
 Suicune @ Berry Juice  
 Ability: Snow Warning  
@@ -7319,7 +7319,7 @@ Calm Nature
 - lustrousstream  
 - Stealth Rock  
 - expressheal  
-- slushswitch  
+- Slush Switch  
 
 Kyurem-Black @ Ice Memory  
 Ability: dragonpower  
@@ -7406,14 +7406,14 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Palkia @ Choice Scarf  
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -7438,7 +7438,7 @@ Timid Nature
 - Surf  
 - Mud Sport  
 - Sludge Wave  
-- slushswitch  
+- Slush Switch  
 
 Meowscarada (F) @ Lax Incense  
 Ability: parlortrick  
@@ -7447,7 +7447,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Necrozma-Dusk-Mane @ Steel Memory  
@@ -7526,7 +7526,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Klinklang @ Metal Coat  
@@ -7545,7 +7545,7 @@ Palkia @ Choice Specs
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -7627,7 +7627,7 @@ Ability: psychicpower
 EVs: 4 HP / 252 SpA / 252 Spe  
 Hasty Nature  
 - psychofire  
-- Receiving Strike  
+- receivingstrike  
 - Water Sport  
 - Night Daze  
 
@@ -7656,7 +7656,7 @@ Ability: pacify
 EVs: 252 HP / 108 Def / 144 SpD / 4 Spe  
 Impish Nature  
 - Sandsear Storm  
-- memoryblast  
+- Memory Blast  
 - expressheal  
 - U-turn  
 
@@ -7688,7 +7688,7 @@ Ability: formatdrive
 Shiny: Yes  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
-- memoryblast  
+- Memory Blast  
 - Water Sport  
 - Aura Sphere  
 - mysteryspeed  
@@ -7700,7 +7700,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Ho-Oh @ Sweet Apple  
@@ -7739,7 +7739,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -7749,7 +7749,7 @@ Ability: pacify
 EVs: 252 HP / 108 Def / 144 SpD / 4 Spe  
 Impish Nature  
 - Sandsear Storm  
-- memoryblast  
+- Memory Blast  
 - expressheal  
 - U-turn  
 
@@ -7807,7 +7807,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -7839,7 +7839,7 @@ Timid Nature
 - Dark Pulse  
 - Venom Drench  
 - Dark Void  
-- slushswitch  
+- Slush Switch  
 
 
 === [gen6ubers] Lurking in the Dark (Caly-S, Ghost) ===
@@ -7860,7 +7860,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Skarmory (M) @ Choice Scarf  
@@ -7940,7 +7940,7 @@ Lunala @ Dark Memory
 Ability: Shadow Shield  
 EVs: 4 HP / 252 SpD / 252 Spe  
 Timid Nature  
-- memoryblast  
+- Memory Blast  
 - Roost  
 - Tailwind  
 - Uproar  
@@ -8012,7 +8012,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Calyrex-Shadow @ Choice Scarf  
@@ -8064,7 +8064,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Zoroark-Hisui (M) @ Spooky Plate  
@@ -8259,7 +8259,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Ho-Oh @ Sweet Apple  
@@ -8362,7 +8362,7 @@ Timid Nature
 - Dark Pulse  
 - Venom Drench  
 - Dark Void  
-- slushswitch  
+- Slush Switch  
 
 Phione @ Choice Scarf  
 Ability: Drizzle  
@@ -8371,7 +8371,7 @@ Timid Nature
 - Surf  
 - Mud Sport  
 - Sludge Wave  
-- slushswitch  
+- Slush Switch  
 
 Mewtwo @ Dawn Stone  
 Ability: hightenedmind  
@@ -8430,7 +8430,7 @@ Ability: inveigle
 EVs: 252 HP / 108 Def / 144 SpD / 4 Spe  
 Impish Nature  
 - Sandsear Storm  
-- memoryblast  
+- Memory Blast  
 - expressheal  
 - U-turn  
 
@@ -8482,7 +8482,7 @@ Timid Nature
 - Dark Pulse  
 - Venom Drench  
 - Dark Void  
-- slushswitch  
+- Slush Switch  
 
 Eternatus @ Black Sludge  
 Ability: spacepower  
@@ -8497,7 +8497,7 @@ Mewtwo @ Dark Memory
 Ability: psychicpower  
 EVs: 144 Atk / 112 SpA / 252 Spe  
 Naive Nature  
-- memoryblast  
+- Memory Blast  
 - psychofire  
 - Venoshock  
 - Uproar  
@@ -8600,7 +8600,7 @@ Timid Nature
 - Surf  
 - Mud Sport  
 - Sludge Wave  
-- slushswitch  
+- Slush Switch  
 
 Yveltal @ Zoom Lens  
 Ability: Dark Aura  
@@ -8640,7 +8640,7 @@ Ability: Ice Scales
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Glacial Lance  
-- memoryblast  
+- Memory Blast  
 - Swords Dance  
 - accelerate  
 
@@ -8661,7 +8661,7 @@ Timid Nature
 - Aurora Beam  
 - Frost Breath  
 - Sheer Cold  
-- slushswitch  
+- Slush Switch  
 
 Deoxys-Speed @ Nomel Berry  
 Ability: inertia  
@@ -8730,7 +8730,7 @@ Shiny: Yes
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Apple Acid  
-- slushswitch  
+- Slush Switch  
 - Aromatic Mist  
 - Quiver Dance  
 
@@ -8784,7 +8784,7 @@ Jolly Nature
 - Multi-Attack  
 - Ice Hammer  
 - Sunsteel Strike  
-- earthensong  
+- Earthen Song  
 
 Dialga @ Sweet Apple  
 Ability: Regenerator  
@@ -8813,7 +8813,7 @@ Timid Nature
 - Dark Pulse  
 - Venom Drench  
 - Dark Void  
-- slushswitch  
+- Slush Switch  
 
 
 === [gen6ubers] Mew's Fight (Mew, Fighting) ===
@@ -8854,7 +8854,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Vaporeon @ Leftovers  
@@ -8883,7 +8883,7 @@ Dialga @ Rock Memory
 Ability: Regenerator  
 EVs: 116 HP / 252 Atk / 140 Spe  
 Serious Nature  
-- memoryblast  
+- Memory Blast  
 - Breaking Swipe  
 - Fire Blast  
 - Shell Smash  
@@ -8907,7 +8907,7 @@ IVs: 5 SpA
 - Bolt Strike  
 - royalrampage  
 - flyingdeluge  
-- slushswitch  
+- Slush Switch  
 
 Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
@@ -8934,7 +8934,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 
@@ -8967,7 +8967,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Mewtwo @ Adrenaline Orb  
@@ -9007,7 +9007,7 @@ Ability: Serene Grace
 Shiny: Yes  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- fluttersong  
+- Flutter Song  
 - Echoed Voice  
 - Sparkling Aria  
 - Recover  
@@ -9028,7 +9028,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Dialga @ Dusk Stone  
@@ -9078,7 +9078,7 @@ Shiny: Yes
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Play Rough  
-- memoryblast  
+- Memory Blast  
 - Volt Tackle  
 - Agility  
 
@@ -9118,7 +9118,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 
@@ -9159,7 +9159,7 @@ Ability: pacify
 EVs: 252 HP / 108 Def / 144 SpD / 4 Spe  
 Impish Nature  
 - Sandsear Storm  
-- memoryblast  
+- Memory Blast  
 - expressheal  
 - U-turn  
 
@@ -9202,7 +9202,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Klinklang @ Metal Coat  
@@ -9228,20 +9228,20 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
 
 Meloetta @ Throat Spray  
-Ability: ensemble  
+Ability: Ensemble  
 Shiny: Yes  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Hyper Voice  
 - Storm Throw  
 - Screech  
-- fluttersong  
+- Flutter Song  
 
 
 === [gen6ubers] Shifting Gears (Zacian, Ground) ===
@@ -9261,7 +9261,7 @@ Shiny: Yes
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Play Rough  
-- memoryblast  
+- Memory Blast  
 - Volt Tackle  
 - Agility  
 
@@ -9272,14 +9272,14 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Palkia @ Choice Scarf  
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -9292,7 +9292,7 @@ Jolly Nature
 - glacialstrike  
 - Freeze-Dry  
 - Ice Shard  
-- slushswitch  
+- Slush Switch  
 
 Arceus-Fairy @ Pixie Plate  
 Ability: Multitype  
@@ -9320,7 +9320,7 @@ Ability: psychicpower
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - psychofire  
-- memoryblast  
+- Memory Blast  
 - Venoshock  
 - Night Daze  
 
@@ -9342,7 +9342,7 @@ Jolly Nature
 - glacialstrike  
 - Freeze-Dry  
 - Ice Shard  
-- slushswitch  
+- Slush Switch  
 
 Dialga @ Sweet Apple  
 Ability: Regenerator  
@@ -9360,7 +9360,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 
@@ -9383,7 +9383,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Klinklang @ Metal Coat  
@@ -9404,14 +9404,14 @@ IVs: 5 SpA
 - Bolt Strike  
 - royalrampage  
 - flyingdeluge  
-- slushswitch  
+- Slush Switch  
 
 Mewtwo @ Poison Memory  
 Ability: psychicpower  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - psychofire  
-- memoryblast  
+- Memory Blast  
 - Night Daze  
 - froststep  
 
@@ -9459,7 +9459,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -9481,7 +9481,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 
@@ -9504,7 +9504,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Necrozma-Dusk-Mane @ Steel Memory  
@@ -9539,7 +9539,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -9561,7 +9561,7 @@ Ability: psychicpower
 EVs: 140 Atk / 116 SpA / 252 Spe  
 Naive Nature  
 - psychofire  
-- memoryblast  
+- Memory Blast  
 - Overheat  
 - crystalrush  
 
@@ -9582,7 +9582,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Vaporeon @ Sitrus Berry  
@@ -9613,7 +9613,7 @@ Ability: psychicpower
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - psychofire  
-- memoryblast  
+- Memory Blast  
 - Venoshock  
 - malicerun  
 
@@ -9631,20 +9631,20 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
 
 Meloetta @ Throat Spray  
-Ability: ensemble  
+Ability: Ensemble  
 Shiny: Yes  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Hyper Voice  
 - Storm Throw  
 - Screech  
-- fluttersong  
+- Flutter Song  
 
 Meowscarada (F) @ Lax Incense  
 Ability: parlortrick  
@@ -9653,7 +9653,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Dialga @ Sweet Apple  
@@ -9703,7 +9703,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Arceus-Fairy @ Pixie Plate  
@@ -9748,14 +9748,14 @@ Careful Nature
 - royalretreat  
 
 Meloetta @ Throat Spray  
-Ability: ensemble  
+Ability: Ensemble  
 Shiny: Yes  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Hyper Voice  
 - Storm Throw  
 - Screech  
-- fluttersong  
+- Flutter Song  
 
 Xerneas @ Power Herb  
 Ability: Fairy Aura  
@@ -9774,14 +9774,14 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Palkia @ Choice Scarf  
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -9814,18 +9814,18 @@ EVs: 4 HP / 252 SpA / 252 Spe
 Timid Nature  
 - Shadow Ball  
 - Moonblast  
-- memoryblast  
+- Memory Blast  
 - Howl  
 
 Meloetta @ Throat Spray  
-Ability: ensemble  
+Ability: Ensemble  
 Shiny: Yes  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Hyper Voice  
 - Storm Throw  
 - Screech  
-- fluttersong  
+- Flutter Song  
 
 Vaporeon @ Sitrus Berry  
 Ability: utilitylock  
@@ -9844,7 +9844,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 
@@ -9860,14 +9860,14 @@ Adamant Nature
 - Rock Polish  
 
 Meloetta @ Throat Spray  
-Ability: ensemble  
+Ability: Ensemble  
 Shiny: Yes  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Hyper Voice  
 - Storm Throw  
 - Screech  
-- fluttersong  
+- Flutter Song  
 
 Dialga @ Sweet Apple  
 Ability: Regenerator  
@@ -9882,7 +9882,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -9895,7 +9895,7 @@ Timid Nature
 - Dark Pulse  
 - Venom Drench  
 - Dark Void  
-- slushswitch  
+- Slush Switch  
 
 Vaporeon @ Sitrus Berry  
 Ability: utilitylock  
@@ -9919,7 +9919,7 @@ IVs: 5 SpA
 - Bolt Strike  
 - royalrampage  
 - flyingdeluge  
-- slushswitch  
+- Slush Switch  
 
 Rotom @ Fire Memory  
 Ability: Magic Bounce  
@@ -9957,7 +9957,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Dialga @ Sweet Apple  
@@ -9978,14 +9978,14 @@ EVs: 4 HP / 252 SpA / 252 Spe
 Timid Nature  
 - Psycho Boost  
 - Astral Barrage  
-- memoryblast  
+- Memory Blast  
 - accelerate  
 
 Palkia @ Choice Scarf  
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -9997,7 +9997,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Mewtwo @ Adrenaline Orb  
@@ -10067,7 +10067,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Vaporeon (F) @ Sitrus Berry  
@@ -10088,7 +10088,7 @@ Jolly Nature
 - glacialstrike  
 - Freeze-Dry  
 - Ice Shard  
-- slushswitch  
+- Slush Switch  
 
 
 === [gen6ubers] Fountain of Life (Dialga, Fire) ===
@@ -10112,7 +10112,7 @@ IVs: 5 SpA
 - Bolt Strike  
 - royalrampage  
 - flyingdeluge  
-- slushswitch  
+- Slush Switch  
 
 Dialga @ Fire Memory  
 Ability: Regenerator  
@@ -10141,7 +10141,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Calyrex-Shadow @ Choice Scarf  
@@ -10195,7 +10195,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Calyrex-Shadow @ Choice Scarf  
@@ -10259,14 +10259,14 @@ Careful Nature
 - royalretreat  
 
 Meloetta @ Sweet Apple  
-Ability: ensemble  
+Ability: Ensemble  
 Shiny: Yes  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Hyper Voice  
 - Storm Throw  
 - Screech  
-- slushswitch  
+- Slush Switch  
 
 Dialga @ Sweet Apple  
 Ability: Regenerator  
@@ -10293,7 +10293,7 @@ Xerneas @ Poison Memory
 Ability: memoryarmor  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- memoryblast  
+- Memory Blast  
 - Focus Blast  
 - Aromatic Mist  
 - sweetretreat  
@@ -10305,7 +10305,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Klinklang @ Metal Coat  
@@ -10345,7 +10345,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Zen Headbutt  
 - Glacial Lance  
-- memoryblast  
+- Memory Blast  
 - accelerate  
 
 Tapu Koko @ Light Ball  
@@ -10385,14 +10385,14 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Palkia @ Choice Scarf  
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -10405,7 +10405,7 @@ Ability: Drizzle
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
 - Origin Pulse  
-- memoryblast  
+- Memory Blast  
 - Thunder Wave  
 - Tailwind  
 
@@ -10425,7 +10425,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Dialga @ Sweet Apple  
@@ -10464,7 +10464,7 @@ Shiny: Yes
 EVs: 252 Atk / 4 SpA / 252 Spe  
 Naive Nature  
 - Sunsteel Strike  
-- memoryblast  
+- Memory Blast  
 - Fire Blast  
 - Dragon Dance  
 
@@ -10495,7 +10495,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Dialga @ Sweet Apple  
@@ -10535,7 +10535,7 @@ EVs: 252 SpA / 252 Spe
 Timid Nature  
 - Stored Power  
 - Aura Sphere  
-- memoryblast  
+- Memory Blast  
 - Uproar  
 
 Klinklang @ Metal Coat  
@@ -10555,13 +10555,13 @@ Timid Nature
 - Dark Pulse  
 - Venom Drench  
 - Dark Void  
-- slushswitch  
+- Slush Switch  
 
 Palkia @ Choice Scarf  
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -10595,7 +10595,7 @@ Shiny: Yes
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Play Rough  
-- memoryblast  
+- Memory Blast  
 - Volt Tackle  
 - Agility  
 
@@ -10616,14 +10616,14 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Palkia @ Choice Scarf  
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -10665,7 +10665,7 @@ Ability: Magnet Pull
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 SpA  
 Quiet Nature  
-- memoryblast  
+- Memory Blast  
 - Overheat  
 - Taunt  
 - Thunder Wave  
@@ -10694,7 +10694,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -10747,7 +10747,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Dialga @ Dawn Stone  
@@ -10767,7 +10767,7 @@ Ability: Drizzle
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
 - Origin Pulse  
-- memoryblast  
+- Memory Blast  
 - Thunder Wave  
 - Tailwind  
 
@@ -10775,7 +10775,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -10805,18 +10805,18 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Meloetta @ Throat Spray  
-Ability: ensemble  
+Ability: Ensemble  
 Shiny: Yes  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Hyper Voice  
 - Storm Throw  
 - Screech  
-- fluttersong  
+- Flutter Song  
 
 
 === [gen6ubers] Free Radicals (Calyrex-Shadow, Ghost) ===
@@ -10837,7 +10837,7 @@ Hasty Nature
 - Stored Power  
 - infernobeam  
 - Night Daze  
-- Receiving Strike  
+- receivingstrike  
 
 Xerneas @ Bright Powder  
 Ability: Fairy Aura  
@@ -10865,7 +10865,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Flower Trick  
 - Night Slash  
-- slushswitch  
+- Slush Switch  
 - Trailblaze  
 
 Dialga @ Occa Berry  
@@ -10913,7 +10913,7 @@ Ability: Magnet Pull
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 SpA  
 Quiet Nature  
-- memoryblast  
+- Memory Blast  
 - Overheat  
 - Taunt  
 - Thunder Wave  
@@ -10936,7 +10936,7 @@ Hasty Nature
 - Stored Power  
 - psychofire  
 - Night Daze  
-- Receiving Strike  
+- receivingstrike  
 
 
 === [gen6ubers] Phione's Tower of Power (Phione, Poison) ===
@@ -10946,7 +10946,7 @@ Ability: Drizzle
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - compactstream  
-- memoryblast  
+- Memory Blast  
 - Shadow Ball  
 - Agility  
 
@@ -10968,7 +10968,7 @@ Jolly Nature
 - Multi-Attack  
 - Ice Hammer  
 - Sunsteel Strike  
-- earthensong  
+- Earthen Song  
 
 Tapu Koko @ Light Ball  
 Ability: lightningforce  
@@ -11054,7 +11054,7 @@ Ability: Intrepid Sword
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Play Rough  
-- memoryblast  
+- Memory Blast  
 - Volt Tackle  
 - Agility  
 
@@ -11075,7 +11075,7 @@ Ability: psychicpower
 EVs: 140 Atk / 116 SpA / 252 Spe  
 Naive Nature  
 - psychofire  
-- memoryblast  
+- Memory Blast  
 - infernobeam  
 - crystalrush  
 
@@ -11087,7 +11087,7 @@ Timid Nature
 - Dark Pulse  
 - Venom Drench  
 - Dark Void  
-- slushswitch  
+- Slush Switch  
 
 Klinklang @ Metal Coat  
 Ability: utilitylock  
@@ -11144,7 +11144,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -11195,7 +11195,7 @@ Shiny: Yes
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Play Rough  
-- memoryblast  
+- Memory Blast  
 - Swords Dance  
 - Agility  
 
@@ -11213,7 +11213,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -11254,7 +11254,7 @@ Shiny: Yes
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
 - Apple Acid  
-- slushswitch  
+- Slush Switch  
 - Aromatic Mist  
 - Quiver Dance  
 
@@ -11274,7 +11274,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Shadow Force  
 - Dragon Rush  
-- slushswitch  
+- Slush Switch  
 - Shift Gear  
 
 Klinklang @ Metal Coat  
@@ -11342,7 +11342,7 @@ Timid Nature
 - Dark Pulse  
 - Venom Drench  
 - Dark Void  
-- slushswitch  
+- Slush Switch  
 
 Klinklang @ Metal Coat  
 Ability: utilitylock  
@@ -11363,7 +11363,7 @@ Timid Nature
 - Surf  
 - Mud Sport  
 - Sludge Wave  
-- slushswitch  
+- Slush Switch  
 
 Marshadow @ Fighting Memory  
 Ability: Technician  
@@ -11390,7 +11390,7 @@ Hasty Nature
 - Stored Power  
 - psychofire  
 - Night Daze  
-- Receiving Strike  
+- receivingstrike  
 
 Klinklang @ Metal Coat  
 Ability: utilitylock  
@@ -11437,7 +11437,7 @@ Shiny: Yes
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Dragon Ascent  
-- memoryblast  
+- Memory Blast  
 - Aromatic Mist  
 - Agility  
 
@@ -11467,7 +11467,7 @@ Hasty Nature
 - Stored Power  
 - psychofire  
 - Night Daze  
-- Receiving Strike  
+- receivingstrike  
 
 
 === [gen6ubers] Dragon's Reign (Zacian-Crowned, Ground) ===
@@ -11496,7 +11496,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Dragon Breath  
 - Flip Turn  
@@ -11507,7 +11507,7 @@ Shiny: Yes
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Play Rough  
-- memoryblast  
+- Memory Blast  
 - Volt Tackle  
 - Agility  
 
@@ -11548,7 +11548,7 @@ Hasty Nature
 - psychofire  
 - Water Sport  
 - Comeuppance  
-- Receiving Strike  
+- receivingstrike  
 
 Lilligant @ Grass Memory  
 Ability: flowershield  
@@ -11556,7 +11556,7 @@ Shiny: Yes
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
 - Apple Acid  
-- slushswitch  
+- Slush Switch  
 - Aromatic Mist  
 - Quiver Dance  
 
@@ -11618,7 +11618,7 @@ Hasty Nature
 - Stored Power  
 - psychofire  
 - Night Daze  
-- Receiving Strike  
+- receivingstrike  
 
 Zacian-Crowned @ Ground Memory  
 Ability: Intrepid Sword  
@@ -11626,7 +11626,7 @@ Shiny: Yes
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Play Rough  
-- memoryblast  
+- Memory Blast  
 - Volt Tackle  
 - Agility  
 
@@ -11702,7 +11702,7 @@ Mewtwo @ Grass Memory
 Ability: psychicpower  
 EVs: 144 Atk / 112 SpA / 252 Spe  
 Hasty Nature  
-- memoryblast  
+- Memory Blast  
 - psychofire  
 - Night Daze  
 - Trailblaze  
@@ -11716,7 +11716,7 @@ Shiny: Yes
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Play Rough  
-- memoryblast  
+- Memory Blast  
 - Volt Tackle  
 - Agility  
 
@@ -11737,7 +11737,7 @@ Hasty Nature
 - psychofire  
 - Water Sport  
 - Comeuppance  
-- Receiving Strike  
+- receivingstrike  
 
 Dialga @ Metal Coat  
 Ability: Regenerator  
@@ -11754,7 +11754,7 @@ Shiny: Yes
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
 - Apple Acid  
-- slushswitch  
+- Slush Switch  
 - Aromatic Mist  
 - Quiver Dance  
 
@@ -11777,7 +11777,7 @@ Hasty Nature
 - Heat Crash  
 - psychofire  
 - psychicstorm  
-- Receiving Strike  
+- receivingstrike  
 
 Lilligant @ Flower Sweet  
 Ability: flowershield  
@@ -11785,7 +11785,7 @@ Shiny: Yes
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
 - Apple Acid  
-- slushswitch  
+- Slush Switch  
 - Aromatic Mist  
 - Quiver Dance  
 
@@ -11865,7 +11865,7 @@ Hasty Nature
 - Stored Power  
 - psychofire  
 - Night Daze  
-- Receiving Strike  
+- receivingstrike  
 
 Necrozma-Dawn-Wings @ Assault Vest  
 Ability: lightinversion  
@@ -11882,7 +11882,7 @@ Shiny: Yes
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
 - Apple Acid  
-- slushswitch  
+- Slush Switch  
 - Aromatic Mist  
 - Quiver Dance  
 
@@ -11941,7 +11941,7 @@ Ability: Air Lock
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- memoryblast  
+- Memory Blast  
 - dragonlunge  
 - Triple Axel  
 - Uproar  
@@ -12062,7 +12062,7 @@ Shiny: Yes
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
 - Apple Acid  
-- slushswitch  
+- Slush Switch  
 - Aromatic Mist  
 - Quiver Dance  
 
@@ -12085,7 +12085,7 @@ EVs: 4 HP / 252 SpA / 252 Spe
 Timid Nature  
 - lustrousstream  
 - etherealstream  
-- memoryblast  
+- Memory Blast  
 - Quiver Dance  
 
 Landorus-Therian @ Assault Vest  
@@ -12121,7 +12121,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 108 SpA / 148 SpD / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -12217,7 +12217,7 @@ Jolly Nature
 - Multi-Attack  
 - Ice Hammer  
 - Sunsteel Strike  
-- earthensong  
+- Earthen Song  
 
 Rayquaza @ Electric Memory  
 Ability: dragonheart  
@@ -12233,7 +12233,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 108 SpA / 148 SpD / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -12275,7 +12275,7 @@ Ability: Multitype
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Judgment  
-- royalsubmersion  
+- Royal Submersion  
 - glacialstrike  
 - naturesvoice  
 
@@ -12376,7 +12376,7 @@ Ability: psychicpower
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Psystrike  
-- memoryblast  
+- Memory Blast  
 - Water Sport  
 - Aurora Beam  
 
@@ -12390,14 +12390,14 @@ Naive Nature
 - leafswitch  
 
 Meloetta @ Throat Spray  
-Ability: ensemble  
+Ability: Ensemble  
 Shiny: Yes  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Hyper Voice  
 - Storm Throw  
 - Frost Breath  
-- fluttersong  
+- Flutter Song  
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
@@ -12414,7 +12414,7 @@ Ability: Multitype
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Judgment  
-- royalsubmersion  
+- Royal Submersion  
 - glacialstrike  
 - naturesvoice  
 
@@ -12435,7 +12435,7 @@ Ability: Power Spot
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Astral Barrage  
-- memoryblast  
+- Memory Blast  
 - Parting Shot  
 - accelerate  
 
@@ -12473,7 +12473,7 @@ Ability: Multitype
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Judgment  
-- royalsubmersion  
+- Royal Submersion  
 - glacialstrike  
 - naturesvoice  
 
@@ -12494,7 +12494,7 @@ Ability: dragonarmor
 EVs: 252 HP / 4 Atk / 252 Spe  
 Jolly Nature  
 - Earthquake  
-- memoryblast  
+- Memory Blast  
 - Milk Drink  
 - regalexit  
 
@@ -12519,14 +12519,14 @@ Adamant Nature
 - frostyglide  
 
 Meloetta @ Throat Spray  
-Ability: ensemble  
+Ability: Ensemble  
 Shiny: Yes  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Hyper Voice  
 - Storm Throw  
 - Frost Breath  
-- fluttersong  
+- Flutter Song  
 
 Ho-Oh @ Sweet Apple  
 Ability: Magic Guard  
@@ -12541,7 +12541,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 108 SpA / 148 SpD / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -12591,7 +12591,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 108 SpA / 148 SpD / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -12634,7 +12634,7 @@ Ability: pacify
 EVs: 252 HP / 252 SpD / 4 Spe  
 Careful Nature  
 - Sandsear Storm  
-- memoryblast  
+- Memory Blast  
 - expressheal  
 - turbineturn  
 
@@ -12697,7 +12697,7 @@ Jolly Nature
 - Multi-Attack  
 - Ice Hammer  
 - Sunsteel Strike  
-- earthensong  
+- Earthen Song  
 
 Ho-Oh @ Sweet Apple  
 Ability: Magic Guard  
@@ -12709,21 +12709,21 @@ Careful Nature
 - Aromatic Mist  
 
 Meloetta @ Throat Spray  
-Ability: ensemble  
+Ability: Ensemble  
 Shiny: Yes  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Hyper Voice  
 - Storm Throw  
 - Frost Breath  
-- fluttersong  
+- Flutter Song  
 
 Garchomp (M) @ Ice Memory  
 Ability: dragonarmor  
 EVs: 252 HP / 4 Atk / 252 Spe  
 Jolly Nature  
 - Earthquake  
-- memoryblast  
+- Memory Blast  
 - Milk Drink  
 - regalexit  
 
@@ -12785,7 +12785,7 @@ Ability: dragonarmor
 EVs: 252 HP / 4 Atk / 252 Spe  
 Jolly Nature  
 - Earthquake  
-- memoryblast  
+- Memory Blast  
 - Milk Drink  
 - regalexit  
 
@@ -12816,7 +12816,7 @@ Shiny: Yes
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Play Rough  
-- memoryblast  
+- Memory Blast  
 - Aerial Ace  
 - Agility  
 
@@ -12824,7 +12824,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 108 SpA / 148 SpD / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -12879,7 +12879,7 @@ Jolly Nature
 - Multi-Attack  
 - glacialstrike  
 - Sunsteel Strike  
-- earthensong  
+- Earthen Song  
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
@@ -12981,7 +12981,7 @@ Jolly Nature
 - Multi-Attack  
 - glacialstrike  
 - Sunsteel Strike  
-- earthensong  
+- Earthen Song  
 
 Dialga @ Ability Shield  
 Ability: Regenerator  
@@ -12998,7 +12998,7 @@ Shiny: Yes
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
 - Apple Acid  
-- slushswitch  
+- Slush Switch  
 - Aromatic Mist  
 - Quiver Dance  
 
@@ -13035,14 +13035,14 @@ IVs: 0 Spe
 === [gen6ubers] Revision (✗) ===
 
 Meloetta @ Throat Spray  
-Ability: ensemble  
+Ability: Ensemble  
 Shiny: Yes  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Hyper Voice  
 - Storm Throw  
 - Frost Breath  
-- fluttersong  
+- Flutter Song  
 
 Kyogre @ Rose Incense  
 Ability: Drizzle  
@@ -13122,9 +13122,9 @@ Shiny: Yes
 EVs: 252 HP / 252 Def  
 Bold Nature  
 - Dark Pulse  
-- memoryblast  
+- Memory Blast  
 - Aromatic Mist  
-- slushswitch  
+- Slush Switch  
 
 Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
@@ -13336,7 +13336,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 148 HP / 108 SpA / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -13396,7 +13396,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 148 HP / 108 SpA / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -13473,7 +13473,7 @@ IVs: 0 Spe
 - Psyshock  
 - Aura Sphere  
 - Shadow Ball  
-- slushswitch  
+- Slush Switch  
 
 Calyrex-Ice @ Ice Memory  
 Ability: antipathy  
@@ -13533,7 +13533,7 @@ Palkia @ Choice Scarf
 Ability: dracolate  
 EVs: 108 SpA / 148 SpD / 252 Spe  
 Modest Nature  
-- royalsubmersion  
+- Royal Submersion  
 - Boomburst  
 - Fire Blast  
 - Flip Turn  
@@ -13563,7 +13563,7 @@ Jolly Nature
 - Fury Swipes  
 - Pay Day  
 - Quick Attack  
-- slushswitch  
+- Slush Switch  
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
@@ -13619,7 +13619,7 @@ Azumarill @ Bright Powder
 Ability: Huge Power  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- Ice Punch  
+- Play Rough  
 - Waterfall  
 - Aqua Jet  
 - Swords Dance  
@@ -13641,7 +13641,7 @@ Timid Nature
 - Surf  
 - compactstream  
 - Sludge Wave  
-- slushswitch  
+- Slush Switch  
 
 
 === [gen6ubers] Ferocious Sunlight (Lando-T, Grass) ===
@@ -13652,7 +13652,7 @@ Shiny: Yes
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
 - Apple Acid  
-- slushswitch  
+- Slush Switch  
 - Aromatic Mist  
 - Quiver Dance  
 
@@ -13670,7 +13670,7 @@ Ability: pacify
 EVs: 252 HP / 252 Atk / 4 Spe  
 Adamant Nature  
 - Sandsear Storm  
-- memoryblast  
+- Memory Blast  
 - Rock Slide  
 - Howl  
 
@@ -13790,7 +13790,7 @@ Shiny: Yes
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - berserkblaze  
-- Receiving Strike  
+- receivingstrike  
 - Bolt Beak  
 - Flip Turn  
 
@@ -13841,19 +13841,17 @@ Modest Nature
 IVs: 0 Atk  
 - Eternabeam  
 - Venoshock  
-- Meteor Beam  
+- Magma Storm  
 - Autotomize  
 
-Xerneas @ Power Herb  
-Ability: Fairy Aura  
-Shiny: Yes  
-EVs: 4 HP / 252 SpA / 252 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Moonblast  
-- Focus Blast  
-- Aurora Beam  
-- Geomancy  
+Palkia @ Choice Scarf  
+Ability: dracolate  
+EVs: 108 SpA / 148 SpD / 252 Spe  
+Modest Nature  
+- Royal Submersion  
+- Boomburst  
+- Fire Blast  
+- Flip Turn  
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
@@ -13876,13 +13874,132 @@ IVs: 0 Spe
 - Withdraw  
 
 Meloetta-Pirouette @ Throat Spray  
-Ability: ensemble  
+Ability: Ensemble  
 Shiny: Yes  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Hyper Voice  
 - Storm Throw  
 - Frost Breath  
-- fluttersong  
+- Flutter Song  
+
+
+=== [gen6ubers] Covered Ground (Groudon, Fire) ===
+
+Arceus-Ground @ Earth Plate  
+Ability: Multitype  
+Shiny: Yes  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Multi-Attack  
+- glacialstrike  
+- Recover  
+- Earthen Song  
+
+Weavile (M) @ Choice Scarf  
+Ability: Klutz  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Beat Up  
+- Triple Axel  
+- Fake Out  
+- Slush Switch  
+
+Zacian-Crowned @ Metal Coat  
+Ability: Intrepid Sword  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Smart Strike  
+- Volt Tackle  
+- Aerial Ace  
+- rentalcharge  
+
+Muk-Alola (M) @ Black Sludge  
+Ability: Power of Alchemy  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Crunch  
+- Stealth Rock  
+- Milk Drink  
+- Withdraw  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 4 HP / 232 SpA / 20 SpD / 252 Spe  
+Timid Nature  
+- Stored Power  
+- Water Sport  
+- Mud Bomb  
+- psychodarts  
+
+Groudon @ Fire Memory  
+Ability: Drought  
+EVs: 116 HP / 252 Atk / 140 Spe  
+Adamant Nature  
+- Precipice Blades  
+- Flame Wheel  
+- Ice Punch  
+- rentalcharge  
+
+
+=== [gen6ubers] Dragon's Reign (Eternatus, Dragon) ===
+
+Muk-Alola (M) @ Black Sludge  
+Ability: Power of Alchemy  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Crunch  
+- Stealth Rock  
+- Milk Drink  
+- Withdraw  
+
+Arceus @ Chilan Berry  
+Ability: omnipotent  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Extreme Speed  
+- Earthquake  
+- Rock Wrecker  
+- heavendance  
+
+Palkia @ Choice Scarf  
+Ability: dracolate  
+EVs: 108 SpA / 148 SpD / 252 Spe  
+Modest Nature  
+- Royal Submersion  
+- Boomburst  
+- Fire Blast  
+- Flip Turn  
+
+Landorus-Therian @ Assault Vest  
+Ability: pacify  
+EVs: 4 HP / 252 SpD / 252 Spe  
+Calm Nature  
+- Sandsear Storm  
+- Aeroblast  
+- expressheal  
+- turbineturn  
+
+Eternatus @ Dragon Memory  
+Ability: spacepower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Eternabeam  
+- Venoshock  
+- Magma Storm  
+- Autotomize  
+
+Porygon-Z @ Ability Shield  
+Ability: formatdrive  
+Shiny: Yes  
+EVs: 116 Atk / 164 SpD / 228 Spe  
+Adamant Nature  
+- enigmacharge  
+- Earthquake  
+- Parabolic Charge  
+- Blizzard  
 
 

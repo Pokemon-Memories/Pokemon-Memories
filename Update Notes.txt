@@ -5,20 +5,45 @@ Abilities
 - Space Power
 	- Memory Effect: Pokemon receives a x1.5 Stat Multiplier depending on its Positive Nature; Pokemon will receive its Speed Multiplier after successfully causing the opposing Pokemon to faint with an Attacking Move; If a neutral Nature is selected, the Pokemon will restore 1/8 of its Max Hp at the end of each turn
 
+Items
+- Eject Pack
+	- Effect: Switches the holder out when they're stats are lowered -> Target is forcibly switched to a random ally if the Holder successfully causes them to flinch
+
 Moves
 - Eternabeam
 	- Base Power: 220 -> 190
 - Geomancy
 	- Additional Effect: While this Move's Effects are active, the Pokemon is able to ignore the effects of Power of Alchemy's Boosted-Attack Power Reduction
+- Grass Knot
+	- Corrected an error where this move would receive its maximum power at an earlier point than intended 
+- Low Kick
+	- Corrected an error where this move would receive its maximum power at an earlier point than intended 
+- Meteor Mash
+	- Base Power: 150 -> 155
+- Smart Strike
+	- Base Power: 130 -> 150
 
 Pokemon
 - Eternatus
 	- Learnset Additions
 		- Aromatic Mist
+		- Chaos Switch
 		- Earth Power
 	- Learnset Removals
 		- Recover
-
+- Hoopa
+	- Learnset Additions
+		- Fake Out
+- Urshifu(s)
+	- Universal
+		- Learnset Additions
+			- Flip Kick
+	- Urshifu-S
+		- Learnset Additions
+			- Chaos Switch
+- Zacian
+	- Learnset Additions
+		- Smart Strike
 
 
 

@@ -7069,6 +7069,7 @@ Bullet Switch
 Fire Fang
 Meteor Mash
 Rental Charge
+Smart Strike
 Twinkle Tackle
 Volt Tackle
 Wave Crash
@@ -7137,6 +7138,7 @@ Anchor Shot
 Aromatic Mist
 Autotomize
 Blizzard
+Chaos Switchs
 Cross Poison
 Discharge
 Dragon Breath
@@ -8725,6 +8727,8 @@ BST: 550 -> 1074
 Updated Ability: Unseen Fist
 Added Ability: Power Drive/Memory Armor
 New Moves
+Chaos Switch
+Flip Kick
 Malice Run
 Milk Drink
 Power Trip
@@ -8743,6 +8747,7 @@ Updated Ability: Unseen Fist
 Added Ability: Stamina/Memory Armor
 New Moves
 Aqua Step
+Flip Kick
 Flip Turn
 Milk Drink
 Water Break
@@ -8892,6 +8897,7 @@ Dragon Pulse
 Dynamic Punch
 Earth Power
 Expanding Force
+Fake Out
 Psychic Light
 Psycho Blitz
 Recompense
@@ -11902,7 +11908,7 @@ Base Power: 120 -> 150
 Effect: Raises SpA by 1 stage and takes a turn before attacking. Raises user's SpA by 1 stage each upon successfully fainting an opponent.
 --
 Meteor Mash
-Base Power: 80 -> 150
+Base Power: 80 -> 155
 Atk Boost Chance: 20% -> __
 Recoil: __ -> 1/5
 PP: 10 -> 5
@@ -13134,7 +13140,7 @@ Sludge Wave
 Base Power: 95 -> 135
 --
 Smart Strike
-Base Power: 70 -> 130
+Base Power: 70 -> 150
 --
 Sludge Rush (New Move)
 Base Power: 100
@@ -14612,6 +14618,9 @@ Effect: Automatically transforms Diancie into Mega Diancie
 --
 Dragon Fang
 Additional Effect: Mega Evolves Rayquaza in the formats that allow it
+--
+Eject Pack
+Effect: Holder forcibly switches the opponent out upon successfully causing them to flinch
 --
 Enigma Berry
 Effect: Restores 1/4 Max Hp upon being hit Super-Effectively -> Halves the damage of opposing ???-Type Attacks. Single Use.
