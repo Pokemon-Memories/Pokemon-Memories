@@ -68,7 +68,7 @@ Jolly Nature
 - Gear Grind  
 - Heat Crash  
 - Heal Order  
-- Sludge Switch  
+- sludgeswitch  
 
 Celesteela @ Rose Incense  
 Ability: Primordial Sea  
@@ -108,7 +108,7 @@ Sassy Nature
 IVs: 0 Spe  
 - Origin Pulse  
 - Spectral Thief  
-- Express Heal  
+- expressheal  
 - royalretreat  
 
 Arceus-Fairy @ Bright Powder  
@@ -259,7 +259,7 @@ Sassy Nature
 IVs: 0 Spe  
 - Origin Pulse  
 - Spectral Thief  
-- Express Heal  
+- expressheal  
 - royalretreat  
 
 Eternatus (M) @ Black Sludge  
@@ -381,8 +381,8 @@ EVs: 252 HP / 4 Atk / 252 Def
 Impish Nature  
 - Sacred Fire  
 - Dragon Breath  
-- Flame Switch  
-- Express Heal  
+- flameswitch  
+- expressheal  
 
 Unown-S @ assistdrive  
 Ability: Shadow Tag  
@@ -437,14 +437,14 @@ Bold Nature
 - Teleport  
 
 Porygon-Z @ Life Orb  
-Ability: Format Drive  
+Ability: formatdrive  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- Enigma Charge  
+- enigmacharge  
 - Parabolic Charge  
 - Avalanche  
-- Mystery Speed  
+- mysteryspeed  
 
 Claydol @ assistdrive  
 Ability: Levitate  
@@ -465,7 +465,7 @@ Timid Nature
 - shattershade  
 - Focus Blast  
 - Venoshock  
-- Sludge Switch  
+- sludgeswitch  
 
 Rapidash (M) @ Lax Incense  
 Ability: blazingheat  
@@ -474,8 +474,8 @@ EVs: 252 HP / 4 Atk / 252 Def
 Impish Nature  
 - Sacred Fire  
 - Dragon Breath  
-- Flame Switch  
-- Express Heal  
+- flameswitch  
+- expressheal  
 
 Celesteela @ Metal Coat  
 Ability: Filter  
@@ -564,8 +564,8 @@ EVs: 252 HP / 4 Atk / 252 Def
 Impish Nature  
 - Sacred Fire  
 - Dragon Breath  
-- Flame Switch  
-- Express Heal  
+- flameswitch  
+- expressheal  
 
 Camerupt (M) @ assistdrive  
 Ability: Magma Armor  
@@ -660,8 +660,8 @@ EVs: 252 HP / 4 Atk / 252 Def
 Impish Nature  
 - Sacred Fire  
 - Dragon Breath  
-- Flame Switch  
-- Express Heal  
+- flameswitch  
+- expressheal  
 
 Mewtwo @ Adrenaline Orb  
 Ability: antipathy  
@@ -722,7 +722,7 @@ Timid Nature
 - shattershade  
 - Focus Blast  
 - Venoshock  
-- Sludge Switch  
+- sludgeswitch  
 
 Rotom @ Light Ball  
 Ability: Magic Bounce  
@@ -769,14 +769,14 @@ IVs: 0 Spe
 === [gen6ultraassist] Ultra Assist/Showtime (Atk Assist: Gallade) ===
 
 Porygon-Z @ Life Orb  
-Ability: Format Drive  
+Ability: formatdrive  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- Enigma Charge  
+- enigmacharge  
 - Parabolic Charge  
 - Avalanche  
-- Mystery Speed  
+- mysteryspeed  
 
 Necrozma-Dusk-Mane @ Metal Coat  
 Ability: Tinted Lens  
@@ -892,14 +892,14 @@ IVs: 0 Atk / 0 Spe
 === [gen6ultraassist] Ultra Assist/Destruction (EX-Yveltal) ===
 
 Porygon-Z @ Life Orb  
-Ability: Format Drive  
+Ability: formatdrive  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- Enigma Charge  
+- enigmacharge  
 - Earthquake  
 - Avalanche  
-- Mystery Speed  
+- mysteryspeed  
 
 Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
@@ -1007,7 +1007,7 @@ Naive Nature
 - Apple Acid  
 - Surf  
 - Bullet Seed  
-- Turbine Turn  
+- turbineturn  
 
 
 === [gen6ultraassist] Ultra Assist/Resplendent Offense (SpA Assist: Bibarel) ===
@@ -1030,7 +1030,7 @@ Timid Nature
 - shattershade  
 - Focus Blast  
 - Venoshock  
-- Sludge Switch  
+- sludgeswitch  
 
 Landorus-Therian (M) @ Sweet Apple  
 Ability: pacify  
@@ -1039,7 +1039,7 @@ Bold Nature
 - Sandsear Storm  
 - Stealth Rock  
 - U-turn  
-- Express Heal  
+- expressheal  
 
 Arceus-Fairy @ Pixie Plate  
 Ability: Multitype  
@@ -1090,7 +1090,7 @@ Bold Nature
 - Sandsear Storm  
 - Rapid Spin  
 - U-turn  
-- Express Heal  
+- expressheal  
 
 Zacian-Crowned @ Metal Coat  
 Ability: Intrepid Sword  
@@ -1128,7 +1128,7 @@ IVs: 0 Spe
 - Sacred Fire  
 - Dragon Breath  
 - Aromatic Mist  
-- Flame Switch  
+- flameswitch  
 
 
 === [gen6ultraassist] Ultra Assist/The Aura is Mine (Hp Assist: Volcanion) ===
@@ -1150,7 +1150,7 @@ Timid Nature
 - shattershade  
 - Focus Blast  
 - Venoshock  
-- Sludge Switch  
+- sludgeswitch  
 
 Arceus-Ground @ Earth Plate  
 Ability: Multitype  
@@ -1291,7 +1291,7 @@ Naive Nature
 - Apple Acid  
 - Surf  
 - Stealth Rock  
-- Turbine Turn  
+- turbineturn  
 
 Arceus-Rock @ Stone Plate  
 Ability: Multitype  
@@ -1325,7 +1325,7 @@ Timid Nature
 - shattershade  
 - Focus Blast  
 - Venom Drench  
-- Sludge Switch  
+- sludgeswitch  
 
 Lugia @ White Herb  
 Ability: deepsea  
@@ -1363,7 +1363,7 @@ Impish Nature
 - Sandsear Storm  
 - Stealth Rock  
 - U-turn  
-- Express Heal  
+- expressheal  
 
 Gardevoir @ assistdrive  
 Ability: Trace  
@@ -1380,14 +1380,14 @@ IVs: 0 Atk / 0 SpA / 0 Spe
 === [gen6ultraassist] Ultra Assist/Unbound (Atk Assist: Gallade) ===
 
 Porygon-Z @ Life Orb  
-Ability: Format Drive  
+Ability: formatdrive  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- Enigma Charge  
+- enigmacharge  
 - Earthquake  
 - Avalanche  
-- Mystery Speed  
+- mysteryspeed  
 
 Dialga @ Sweet Apple  
 Ability: Regenerator  
@@ -1459,7 +1459,7 @@ Timid Nature
 - shattershade  
 - Focus Blast  
 - Venom Drench  
-- Sludge Switch  
+- sludgeswitch  
 
 Arceus-Rock @ Stone Plate  
 Ability: Multitype  
@@ -1498,7 +1498,7 @@ Bold Nature
 - Sandsear Storm  
 - Sludge Bomb  
 - U-turn  
-- Express Heal  
+- expressheal  
 
 
 === [gen6ultraassist] Ultra Assist/Contrarian (Def Assist: Unown-?) ===
@@ -1548,7 +1548,7 @@ Impish Nature
 - Sandsear Storm  
 - Stealth Rock  
 - U-turn  
-- Express Heal  
+- expressheal  
 
 Rotom-Wash @ Sweet Apple  
 Ability: doubledown  
@@ -1579,7 +1579,7 @@ Impish Nature
 - Sandsear Storm  
 - Rock Tomb  
 - U-turn  
-- Express Heal  
+- expressheal  
 
 Dialga @ Dusk Stone  
 Ability: Regenerator  
@@ -1640,7 +1640,7 @@ Impish Nature
 - Sandsear Storm  
 - Stealth Rock  
 - U-turn  
-- Express Heal  
+- expressheal  
 
 Xerneas @ assistdrive  
 Ability: Fairy Aura  
@@ -1737,8 +1737,8 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- Express Heal  
-- Sludge Switch  
+- expressheal  
+- sludgeswitch  
 
 
 === [gen6anythinggoes] Primordials: There Were Monsters (Mewtwo, Dark) ===
@@ -1831,7 +1831,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
@@ -2010,7 +2010,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 Kyogre @ Sea Incense  
@@ -2201,7 +2201,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
@@ -2256,11 +2256,11 @@ Timid Nature
 - Shell Smash  
 
 Eternatus @ Black Sludge  
-Ability: Space Power  
+Ability: spacepower  
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
 - Venoshock  
-- Sludge Switch  
+- sludgeswitch  
 - Dragon Breath  
 - Aromatic Mist  
 
@@ -2270,7 +2270,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 Calyrex-Shadow @ Choice Scarf  
@@ -2371,7 +2371,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - lustrousstream  
 - Stealth Rock  
-- Express Heal  
+- expressheal  
 - slushswitch  
 
 Zamazenta-Crowned @ Rusted Shield  
@@ -2410,7 +2410,7 @@ EVs: 4 HP / 252 SpD / 252 Spe
 Jolly Nature  
 - Sandsear Storm  
 - memoryblast  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 Giratina @ Chipped Pot  
@@ -2429,7 +2429,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 Deoxys-Attack @ Life Orb  
@@ -2478,7 +2478,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - lustrousstream  
 - Stealth Rock  
-- Express Heal  
+- expressheal  
 - slushswitch  
 
 Tornadus @ Choice Scarf  
@@ -2579,7 +2579,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 
@@ -2675,18 +2675,18 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Dragon Breath  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 Porygon-Z @ Life Orb  
-Ability: Format Drive  
+Ability: formatdrive  
 Shiny: Yes  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
 - enigmacannon  
 - Parabolic Charge  
 - Waterfall  
-- Mystery Speed  
+- mysteryspeed  
 
 Yveltal @ White Herb  
 Ability: Dark Aura  
@@ -2734,7 +2734,7 @@ EVs: 4 HP / 252 Def / 252 Spe
 Impish Nature  
 - Sandsear Storm  
 - Aeroblast  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 Calyrex-Shadow @ Choice Scarf  
@@ -2775,8 +2775,8 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - mindcleaner  
-- Express Heal  
-- Sludge Switch  
+- expressheal  
+- sludgeswitch  
 
 Mew @ energypowder  
 Ability: Protean  
@@ -2794,7 +2794,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - lustrousstream  
 - Stealth Rock  
-- Express Heal  
+- expressheal  
 - slushswitch  
 
 Ho-Oh @ Sweet Apple  
@@ -2803,7 +2803,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Dragon Breath  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 Weavile (M) @ Choice Scarf  
@@ -2853,18 +2853,18 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Dragon Breath  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 Porygon-Z @ Life Orb  
-Ability: Format Drive  
+Ability: formatdrive  
 Shiny: Yes  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
 - enigmacannon  
 - Parabolic Charge  
 - Waterfall  
-- Mystery Speed  
+- mysteryspeed  
 
 Thundurus-Therian @ Life Orb  
 Ability: malleate  
@@ -2922,7 +2922,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 Palkia @ Choice Scarf  
@@ -2967,11 +2967,11 @@ IVs: 0 Atk
 - Parting Shot  
 
 Eternatus @ Black Sludge  
-Ability: Space Power  
+Ability: spacepower  
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
 - Venoshock  
-- Sludge Switch  
+- sludgeswitch  
 - Dragon Breath  
 - Aromatic Mist  
 
@@ -2991,7 +2991,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 
@@ -3032,7 +3032,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - lustrousstream  
 - Stealth Rock  
-- Express Heal  
+- expressheal  
 - slushswitch  
 
 Ho-Oh @ Sweet Apple  
@@ -3041,7 +3041,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Dragon Breath  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 Mewtwo @ Adrenaline Orb  
@@ -3072,7 +3072,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 Tapu Koko @ Light Ball  
@@ -3086,11 +3086,11 @@ Naive Nature
 - Volt Switch  
 
 Eternatus @ Black Sludge  
-Ability: Space Power  
+Ability: spacepower  
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
 - Venoshock  
-- Sludge Switch  
+- sludgeswitch  
 - Dragon Breath  
 - Aromatic Mist  
 
@@ -3148,7 +3148,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Dragon Breath  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 Suicune @ Berry Juice  
@@ -3157,7 +3157,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - lustrousstream  
 - Stealth Rock  
-- Express Heal  
+- expressheal  
 - slushswitch  
 
 Necrozma-Dawn-Wings @ Assault Vest  
@@ -3166,8 +3166,8 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - mindcleaner  
-- Express Heal  
-- Sludge Switch  
+- expressheal  
+- sludgeswitch  
 
 
 === [gen6ubers] Grounded (Mewtwo, Ground) ===
@@ -3196,8 +3196,8 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- Express Heal  
-- Sludge Switch  
+- expressheal  
+- sludgeswitch  
 
 Dialga @ Metal Coat  
 Ability: Regenerator  
@@ -3274,7 +3274,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Dragon Breath  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 Marshadow @ Life Orb  
@@ -3336,7 +3336,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Dragon Breath  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 Dialga @ Sweet Apple  
@@ -3372,10 +3372,10 @@ Timid Nature
 - slushswitch  
 
 Eternatus @ Black Sludge  
-Ability: Space Power  
+Ability: spacepower  
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
-- Sludge Switch  
+- sludgeswitch  
 - Dragon Breath  
 - Magma Storm  
 - Aromatic Mist  
@@ -3404,8 +3404,8 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - mindcleaner  
-- Express Heal  
-- Sludge Switch  
+- expressheal  
+- sludgeswitch  
 
 
 === [gen6ubers] Water-Trapper (Lapras, Grass) ===
@@ -3455,7 +3455,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Dragon Breath  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 Kyogre @ Sea Incense  
@@ -3500,7 +3500,7 @@ Calm Nature
 - sweetretreat  
 
 Eternatus @ Black Sludge  
-Ability: Space Power  
+Ability: spacepower  
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
@@ -3524,8 +3524,8 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - mindcleaner  
-- Express Heal  
-- Sludge Switch  
+- expressheal  
+- sludgeswitch  
 
 
 === [gen6ubers] Roto-F (Rotom-Frost, Dark) ===
@@ -3545,8 +3545,8 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - royalturbulence  
-- Express Heal  
-- Sludge Switch  
+- expressheal  
+- sludgeswitch  
 
 Arceus-Ice @ Icicle Plate  
 Ability: Multitype  
@@ -3573,7 +3573,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 Dialga @ Dawn Stone  
@@ -3631,7 +3631,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 Arceus @ Payapa Berry  
@@ -3662,7 +3662,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Dragon Breath  
 - Stealth Rock  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 Mewtwo @ Adrenaline Orb  
@@ -3752,8 +3752,8 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - royalturbulence  
-- Express Heal  
-- Sludge Switch  
+- expressheal  
+- sludgeswitch  
 
 Giratina-Origin @ Griseous Orb  
 Ability: distortionpower  
@@ -3783,7 +3783,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Dragon Breath  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 Arceus-Ground @ Earth Plate  
@@ -3861,7 +3861,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 Meowscarada (F) @ Lax Incense  
@@ -3921,7 +3921,7 @@ EVs: 252 HP / 4 Atk / 252 Def
 Impish Nature  
 - Sacred Fire  
 - Stealth Rock  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 Weavile (M) @ Choice Scarf  
@@ -4031,7 +4031,7 @@ Jolly Nature
 - Seed Bomb  
 - Bullet Seed  
 - Poison Sting  
-- Sludge Switch  
+- sludgeswitch  
 
 Palkia @ Choice Scarf  
 Ability: dracolate  
@@ -4048,7 +4048,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 Tapu Koko @ Light Ball  
@@ -4150,7 +4150,7 @@ Jolly Nature
 - Seed Bomb  
 - Bullet Seed  
 - Poison Sting  
-- Sludge Switch  
+- sludgeswitch  
 
 Dialga @ Metal Coat  
 Ability: Regenerator  
@@ -4168,7 +4168,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Klinklang @ Metal Coat  
 Ability: utilitylock  
@@ -4206,8 +4206,8 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - royalturbulence  
-- Express Heal  
-- Sludge Switch  
+- expressheal  
+- sludgeswitch  
 
 Manaphy @ Sea Incense  
 Ability: Drizzle  
@@ -4279,7 +4279,7 @@ Jolly Nature
 - Trailblaze  
 
 Eternatus @ Prism Scale  
-Ability: Space Power  
+Ability: spacepower  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
 IVs: 0 Atk  
@@ -4356,7 +4356,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - lustrousstream  
 - Stealth Rock  
-- Express Heal  
+- expressheal  
 - slushswitch  
 
 
@@ -4377,8 +4377,8 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - royalturbulence  
-- Express Heal  
-- Sludge Switch  
+- expressheal  
+- sludgeswitch  
 
 Deoxys-Attack @ Life Orb  
 Ability: antipathy  
@@ -4415,7 +4415,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 
@@ -4465,14 +4465,14 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 Eternatus @ Black Sludge  
-Ability: Space Power  
+Ability: spacepower  
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
-- Sludge Switch  
+- sludgeswitch  
 - Dragon Breath  
 - Magma Storm  
 - Aromatic Mist  
@@ -4535,7 +4535,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Careful Nature  
 - Sandsear Storm  
 - Rock Tomb  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 
@@ -4600,14 +4600,14 @@ Timid Nature
 === [gen6ubers] Digitized (Porygon-Z, ???) ===
 
 Porygon-Z @ Dubious Disc  
-Ability: Format Drive  
+Ability: formatdrive  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Naive Nature  
-- Enigma Charge  
+- enigmacharge  
 - Earthquake  
 - Waterfall  
-- Mystery Speed  
+- mysteryspeed  
 
 Palkia @ Choice Scarf  
 Ability: dracolate  
@@ -4644,7 +4644,7 @@ EVs: 252 HP / 252 Def / 4 Spe
 Impish Nature  
 - Sandsear Storm  
 - Rock Tomb  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 Lilligant @ Flower Sweet  
@@ -4747,8 +4747,8 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Dragon Breath  
-- Flame Switch  
-- Express Heal  
+- flameswitch  
+- expressheal  
 
 Cresselia @ Electric Memory  
 Ability: Regenerator  
@@ -4825,11 +4825,11 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Dragon Breath  
 - Stealth Rock  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 Eternatus @ Prism Scale  
-Ability: Space Power  
+Ability: spacepower  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
 IVs: 0 Atk  
@@ -4936,7 +4936,7 @@ EVs: 252 HP / 108 Def / 144 SpD / 4 Spe
 Impish Nature  
 - Sandsear Storm  
 - memoryblast  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 Dialga @ Sweet Apple  
@@ -4976,7 +4976,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - memoryblast  
 - Body Press  
-- Express Heal  
+- expressheal  
 - Parting Shot  
 
 Mewtwo @ Adrenaline Orb  
@@ -5036,7 +5036,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Careful Nature  
 - Sandsear Storm  
 - Rock Tomb  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 Arceus-Ice @ Icicle Plate  
@@ -5054,7 +5054,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Dragon Breath  
 - Stealth Rock  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 Palkia @ Choice Scarf  
@@ -5188,7 +5188,7 @@ IVs: 0 Atk
 - Withdraw  
 
 Eternatus @ Prism Scale  
-Ability: Space Power  
+Ability: spacepower  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
 IVs: 0 Atk  
@@ -5408,7 +5408,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 Arceus-Ice @ Icicle Plate  
@@ -5477,7 +5477,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Careful Nature  
 - Sandsear Storm  
 - Rock Tomb  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 Ho-Oh @ Sweet Apple  
@@ -5486,7 +5486,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Dragon Breath  
 - Stealth Rock  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 Calyrex-Shadow @ Choice Scarf  
@@ -5609,7 +5609,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Careful Nature  
 - Sandsear Storm  
 - Rock Tomb  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 Yveltal @ Zoom Lens  
@@ -5784,7 +5784,7 @@ Jolly Nature
 - Seed Bomb  
 - Bullet Seed  
 - Poison Sting  
-- Sludge Switch  
+- sludgeswitch  
 
 Calyrex-Shadow @ Choice Scarf  
 Ability: Power Spot  
@@ -5802,14 +5802,14 @@ EVs: 252 HP / 252 Def / 4 Spe
 Impish Nature  
 - Sandsear Storm  
 - Rock Tomb  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 
 === [gen6ubers] Dubious (Porygon-Z, ???) ===
 
 Porygon-Z @ Dark Memory  
-Ability: Format Drive  
+Ability: formatdrive  
 Shiny: Yes  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
@@ -5834,7 +5834,7 @@ EVs: 252 HP / 252 Def / 4 Spe
 Impish Nature  
 - Sandsear Storm  
 - Rock Tomb  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 Zoroark-Hisui (M) @ Spooky Plate  
@@ -5894,7 +5894,7 @@ EVs: 252 HP / 108 Def / 144 SpD / 4 Spe
 Impish Nature  
 - Sandsear Storm  
 - memoryblast  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 Dialga @ Sweet Apple  
@@ -5912,7 +5912,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 Arceus-Water @ Splash Plate  
@@ -5954,7 +5954,7 @@ Jolly Nature
 - Seed Bomb  
 - Bullet Seed  
 - Poison Sting  
-- Sludge Switch  
+- sludgeswitch  
 
 Dialga @ Sweet Apple  
 Ability: Regenerator  
@@ -5971,7 +5971,7 @@ EVs: 252 HP / 252 Def / 4 Spe
 Impish Nature  
 - Sandsear Storm  
 - Stealth Rock  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 Arceus @ Payapa Berry  
@@ -6011,7 +6011,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Careful Nature  
 - Sandsear Storm  
 - Rock Tomb  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 Calyrex-Shadow @ Choice Scarf  
@@ -6082,8 +6082,8 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - royalturbulence  
-- Express Heal  
-- Sludge Switch  
+- expressheal  
+- sludgeswitch  
 
 Ho-Oh @ Sweet Apple  
 Ability: Magic Guard  
@@ -6091,7 +6091,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 Gallade @ assistdrive  
@@ -6154,7 +6154,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Careful Nature  
 - Sandsear Storm  
 - Rock Tomb  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 Mewtwo @ Adrenaline Orb  
@@ -6245,7 +6245,7 @@ Jolly Nature
 - Seed Bomb  
 - Bullet Seed  
 - Poison Sting  
-- Sludge Switch  
+- sludgeswitch  
 
 Vaporeon @ Leftovers  
 Ability: utilitylock  
@@ -6282,7 +6282,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Careful Nature  
 - Sandsear Storm  
 - Rock Tomb  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 
@@ -6305,7 +6305,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Bellsprout (M) @ Toxic Orb  
 Ability: Sheer Force  
@@ -6314,7 +6314,7 @@ Jolly Nature
 - Seed Bomb  
 - Bullet Seed  
 - Poison Sting  
-- Sludge Switch  
+- sludgeswitch  
 
 Necrozma-Dawn-Wings @ Assault Vest  
 Ability: lightinversion  
@@ -6322,8 +6322,8 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Heat Wave  
-- Express Heal  
-- Sludge Switch  
+- expressheal  
+- sludgeswitch  
 
 Genesect @ Sweet Apple  
 Ability: doublelayer  
@@ -6390,7 +6390,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 Vaporeon @ Leftovers  
@@ -6413,7 +6413,7 @@ Jolly Nature
 - Seed Bomb  
 - Bullet Seed  
 - Poison Sting  
-- Sludge Switch  
+- sludgeswitch  
 
 Ho-Oh @ Sweet Apple  
 Ability: Magic Guard  
@@ -6421,7 +6421,7 @@ EVs: 252 HP / 4 Atk / 252 Def
 Impish Nature  
 - Sacred Fire  
 - Stealth Rock  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 Meowscarada (F) @ Lax Incense  
@@ -6500,7 +6500,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 Calyrex-Shadow @ Choice Scarf  
@@ -6579,7 +6579,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Careful Nature  
 - Sandsear Storm  
 - Rock Tomb  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 
@@ -6618,7 +6618,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 Bellsprout (M) @ Toxic Orb  
@@ -6628,7 +6628,7 @@ Jolly Nature
 - Seed Bomb  
 - Bullet Seed  
 - Poison Sting  
-- Sludge Switch  
+- sludgeswitch  
 
 Calyrex-Shadow @ Choice Scarf  
 Ability: Power Spot  
@@ -6668,7 +6668,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Naive Nature  
 - Bolt Strike  
 - Nature's Madness  
-- Shattered Earth  
+- shatteredearth  
 - Volt Switch  
 
 Vaporeon @ Leftovers  
@@ -6687,7 +6687,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 Necrozma-Dusk-Mane @ Light Clay  
@@ -6739,7 +6739,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Dragon Breath  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 Meowscarada (F) @ Lax Incense  
@@ -6810,7 +6810,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Vaporeon @ Leftovers  
 Ability: utilitylock  
@@ -6850,7 +6850,7 @@ EVs: 252 HP / 4 Atk / 252 Def
 Impish Nature  
 - Sacred Fire  
 - Stealth Rock  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 Arceus-Ice @ Icicle Plate  
@@ -6910,7 +6910,7 @@ Jolly Nature
 - Seed Bomb  
 - Bullet Seed  
 - Poison Sting  
-- Sludge Switch  
+- sludgeswitch  
 
 Meowscarada (F) @ Lax Incense  
 Ability: parlortrick  
@@ -6927,7 +6927,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Careful Nature  
 - Sandsear Storm  
 - Rock Tomb  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 Mewtwo @ Adrenaline Orb  
@@ -6978,7 +6978,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 Calyrex-Shadow @ Choice Scarf  
@@ -7038,7 +7038,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 Palkia @ Choice Scarf  
@@ -7064,7 +7064,7 @@ Jolly Nature
 === [gen6ubers] Perpetuity (Mewtwo, Water) ===
 
 Eternatus @ Black Sludge  
-Ability: Space Power  
+Ability: spacepower  
 EVs: 252 HP / 252 SpA / 4 Spe  
 Modest Nature  
 IVs: 0 Atk  
@@ -7098,7 +7098,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 Mewtwo @ Water Memory  
@@ -7117,7 +7117,7 @@ Jolly Nature
 - Seed Bomb  
 - Bullet Seed  
 - Poison Sting  
-- Sludge Switch  
+- sludgeswitch  
 
 
 === [gen6ubers] Strong Winds Ahead (Arceus, Ice) ===
@@ -7138,7 +7138,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 Meowscarada (F) @ Lax Incense  
@@ -7237,7 +7237,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 
@@ -7258,7 +7258,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 Mewtwo @ Fairy Memory  
@@ -7318,7 +7318,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - lustrousstream  
 - Stealth Rock  
-- Express Heal  
+- expressheal  
 - slushswitch  
 
 Kyurem-Black @ Ice Memory  
@@ -7387,7 +7387,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 Arceus @ Enigma Berry  
@@ -7476,7 +7476,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 
@@ -7657,7 +7657,7 @@ EVs: 252 HP / 108 Def / 144 SpD / 4 Spe
 Impish Nature  
 - Sandsear Storm  
 - memoryblast  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 
@@ -7684,14 +7684,14 @@ IVs: 0 Atk
 - Parting Shot  
 
 Porygon-Z @ Dark Memory  
-Ability: Format Drive  
+Ability: formatdrive  
 Shiny: Yes  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
 - memoryblast  
 - Water Sport  
 - Aura Sphere  
-- Mystery Speed  
+- mysteryspeed  
 
 Meowscarada (F) @ Lax Incense  
 Ability: parlortrick  
@@ -7709,7 +7709,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 Necrozma-Dusk-Mane @ Light Clay  
@@ -7750,7 +7750,7 @@ EVs: 252 HP / 108 Def / 144 SpD / 4 Spe
 Impish Nature  
 - Sandsear Storm  
 - memoryblast  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 Arceus @ Payapa Berry  
@@ -7818,7 +7818,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 Skarmory (M) @ Choice Scarf  
@@ -7975,7 +7975,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Bolt Strike  
 - Nature's Madness  
-- Shattered Earth  
+- shatteredearth  
 - Volt Switch  
 
 Groudon @ Fire Memory  
@@ -8106,7 +8106,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Dragon Breath  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 Calyrex-Shadow @ Choice Scarf  
@@ -8159,7 +8159,7 @@ Jolly Nature
 - Sky Attack  
 - Wildbolt Storm  
 - Close Combat  
-- Turbine Turn  
+- turbineturn  
 
 Yveltal @ Zoom Lens  
 Ability: Dark Aura  
@@ -8207,7 +8207,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 
@@ -8268,7 +8268,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 
@@ -8299,7 +8299,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 Skarmory (M) @ Choice Scarf  
@@ -8422,7 +8422,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Bolt Strike  
 - Nature's Madness  
-- Shattered Earth  
+- shatteredearth  
 - Volt Switch  
 
 Landorus-Therian @ Grass Memory  
@@ -8431,7 +8431,7 @@ EVs: 252 HP / 108 Def / 144 SpD / 4 Spe
 Impish Nature  
 - Sandsear Storm  
 - memoryblast  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 Deoxys-Speed @ Nomel Berry  
@@ -8485,12 +8485,12 @@ Timid Nature
 - slushswitch  
 
 Eternatus @ Black Sludge  
-Ability: Space Power  
+Ability: spacepower  
 EVs: 252 HP / 252 SpA / 4 Spe  
 Modest Nature  
 - Venom Drench  
 - Shadow Ball  
-- Sludge Switch  
+- sludgeswitch  
 - Aromatic Mist  
 
 Mewtwo @ Dark Memory  
@@ -8701,8 +8701,8 @@ EVs: 252 Def / 252 SpD / 4 Spe
 Impish Nature  
 - Sandsear Storm  
 - Stealth Rock  
-- Express Heal  
-- Turbine Turn  
+- expressheal  
+- turbineturn  
 
 Skarmory (M) @ Choice Scarf  
 Ability: windstreamer  
@@ -8873,7 +8873,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 
@@ -8924,7 +8924,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 Meowscarada (F) @ Lax Incense  
@@ -9160,7 +9160,7 @@ EVs: 252 HP / 108 Def / 144 SpD / 4 Spe
 Impish Nature  
 - Sandsear Storm  
 - memoryblast  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 Vaporeon @ Leftovers  
@@ -9313,7 +9313,7 @@ Jolly Nature
 - Seed Bomb  
 - Close Combat  
 - Poison Sting  
-- Sludge Switch  
+- sludgeswitch  
 
 Mewtwo @ Ice Memory  
 Ability: psychicpower  
@@ -10058,7 +10058,7 @@ Timid Nature
 - Blue Flare  
 - Clanging Scales  
 - Thunder  
-- Flame Switch  
+- flameswitch  
 
 Meowscarada (F) @ Lax Incense  
 Ability: parlortrick  
@@ -10175,7 +10175,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Bolt Strike  
 - Nature's Madness  
-- Shattered Earth  
+- shatteredearth  
 - Volt Switch  
 
 Vaporeon (F) @ Sitrus Berry  
@@ -10286,8 +10286,8 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- Express Heal  
-- Sludge Switch  
+- expressheal  
+- sludgeswitch  
 
 Xerneas @ Poison Memory  
 Ability: memoryarmor  
@@ -10452,8 +10452,8 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- Express Heal  
-- Sludge Switch  
+- expressheal  
+- sludgeswitch  
 
 
 === [gen6ubers] Terrestrial (Ultra Necrozma, Ground) ===
@@ -10886,8 +10886,8 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- Express Heal  
-- Sludge Switch  
+- expressheal  
+- sludgeswitch  
 
 Klinklang @ Metal Coat  
 Ability: utilitylock  
@@ -10986,8 +10986,8 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- Express Heal  
-- Sludge Switch  
+- expressheal  
+- sludgeswitch  
 
 Klinklang @ Metal Coat  
 Ability: utilitylock  
@@ -11008,7 +11008,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Necrozma-Dawn-Wings @ Assault Vest  
 Ability: lightinversion  
@@ -11016,8 +11016,8 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- Express Heal  
-- Sludge Switch  
+- expressheal  
+- sludgeswitch  
 
 Dialga @ Sweet Apple  
 Ability: Regenerator  
@@ -11224,8 +11224,8 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- Express Heal  
-- Sludge Switch  
+- expressheal  
+- sludgeswitch  
 
 Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
@@ -11292,8 +11292,8 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- Express Heal  
-- Sludge Switch  
+- expressheal  
+- sludgeswitch  
 
 
 === [gen6ubers] Machinery (Zamazenta-Crowned, Steel) ===
@@ -11314,7 +11314,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
@@ -11381,7 +11381,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
@@ -11407,8 +11407,8 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- Express Heal  
-- Sludge Switch  
+- expressheal  
+- sludgeswitch  
 
 
 === [gen6ubers] Armored (Rayquaza, Ground) ===
@@ -11429,7 +11429,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Rayquaza @ Ground Memory  
 Ability: dragonheart  
@@ -11526,8 +11526,8 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- Express Heal  
-- Sludge Switch  
+- expressheal  
+- sludgeswitch  
 
 
 === [gen6ubers] On His Throne (Lilligant, Grass) ===
@@ -11609,7 +11609,7 @@ Jolly Nature
 - Seed Bomb  
 - Bullet Seed  
 - Poison Sting  
-- Sludge Switch  
+- sludgeswitch  
 
 Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
@@ -11678,7 +11678,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Necrozma-Dawn-Wings @ Assault Vest  
 Ability: lightinversion  
@@ -11686,8 +11686,8 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- Express Heal  
-- Sludge Switch  
+- expressheal  
+- sludgeswitch  
 
 Klinklang @ Metal Coat  
 Ability: utilitylock  
@@ -11764,8 +11764,8 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- Express Heal  
-- Sludge Switch  
+- expressheal  
+- sludgeswitch  
 
 
 === [gen6ubers] Mewtwo is Hot (Mewtwo, Fire) ===
@@ -11815,8 +11815,8 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- Express Heal  
-- Sludge Switch  
+- expressheal  
+- sludgeswitch  
 
 Dialga @ Syrupy Apple  
 Ability: Regenerator  
@@ -11873,8 +11873,8 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- Express Heal  
-- Sludge Switch  
+- expressheal  
+- sludgeswitch  
 
 Lilligant @ Grass Memory  
 Ability: flowershield  
@@ -11896,7 +11896,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Arceus-Water @ Splash Plate  
 Ability: Multitype  
@@ -11933,7 +11933,7 @@ EVs: 4 HP / 252 Def / 252 Spe
 Bold Nature  
 - Sandsear Storm  
 - Aeroblast  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 Rayquaza @ Dark Memory  
@@ -12003,8 +12003,8 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- Express Heal  
-- Sludge Switch  
+- expressheal  
+- sludgeswitch  
 
 
 === [gen6ubers] Mewtwo's Antipathy (Mewtwo, Psychic) ===
@@ -12053,8 +12053,8 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- Express Heal  
-- Sludge Switch  
+- expressheal  
+- sludgeswitch  
 
 Lilligant @ Flower Sweet  
 Ability: flowershield  
@@ -12094,7 +12094,7 @@ EVs: 4 HP / 252 Def / 252 Spe
 Bold Nature  
 - Sandsear Storm  
 - Aeroblast  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 Vaporeon @ Sitrus Berry  
@@ -12144,8 +12144,8 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- Express Heal  
-- Sludge Switch  
+- expressheal  
+- sludgeswitch  
 
 Arceus-Water @ Splash Plate  
 Ability: Multitype  
@@ -12163,7 +12163,7 @@ EVs: 4 HP / 252 Def / 252 Spe
 Bold Nature  
 - Sandsear Storm  
 - Aeroblast  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 Vaporeon @ Sitrus Berry  
@@ -12268,7 +12268,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Arceus-Grass @ Meadow Plate  
 Ability: Multitype  
@@ -12285,7 +12285,7 @@ EVs: 4 HP / 252 SpD / 252 Spe
 Calm Nature  
 - Sandsear Storm  
 - Aeroblast  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 Mewtwo @ Twisted Spoon  
@@ -12355,7 +12355,7 @@ EVs: 4 HP / 252 SpD / 252 Spe
 Calm Nature  
 - Sandsear Storm  
 - Aeroblast  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 Vaporeon @ Sitrus Berry  
@@ -12387,7 +12387,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Meloetta @ Throat Spray  
 Ability: ensemble  
@@ -12465,7 +12465,7 @@ EVs: 4 HP / 252 SpA / 252 Spe
 Timid Nature  
 - Bleakwind Storm  
 - Water Sport  
-- Turbine Turn  
+- turbineturn  
 - Tailwind  
 
 Arceus-Grass @ Meadow Plate  
@@ -12484,7 +12484,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 
 === [gen6ubers] Garchomp Goes Forth (Garchomp, Poison) ===
@@ -12534,7 +12534,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 Palkia @ Choice Scarf  
@@ -12565,8 +12565,8 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Careful Nature  
 - Earthquake  
 - Dragon Breath  
-- Express Heal  
-- Turbine Turn  
+- expressheal  
+- turbineturn  
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
@@ -12626,7 +12626,7 @@ EVs: 4 HP / 252 SpA / 252 Spe
 Timid Nature  
 - Bleakwind Storm  
 - Water Sport  
-- Turbine Turn  
+- turbineturn  
 - Tailwind  
 
 Landorus-Therian @ Grass Memory  
@@ -12635,8 +12635,8 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Careful Nature  
 - Sandsear Storm  
 - memoryblast  
-- Express Heal  
-- Turbine Turn  
+- expressheal  
+- turbineturn  
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
@@ -12705,7 +12705,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- Flame Switch  
+- flameswitch  
 - Aromatic Mist  
 
 Meloetta @ Throat Spray  
@@ -12807,8 +12807,8 @@ EVs: 4 HP / 252 SpD / 252 Spe
 Calm Nature  
 - Sandsear Storm  
 - Aeroblast  
-- Express Heal  
-- Turbine Turn  
+- expressheal  
+- turbineturn  
 
 Zacian-Crowned @ Ground Memory  
 Ability: Intrepid Sword  
@@ -12858,8 +12858,8 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Careful Nature  
 - Earthquake  
 - Stealth Rock  
-- Express Heal  
-- Turbine Turn  
+- expressheal  
+- turbineturn  
 
 Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
@@ -12908,7 +12908,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 
 === [gen6ubers] Forecast (Gliscor, Ice) ===
@@ -12929,8 +12929,8 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Careful Nature  
 - Earthquake  
 - Dragon Breath  
-- Express Heal  
-- Turbine Turn  
+- expressheal  
+- turbineturn  
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
@@ -12959,7 +12959,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Necrozma-Dawn-Wings @ Assault Vest  
 Ability: lightinversion  
@@ -12967,8 +12967,8 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- Express Heal  
-- Sludge Switch  
+- expressheal  
+- sludgeswitch  
 
 
 === [gen6ubers] Down to Earth (Lilligant, Grass) ===
@@ -12997,7 +12997,7 @@ Ability: flowershield
 Shiny: Yes  
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
-- Apple Acid  
+- Petal Dance  
 - slushswitch  
 - Aromatic Mist  
 - Quiver Dance  
@@ -13009,7 +13009,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
@@ -13061,7 +13061,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
@@ -13114,7 +13114,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Darkrai @ Grass Memory  
 Ability: midnightveil  
@@ -13166,18 +13166,18 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Bolt Strike  
 - Aeroblast  
-- Shattered Earth  
+- shatteredearth  
 - Volt Switch  
 
 Porygon-Z @ Ability Shield  
-Ability: Format Drive  
+Ability: formatdrive  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- Enigma Charge  
+- enigmacharge  
 - Earthquake  
 - Parabolic Charge  
-- Mystery Speed  
+- mysteryspeed  
 
 Ho-Oh @ Flame Orb  
 Ability: Regenerator  
@@ -13186,7 +13186,7 @@ Careful Nature
 - Sacred Fire  
 - Feather Dance  
 - Aromatic Mist  
-- Flame Switch  
+- flameswitch  
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
@@ -13204,8 +13204,8 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Careful Nature  
 - Earthquake  
 - Dragon Breath  
-- Express Heal  
-- Turbine Turn  
+- expressheal  
+- turbineturn  
 
 Greninja-Ash @ Choice Scarf  
 Ability: Battle Bond  
@@ -13214,7 +13214,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 
 === [gen6ubers] Mind Control (Mewtwo, Psychic) ===
@@ -13257,7 +13257,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Landorus-Therian @ Assault Vest  
 Ability: inveigle  
@@ -13265,8 +13265,8 @@ EVs: 4 HP / 252 SpD / 252 Spe
 Calm Nature  
 - Sandsear Storm  
 - Aeroblast  
-- Express Heal  
-- Turbine Turn  
+- expressheal  
+- turbineturn  
 
 Cresselia @ Leftovers  
 Ability: Regenerator  
@@ -13360,7 +13360,7 @@ EVs: 4 HP / 252 SpA / 252 Spe
 Timid Nature  
 - Bleakwind Storm  
 - Water Sport  
-- Turbine Turn  
+- turbineturn  
 - Tailwind  
 
 Dialga @ Ability Shield  
@@ -13420,7 +13420,7 @@ EVs: 4 HP / 252 SpA / 252 Spe
 Timid Nature  
 - Bleakwind Storm  
 - Water Sport  
-- Turbine Turn  
+- turbineturn  
 - Tailwind  
 
 Muk-Alola (M) @ Black Sludge  
@@ -13544,8 +13544,8 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Careful Nature  
 - Earthquake  
 - Stealth Rock  
-- Express Heal  
-- Turbine Turn  
+- expressheal  
+- turbineturn  
 
 Groudon @ Room Service  
 Ability: Drought  
@@ -13651,7 +13651,7 @@ Ability: flowershield
 Shiny: Yes  
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
-- Apple Acid  
+- Petal Dance  
 - slushswitch  
 - Aromatic Mist  
 - Quiver Dance  
@@ -13750,7 +13750,7 @@ Naive Nature
 - Hydro Pump  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
@@ -13819,8 +13819,8 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Careful Nature  
 - Earthquake  
 - Stealth Rock  
-- Express Heal  
-- Turbine Turn  
+- expressheal  
+- turbineturn  
 
 
 === [gen6ubers] Space Power (Eternatus, Dragon) ===
@@ -13835,7 +13835,7 @@ Jolly Nature
 - Earthquake  
 
 Eternatus @ Dragon Memory  
-Ability: Space Power  
+Ability: spacepower  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
 IVs: 0 Atk  
@@ -13979,11 +13979,11 @@ EVs: 4 HP / 252 SpD / 252 Spe
 Calm Nature  
 - Sandsear Storm  
 - Aeroblast  
-- Express Heal  
-- Turbine Turn  
+- expressheal  
+- turbineturn  
 
 Eternatus @ Dragon Memory  
-Ability: Space Power  
+Ability: spacepower  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
 IVs: 0 Atk  
@@ -13993,14 +13993,14 @@ IVs: 0 Atk
 - Autotomize  
 
 Porygon-Z @ Ability Shield  
-Ability: Format Drive  
+Ability: formatdrive  
 Shiny: Yes  
 EVs: 116 Atk / 164 SpD / 228 Spe  
 Adamant Nature  
-- Enigma Charge  
+- enigmacharge  
 - Earthquake  
 - Parabolic Charge  
-- Mystery Speed  
+- mysteryspeed  
 
 
 === [gen6ubers] Interpolation (Mewtwo, Psychic) ===
@@ -14020,8 +14020,8 @@ EVs: 4 HP / 252 SpD / 252 Spe
 Calm Nature  
 - Sandsear Storm  
 - Aeroblast  
-- Express Heal  
-- Turbine Turn  
+- expressheal  
+- turbineturn  
 
 Calyrex-Shadow @ Choice Scarf  
 Ability: Power Spot  
@@ -14079,7 +14079,7 @@ Ability: flowershield
 Shiny: Yes  
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
-- Apple Acid  
+- Petal Dance  
 - slushswitch  
 - Aromatic Mist  
 - Quiver Dance  
@@ -14180,7 +14180,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 
 === [gen6ubers] Amoonguss is Among Us (Rayquaza, Fairy) ===

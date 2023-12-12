@@ -8,13 +8,17 @@ Abilities
 - Power Spot
 	- Dark-Priority Nullification Effect Removed
 Moves
-- Apple Acid
-	- Base Power: 130 -> 150
-- Grav Apple
-	- Base Power: 130 -> 150
+- Chloroblast
+	- Implemented
+	- Effect: User loses 1/2 of their Max Hp -> Bypasses the abilities of opposing Pokemon
+	- Users: Celebi, Lilligant, Sunflora
 - Outrage
 	- Accuracy: 90 -> 100
 	- Recoil: 1/20 -> __
+- Petal Dance
+	- Base Power: 120 -> 110
+	- Kinetic Boost Requirements: Doubled Power if the Pokemon has 1/2 Max Hp or less -> Doubled Power if the Pokemon has any Positive Stat Boosts
+	- Target: Random -> Standard
 - Raging Fury
 	- Base Power: 120 -> 180
 	- Additional Effect: Ignores the Damage-Modifying Properties of Rain

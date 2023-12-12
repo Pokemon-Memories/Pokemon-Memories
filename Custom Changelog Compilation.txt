@@ -2433,6 +2433,7 @@ Aromatic Mist
 Aurora Beam
 Block
 Calm Mind
+Chloroblast
 Clear Smog
 Confide
 Encore
@@ -4536,6 +4537,7 @@ Agility
 Apple Acid
 Aromatic Mist
 Bubble
+Chloroblast
 Earth Power
 Feather Dance
 Grass Whistle
@@ -6047,7 +6049,7 @@ Unlearned
 Roost
 Recover
 ------------------------------------------------------------------------
-Celebi
+Celebi    
 Hp: 100 -> 220 = +120
 Atk: 100 -> 230 = +130
 Def: 100 -> 230 = +130
@@ -6057,15 +6059,16 @@ Spe: 100 -> 160 = +60
 BST: 600 -> 1270
 Added Ability: Antipathy/Utility Lock
 New Moves
-Royal Turbulence
-Frenzy Plant
+Chloroblast
 Dual Wingbeat
-Leaf Switch
-Teleport
 Flatter
-Howl
+Frenzy Plant
 Haze
+Howl
+Leaf Switch
+Royal Turbulence
 Taunt
+Teleport
 Uproar
 ------------------------------------------------------------------------
 Talonflame
@@ -10226,7 +10229,7 @@ Boosts: All Stats -> SpA
 PP: 5 -> 10
 --
 Apple Acid    
-Base Power: 80 -> 150
+Base Power: 80 -> 130
 Secondary Effect: 100% Chance to lower opponent's SpD by 1 Stage
 Additional Effect: Hits Steel-Type Pokemon Super-Effectively
 --
@@ -10663,6 +10666,9 @@ Chilling Water
 Base Power: 50 -> 120
 Effect: Lowers target's Atk by 1 stage -> Becomes an Ice-Type Move, and has x1.5 Power, if Hail is Active
 PP: 20 -> 10
+--
+Chloroblast
+Additional Effect: User loses 1/2 of their Max Hp -> Ignores opposing Abilities
 --
 Circle Throw
 Base Power: 60 -> 100
@@ -11538,7 +11544,7 @@ Grass Whistle
 Accuracy: 55
 --
 Grav Apple   
-Base Power: 80 -> 150
+Base Power: 80 -> 130
 Secondary Effect: 100% Chance to lower opponent's Def by 1 Stage
 Additional Effect: x1.5 Power under Gravity -> Hits Steel-Types Super-Effectively
 --
@@ -12255,9 +12261,10 @@ Petal Blizzard
 Base Power: 80 -> 180
 PP: 15 -> 5
 --
-Petal Dance
-Effect: User is locked into the move -> Doubled Power when at or below 1/2 Max Hp
-Recoil: __ -> 1/10
+Petal Dance   
+Base Power: 120 -> 110
+Effect: User is locked into the move -> Doubled Power if the Pokemon has any Positive Stat Boosts
+Target: Random -> Normal
 --
 Phantom Force
 Base Power: 90 -> 140
