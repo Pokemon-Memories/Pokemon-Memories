@@ -10226,7 +10226,7 @@ Boosts: All Stats -> SpA
 PP: 5 -> 10
 --
 Apple Acid    
-Base Power: 80 -> 130
+Base Power: 80 -> 150
 Secondary Effect: 100% Chance to lower opponent's SpD by 1 Stage
 Additional Effect: Hits Steel-Type Pokemon Super-Effectively
 --
@@ -11538,7 +11538,7 @@ Grass Whistle
 Accuracy: 55
 --
 Grav Apple   
-Base Power: 80 -> 130
+Base Power: 80 -> 150
 Secondary Effect: 100% Chance to lower opponent's Def by 1 Stage
 Additional Effect: x1.5 Power under Gravity -> Hits Steel-Types Super-Effectively
 --

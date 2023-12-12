@@ -1,6 +1,6 @@
 Offensive Stats over 300
 
-Attack (70 Total)
+Attack (71 Total)
 
 Mega Mewtwo X: 450
 Deoxys Attack: 405
@@ -32,6 +32,7 @@ Zacian Crowned: 320
 Zarude-Dada: 320
 Zekrom: 320
 Mega Lopunny: 316
+Arcanine-Hisui: 315
 Bellsprout: 315
 Mega Diancie: 315
 Rampardos: 315
