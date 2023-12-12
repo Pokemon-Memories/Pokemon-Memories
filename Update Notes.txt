@@ -1,5 +1,134 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v1.8.0
+Abilities
+- Battle Bond
+	- Weather Interactions: Nullifies Weather -> Ignores Weather-Based Damage Modifiers
+		- Clarification: Battle Bond no longer suppresses the Weather, however the Pokemon's own Moves are still unaffected by it; The opposing Pokemon's Moves will now be subject to the Weather's effects, however
+- Power Spot
+	- Dark-Priority Nullification Effect Removed
+Moves
+- Outrage
+	- Accuracy: 90 -> 100
+	- Recoil: 1/20 -> __
+- Raging Fury
+	- Base Power: 120 -> 180
+	- Additional Effect: Ignores the Damage-Modifying Properties of Rain
+	- New Users: Arcanine, Blaziken, Charizard, Groudon, Growlithe, Infernape, Rayquaza
+- Shed Spore
+	- Implemented
+		- Base Power: __
+		- Accuracy: __
+		- Category: Status
+		- Priority: 0
+		- PP: 5
+		- Effect: Pokemon loses 1/4 of its Max Hp and Switches Out; The Pokemon replacing it is healed by 1/2 of the user's Max Hp, and becomes Poisoned. This Move will not activate if the user does not have at least 1/4 of their Max Hp, and it will not heal the designated ally if they are immune to the Poison Status
+		- Contact: No
+		- Type: Poison
+		- Users: Amoonguss
+- Spark
+	- Base Power: 65 -> 75
+	- Priority: +1 -> 0
+	- Paralysis Chance: 10% -> 30%
+- Sucker Punch
+	- Base Power: 170 -> 80
+	- Priority: -1 -> +1
+	- Now only fails if the opponent switches out
+	- Penalty: Hits Ghost-Types and Psychic-Types Neutrally
+- Trop Kick
+	- Base Power: 70 -> 130
+
+Pokemon
+- Alomomola
+	- Base Stats
+		- Hp: 165 -> 275
+		- Atk: 75 -> 195
+		- Def: 80 -> 190
+		- SpA: 40 -> 170
+		- SpD: 45 -> 125
+		- Spe: 65 -> 65
+		- BST: 470 -> 1020
+	- Learnset Additions
+		- Flip Turn
+		- Play Rough
+		- Rapid Spin
+		- Stealth Rock
+		- Sweet Retreat
+		- Withdraw
+- Arcanine Formes
+	- Arcanine
+		- Ability: Flash Fire -> Inveigle
+		- Base Stats
+			- Hp: 150 -> 200
+			- SpD: 90 -> 230
+			- Spe: 155 -> 175
+		- Learnset Additions
+			- Ember
+			- Grass Knot
+			- Mineral Cannon
+			- Play Rough
+			- Raging Fury
+			- Sacred Fire
+			- Sweet Retreat
+			- Swords Dance
+			- Wish
+	- Arcanine-Hisui
+		- Implemented
+		- Ability: Rock Head -> Empyrean Flame
+		- Base Stats
+			- Hp: 95 -> 175
+			- Atk: 115 -> 315
+			- Def: 80 -> 185
+			- SpA: 95 -> 285
+			- SpD: 80 -> 185
+			- Spe: 90 -> 180
+			- BST: 555 -> 1325
+		- Learnset Additions
+			- Aromatic Mist
+			- Chaos Switch
+			- Flame Switch
+			- Grass Knot
+			- Receiving Strike
+			- Sacred Fire
+			- Spark
+		- Learnset Removals
+			- Howl
+			- Morning Sun
+			- Thunder Fang
+			- Wild Charge
+- Amoonguss
+	- Base Stats
+		- Atk: 155 -> 215
+		- Def: 160 -> 200
+		- SpA: 155 - 215
+		- SpD: 80 -> 210
+	- Learnset Additions
+		- Dragon Breath
+		- Shed Spore
+		- Sweet Retreat
+		- Withdraw
+- Arceus
+	- Learnset Additions
+		- Aqua Jet
+- Dialga
+	- Learnset Additions
+		- Heat Crash
+- Jolteon
+	- Learnset Additions
+		- Electro Ball
+		- Ice Beam
+		- Mud Bomb
+- Mew
+	- Learnset Additions
+		- Receiving Strike
+- Regigigas
+	- Learnset Additions
+		- Fall Back
+- Tornadus
+	- Learnset Additions
+		- Recover
+		- Surf
+
 Pokemon Memories v1.7.9
 Abilities
 - Space Power

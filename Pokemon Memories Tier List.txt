@@ -20,7 +20,7 @@ Section C
 	• Viability Rankings
 	• History of the Format
 
-(176 Total)
+(178 Total)
 						      Section A    
 						    Standard Ubers
 						      Highlights
@@ -118,86 +118,85 @@ Note: Pokemon beneath the A-Tier, are listed alphabetically; Pokemon in the lowe
 
 Viability Rankings
 
-S-Tier (9 Total)
+S-Tier (7 Total)
 
 S+
 Mewtwo
 Arceus (S; Omnipotent + Chilan Berry)
 
 S
-Gliscor (A-; Ice Memory)
+Landorus-Therian
 Muk-Alola
-Zacian-Crowned
+Arcanine-Hisui
 
 S-
-Landorus-Therian
+Gliscor (A-; Ice Memory)
 Meowth (A; Dubious Disc)
+
+
+A-Tier (39 Total)
+
+A+
+Zacian-Crowned
 Eternatus (A-; Dragon Memory/Any Memory)
 Groudon (A+; Fire Memory/Gold Bottle Cap/Room Service)
 Cresselia
-
-
-A-Tier (34 Total)
-
-A+
 Urshifu-S (A; Ghost Memory)
-Meloetta
-Meloetta-Pirouette
 Victreebel
 Azumarill
-Tornadus
-Zekrom (A-; Electric Memory)
 Kyogre
-Golurk
-Rayquaza
 Arceus-Grass
 Arceus-Ground
 Lilligant
-Garchomp (A-; Ice Memory)
+Meloetta
+Meloetta-Pirouette
 Palkia
-Ho-Oh
+Dialga
 
 A
+Tornadus
+Golurk
 Greninja-Ash
-Yveltal
+Garchomp (A-; Ice Memory)
+Ho-Oh
 Deoxys-Attack
+Calyrex-Shadow
 Calyrex-Ice
 Darkrai (A; Grass Memory)
 Marshadow (A-; Fighting Memory)
 Necrozma-Dawn-Wings
-Infernape
 Arceus-Water
+Amoonguss
 
 A-
+Zekrom (B+; Electric Memory)
+Rayquaza
+Yveltal
 Weavile
 Volcanion
 Lucario-Mega
 Klinklang
+Infernape
+Meowscarada
 Phione
 Arceus-Fairy
-Calyrex-Shadow (B+; Ground Memory)
 Vaporeon
 Suicune (B+; Ice Memory)
 Entei
-Thundurus-Therian
-Thundurus
-Tapu Koko
+Mew (C+; Dubious Disc)
 
 
-B-Tier (73 Total)
+B-Tier (70 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
 Arceus-Electric
 Arceus-Flying
 Arceus-Ghost
-Dialga
 Empoleon
 Genesect
 Giratina
 Keldeo
-Kyurem-Black
-Kyurem-White
 Lunala
 Magearna
 Magearna-Original
@@ -207,11 +206,13 @@ Mimikyu-Busted
 Necrozma-Ultra
 Pikachu-Original
 Porygon-Z
-Reshiram
 Shaymin-Sky
 Sunflora
 Swampert
 Tapu Fini
+Tapu Koko
+Thundurus
+Thundurus-Therian
 Umbreon
 Xerneas
 Zamazenta-Crowned
@@ -228,12 +229,11 @@ Blastoise-Mega
 Blissey
 Corviknight
 Cryogonal
-Darmanitan-Galar
 Darmanitan-Galar-Zen
 Deoxys-Speed
 Giratina-Origin
-Gyarados-Mega
 Jellicent
+Kyurem-Black
 Landorus-Incarnate
 Ludicolo
 Lugia
@@ -254,20 +254,19 @@ B-
 Arceus-Dragon
 Celebi
 Darmanitan
+Darmanitan-Galar
 Gengar
 Gengar-Mega
+Gyarados-Mega
 Hoopa Unbound
-Meowscarada
 Minun
 Necrozma-Dusk-Mane
 Rapidash-Galar
+Reshiram
 Salamence-Mega
-Sawsbuck
-Snorlax
-Victini
 
 
-C-Tier (35 Total)
+C-Tier (38 Total)
 
 C+
 Abomasnow
@@ -282,7 +281,7 @@ Emolga
 Excadrill
 Jirachi
 Kartana
-Mew
+Kyurem-White
 Pheromosa
 Regieleki
 Rotom-Wash
@@ -290,6 +289,9 @@ Rotom-Fan
 Rotom-Frost
 Sableye-Mega
 Serperior
+Sawsbuck
+Snorlax
+Victini
 
 C
 Decidueye

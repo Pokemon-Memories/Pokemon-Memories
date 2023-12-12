@@ -434,7 +434,8 @@ Alolan Muk
 Minun
 Plusle
 Reuniclus
-Total: 387
+Alomomola
+Total: 388
 ============================================================
 Section A   
 Base Stat Total Compendium  
@@ -480,6 +481,8 @@ Solgaleo: 			BST: 1340
 Trevenant: 			BST: 1331
 Mega Lopunny: 			BST: 1330
 Carracosta: 			BST: 1328
+Arcanine: 			BST: 1325
+Arcanine-Hisui: 		BST: 1325
 Bellsprout: 			BST: 1304
 Pikachu Alola: 			BST: 1304
 Pikachu Original: 		BST: 1304
@@ -651,8 +654,7 @@ Corviknight: 			BST: 1125
 Dragapult: 			BST: 1124
 Jellicent: 			BST: 1120
 Slowking: 			BST: 1120
-Mega Metagross: 		BST: 1120
-Arcanine: 			BST: 1115
+Mega Metagross: 		BST: 112
 Diggersby: 			BST: 1113
 Hydreigon: 			BST: 1110
 Sceptile: 			BST: 1110
@@ -667,6 +669,7 @@ Darmanitan-Galar-Zen: 		BST: 1095
 Blaziken: 			BST: 1090
 Crustle: 			BST: 1085
 Pelipper: 			BST: 1085
+Amoonguss: 			BST: 1084
 Unown: 				BST: 1080
 Marshadow: 			BST: 1080
 Regigigas: 			BST: 1080
@@ -739,6 +742,7 @@ Whimsicott: 			BST: 1030
 Heracross: 			BST: 1030
 Azumarill: 			BST: 1025
 Salamence: 			BST: 1022
+Alomomola: 			BST: 1020
 Lopunny: 			BST: 1020
 Dracovish: 			BST: 1020
 Arctovish: 			BST: 1020
@@ -821,7 +825,6 @@ Miltank: 			BST: 900
 800s
 Forretress: 			BST: 895
 Escavalier: 			BST: 895
-Amoonguss: 			BST: 894
 Rampardos: 			BST: 894
 Ditto 				BST: 888
 Froslass: 			BST: 876
@@ -860,7 +863,7 @@ Mega Mewtwo Y: 210
 Category: 190s (1 Total)
 Rotom-Frost: 195
 ===============
-Category: 180s (65 Total)
+Category: 180s (66 Total)
 Mewtwo: 187
 Deoxys: 186
 Tapu Koko: 186
@@ -877,7 +880,7 @@ Jolteon: 185
 Minun: 185
 Plusle: 185
 Mega Beedrill: 185
-Bellsprout: 181
+Bellsprout: 184
 Sawsbuck-Autumn: 184
 Sawsbuck-Summer: 184
 Sawsbuck-Winter: 184
@@ -906,6 +909,7 @@ Calyrex-Shadow: 180
 Zoroark: 180
 Keldeo Ordinary: 180
 Keldeo Resolute: 180
+Arcanine-Hisui: 180
 Arceus: 180
 Arceus Bug: 180
 Arceus-Dark: 180
@@ -926,7 +930,7 @@ Zapdos: 180
 Minior: 180
 Raikou: 180
 ===============
-Category: 170s (63 Total)
+Category: 170s (64 Total)
 --
 Raichu: 179
 Rotom-Heat: 179
@@ -940,6 +944,7 @@ Rapidash: 176
 Whimsicott: 176
 Talonflame: 176
 Cinccino: 176
+Arcanine: 175
 Azumarill: 175
 Delibird: 175
 Zarude: 175
@@ -1074,7 +1079,7 @@ Braviary: 160
 Flareon: 160
 Jumpluff: 160
 ===============
-Category: 150s (53 Total)
+Category: 150s (52 Total)
 --
 Missingno: 159
 Zamazenta: 159
@@ -1096,7 +1101,6 @@ Rapidash-Galar: 155
 Tapu Fini: 155
 Florges: 155
 Mamoswine: 155
-Arcanine: 155
 Eevee: 155
 Pikachu Pop Star: 155
 Smeargle: 155
@@ -1228,7 +1232,7 @@ Cloyster: 100
 Camerupt: 100
 Mega Camerupt: 100
 ===============
-Category: Below 100 (45 Total)
+Category: Below 100 (46 Total)
 --
 Arctozolt: 95
 Drapion: 95
@@ -1250,6 +1254,7 @@ Claydol: 75
 Dracozolt: 75
 Tyrantrum: 75
 Registeel: 68
+Alomomola: 65
 Magearna: 65
 Umbreon: 65
 Kyurem: 64
@@ -1505,6 +1510,7 @@ Flame Charge
 Flame Switch
 Gust
 Nasty Plot
+Raging Fury
 Zap Cannon
 ------------------------------------------------------------------------
 Blastoise    
@@ -1773,15 +1779,25 @@ Spe: 115 -> 140 = +25
 BST: 440 -> 855
 Ability: Limber -> Fur Coat
 ------------------------------------------------------------------------
-Arcanine
-Hp: 90 -> 150 = +60
+Arcanine    
+Hp: 90 -> 200 = +110
 Atk: 110 -> 280 = +170
 Def: 80 -> 150 = +70
 SpA: 100 -> 290 = +190
-SpD: 80 -> 90 = +10
-Spe: 95 -> 155 = +60
-BST: 555 -> 1115
-Ability: Intimidate -> Tinted Lens
+SpD: 80 -> 230 = +150
+Spe: 95 -> 175 = +80
+BST: 555 -> 1325
+Ability: Intimidate/Flash Fire -> Tinted Lens/Inveigle
+New Moves
+Ember
+Grass Knot
+Mineral Cannon
+Play Rough
+Raging Fury
+Sacred Fire
+Sweet Retreat
+Swords Dance
+Wish
 ------------------------------------------------------------------------
 Bellsprout   
 Hp: 50 -> 123 = +73
@@ -2318,6 +2334,7 @@ Mystery Wave
 Poltergeist
 Psychic Quake
 Psycho Blitz
+Receiving Strike
 Rising Voltage
 Royal Eruption
 Royal Inversion
@@ -3045,6 +3062,7 @@ Body Press
 Flame Wheel
 High Horsepower
 Ice Punch
+Raging Fury
 Rental Charge
 Shattered Earth
 Thermal Press
@@ -3091,6 +3109,7 @@ Mystery Deluge
 Mystery Slash
 Mystery Sphere
 Power Whip
+Raging Fury
 Regal Exit
 Royal Rampage
 Royal Shattering
@@ -3751,6 +3770,7 @@ Doom Desire
 Dragon Jaw
 Facade
 Flash Cannon
+Heat Crash
 Mystery Bind
 Shell Smash
 Thunder Wave
@@ -3815,7 +3835,7 @@ Work Up
 Withdraw
 Recover
 ------------------------------------------------------------------------
-Regigigas
+Regigigas     
 Hp: 110 -> 230 = +120
 Atk: 160 -> 300 = +140
 Def: 110 -> 205 = +55
@@ -3825,24 +3845,25 @@ Spe: 100 -> 162 = +62
 BST: 670 -> 1080
 Added Abilities: Guts/Reckless
 New Moves
-Thermal Press
-Storm Throw
-Double Slap
-Swords Dance
-Cosmic Power
-Mystery Bind
-Slush Switch
-Protect
 Bulk Up
+Cosmic Power
 Counter
+Darkest Lariat
+Defog
+Double Slap
+Fall Back
+Mystery Bind
+Protect
+Recycle
 Seed Bomb
 Shatter Shot
-Stealth Rock
-Darkest Lariat
+Slush Switch
 Spikes
-Defog
-Recycle
+Stealth Rock
+Storm Throw
+Swords Dance
 Tailwind
+Thermal Press
 ------------------------------------------------------------------------
 Giratina      
 Hp: 150 -> 250 = +100
@@ -4099,6 +4120,7 @@ Agility
 Amnesia
 Aqua Charge
 Aqua Drain
+Aqua Jet
 Aqua Soul
 Ascending Power
 Block
@@ -4401,7 +4423,7 @@ SpD: 210 -> 210 = +0
 Spe: 180 -> 180 = +0
 BST: 1400 -> 1400	
 ------------------------------------------------------------------------
-Victini
+Victini    
 Hp: 100 -> 210 = +110
 Atk: 100 -> 235 = +135
 Def: 100 -> 120 = +20
@@ -4411,6 +4433,7 @@ Spe: 100 -> 150 = +60
 BST: 600 -> 1075
 Added Abilities: Indignation/Mach Speed
 New Moves
+Raging Fury
 Psycho Blitz
 Strange Wave
 Flame Charge
@@ -4749,7 +4772,7 @@ Requires Rain
 Climate Change
 Effect: Transforms Sawsbuck depending on the weather, if it is holding a Float Stone.
 ------------------------------------------------------------------------
-Emolga
+Emolga    
 Hp: 55 -> 155 = +100
 Atk: 75 -> 115 = +40
 Def: 60 -> 120 = +60
@@ -4778,15 +4801,20 @@ White Herb
 Lax Incense
 Bright Powder
 ------------------------------------------------------------------------
-Amoonguss
+Amoonguss    
 Hp: 114 -> 214 = +100
-Atk: 85 -> 155 = +70
-Def: 70 -> 160 = +90
-SpA: 85 -> 155 = +70
-SpD: 80 -> 180 = +100
+Atk: 85 -> 215 = +130
+Def: 70 -> 200 = +130
+SpA: 85 -> 215 = +130
+SpD: 80 -> 210 = +130
 Spe: 30 -> 30 = +0
-BST: 464 -> 894
+BST: 464 -> 1084
 Added Ability: Inveigle
+Dragon Breath
+New Moves
+Shed Spore
+Sweet Retreat
+Withdraw
 ------------------------------------------------------------------------
 Ferrothorn
 Hp: 74 -> 164 = +90
@@ -5092,9 +5120,11 @@ Dark Pulse
 Electro Strike
 Hydro Pump
 Lash Out
+Recover
 Sludge Bomb
 Sludge Wave
 Slush Switch
+Surf
 Swords Dance
 Tailwind
 Triple Kick
@@ -6058,11 +6088,12 @@ BST: 530 -> 1090
 Added Ability: Anger Point
 New Moves
 Blazing Velocity
+Brutal Swing
 Close Combat
 Dynamic Punch
 Flame Switch
-Brutal Swing
 Knock Off
+Raging Fury
 
 Unlearned
 Endure
@@ -6096,6 +6127,7 @@ Flip Turn
 Mystery Deluge
 Power Trip
 Power-Up Punch
+Raging Fury
 Receiving Strike
 Shadow Ball
 Shadow Flame
@@ -7301,9 +7333,12 @@ Spe: 130 -> 185 = +55
 BST: 525 -> 1052
 Added Ability: Mold Breaker
 New Moves
+Electro Ball
+Ice Beam
+Mud Bomb
+Nasty Plot
 Stealth Rock
 Will-O-Wisp
-Nasty Plot
 --
 Vaporeon   
 Hp: 130 -> 230 = +100
@@ -7692,7 +7727,7 @@ Solar Blade
 Stored Power
 
 Power Spot
-Effect: Boosts allies' BP by 30% -> SpA is x1.5 when at 1/4 Max Hp or less; All of the Pokemon's Moves have Perfect Accuacy; Nullifies opposing Dark-Type Priority Moves used against Pokemon with this Ability.
+Effect: Boosts allies' BP by 30% -> SpA is x1.5 when at 1/4 Max Hp or less; All of the Pokemon's Moves have Perfect Accuac.
 ------------------------------------------------------------------------
 Smeargle
 Hp: 55 -> 95 = +50
@@ -8834,8 +8869,8 @@ Psycho Fire
 Rapid Spin
 Shadow Flame
 Slush Switch
-Snow Rush
 Stealth Rock
+Snow Rush
 Rock Slide
 
 Frost Aura (New Ability)
@@ -9338,6 +9373,50 @@ Teleport
 
 Overmind (New Ability)
 Effect: Pokemon's Raw Hp Stat is added to their Offensive Stats. Stat Stage changes affecting this Pokemon's Attack or Special Attack are converted into health; Positive Changes restore its health by 1/4, while Negative Changes deduct 1/10th of its Max Hp, respectively. Ignores Mold Breaker.
+--------------------------------------------------------------------------
+Alomomola       
+Hp: 165 -> 275 = +110
+Atk: 75 -> 195 = +120
+Def: 80 -> 190 = +110
+SpA: 40 -> 170 = +130
+SpD: 45 -> 125 = +80
+Spe: 65 -> 65 = +0
+BST: 470 -> 1020
+New Moves
+Flip Turn
+Play Rough
+Rapid Spin
+Stealth Rock
+Sweet Retreat
+Withdraw
+--------------------------------------------------------------------------
+Arcanine-Hisui   
+Hp: 95 -> 175 = +80
+Atk: 115 -> 315 = +200
+Def: 80 -> 185 = +105
+SpA: 95 -> 285 = +190
+SpD: 80 -> 185 = +105
+Spe: 90 -> 180 = +90
+BST: 555 -> 1320
+Ability: Rock Head -> Empyrean Blaze
+New Moves
+Aromatic Mist
+Chaos Switch
+Flame Switch
+Grass Knot
+Memory Blast
+Receiving Strike
+Sacred Fire
+Spark
+
+Unlearned
+Howl
+Morning Sun
+Thunder Fang
+Wild Charge
+
+Empyrean Blaze (New Ability)
+Effect: Pokemon's Rock-Type Weaknesses become resistances. Pokemon reflects all moves with increased Priority that are directed toward it, back to the opponent--including attacking moves.
 =========================================================
 Template Compendium
 Template Stats   
@@ -12488,6 +12567,10 @@ Category: R
 Rage
 Base Power: 20 -> 80
 --
+Raging Fury
+Base Power: 120 -> 180
+Additional Effect: Ignores the Damage-Modifying Properties of Rain
+--
 Rampage (New Move)
 Base Power: 150
 Accuracy: 100
@@ -13079,6 +13162,16 @@ Penalty: User is trapped for 3 turns upon using this move (4 turns, if counting 
 Seismic Toss
 Damage: User's Level -> 1/4 Target's Max Hp
 --
+Shed Spore (New Move)
+Base Power: __
+Accuracy: true
+Category: Status
+Effect: Pokemon loses 1/4 of its Max Hp and Switches Out; The Pokemon replacing it is healed by 1/2 of the user's Max Hp, and becomes Poisoned. This Move will not activate if the user does not have at least 1/4 of their Max Hp, and it will not heal the designated ally if they are immune to the Poison Status
+Priority: +0
+PP: 5
+Target: Normal
+Type: Poison
+--
 Shift Gear
 PP: 10 -> 5 (Static)
 --
@@ -13225,9 +13318,8 @@ Base Power: 100 -> 150
 Accuracy: 95 -> 100
 Secondary Effect: Higher Crit Ratio -> 25% chance to raise SpA by 1 stage.
 --
-Spark  
-Par Chance: 30% -> 10%
-Priority: 0 -> 1
+Spark    
+Base Power: 65 -> 75
 --
 Sparkling Aria
 Base Power: 90 -> 150
@@ -13349,9 +13441,9 @@ Base Power: 50 -> 140
 Recoil: 1/4 Max HP -> 1/2 Max HP
 --
 Sucker Punch
-Base Power: 70 -> 170
-Priority: +1 -> -1
-Bonus Effect: __ -> Raises user's Atk by 1 stage.
+Base Power: 70 -> 80
+Conditions: Opponent must be actionable and make a move -> Always activates as long as the opponent does not switch out
+Penalty: Hits opposing Ghost-Types and Psychic-Types neutrally
 --
 Submission
 Base Power: 80 -> 200
@@ -13536,6 +13628,9 @@ Category: Physical
 Triple Kick
 Base Power: 10 -> 26
 Cumulative Power: 60 -> 156
+--
+Trop Kick
+Base Power: 70 -> 130
 --
 Turbine Turn (New Move)
 Base Power: 85
@@ -13813,7 +13908,7 @@ Battle Armor
 Additional Effect: Pokemon cannot lower its own stats
 --
 Battle Bond   
-Effect: Pokemon's First Successful Move has x1.5 Base Power. Pokemon's Resisted Moves have x1.5 Base Power. Pokemon ignores the effects of Weather
+Effect: Pokemon's First Successful Move has x1.5 Base Power. Pokemon's Resisted Moves have x1.5 Base Power. The Damage of the Pokemon's Moves is unaffected by the Weather
 --
 Barricade
 Effect: Reduces the Damage of opposing Ice-Type Attacks to x0.25; Pokemon cannot be Frozen.
@@ -14388,7 +14483,7 @@ Effect: Opposing Poison-Type attacks deal 1/2 damage; Opposing Spout-Type attack
 Category: Calyrex-Shadowv
 --
 Power Spot
-Effect: Boosts allies' BP by 30% -> SpA is x1.5 when at 1/4 Max Hp or less; All of the Pokemon's Moves have Perfect Accuacy; Nullifies opposing Dark-Type Priority Moves used against Pokemon with this Ability.
+Effect: Boosts allies' BP by 30% -> SpA is x1.5 when at 1/4 Max Hp or less; All of the Pokemon's Moves have Perfect Accuacy.
 --------------------------------------------------------------------------
 Category: Porygon Exclusive Abilities
 --
@@ -14444,6 +14539,11 @@ Category: Lunala Exclusive Abilities
 --
 Full Moon    
 Effect: Pokemon becomes a Ghost/Water Type; Pokemon restores 1/10 Max Hp for each stat that is raised.
+-----------------------------------------------------------------------------
+Category: Arcanine-Hisui Exclusive Abilities
+--
+Empyrean Blaze   
+Effect: Pokemon's Rock-Type Weaknesses become resistances. Pokemon reflects all moves with increased Priority that are directed toward it, back to the opponent--including attacking moves.
 =========================================================
 Section H  
 Modified Type Interactions  
@@ -14900,7 +15000,7 @@ Mechanics: Actual boosts: +2 Atk, +2 SpA, +2 Spe; After V-Create; +2 Atk, +2 SpA
 --
 Star Sweet
 Effect: Holder automatically switches out upon successfully using a Charity Move. Multi-Use.
-List of Charity Moves: Aurora Veil, Jungle Healing, Leech Seed, Lucky Chant, Magnetic Flux, Mist, Safeguard, Wish
+List of Charity Moves: Aurora Veil, Jungle Healing, Leech Seed, Lucky Chant, Magnetic Flux, Mist, Safeguard, Shed Spore, Wish
 Prohibited Charity Moves: Aromatherapy, Heal Bell, Healing Wish, Light Screen, Lunar Dance, Reflect, Tailwind
 --
 Thunder Stone
