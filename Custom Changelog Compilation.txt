@@ -15,13 +15,23 @@ Section B
 		• Ultra Assist
 Section C
 	• Special Mechanics  
-	• Special Mechanics: Memorization 
+	• Special Mechanic: Overdrive
+		• Mechanics 
+		• List of Overdrives
+	• Special Mechanic: Memorization 
 		• Memory Exclusive Abilities
 		• Memory-Interactive Abilities 
 		• Memory Moves
-	• Special Mechanics: Ultra Assist
+	• Special Mechanic: Ultra Assist
+		• Mechanics
+		• EX-Assists
 Section D
 	• Status Changelog
+	• Weather Changelog
+		• Weather Terminology
+			• Weather-Interactive Moves
+				• Intrinsic Interactions
+				• Extrinsic Interactions
 Section E
 	• General
 		• Move Consolidation
@@ -9305,9 +9315,9 @@ Whirlwind
 Withdraw
 
 Power of Alchemy
-Effect: Pokemon loses its Psychic-Type weakness from its Poison-Typing when Memorized*(1); Opposing Burst-Moves have halved Base Power against this Pokemon. Opposing Pokemon's Moves have halved Damage if they have any Positive Stat Boosts in the stat they are attacking in*(2). Opposing Ground-Type Moves have x0.67 Base Power when used by non-Ground-Type Pokemon*(3). Pokemon is immune to Critical Hits. Prevents opposing Pokemon from using Tailwind or Trick Room.
-*(1): Psyshock and Psystrike ignores this effect
-*(2, 3): This effect does not apply against Pokemon with: Hightened Mind, Psychic Assault, Psychic Power, Psycho Force
+Effect: Pokemon loses its Psychic-Type weakness from its Poison-Typing when Memorized*(1); Opposing Burst-Moves have x0.67 Base Power against this Pokemon. Opposing Pokemon's Moves have halved Damage if they have any Positive Stat Boosts in the stat they are attacking in*(2). Opposing Ground-Type Moves have x0.67 Base Power when used by non-Ground-Type Pokemon*(3). Opposing Psychic-Type Moves have x0.67 Base Power when used by Choice-Locked Pokemon*(4). Pokemon is immune to Critical Hits. Prevents opposing Pokemon from using Tailwind or Trick Room.
+*(1): Psyshock and Psystrike ignore this effect
+*(2-4): This effect does not apply against Pokemon with: Hightened Mind, Psychic Assault, Psychic Power, Psycho Force
 --------------------------------------------------------------------------
 Plusle and Minun
 Plusle   
@@ -9598,7 +9608,46 @@ Pokemon
 Section C  
 Special Mechanics   
 --
-Special Mechanics: Memorization    
+Special Mechanic: Overdrive   
+
+Mechanics
+Every Pokemon has the option to Overdrive. When a Pokemon uses the Overdrive Mechanic, they receive a Special Effect depending on their Happiness Stat
+
+List of Overdrives   
+Trash Disposer
+Effect: Pokemon immediately discards their held Item if possible
+Range: 248 and below
+
+Crisis Manager
+Effect: Pokemon loses half of its current Hp. This effect will not activate if the Pokemon only has 1 HP Remaining
+Range: 249
+
+Critical Striker
+Effect: Pokemon's First Successful Attack has a Guaranteed Critical Hit Chance. Ignores Abilities that prevent Critical Hits
+Range: 250
+
+Super Healer
+Effect: Cures all of the Pokemon's Statuses, and restores 1/2 of the Pokemon's Max Hp upon activation.
+Range: 251
+
+Gift Collector
+Effect: Pokemon instantly restores their lost or destroyed held Item.
+Exceptions: Assist Drive, Cell Battery, Dragon Scale, Light Clay, Prism Scale, Twisted Spoon
+Range: 252
+
+Impact Absorber
+Effect: Pokemon receives x0.67 Damage from the first Attack to successfully damage it
+Range: 253
+
+Rule Breaker
+Effect: Pokemon's First Successful Attack ignores all Type-Based Immunities
+Range: 254
+
+Speed Blitzer
+Effect: Pokemon's Speed is boosted to x1.5 until they successfully use a Move.
+Range: 255
+==============================================================================================================
+Special Mechanic: Memorization    
 Description: Pokemon can choose a Memory Disc from each Type; These Discs impart the Pokemon with certain Type, and Ability.
 
 Mechanics
@@ -9763,7 +9812,7 @@ Oversight
 Effect: 20% Power Bonus granted to ???-Type moves, will only be active if the Pokemon does not have any positive stat boosts in the stat they are attacking in. This condition does not apply to Pokemon that naturally have Oversight as their Ability
 --
 Poison Heal
-Memory Effect: Attempts to poison the Pokemon upon switching in.
+Memory Effect: Attempts to poison the Pokemon upon switching in. Tries to apply the Poison or Toxic Status if the Pokemon does not have it
 --
 Power Spot
 Memory Effect: Pokemon's Ghost-Type Moves have x1.3 Base Power if they do not have any Positive Boosts in the stat they are attacking with.
@@ -9853,7 +9902,7 @@ PP: 10
 Target: Self
 Type: Grass
 ==============================================================================================================
-Special Mechanics: Ultra Assist     
+Special Mechanic: Ultra Assist     
 
 New Item: Assist Drive
 Description: A special Device that allows the holder to deplete their energy to unleash and share their latent abilities with the Team. This Item will not activate if the holder is the only or last Pokemon on their Team
@@ -9951,9 +10000,6 @@ Burn
 Effect: Automatically cured during Rain or Primordial Sea. Status cannot be inflicted during Rain or Primordial Sea.
 Damage: 1/8 -> 1/10
 --
-Delta Stream
-Additional Effect: Flying-Type Moves receive a x1.5 Power Boost
---
 Fatigue
 Effect: Disables Status Moves, and prevents them from being used
 --
@@ -9964,6 +10010,17 @@ Secondary Effect: Opposing Fire-Type moves deal half damage when Frozen.
 Permafrost Effect: If Frozen, Pokemon will not thaw as long as Hail is active, even if the Pokemon is hit by a Fire-Type move, or uses a move that would ordinarily thaw it. Pokemon will still thaw when exposed to Sunlight
 
 Info: Freeze power debuffs are handled in battle-engine.js (for Guts and Facade); Speed debuff is handled in statuses.js
+--
+Paralysis
+Effect: Deals 1/4 max hp if it is Raining
+--
+Permaburst
+Effect: Pokemon's Burst-Moves are always at full power.
+------------------------------------------------------------------------
+Weather Changelog
+--
+Delta Stream
+Additional Effect: Flying-Type Moves receive a x1.5 Power Boost
 --
 Hail
 Ice-Boost: __ -> x1.3
@@ -9976,18 +10033,50 @@ Water-Types heal 1/5 Max Hp at the end of each turn if they are not Paralyzed.
 Intense Sunlight  
 Non-Fire Types lose 1/10 Max Hp at the end of each turn.
 --
-Paralysis
-Effect: Deals 1/4 max hp if it is Raining
---
-Permaburst
-Effect: Pokemon's Burst-Moves are always at full power.
---
 Sandstorm
 Effect: Raises the Special Defense of Rock-Type Pokemon -> x1.3 Base Power on Ground-Type and Rock-Type Moves; x0.5 Base Power for Grass-Type Moves
 Secondary Effect: 1/16 Residual Damage -> 1/10 Residual Damage
 --
 Tailwind      
 Additional Effect: Flying-Type Moves deal x1.3 Damage; x1.5 Power, if the Pokemon is Memorized into a Flying-Type.
+--------------------
+Weather Terminology
+Intrinsic Power (IP)
+Description: The "Default" Base Power or Damage that a Move has before considering the effects of Weather or Field Conditions (e.g. Poke-A's "Fire Move" deals 90 Damage to Poke-B)
+
+Extrinsic Power (EP)
+Description: The Modifier to a Move's Base Power or Damage, as the result of external circumstances, such as Weather, or Field Conditions (e.g. "Fire Move" deals halved damage to Poke-B under Rain, reducing it to 45)
+
+Net Power (NP)
+Description: The result of the Intrinsic Power and the Extrinsic Power
+
+Examples
+Example A: Under ordinary circumstances, with no external conditions, the EP will be void, which will be represented here, as a multiplier of 1, for convenience. Therefore, Fire Move A would deal (90 * 1) Damage with no extrinsic modifiers
+
+Example B: With the adverse effects of Rain, which halves the power of Fire-Type Moves, the calculation would change to (90 * 0.5), or 45.
+
+Example C: If the Pokemon has an Intrinsic Property that doubles the Damage of the Move when under Rain, the calculation would change to ((90 * 2) * 0.5), for a result of (180 * 0.5), or 90.
+
+Example D: If the Pokemon has an Extrinsic Property that doubles the Damage of the Move when under Rain, the calculation would become (90 * 2), for a result of 180
+
+Example E: If the Pokemon has an Intrinsic Property that doubles the Damage of the Move under Rain, while also possessing an Ability or Item that neutralizes the Damage-Reducing Effects of the Weather, the calculation would change to ((90 *2) * 1), for a result of (180 * 1), or 180
+----------------
+Weather-Interactive Moves
+Intrinsic Interactions
+Solar Beam: Halved Base Power when under Rain, Sand, or Hail
+Solar Blade: Halved Base Power when under Rain, Sand, or Hail
+
+Extrinsic Interactions
+Bleakwind Storm: Boosted under Rain and Hail
+Chilling Water: Becomes an Ice-Type move and is Boosted under Hail
+Electro Strike: Boosted under Rain
+Inferno Beam: Unaffected by Rain
+Psychic Quake: Boosted under Sandstorm
+Psychic Storm: Boosted under Rain and Sandstorm
+Psycho Fire: Boosted under Fire and Sandstorm
+Sandsear Storm: Boosted under Sandstorm and Sun
+Thermal Press: Becomes a Fire-Type Move and is Boosted under Fire and Sandstorm
+Wildbolt Storm: Boosted under Rain and Tailwind; Does not stack
 ------------------------------------------------------------------------
 Section E   
 General   
@@ -10011,6 +10100,7 @@ Soul Heart: Limit: __ -> 1 Boost
 Speed Boost: Limit: __ -> 1 Boost
 
 Affected Items
+Shiny Stone: Function: +2 Atk/+2 SpA/+1 Spe during the first use; Attrition: Prevents V-Create's stat drops, but imparts no boosts
 Syrupy Apple: Function: Restores a set amount of HP; Attrition: (30%, 25%, 20%, 15%)
 
 Affected Moves  
@@ -14173,9 +14263,9 @@ Power Drive
 Effect: Bypasses Substitutes. Multiplies Damage of Super-Effective Attacks by x1.2.
 --
 Power of Alchemy   
-Effect: Pokemon loses its Psychic-Type weakness from its Poison-Typing when Memorized*(1); Opposing Burst-Moves have halved Base Power against this Pokemon. Opposing Pokemon's Moves have halved Damage if they have any Positive Stat Boosts in the stat they are attacking in*(2). Opposing Ground-Type Moves have x0.67 Base Power when used by non-Ground-Type Pokemon*(3). Pokemon is immune to Critical Hits. Prevents opposing Pokemon from using Tailwind or Trick Room.
-*(1): Psyshock and Psystrike ignores this effect
-*(2, 3): This effect does not apply against Pokemon with: Hightened Mind, Psychic Assault, Psychic Power, Psycho Force
+Effect: Pokemon loses its Psychic-Type weakness from its Poison-Typing when Memorized*(1); Opposing Burst-Moves have x0.67 Base Power against this Pokemon. Opposing Pokemon's Moves have halved Damage if they have any Positive Stat Boosts in the stat they are attacking in*(2). Opposing Ground-Type Moves have x0.67 Base Power when used by non-Ground-Type Pokemon*(3). Opposing Psychic-Type Moves have x0.67 Base Power when used by Choice-Locked Pokemon*(4). Pokemon is immune to Critical Hits. Prevents opposing Pokemon from using Tailwind or Trick Room.
+*(1): Psyshock and Psystrike ignore this effect
+*(2-4): This effect does not apply against Pokemon with: Hightened Mind, Psychic Assault, Psychic Power, Psycho Force
 --
 Power Surge
 Effect: User's Atk and SpA raise by 1 stage each upon successfully fainting an opponent. Only activates once, while the Pokemon is on the field. Refreshes upon switching out.
@@ -14798,7 +14888,7 @@ Lustrous Orb
 Additional Effect: Item cannot be removed from Palkia.
 --
 Mago Berry
-Effect: Heals when opponent has 1/2 hp or less
+Effect: Heals when holder has 1/2 hp or less
 Restoration: 1/8 -> 1/3
 --
 Metal Coat
@@ -15003,7 +15093,6 @@ Affected Moves: Draco Meteor, Overheat, Zap Cannon, Fleur Cannon, Leaf Storm
 --
 Shiny Stone
 Effect: Sharply raises Victini's Atk, and SpA, and Spe, upon using V-Create. Single Use.
-Mechanics: Actual boosts: +2 Atk, +2 SpA, +2 Spe; After V-Create; +2 Atk, +2 SpA, +1 Spe.
 --
 Star Sweet
 Effect: Holder automatically switches out upon successfully using a Charity Move. Multi-Use.

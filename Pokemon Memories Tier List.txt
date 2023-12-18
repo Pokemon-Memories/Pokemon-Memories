@@ -10,6 +10,7 @@ Section A
 	• Mewtwo Setpedia Entry
 	• Mewtwo Microanalysis
 	• Quick Sets
+	• Laboratory
 Section B
 • Ultra Assist
 	• Viability Rankings
@@ -122,12 +123,12 @@ S-Tier (7 Total)
 
 S+
 Mewtwo
+Arcanine-Hisui
 Arceus (S; Omnipotent + Chilan Berry)
 
 S
-Landorus-Therian
 Muk-Alola
-Arcanine-Hisui
+Landorus-Therian
 
 S-
 Gliscor (A-; Ice Memory)
@@ -144,6 +145,7 @@ Cresselia
 Urshifu-S (A; Ghost Memory)
 Victreebel
 Azumarill
+Calyrex-Shadow
 Kyogre
 Arceus-Grass
 Arceus-Ground
@@ -151,22 +153,21 @@ Lilligant
 Meloetta
 Meloetta-Pirouette
 Palkia
-Dialga
+Amoonguss (A; Ice Memory)
 
 A
+Dialga
 Tornadus
 Golurk
 Greninja-Ash
 Garchomp (A-; Ice Memory)
 Ho-Oh
 Deoxys-Attack
-Calyrex-Shadow
 Calyrex-Ice
 Darkrai (A; Grass Memory)
 Marshadow (A-; Fighting Memory)
 Necrozma-Dawn-Wings
 Arceus-Water
-Amoonguss
 
 A-
 Zekrom (B+; Electric Memory)
@@ -1850,6 +1851,30 @@ Jolly Nature
 
 Description: Calyrex-Ice's incredible natural 180/260/200 bulk, paired with its ability, Ice Scales, allows Calyrex-Ice to endure hits from even the Meta's strongest, while still having enough HP to retaliate, and stay on the field. Unfortunately, Calyrex-Ice was held back by its Psychic/Ice Typing, which among other things, left it vulnerable to powerful moves like Mewtwo's Comeuppance, Mineral Cannon, or Night Daze, Ho-Oh's and Entei's Sacred Fire, or Arceus' Rock Wrecker. Fortunately, the Electric Memory not only amelioriates these issues, but provides it with an offensive typing that has been gaining a notable amount of traction against opposing Tailwind Teams: The Electric Type. Thanks to its Base 350 Attack, Calyrex-Ice is able to OHKO anything from Vaporeon, to Yveltal, and even Skarmory, with its powerful Memory Blast, while still maintaining enough power compared to its Snowball sets, to keep its Glacial Lance OHKOs against the Pokemon it hits Super-Effectively, such as Eternatus, Yveltal, or Landorus-Therian. Electric Calyrex-Ice works best under Tailwind, so Skarmory and Yveltal tend to pair well with it. Whenever possible, use Glacial Lance to secure K.O.'s if Calyrex-Ice's Attack does not have at least one positive stage boost, as Glacial Lance will raise its Attack by 1 stage, if it doesn't already have at least +1 in its Attack.
 
+
+
+
+						     Laboratory
+Purpose: The Laboratory exists to document certain EV, Moveset, and Ability Sets that can assist in optimizing a Pokemon, and increasing their potential.
+
+--------------------------
+Arceus
+--
+Surviving Mewtwo's Stored Power
+Optimal EVs
+EVs: 4 HP / 88 SpD
+Raw Stats: 542 Hp / 478 SpD
+Explanation: With 4 HP EVs, and 88 SpD EVs, Arceus is guaranteed to survive at least one Adrenaline Orb Stored Power from a Special-Neutral Nature Mewtwo
+Example: 252 SpA Adrenaline Orb Mewtwo Stored Power vs. 4 HP / 88 SpD Arceus: 459-541 (84.6 - 99.8%) -- guaranteed 2HKO
+--------------------------
+Mewtwo
+--
+Surviving Palkia's Boomburst
+Optimal EVs
+EVs: 4 HP / 20 SpD
+Raw Stats: 482 Hp / 411 SpD 
+Explanation: With 4 HP EVs, and 20 SpD EVs, Mewtwo is guaranteed to survive at least one Choice Scarf Modest Palkia Boomburst from Full HP
+Example: 252+ SpA Dracolate Palkia Boomburst vs. 4 HP / 20 SpD Mewtwo: 408-481 (84.6 - 99.7%) -- guaranteed 2HKO
 =====================================================================================================================
 						      Section B    
 						     Ultra Assist

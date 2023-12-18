@@ -2015,6 +2015,7 @@ Careful Nature
 
 Kyogre @ Sea Incense  
 Ability: Drizzle  
+Happiness: 252  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
@@ -2239,6 +2240,7 @@ IVs: 0 Atk
 Necrozma-Dusk-Mane @ Metal Coat  
 Ability: Prism Armor  
 Shiny: Yes  
+Happiness: 253  
 EVs: 252 HP / 4 Def / 252 SpD  
 Careful Nature  
 - Earthquake  
@@ -2248,6 +2250,7 @@ Careful Nature
 
 Dialga @ Sweet Apple  
 Ability: Regenerator  
+Happiness: 251  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Dragon Pulse  
@@ -2266,6 +2269,7 @@ Timid Nature
 
 Ho-Oh @ Sweet Apple  
 Ability: Magic Guard  
+Happiness: 251  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Careful Nature  
 - Sacred Fire  
@@ -2275,6 +2279,7 @@ Careful Nature
 
 Calyrex-Shadow @ Choice Scarf  
 Ability: Power Spot  
+Happiness: 254  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
@@ -12192,15 +12197,17 @@ IVs: 0 Atk
 
 Groudon @ Room Service  
 Ability: Drought  
+Happiness: 251  
 EVs: 116 HP / 252 Atk / 140 Spe  
 Adamant Nature  
 - Precipice Blades  
 - Ice Punch  
 - Rock Slide  
-- Rock Polish  
+- rentalcharge  
 
 Sunflora @ Flower Sweet  
 Ability: sandeater  
+Happiness: 250  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
@@ -12212,7 +12219,7 @@ IVs: 0 Atk
 Arceus-Ground @ Earth Plate  
 Ability: Multitype  
 Shiny: Yes  
-EVs: 252 Atk / 4 SpD / 252 Spe  
+EVs: 4 HP / 164 Atk / 88 SpD / 252 Spe  
 Jolly Nature  
 - Multi-Attack  
 - Ice Hammer  
@@ -12222,6 +12229,7 @@ Jolly Nature
 Rayquaza @ Electric Memory  
 Ability: dragonheart  
 Shiny: Yes  
+Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Bolt Beak  
@@ -12240,6 +12248,7 @@ Modest Nature
 
 Vaporeon @ Sitrus Berry  
 Ability: utilitylock  
+Happiness: 252  
 EVs: 252 HP / 4 SpD / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
@@ -12253,6 +12262,7 @@ IVs: 0 Atk
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
+Happiness: 251  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Sassy Nature  
 IVs: 0 Spe  
@@ -12272,7 +12282,8 @@ Naive Nature
 
 Arceus-Grass @ Meadow Plate  
 Ability: Multitype  
-EVs: 4 HP / 252 SpA / 252 Spe  
+Happiness: 251  
+EVs: 4 HP / 164 SpA / 88 SpD / 252 Spe  
 Timid Nature  
 - Judgment  
 - royalsubmersion  
@@ -12281,6 +12292,7 @@ Timid Nature
 
 Landorus-Therian @ Fairy Memory  
 Ability: pacify  
+Happiness: 251  
 EVs: 4 HP / 252 SpD / 252 Spe  
 Calm Nature  
 - Sandsear Storm  
@@ -12290,6 +12302,7 @@ Calm Nature
 
 Mewtwo @ Twisted Spoon  
 Ability: psychicpower  
+Happiness: 251  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
@@ -12300,6 +12313,7 @@ IVs: 0 Atk
 
 Vaporeon @ Sitrus Berry  
 Ability: utilitylock  
+Happiness: 252  
 EVs: 252 HP / 4 SpD / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
@@ -12313,6 +12327,7 @@ IVs: 0 Atk
 
 Mewtwo @ Twisted Spoon  
 Ability: psychicpower  
+Happiness: 251  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
@@ -12332,6 +12347,7 @@ Lonely Nature
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
+Happiness: 251  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Sassy Nature  
 IVs: 0 Spe  
@@ -12342,15 +12358,17 @@ IVs: 0 Spe
 
 Groudon @ Room Service  
 Ability: Drought  
+Happiness: 251  
 EVs: 116 HP / 252 Atk / 140 Spe  
 Adamant Nature  
 - Precipice Blades  
 - Ice Punch  
 - Rock Slide  
-- Rock Polish  
+- rentalcharge  
 
 Landorus-Therian @ Assault Vest  
 Ability: pacify  
+Happiness: 251  
 EVs: 4 HP / 252 SpD / 252 Spe  
 Calm Nature  
 - Sandsear Storm  
@@ -12360,6 +12378,7 @@ Calm Nature
 
 Vaporeon @ Sitrus Berry  
 Ability: utilitylock  
+Happiness: 252  
 EVs: 252 HP / 4 SpD / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
@@ -12373,6 +12392,7 @@ IVs: 0 Atk
 
 Mewtwo @ Poison Memory  
 Ability: psychicpower  
+Happiness: 250  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Psystrike  
@@ -12392,6 +12412,7 @@ Naive Nature
 Meloetta @ Throat Spray  
 Ability: ensemble  
 Shiny: Yes  
+Happiness: 253  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Hyper Voice  
@@ -12401,6 +12422,7 @@ Timid Nature
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
+Happiness: 251  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Sassy Nature  
 IVs: 0 Spe  
@@ -12411,7 +12433,8 @@ IVs: 0 Spe
 
 Arceus-Grass @ Meadow Plate  
 Ability: Multitype  
-EVs: 4 HP / 252 SpA / 252 Spe  
+Happiness: 251  
+EVs: 4 HP / 164 SpA / 88 SpD / 252 Spe  
 Timid Nature  
 - Judgment  
 - royalsubmersion  
@@ -12420,12 +12443,13 @@ Timid Nature
 
 Calyrex-Ice @ Snowball  
 Ability: Ice Scales  
+Happiness: 250  
 EVs: 4 HP / 252 Atk / 252 Spe  
-Jolly Nature  
+Adamant Nature  
 - Glacial Lance  
-- Stealth Rock  
+- Leafage  
+- Smart Strike  
 - accelerate  
-- royalretreat  
 
 
 === [gen6ubers] It's Not That Easy (Caly-S, Ground) ===
@@ -12441,15 +12465,17 @@ Timid Nature
 
 Groudon @ Room Service  
 Ability: Drought  
+Happiness: 251  
 EVs: 116 HP / 252 Atk / 140 Spe  
 Adamant Nature  
 - Precipice Blades  
 - Ice Punch  
 - Rock Slide  
-- Rock Polish  
+- rentalcharge  
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
+Happiness: 251  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Sassy Nature  
 IVs: 0 Spe  
@@ -12470,7 +12496,8 @@ Timid Nature
 
 Arceus-Grass @ Meadow Plate  
 Ability: Multitype  
-EVs: 4 HP / 252 SpA / 252 Spe  
+Happiness: 251  
+EVs: 4 HP / 164 SpA / 88 SpD / 252 Spe  
 Timid Nature  
 - Judgment  
 - royalsubmersion  
@@ -12491,6 +12518,7 @@ Naive Nature
 
 Garchomp (M) @ Poison Memory  
 Ability: dragonarmor  
+Happiness: 251  
 EVs: 252 HP / 4 Atk / 252 Spe  
 Jolly Nature  
 - Earthquake  
@@ -12500,6 +12528,7 @@ Jolly Nature
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
+Happiness: 251  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Sassy Nature  
 IVs: 0 Spe  
@@ -12511,6 +12540,7 @@ IVs: 0 Spe
 Rayquaza @ Draco Plate  
 Ability: dragonheart  
 Shiny: Yes  
+Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Adamant Nature  
 - Bolt Beak  
@@ -12521,6 +12551,7 @@ Adamant Nature
 Meloetta @ Throat Spray  
 Ability: ensemble  
 Shiny: Yes  
+Happiness: 254  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Hyper Voice  
@@ -12530,6 +12561,7 @@ Timid Nature
 
 Ho-Oh @ Sweet Apple  
 Ability: Magic Guard  
+Happiness: 253  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Careful Nature  
 - Sacred Fire  
@@ -12561,6 +12593,7 @@ IVs: 0 Atk
 
 Gliscor (M) @ Ice Memory  
 Ability: Poison Heal  
+Happiness: 251  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Careful Nature  
 - Earthquake  
@@ -12570,6 +12603,7 @@ Careful Nature
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
+Happiness: 251  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Sassy Nature  
 IVs: 0 Spe  
@@ -12580,12 +12614,13 @@ IVs: 0 Spe
 
 Groudon @ Room Service  
 Ability: Drought  
+Happiness: 251  
 EVs: 116 HP / 252 Atk / 140 Spe  
 Adamant Nature  
 - Precipice Blades  
 - Ice Punch  
 - Rock Slide  
-- Rock Polish  
+- rentalcharge  
 
 Palkia @ Choice Scarf  
 Ability: dracolate  
@@ -12599,6 +12634,7 @@ Modest Nature
 Rayquaza @ Draco Plate  
 Ability: dragonheart  
 Shiny: Yes  
+Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Dragon Ascent  
@@ -12631,6 +12667,7 @@ Timid Nature
 
 Landorus-Therian @ Grass Memory  
 Ability: pacify  
+Happiness: 251  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Careful Nature  
 - Sandsear Storm  
@@ -12640,6 +12677,7 @@ Careful Nature
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
+Happiness: 251  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Sassy Nature  
 IVs: 0 Spe  
@@ -12650,6 +12688,7 @@ IVs: 0 Spe
 
 Vaporeon @ Sitrus Berry  
 Ability: utilitylock  
+Happiness: 252  
 EVs: 252 HP / 4 SpD / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
@@ -12660,7 +12699,8 @@ IVs: 0 Atk
 
 Arceus @ Chilan Berry  
 Ability: omnipotent  
-EVs: 4 HP / 252 Atk / 252 Spe  
+Happiness: 254  
+EVs: 4 HP / 164 Atk / 88 SpD / 252 Spe  
 Jolly Nature  
 - Multi-Attack  
 - glacialstrike  
@@ -12672,6 +12712,7 @@ Jolly Nature
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
+Happiness: 251  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Sassy Nature  
 IVs: 0 Spe  
@@ -12682,17 +12723,18 @@ IVs: 0 Spe
 
 Calyrex-Ice @ Snowball  
 Ability: Ice Scales  
+Happiness: 250  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Adamant Nature  
 - Glacial Lance  
 - Leafage  
+- Smart Strike  
 - accelerate  
-- royalretreat  
 
 Arceus-Ground @ Earth Plate  
 Ability: Multitype  
 Shiny: Yes  
-EVs: 252 Atk / 4 SpD / 252 Spe  
+EVs: 4 HP / 164 Atk / 88 SpD / 252 Spe  
 Jolly Nature  
 - Multi-Attack  
 - Ice Hammer  
@@ -12701,6 +12743,7 @@ Jolly Nature
 
 Ho-Oh @ Sweet Apple  
 Ability: Magic Guard  
+Happiness: 253  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Careful Nature  
 - Sacred Fire  
@@ -12711,6 +12754,7 @@ Careful Nature
 Meloetta @ Throat Spray  
 Ability: ensemble  
 Shiny: Yes  
+Happiness: 254  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Hyper Voice  
@@ -12720,6 +12764,7 @@ Timid Nature
 
 Garchomp (M) @ Ice Memory  
 Ability: dragonarmor  
+Happiness: 251  
 EVs: 252 HP / 4 Atk / 252 Spe  
 Jolly Nature  
 - Earthquake  
@@ -12743,6 +12788,7 @@ IVs: 0 Atk
 Victreebel (M) @ Lax Incense  
 Ability: hopesprout  
 Shiny: Yes  
+Happiness: 253  
 EVs: 252 HP / 252 SpA / 4 SpD  
 Quiet Nature  
 - Apple Acid  
@@ -12752,6 +12798,7 @@ Quiet Nature
 
 Manaphy @ Rose Incense  
 Ability: Drizzle  
+Happiness: 251  
 EVs: 252 HP / 252 Def / 4 SpA  
 Relaxed Nature  
 IVs: 0 Spe  
@@ -12762,6 +12809,7 @@ IVs: 0 Spe
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
+Happiness: 251  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Sassy Nature  
 IVs: 0 Spe  
@@ -12773,6 +12821,7 @@ IVs: 0 Spe
 Rayquaza @ Draco Plate  
 Ability: dragonheart  
 Shiny: Yes  
+Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Dragon Ascent  
@@ -12782,6 +12831,7 @@ Jolly Nature
 
 Garchomp (M) @ Ice Memory  
 Ability: dragonarmor  
+Happiness: 251  
 EVs: 252 HP / 4 Atk / 252 Spe  
 Jolly Nature  
 - Earthquake  
@@ -12794,7 +12844,8 @@ Jolly Nature
 
 Arceus-Water @ Splash Plate  
 Ability: Multitype  
-EVs: 4 HP / 252 Atk / 252 Spe  
+Happiness: 250  
+EVs: 4 HP / 164 Atk / 88 SpD / 252 Spe  
 Jolly Nature  
 - sacredwater  
 - Ice Hammer  
@@ -12803,6 +12854,7 @@ Jolly Nature
 
 Landorus-Therian @ Assault Vest  
 Ability: pacify  
+Happiness: 251  
 EVs: 4 HP / 252 SpD / 252 Spe  
 Calm Nature  
 - Sandsear Storm  
@@ -12813,15 +12865,17 @@ Calm Nature
 Zacian-Crowned @ Ground Memory  
 Ability: Intrepid Sword  
 Shiny: Yes  
+Happiness: 250  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Play Rough  
 - memoryblast  
 - Aerial Ace  
-- Agility  
+- rentalcharge  
 
 Palkia @ Choice Scarf  
 Ability: dracolate  
+Happiness: 250  
 EVs: 108 SpA / 148 SpD / 252 Spe  
 Modest Nature  
 - royalsubmersion  
@@ -12829,7 +12883,7 @@ Modest Nature
 - Fire Blast  
 - Flip Turn  
 
-Deoxys-Attack @ Life Orb  
+Deoxys-Attack @ Protector  
 Ability: antipathy  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Hasty Nature  
@@ -12841,6 +12895,7 @@ IVs: 0 Def
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
+Happiness: 251  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Sassy Nature  
 IVs: 0 Spe  
@@ -12854,6 +12909,7 @@ IVs: 0 Spe
 
 Gliscor (M) @ Ice Memory  
 Ability: Poison Heal  
+Happiness: 251  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Careful Nature  
 - Earthquake  
@@ -12874,7 +12930,7 @@ IVs: 0 Atk
 Arceus-Ground @ Earth Plate  
 Ability: Multitype  
 Shiny: Yes  
-EVs: 252 Atk / 4 SpD / 252 Spe  
+EVs: 4 HP / 164 Atk / 88 SpD / 252 Spe  
 Jolly Nature  
 - Multi-Attack  
 - glacialstrike  
@@ -12883,6 +12939,7 @@ Jolly Nature
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
+Happiness: 251  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Sassy Nature  
 IVs: 0 Spe  
@@ -12893,6 +12950,7 @@ IVs: 0 Spe
 
 Vaporeon @ Sitrus Berry  
 Ability: utilitylock  
+Happiness: 252  
 EVs: 252 HP / 4 SpD / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
@@ -12925,6 +12983,7 @@ IVs: 0 Atk
 
 Gliscor (M) @ Ice Memory  
 Ability: Poison Heal  
+Happiness: 251  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Careful Nature  
 - Earthquake  
@@ -12934,6 +12993,7 @@ Careful Nature
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
+Happiness: 251  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Sassy Nature  
 IVs: 0 Spe  
@@ -12944,6 +13004,7 @@ IVs: 0 Spe
 
 Kyogre @ Rose Incense  
 Ability: Drizzle  
+Happiness: 253  
 EVs: 252 HP / 252 Def / 4 SpA  
 Timid Nature  
 IVs: 0 Atk  
@@ -12963,6 +13024,7 @@ Naive Nature
 
 Necrozma-Dawn-Wings @ Assault Vest  
 Ability: lightinversion  
+Happiness: 251  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Moongeist Beam  
@@ -12976,7 +13038,7 @@ Calm Nature
 Arceus-Ground @ Earth Plate  
 Ability: Multitype  
 Shiny: Yes  
-EVs: 252 Atk / 4 SpD / 252 Spe  
+EVs: 4 HP / 164 Atk / 88 SpD / 252 Spe  
 Jolly Nature  
 - Multi-Attack  
 - glacialstrike  
@@ -12985,16 +13047,18 @@ Jolly Nature
 
 Dialga @ Ability Shield  
 Ability: Regenerator  
-EVs: 132 Atk / 236 SpA / 140 Spe  
-Lonely Nature  
-- Breaking Swipe  
+Happiness: 251  
+EVs: 252 Atk / 116 SpA / 140 Spe  
+Naughty Nature  
+- Dragon Pulse  
+- Iron Head  
 - Earthquake  
-- Fire Blast  
 - Shell Smash  
 
 Lilligant @ Grass Memory  
 Ability: flowershield  
 Shiny: Yes  
+Happiness: 251  
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
 - Petal Dance  
@@ -13023,6 +13087,7 @@ IVs: 0 Atk
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
+Happiness: 251  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Sassy Nature  
 IVs: 0 Spe  
@@ -13037,6 +13102,7 @@ IVs: 0 Spe
 Meloetta @ Throat Spray  
 Ability: ensemble  
 Shiny: Yes  
+Happiness: 254  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Hyper Voice  
@@ -13046,6 +13112,7 @@ Timid Nature
 
 Kyogre @ Rose Incense  
 Ability: Drizzle  
+Happiness: 251  
 EVs: 252 HP / 252 Def / 4 SpA  
 Timid Nature  
 IVs: 0 Atk  
@@ -13056,6 +13123,7 @@ IVs: 0 Atk
 
 Greninja-Ash @ Choice Scarf  
 Ability: Battle Bond  
+Happiness: 251  
 EVs: 128 Atk / 128 SpA / 252 Spe  
 Naive Nature  
 - Water Sport  
@@ -13065,6 +13133,7 @@ Naive Nature
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
+Happiness: 251  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Sassy Nature  
 IVs: 0 Spe  
@@ -13076,14 +13145,15 @@ IVs: 0 Spe
 Zacian-Crowned @ Metal Coat  
 Ability: Intrepid Sword  
 Shiny: Yes  
+Happiness: 250  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Sacred Sword  
 - Wave Crash  
 - Aerial Ace  
-- Agility  
+- rentalcharge  
 
-Deoxys-Attack @ Life Orb  
+Deoxys-Attack @ Protector  
 Ability: antipathy  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Hasty Nature  
@@ -13099,6 +13169,7 @@ IVs: 0 Def
 Yveltal @ Zoom Lens  
 Ability: Dark Aura  
 Shiny: Yes  
+Happiness: 250  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Rash Nature  
 IVs: 0 Atk  
@@ -13119,6 +13190,7 @@ Naive Nature
 Darkrai @ Grass Memory  
 Ability: midnightveil  
 Shiny: Yes  
+Happiness: 251  
 EVs: 252 HP / 252 Def  
 Bold Nature  
 - Dark Pulse  
@@ -13138,6 +13210,7 @@ IVs: 0 Atk
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
+Happiness: 251  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Sassy Nature  
 IVs: 0 Spe  
@@ -13149,6 +13222,7 @@ IVs: 0 Spe
 Victreebel (M) @ Lax Incense  
 Ability: hopesprout  
 Shiny: Yes  
+Happiness: 253  
 EVs: 252 HP / 252 SpA / 4 SpD  
 Quiet Nature  
 - Apple Acid  
@@ -13162,6 +13236,7 @@ Quiet Nature
 Tapu Koko @ Light Ball  
 Ability: lightningforce  
 Shiny: Yes  
+Happiness: 254  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Bolt Strike  
@@ -13172,6 +13247,7 @@ Jolly Nature
 Porygon-Z @ Ability Shield  
 Ability: formatdrive  
 Shiny: Yes  
+Happiness: 250  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - enigmacharge  
@@ -13181,6 +13257,7 @@ Jolly Nature
 
 Ho-Oh @ Flame Orb  
 Ability: Regenerator  
+Happiness: 250  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Careful Nature  
 - Sacred Fire  
@@ -13190,6 +13267,7 @@ Careful Nature
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
+Happiness: 251  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Sassy Nature  
 IVs: 0 Spe  
@@ -13200,6 +13278,7 @@ IVs: 0 Spe
 
 Gliscor (M) @ Ice Memory  
 Ability: Poison Heal  
+Happiness: 251  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Careful Nature  
 - Earthquake  
@@ -13232,6 +13311,7 @@ IVs: 0 Atk
 Victreebel (M) @ Lax Incense  
 Ability: hopesprout  
 Shiny: Yes  
+Happiness: 251  
 EVs: 252 HP / 252 SpA / 4 SpD  
 Quiet Nature  
 IVs: 0 Atk  
@@ -13242,6 +13322,7 @@ IVs: 0 Atk
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
+Happiness: 251  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Sassy Nature  
 IVs: 0 Spe  
@@ -13261,6 +13342,7 @@ Naive Nature
 
 Landorus-Therian @ Assault Vest  
 Ability: inveigle  
+Happiness: 251  
 EVs: 4 HP / 252 SpD / 252 Spe  
 Calm Nature  
 - Sandsear Storm  
@@ -13271,6 +13353,7 @@ Calm Nature
 Cresselia @ Leftovers  
 Ability: Regenerator  
 Shiny: Yes  
+Happiness: 253  
 EVs: 252 HP / 252 Def / 4 Spe  
 Calm Nature  
 IVs: 0 Atk  
@@ -13284,7 +13367,8 @@ IVs: 0 Atk
 
 Arceus @ Chilan Berry  
 Ability: omnipotent  
-EVs: 4 HP / 252 Atk / 252 Spe  
+Happiness: 254  
+EVs: 4 HP / 164 Atk / 88 SpD / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
 - Earthquake  
@@ -13304,6 +13388,7 @@ IVs: 0 Atk
 Victreebel (M) @ Lax Incense  
 Ability: hopesprout  
 Shiny: Yes  
+Happiness: 253  
 EVs: 252 HP / 4 SpA / 252 SpD  
 Sassy Nature  
 IVs: 0 Atk  
@@ -13314,6 +13399,7 @@ IVs: 0 Atk
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
+Happiness: 251  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Sassy Nature  
 IVs: 0 Spe  
@@ -13325,6 +13411,7 @@ IVs: 0 Spe
 Zekrom @ Electric Memory  
 Ability: Teravolt  
 Shiny: Yes  
+Happiness: 250  
 EVs: 92 HP / 136 Atk / 56 SpD / 224 Spe  
 Jolly Nature  
 - Bolt Strike  
@@ -13334,6 +13421,7 @@ Jolly Nature
 
 Palkia @ Choice Scarf  
 Ability: dracolate  
+Happiness: 250  
 EVs: 148 HP / 108 SpA / 252 Spe  
 Modest Nature  
 - royalsubmersion  
@@ -13350,8 +13438,8 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Adamant Nature  
 - Glacial Lance  
 - Leafage  
+- Smart Strike  
 - accelerate  
-- royalretreat  
 
 Tornadus @ Rose Incense  
 Ability: tempest  
@@ -13365,15 +13453,17 @@ Timid Nature
 
 Dialga @ Ability Shield  
 Ability: Regenerator  
-EVs: 132 Atk / 236 SpA / 140 Spe  
-Lonely Nature  
-- Breaking Swipe  
+Happiness: 250  
+EVs: 252 Atk / 116 SpA / 140 Spe  
+Naughty Nature  
+- Dragon Pulse  
+- Iron Head  
 - Earthquake  
-- Fire Blast  
 - Shell Smash  
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
+Happiness: 251  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Sassy Nature  
 IVs: 0 Spe  
@@ -13385,6 +13475,7 @@ IVs: 0 Spe
 Rayquaza @ Electric Memory  
 Ability: dragonheart  
 Shiny: Yes  
+Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Bolt Beak  
@@ -13394,6 +13485,7 @@ Jolly Nature
 
 Palkia @ Choice Scarf  
 Ability: dracolate  
+Happiness: 250  
 EVs: 148 HP / 108 SpA / 252 Spe  
 Modest Nature  
 - royalsubmersion  
@@ -13425,6 +13517,7 @@ Timid Nature
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
+Happiness: 251  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Sassy Nature  
 IVs: 0 Spe  
@@ -13435,6 +13528,7 @@ IVs: 0 Spe
 
 Volcanion @ Rose Incense  
 Ability: Drizzle  
+Happiness: 251  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Careful Nature  
 - Steam Eruption  
@@ -13445,6 +13539,7 @@ Careful Nature
 Golurk @ Cell Battery  
 Ability: Klutz  
 Shiny: Yes  
+Happiness: 250  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - bladesofenlightenment  
@@ -13454,6 +13549,7 @@ Jolly Nature
 
 Urshifu (M) @ Ghost Memory  
 Ability: Unseen Fist  
+Happiness: 250  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Wicked Blow  
@@ -13467,6 +13563,7 @@ Jolly Nature
 Reuniclus (M) @ Choice Specs  
 Ability: overmind  
 Shiny: Yes  
+Happiness: 251  
 EVs: 252 HP / 4 Def / 252 SpA  
 Quiet Nature  
 IVs: 0 Spe  
@@ -13477,6 +13574,7 @@ IVs: 0 Spe
 
 Calyrex-Ice @ Ice Memory  
 Ability: antipathy  
+Happiness: 250  
 EVs: 252 HP / 252 Atk / 4 Def  
 Brave Nature  
 IVs: 0 Spe  
@@ -13488,6 +13586,7 @@ IVs: 0 Spe
 Golurk @ Cell Battery  
 Ability: Klutz  
 Shiny: Yes  
+Happiness: 253  
 EVs: 252 HP / 252 Atk / 4 Def  
 Brave Nature  
 IVs: 0 Spe  
@@ -13499,6 +13598,7 @@ IVs: 0 Spe
 Camerupt (M) @ Cameruptite  
 Ability: Magma Armor  
 Shiny: Yes  
+Happiness: 250  
 EVs: 252 HP / 4 Atk / 252 SpA  
 Quiet Nature  
 IVs: 0 Atk / 0 Spe  
@@ -13509,6 +13609,7 @@ IVs: 0 Atk / 0 Spe
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
+Happiness: 251  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Sassy Nature  
 IVs: 0 Spe  
@@ -13531,6 +13632,7 @@ Timid Nature
 
 Palkia @ Choice Scarf  
 Ability: dracolate  
+Happiness: 250  
 EVs: 108 SpA / 148 SpD / 252 Spe  
 Modest Nature  
 - royalsubmersion  
@@ -13540,6 +13642,7 @@ Modest Nature
 
 Gliscor (M) @ Ice Memory  
 Ability: Poison Heal  
+Happiness: 251  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Careful Nature  
 - Earthquake  
@@ -13549,6 +13652,7 @@ Careful Nature
 
 Groudon @ Room Service  
 Ability: Drought  
+Happiness: 250  
 EVs: 116 HP / 252 Atk / 140 Spe  
 Adamant Nature  
 - Precipice Blades  
@@ -13558,6 +13662,7 @@ Adamant Nature
 
 Meowth (M) @ Silk Scarf  
 Ability: goldentouch  
+Happiness: 250  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Fury Swipes  
@@ -13567,6 +13672,7 @@ Jolly Nature
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
+Happiness: 251  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Sassy Nature  
 IVs: 0 Spe  
@@ -13577,7 +13683,8 @@ IVs: 0 Spe
 
 Arceus @ Chilan Berry  
 Ability: omnipotent  
-EVs: 4 HP / 252 Atk / 252 Spe  
+Happiness: 251  
+EVs: 4 HP / 164 Atk / 88 SpD / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
 - glacialstrike  
@@ -13589,6 +13696,7 @@ Jolly Nature
 
 Weavile @ Choice Scarf  
 Ability: Klutz  
+Happiness: 250  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Beat Up  
@@ -13598,6 +13706,7 @@ Jolly Nature
 
 Kyogre @ Rose Incense  
 Ability: Drizzle  
+Happiness: 253  
 EVs: 252 HP / 252 Def / 4 SpA  
 Timid Nature  
 IVs: 0 Atk  
@@ -13617,6 +13726,7 @@ Hasty Nature
 
 Azumarill @ Bright Powder  
 Ability: Huge Power  
+Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Play Rough  
@@ -13626,6 +13736,7 @@ Jolly Nature
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
+Happiness: 251  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Sassy Nature  
 IVs: 0 Spe  
@@ -13636,6 +13747,7 @@ IVs: 0 Spe
 
 Phione @ Choice Scarf  
 Ability: Drizzle  
+Happiness: 248  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Surf  
@@ -13649,6 +13761,7 @@ Timid Nature
 Lilligant @ Flower Sweet  
 Ability: flowershield  
 Shiny: Yes  
+Happiness: 251  
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
 - Petal Dance  
@@ -13658,6 +13771,7 @@ Timid Nature
 
 Groudon @ Gold Bottle Cap  
 Ability: Drought  
+Happiness: 252  
 EVs: 116 HP / 252 Atk / 140 Spe  
 Adamant Nature  
 - Precipice Blades  
@@ -13667,6 +13781,7 @@ Adamant Nature
 
 Landorus-Therian @ Grass Memory  
 Ability: pacify  
+Happiness: 251  
 EVs: 252 HP / 252 Atk / 4 Spe  
 Adamant Nature  
 - Sandsear Storm  
@@ -13676,6 +13791,7 @@ Adamant Nature
 
 Volcanion @ Flame Orb  
 Ability: Drought  
+Happiness: 251  
 EVs: 252 HP / 4 SpA / 252 SpD  
 Calm Nature  
 - Steam Eruption  
@@ -13685,6 +13801,7 @@ Calm Nature
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
+Happiness: 251  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Sassy Nature  
 IVs: 0 Spe  
@@ -13707,6 +13824,7 @@ Timid Nature
 
 Lunala @ Chipped Pot  
 Ability: fullmoon  
+Happiness: 251  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - purifyingwater  
@@ -13716,6 +13834,7 @@ Timid Nature
 
 Meowth (M) @ Dubious Disc  
 Ability: goldentouch  
+Happiness: 250  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Fury Swipes  
@@ -13726,6 +13845,7 @@ Jolly Nature
 Victreebel (M) @ Lax Incense  
 Ability: hopesprout  
 Shiny: Yes  
+Happiness: 253  
 EVs: 252 HP / 252 SpA / 4 SpD  
 Quiet Nature  
 IVs: 0 Atk  
@@ -13736,7 +13856,8 @@ IVs: 0 Atk
 
 Arceus @ Chilan Berry  
 Ability: omnipotent  
-EVs: 4 HP / 252 Atk / 252 Spe  
+Happiness: 254  
+EVs: 4 HP / 164 Atk / 88 SpD / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
 - glacialstrike  
@@ -13754,6 +13875,7 @@ Naive Nature
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
+Happiness: 251  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Sassy Nature  
 IVs: 0 Spe  
@@ -13767,6 +13889,7 @@ IVs: 0 Spe
 
 Dialga @ Ability Shield  
 Ability: Regenerator  
+Happiness: 253  
 EVs: 252 Atk / 116 SpA / 140 Spe  
 Naughty Nature  
 - Dragon Pulse  
@@ -13777,6 +13900,7 @@ Naughty Nature
 Golurk @ Cell Battery  
 Ability: Klutz  
 Shiny: Yes  
+Happiness: 253  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - bladesofenlightenment  
@@ -13787,6 +13911,7 @@ Jolly Nature
 Infernape (M) @ Flame Orb  
 Ability: Protean  
 Shiny: Yes  
+Happiness: 250  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - berserkblaze  
@@ -13796,6 +13921,7 @@ Jolly Nature
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
+Happiness: 251  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Sassy Nature  
 IVs: 0 Spe  
@@ -13815,6 +13941,7 @@ Timid Nature
 
 Gliscor (M) @ Ice Memory  
 Ability: Poison Heal  
+Happiness: 251  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Careful Nature  
 - Earthquake  
@@ -13827,7 +13954,8 @@ Careful Nature
 
 Arceus @ Chilan Berry  
 Ability: omnipotent  
-EVs: 4 HP / 252 Atk / 252 Spe  
+Happiness: 254  
+EVs: 4 HP / 164 Atk / 88 SpD / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
 - glacialstrike  
@@ -13836,6 +13964,7 @@ Jolly Nature
 
 Eternatus @ Dragon Memory  
 Ability: spacepower  
+Happiness: 253  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
 IVs: 0 Atk  
@@ -13846,6 +13975,7 @@ IVs: 0 Atk
 
 Palkia @ Choice Scarf  
 Ability: dracolate  
+Happiness: 250  
 EVs: 108 SpA / 148 SpD / 252 Spe  
 Modest Nature  
 - royalsubmersion  
@@ -13855,6 +13985,7 @@ Modest Nature
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
+Happiness: 251  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Sassy Nature  
 IVs: 0 Spe  
@@ -13865,6 +13996,7 @@ IVs: 0 Spe
 
 Celesteela @ Metal Coat  
 Ability: Filter  
+Happiness: 251  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Sassy Nature  
 IVs: 0 Spe  
@@ -13876,6 +14008,7 @@ IVs: 0 Spe
 Meloetta @ Throat Spray  
 Ability: ensemble  
 Shiny: Yes  
+Happiness: 254  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Hyper Voice  
@@ -13889,7 +14022,8 @@ Timid Nature
 Arceus-Ground @ Earth Plate  
 Ability: Multitype  
 Shiny: Yes  
-EVs: 252 Atk / 4 SpD / 252 Spe  
+Happiness: 250  
+EVs: 4 HP / 164 Atk / 88 SpD / 252 Spe  
 Jolly Nature  
 - Multi-Attack  
 - glacialstrike  
@@ -13898,6 +14032,7 @@ Jolly Nature
 
 Weavile (M) @ Choice Scarf  
 Ability: Klutz  
+Happiness: 250  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Beat Up  
@@ -13907,6 +14042,7 @@ Jolly Nature
 
 Zacian-Crowned @ Metal Coat  
 Ability: Intrepid Sword  
+Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Smart Strike  
@@ -13916,6 +14052,7 @@ Jolly Nature
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
+Happiness: 251  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Sassy Nature  
 IVs: 0 Spe  
@@ -13935,6 +14072,7 @@ Timid Nature
 
 Groudon @ Fire Memory  
 Ability: Drought  
+Happiness: 251  
 EVs: 116 HP / 252 Atk / 140 Spe  
 Adamant Nature  
 - Precipice Blades  
@@ -13947,6 +14085,7 @@ Adamant Nature
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
+Happiness: 251  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Sassy Nature  
 IVs: 0 Spe  
@@ -13957,7 +14096,8 @@ IVs: 0 Spe
 
 Arceus @ Chilan Berry  
 Ability: omnipotent  
-EVs: 252 Atk / 4 SpD / 252 Spe  
+Happiness: 254  
+EVs: 4 HP / 164 Atk / 88 SpD / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
 - Earthquake  
@@ -13966,6 +14106,7 @@ Jolly Nature
 
 Palkia @ Choice Scarf  
 Ability: dracolate  
+Happiness: 250  
 EVs: 108 SpA / 148 SpD / 252 Spe  
 Modest Nature  
 - royalsubmersion  
@@ -13975,6 +14116,7 @@ Modest Nature
 
 Landorus-Therian @ Assault Vest  
 Ability: pacify  
+Happiness: 251  
 EVs: 4 HP / 252 SpD / 252 Spe  
 Calm Nature  
 - Sandsear Storm  
@@ -13984,6 +14126,7 @@ Calm Nature
 
 Eternatus @ Dragon Memory  
 Ability: spacepower  
+Happiness: 251  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
 IVs: 0 Atk  
@@ -13995,6 +14138,7 @@ IVs: 0 Atk
 Porygon-Z @ Ability Shield  
 Ability: formatdrive  
 Shiny: Yes  
+Happiness: 250  
 EVs: 116 Atk / 164 SpD / 228 Spe  
 Adamant Nature  
 - enigmacharge  
@@ -14007,6 +14151,7 @@ Adamant Nature
 
 Zacian-Crowned @ Metal Coat  
 Ability: Intrepid Sword  
+Happiness: 250  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Sacred Sword  
@@ -14016,6 +14161,7 @@ Jolly Nature
 
 Landorus-Therian @ Assault Vest  
 Ability: inveigle  
+Happiness: 251  
 EVs: 4 HP / 252 SpD / 252 Spe  
 Calm Nature  
 - Sandsear Storm  
@@ -14035,6 +14181,7 @@ IVs: 0 Atk
 
 Urshifu (M) @ Bright Powder  
 Ability: Unseen Fist  
+Happiness: 250  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Wicked Blow  
@@ -14044,6 +14191,7 @@ Jolly Nature
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
+Happiness: 251  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Sassy Nature  
 IVs: 0 Spe  
@@ -14067,6 +14215,7 @@ Timid Nature
 Mew @ Dubious Disc  
 Ability: Protean  
 Shiny: Yes  
+Happiness: 250  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - royalpunishment  
@@ -14077,6 +14226,7 @@ Jolly Nature
 Lilligant @ Flower Sweet  
 Ability: flowershield  
 Shiny: Yes  
+Happiness: 251  
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
 - Petal Dance  
@@ -14087,6 +14237,7 @@ Timid Nature
 Golurk @ Cell Battery  
 Ability: Klutz  
 Shiny: Yes  
+Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - bladesofenlightenment  
@@ -14096,6 +14247,7 @@ Jolly Nature
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
+Happiness: 251  
 EVs: 152 HP / 4 Atk / 240 Def / 112 SpD  
 Sassy Nature  
 IVs: 0 Spe  
@@ -14106,7 +14258,8 @@ IVs: 0 Spe
 
 Arceus @ Chilan Berry  
 Ability: omnipotent  
-EVs: 252 Atk / 4 SpD / 252 Spe  
+Happiness: 254  
+EVs: 4 HP / 164 Atk / 88 SpD / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
 - Earthquake  
@@ -14128,6 +14281,7 @@ IVs: 0 Atk
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
+Happiness: 251  
 EVs: 152 HP / 4 Atk / 240 Def / 112 SpD  
 Sassy Nature  
 IVs: 0 Spe  
@@ -14139,6 +14293,7 @@ IVs: 0 Spe
 Amoonguss (M) @ Ice Memory  
 Ability: Regenerator  
 Shiny: Yes  
+Happiness: 253  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - Spore  
@@ -14148,15 +14303,17 @@ Calm Nature
 
 Arceus @ Chilan Berry  
 Ability: omnipotent  
-EVs: 252 Atk / 4 SpD / 252 Spe  
+Happiness: 254  
+EVs: 4 HP / 164 Atk / 88 SpD / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
 - Earthquake  
 - Rock Wrecker  
 - heavendance  
 
-Arcanine-Hisui @ Flame Orb  
+Arcanine-Hisui (M) @ Flame Orb  
 Ability: empyreanblaze  
+Happiness: 250  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Sacred Fire  
@@ -14175,6 +14332,7 @@ Timid Nature
 
 Greninja-Ash @ Choice Scarf  
 Ability: Battle Bond  
+Happiness: 251  
 EVs: 128 Atk / 128 SpA / 252 Spe  
 Naive Nature  
 - Water Sport  
@@ -14188,6 +14346,7 @@ Naive Nature
 Regigigas @ Choice Scarf  
 Ability: Guts  
 Shiny: Yes  
+Happiness: 254  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Adamant Nature  
 - Facade  
@@ -14198,6 +14357,7 @@ Adamant Nature
 Rayquaza @ Fairy Memory  
 Ability: dragonheart  
 Shiny: Yes  
+Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - memoryblast  
@@ -14207,6 +14367,7 @@ Jolly Nature
 
 Urshifu (M) @ Bright Powder  
 Ability: Unseen Fist  
+Happiness: 250  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Wicked Blow  
@@ -14227,6 +14388,7 @@ IVs: 0 Atk
 Amoonguss (M) @ Sweet Apple  
 Ability: Regenerator  
 Shiny: Yes  
+Happiness: 253  
 EVs: 252 HP / 252 Def / 4 Spe  
 Bold Nature  
 - Spore  
@@ -14236,6 +14398,7 @@ Bold Nature
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
+Happiness: 251  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Sassy Nature  
 IVs: 0 Spe  

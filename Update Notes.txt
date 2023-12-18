@@ -1,5 +1,59 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v1.8.1
+Mechanics
+- Overdrive
+	- New Mechanic
+	- Effect: Pokemon are able to draw forth an incredible power, depending on their Happiness Stat; Refer to the Custom Changelog Compilation for further details
+	- Overdrive Display: Player's will have their Overdrives displayed at the beginning of each match; This display is only visible for each Player's own Team
+- Speed and Turn Order
+	- Speed and Turn Order are now calculated dynamically
+
+Terminology, and Introduction to the Weather-Interactive Move Changes
+- Intrinsic Power (IP): The "Default" Base Power or Damage that a Move has before considering the effects of Weather or Field Conditions (e.g. Poke-A's "Fire Move" deals 90 Damage to Poke-B)
+- Extrinsic Power (EP): The Modifier to a Move's Base Power or Damage, as the result of external circumstances, such as Weather, or Field Conditions (e.g. "Fire Move" deals halved damage to Poke-B under Rain, reducing it to 45)
+- Net Power (NP): The result of the Intrinsic Power and the Extrinsic Power
+	- Example A: Under ordinary circumstances, with no external conditions, the EP will be void, which will be represented here as a multiplier of 1, for convenience. Therefore, Fire Move A would deal (90 * 1) Damage with no extrinsic modifiers
+	- Example B: With the adverse effects of Rain, which halves the power of Fire-Type Moves, the calculation would change to (90 * 0.5), or 45.
+	- Example C: If the Pokemon has an Intrinsic Property that doubles the Damage of the Move when under Rain, the calculation would change to ((90 * 2) * 0.5), for a result of (180 * 0.5), or 90.
+		- However, if a Pokemon had an Ability or Item that allowed it to bypass the mitigating effects of Weather, while still possessing this Intrinsic Multiplier, the move's Net Power (NP) would become doubled, rather than merely counteracting the Weather. For this reason, the changes to the Weather-Interacting Moves were necessary
+
+Weather
+- Now supports special Extrinsic Power reduction, and Universal Weather "EP" boosts and reductions, respectively
+
+Abilities
+- Poison Heal
+	- Memory-Interactive Poison Activation: Upon Switching-In -> Upon Switching-In, and during any moment that the Pokemon is not Poisoned or Intoxicated
+- Power of Alchemy
+	- Additional Effect: Opposing Psychic-Type Moves from Choice-Locked Pokemon have x0.67 Base Power
+
+Items
+- Shiny Stone
+	- Now subject to Attrition: Subsequent uses will only prevent V-Create from dropping the user's stats, but will not impart any boosts
+
+Moves
+- Bleakwind Storm
+	- Power Boost: Intrinsic -> Extrinsic
+- Chilling Water
+	- Power Boost: Intrinsic -> Extrinsic
+- Electro Strike
+	- Power Boost: Intrinsic -> Extrinsic
+- Inferno Beam
+	- Rain Interactions: Doubled "IP" under Rain -> Unaffected "EP" under Rain
+- Psychic Quake
+	- Power Boost: Intrinsic -> Extrinsic
+- Psychic Storm
+	- Power Boost: Intrinsic -> Extrinsic
+- Psycho Fire
+	- Power Boost: Intrinsic -> Extrinsic
+- Sandsear Storm
+	- Power Boost: Intrinsic -> Extrinsic
+- Thermal Press
+	- Power Boost: Intrinsic -> Extrinsic
+- Wildbolt Storm
+	- Rain Power Boost: Intrinsic -> Extrinsic*
+		- The Tailwind Boost cannot be stacked with the Rain Boost, and remains as an Intrinsic Boost
+
 Pokemon Memories v1.8.0
 Abilities
 - Battle Bond
