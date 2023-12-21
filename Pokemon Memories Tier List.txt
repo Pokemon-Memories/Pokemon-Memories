@@ -21,7 +21,7 @@ Section C
 	• Viability Rankings
 	• History of the Format
 
-(178 Total)
+(179 Total)
 						      Section A    
 						    Standard Ubers
 						      Highlights
@@ -119,33 +119,33 @@ Note: Pokemon beneath the A-Tier, are listed alphabetically; Pokemon in the lowe
 
 Viability Rankings
 
-S-Tier (7 Total)
+S-Tier (9 Total)
 
 S+
 Mewtwo
 Arcanine-Hisui
-Arceus (S; Omnipotent + Chilan Berry)
+Eternatus (A-; Dragon Memory/Any Memory)
 
 S
-Muk-Alola
+Arceus (S; Omnipotent + Chilan Berry)
 Landorus-Therian
 
 S-
+Muk-Alola
 Gliscor (A-; Ice Memory)
+Calyrex-Shadow
 Meowth (A; Dubious Disc)
 
 
-A-Tier (39 Total)
+A-Tier (37 Total)
 
 A+
 Zacian-Crowned
-Eternatus (A-; Dragon Memory/Any Memory)
 Groudon (A+; Fire Memory/Gold Bottle Cap/Room Service)
 Cresselia
 Urshifu-S (A; Ghost Memory)
 Victreebel
 Azumarill
-Calyrex-Shadow
 Kyogre
 Arceus-Grass
 Arceus-Ground
@@ -187,13 +187,14 @@ Entei
 Mew (C+; Dubious Disc)
 
 
-B-Tier (70 Total)
+B-Tier (71 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
 Arceus-Electric
 Arceus-Flying
 Arceus-Ghost
+Decidueye
 Empoleon
 Genesect
 Giratina
@@ -295,8 +296,8 @@ Snorlax
 Victini
 
 C
-Decidueye
 Dracozolt
+Glaceon
 Leafeon
 Naganadel
 Regidrago

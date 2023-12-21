@@ -1,5 +1,196 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v1.8.2
+General
+- Aliases
+	- Arcanine: "arca", "canine"
+	- Arcanine-Hisui: "arcah", "archi", "arcahi", "ahi"
+	- Muk-Alola: "muka", "mukalo", "mukk", "mak", "amuk", "amok"
+- Animations
+	- The following Moves have received Animations: Celestial Strike, Calamity Wing, Dark Abyss, Glacial Strike, Healing Feather, Icicle Barrage, Memory Blast, Psycho Darts, Psycho Fire, Psychic Storm, Shadow Flame, Subzero Freeze
+- Features
+	- Introducing "Lookup"-Tiers: These are "unplayable" Tiers corresponding to the subsequent Generations. Since the Simulator will not display the Stats or Learnsets of a Pokemon from a subsequent Generation, this feature allows players to quickly discover a Pokemon's Movepool with greater convenience
+	- Note: Pokemon will generally possess the Movepool corresponding to the Generation they were released in, meaning a Pokemon released in one Generation may not necessarily possess the new moves they have learned in subsequent Generation
+
+Mechanics
+- Mega Evolutions
+	- Mega Evolution now happens instantly for a Pokemon holding a Mega Stone
+	- Mega Evolution Limit Removed
+- Memorization
+	- Memory-Interactive Abilities
+		- Misty Blessing
+			- Memory Effect: Pokemon restores 1/10 of their Max Hp at the end of each turn
+- Overdrive
+	-  Gift Collector
+		- Ability Exceptions: Hightened Mind
+	- Impact Absorber
+		- Damage Reduction: x0.67 -> x0.5
+
+Abilities
+- Below Freezing
+	- Effect: Pokemon's Ice-Type Moves have x1.3 Base Power
+- Empyrean Blaze
+	- Grass-Type Interaction: Resisted -> Neutral
+	- Steel-Type Interaction: Resisted -> Neutral
+- Dragon Power
+	- Additional Effect: Pokemon receives minimal damage from Stealth Rock
+- Hightened Mind
+	- Corrected an oversight where refreshing the Pokemon's Item after reaching this Ability's K.O. limit would allow the Ability to remain active indefinitely unless the user switched out. If the user refreshes this Ability without having first switched out, it will allow the Pokemon to K.O. one more opponent before resetting (Two, if the first K.O. happens on the turn of this Ability's Reactivation)
+- Power Construct
+	- Now always restores 1/2 of the Pokemon's Max Hp upon activating
+- Power of Alchemy
+	- No longer reduces the power of Choice-Locked Psychic-Type Moves
+- Snow Cloak
+	- Effect: x1.25 Evasiveness under Hail -> Pokemon's Moves have an additional 15% Chance to freeze the opponent
+- Unseen Fist
+	- Power Boost against Non-Choice Locked Boosted Opponents: x2 -> x1.5
+	- Updated to successful target Choice-Locking Abilities, such as Gorilla Tactics
+
+Items
+- Cover Fossil
+	- Functionality removed
+- Shiny Stone
+	- Attrition Removed
+
+Moves
+- Battle Cry
+	- Duration: __ -> 3-Turns
+- Calamity Wing
+	- Implemented
+		- Base Power: __
+		- Accuracy: __
+		- Category: Status
+		- Priority: -4
+		- PP: 5
+		- Effect: The opponent is forced to switch to a random ally; The Pokemon switching in loses health equal to 1/4 of the user's Max Hp
+		- Contact: No
+		- Type: Water
+		- Users: Lugia
+- Covert Switch
+	- Secondary Effect: 20% Poison Chance -> 30% Chance to lower the opposing Pokemon's SpD by 1 Stage.
+- Dark Abyss
+	- Implemented
+		- Base Power: 180
+		- Accuracy: 100
+		- Category: Special
+		- Contact: No
+		- Effect: Hits Dark-Types Neutrally; x1.5 Base Power against sleeping opponents
+		- Priority: 0
+		- PP: 5
+		- Type: Dark
+		- Users: Darkrai
+- Healing Feather
+	- Implemented
+		- Base Power: __
+		- Accuracy: __
+		- Category: Status
+		- Priority: -4
+		- PP: 5
+		- Effect: User switches out and restores the following Pokemon by 1/4 of the user's Max Hp.
+		- Contact: No
+		- Type: Fire
+		- Users: Ho-Oh
+- Icicle Barrage
+	- Implemented
+		- Base Power: 20
+		- Accuracy: 100
+		- Category: Special
+		- Contact: No
+		- Effect: This move will hit the opponent 2-3 times
+		- Priority: 1
+		- PP: 5
+		- Type: Ice
+		- Users: Glaceon
+- Spirit Shackle
+	- Base Power: 130 -> 140
+- Subzero Freeze
+	- Implemented
+		- Base Power: 100
+		- Accuracy: 100
+		- Category: Physical
+		- Contact: Yes
+		- Effect: Almost always moves first
+		- Priority: 2
+		- PP: 5
+		- Type: Ice
+		- Users: Sandslash-Alola
+
+Pokemon
+- Arceus
+	- Base Forme
+		- Learnset Additions
+			- Meteor Beam
+	- Arceus-Fairy
+		- Base Stats
+			- Atk: 257 -> 250
+			- Spe: 173 -> 180
+	- Arceus-Ghost
+		- Base Stats
+			- Atk: 280 -> 300
+			- SpA: 320 -> 300
+			- SpD: 300 -> 260
+			- Spe: 160 -> 180
+- Darkrai
+	- Learnset Additions
+		- Agility
+		- Aura Sphere
+		- Dark Abyss
+- Decidueye
+	- Base Stats
+		- SpA: 233 -> 163
+		- Spe: 104 -> 174
+	- Learnset Additions
+		- Bullet Seed
+		- Covert Switch
+		- Leaf Switch
+		- Turbine Turn
+		- U-Turn
+- Glaceon
+	- Base Stats
+		- Hp: 165 -> 225
+		- Atk: 62 -> 2
+	- Learnset Additions
+		- Icicle Barrage
+		- Royal Snowstorm
+		- Slush Switch
+		- Stealth Rock
+		- Withdraw
+- Ho-Oh
+	- Learnset Additions
+		- Healing Feather
+- Kyurem
+	- Learnset Additions
+		- Raging Fury
+- Lugia
+	- Base Stats
+		- Hp: 226 -> 236
+		- Atk: 215 -> 205
+	- Learnset Additions
+		- Calamity Wing
+		- Royal Submersion
+- Sandslash Alola
+	- Implemented
+	- Added Ability: Below Freezing
+	- Base Stats
+		- Hp: 75 -> 155
+		- Atk: 100 -> 270
+		- Def: 120 -> 220
+		- SpA: 25 -> 189
+		- SpD: 65 -> 165
+		- Spe: 65 -> 170
+		- BST: 450 -> 1169
+	- Learnset Additions
+		- Battle Cry
+		- Bullet Switch
+		- Slush Switch
+		- Strange Wave
+		- Subzero Freeze
+	- Learnset Removals
+		- Swords Dance
+- Tapu Fini
+	- Learnset Additions
+		- Purifying Water
+
 Pokemon Memories v1.8.1
 Mechanics
 - Overdrive
