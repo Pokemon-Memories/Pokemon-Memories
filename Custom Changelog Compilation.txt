@@ -10046,8 +10046,8 @@ Fatigue
 Effect: Disables Status Moves, and prevents them from being used
 --
 Freeze
-Effect: Disables Pokemon -> 50% thaw rate each turn; Automatically unthaws in Sunlight -> x0.5 Atk/SpA and x0.1 Spe.
-Secondary Effect: Opposing Fire-Type moves deal half damage when Frozen.
+Effect: Disables Pokemon -> 50% thaw rate each turn; Automatically unthaws in Sunlight -> x0.5 Atk/SpA and x0.5 Spe.
+Secondary Effect: Opposing Fire-Type moves deal 1/4 their usual damage when Frozen.
 
 Permafrost Effect: If Frozen, Pokemon will not thaw as long as Hail is active, even if the Pokemon is hit by a Fire-Type move, or uses a move that would ordinarily thaw it. Pokemon will still thaw when exposed to Sunlight
 
