@@ -14742,7 +14742,7 @@ Naive Nature
 === [gen6ubers] Bulky Offense (Eternatus, Dragon) ===
 
 Lugia @ White Herb  
-Ability: Multiscale  
+Ability: deepsea  
 Happiness: 251  
 EVs: 252 HP / 4 SpA / 252 SpD  
 Calm Nature  
@@ -14805,17 +14805,17 @@ Timid Nature
 - psychodarts  
 
 
-=== [gen6ubers] Stalling for Our Lives (Glaceon, Grass) ===
+=== [gen6ubers] Stalling for Our Lives (✗) ===
 
-Arceus @ Chilan Berry  
-Ability: omnipotent  
-Happiness: 254  
-EVs: 4 HP / 164 Atk / 88 SpD / 252 Spe  
-Jolly Nature  
-- Extreme Speed  
-- Earthquake  
-- Rock Wrecker  
-- heavendance  
+Landorus-Therian @ Assault Vest  
+Ability: inveigle  
+Happiness: 251  
+EVs: 4 HP / 252 SpD / 252 Spe  
+Calm Nature  
+- Sandsear Storm  
+- Aeroblast  
+- expressheal  
+- turbineturn  
 
 Cresselia @ Snowball  
 Ability: Regenerator  

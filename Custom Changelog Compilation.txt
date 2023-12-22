@@ -14612,6 +14612,7 @@ Category: Zygarde Exclusive Abilities
 --
 Power Construct
 Activation: At the end of turn -> Immediately after conditions are met
+Health Restoration: Current Health + Half of Zygarde-Complete's Max HP
 --
 Core Power (Unused)
 Effect: Transforms and completely restores Zygarde's Hp if it has 1/2 Max HP or less.

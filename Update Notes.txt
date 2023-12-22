@@ -37,7 +37,7 @@ Abilities
 - Hightened Mind
 	- Corrected an oversight where refreshing the Pokemon's Item after reaching this Ability's K.O. limit would allow the Ability to remain active indefinitely unless the user switched out. If the user refreshes this Ability without having first switched out, it will allow the Pokemon to K.O. one more opponent before resetting (Two, if the first K.O. happens on the turn of this Ability's Reactivation)
 - Power Construct
-	- Now always restores 1/2 of the Pokemon's Max Hp upon activating
+	- New Health Restoration Formula: Current Health + Half of Zygarde-Complete's Health
 - Power of Alchemy
 	- No longer reduces the power of Choice-Locked Psychic-Type Moves
 - Snow Cloak
