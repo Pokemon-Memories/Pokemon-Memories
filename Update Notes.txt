@@ -115,6 +115,11 @@ Moves
 		- Type: Ice
 		- Users: Sandslash-Alola
 
+Statuses
+- Freeze
+	- Corrected an error where the game would crash if a Frozen Pokemon was hit by a thawing move under certain circumstances
+	- Speed Reduction: x0.1 -> x0.5
+
 Pokemon
 - Arceus
 	- Base Forme
