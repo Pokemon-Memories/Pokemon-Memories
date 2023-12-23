@@ -1,5 +1,44 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v1.8.3
+General
+- Animations
+	- The following moves have received Animations: Aqua Charge, Ascending Power, Blades of Enlightenment, Blazing Velocity, Cosmic Starfall, Earthen Song, Express Heal, Heaven Dance, Infinite Velocity, Nature's Voice, Pillars of Enlightenment, Rising Power, Royal Eruption, Royal Forestation, Royal Nourishment, Royal Punishment, Royal Rampage, Royal Retreat, Royal Snowstorm, Royal Submersion, Royal Turbulence, Shed Spore
+	- The following moves have updated Animations: Celestial Strike, Glacial Strike
+- Miscellaneous
+	- The Setup Trapping Status no longer has a timer, and is now deactivated through other Volatile Statuses; This Status no longer clears stats on its own upon concluding, as this function is now determined in the Volatile Statuses that often accompany it
+Mechanics
+- Memorization
+	- Memory-Interactive Abilities
+		- Space Power
+			- Stat Multiplier for Atk and SpA: x1.5 -> x1.3 (The other stats are unaffected)
+- Overdrive
+	- Soft Healer
+		- Implemented
+		- Num: 247
+		- Overdrive: Restores 1/2 of the Pokemon's Max Hp, without curing their Status Conditions
+	- Emergency Runner
+		- Implemented
+		- Num: 246
+		- Overdrive: Automatically switches the Pokemon to into an ally of their choice as soon as possible
+	- Escape Planner
+		- Implemented
+		- Num: 245
+		- Overdrive: Automatically switches the Pokemon to a chosen ally after successfully using a Move.
+
+Abilities
+- Rivalry
+	- Now ignores the power-mitigating effects of Freeze
+
+Moves
+- Autotomize
+	- Now prevents Pokemon from switching out until the move has concluded
+
+Pokemon
+- Empoleon
+	- Learnset Additions
+		- Royal Retreat
+
 Pokemon Memories v1.8.2
 General
 - Aliases

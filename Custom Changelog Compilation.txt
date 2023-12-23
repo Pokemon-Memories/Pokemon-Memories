@@ -3329,6 +3329,7 @@ Mystery Sphere
 Poison Jab
 Recover
 Roost
+Royal Retreat
 Shatter Bolt
 Shatter Fist
 Shatter Reign
@@ -9646,10 +9647,22 @@ Special Mechanic: Overdrive
 Mechanics
 Every Pokemon has the option to Overdrive. When a Pokemon uses the Overdrive Mechanic, they receive a Special Effect depending on their Happiness Stat
 
-List of Overdrives   
+List of Overdrives 
+Escape Planner
+Effect: Automatically switches the Pokemon to a chosen ally after successfully using a Move.
+Range: 245 and below
+
+Emergency Runner
+Effect: Automatically switches the Pokemon to into an ally of their choice as soon as possible
+Range: 246
+
+Soft Healer
+Effect: Restores 1/2 of the Pokemon's Max Hp, without curing their Status Conditions
+Range: 247
+
 Trash Disposer
 Effect: Pokemon immediately discards their held Item if possible
-Range: 248 and below
+Range: 248
 
 Crisis Manager
 Effect: Pokemon loses half of its current Hp. This effect will not activate if the Pokemon only has 1 HP Remaining
@@ -9864,7 +9877,7 @@ Shield Power
 Memory Effect: (Porygon-2): Multiplies Def and SpD by x1.5 each.
 --
 Space Power   
-Effect: Pokemon receives a x1.5 Stat Multiplier depending on its Positive Nature; Pokemon will receive its Speed Multiplier after successfully causing the opposing Pokemon to faint with an Attacking Move; If a neutral Nature is selected, the Pokemon will restore 1/8 of its Max Hp at the end of each turn.
+Effect: Pokemon receives a Stat Multiplier depending on its Positive Nature (x1.3 for Atk and SpA; x1.5 for Def, SpD, and Spe); Pokemon will receive its Speed Multiplier after successfully causing the opposing Pokemon to faint with an Attacking Move; If a neutral Nature is selected, the Pokemon will restore 1/8 of its Max Hp at the end of each turn.
 --
 Spectral Force
 Effect: 30% Power Bonus granted to Ghost-Type moves, will only be active if the Pokemon does not have any positive stat boosts, in the stat they are attacking in. This condition does not apply to Pokemon that naturally have Spectral Force as their Ability
@@ -10532,7 +10545,7 @@ Priority: 0 -> -5
 --
 Autotomize
 Speed Boost: +2 -> +4
-Effect: Sharply Raises Speed Stat -> Raises Speed Stat by 4 Stages; All of the Pokemon's stats are cleared 4 Turns after this move is used. Once the user's stats are reset, they will not be able to reuse this move, until switching back in. Stat Boosts will not clear if Light That Burns the Sky's Stat Boosts are active
+Effect: Sharply Raises Speed Stat -> Raises Speed Stat by 4 Stages; All of the Pokemon's stats are cleared 4 Turns after this move is used. Once the user's stats are reset, they will not be able to reuse this move, until switching back in. Stat Boosts will not clear if Light That Burns the Sky's Stat Boosts are active. Pokemon cannot switch out until this move has concluded
 PP: 15 -> 5
 --
 Avalanche
