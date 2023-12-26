@@ -1,5 +1,109 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v1.8.4
+General
+- Animations
+	- The following Moves have received Animations: Aqua Leap, Aqua Soul, Armor Press, Armor Smash, Aura Drain, Dimension Break, Enigma Beam, Enigma Cannon, Enigma Charge, Mystery Bind, Mystery Deluge, Mystery Drain, Mystery Slash, Mystery Speed, Mystery Sphere, Mystery Wave, Neuron Blade, Psychic Infinity, Psycho Drain, Purifying Water, Shield Dance, Vanishing Strike
+
+Formats
+- Limited Ubers
+	- Banlist Additions: Shield Dance
+- Ubers
+	- Banlist Additions: Shield Dance
+- Ultra Assist
+	- Banlist Additions: Shield Dance
+
+Memorization
+- Memory Abilities
+	- Perfect Form
+		- Now automatically boosts the power of Physical Scalar-Moves (See the Changelog Compilation for the list of affected moves)
+
+Abilities
+- Delta Stream
+	- Additional Effect: Rayquaza-Mega's Moves have x1.3 Base Power if it has any Positive Stat Boosts (This only applies to Mega Rayquaza)
+- Psychic Assault
+	- These moves will now receive a Power Boost: Psystrike; Scalar-Moves.
+Moves
+- 10,000,000 Volt Thunderbolt
+	- Can now be reused without needing to Switch Out, if Pikachu receives another Item
+- Armor Press
+	- Implemented
+		- Base Power: 100
+		- Accuracy: 120
+		- Category: Physical
+		- Contact: Yes
+		- Effect: Uses the Pokemon's Defense Stat in Damage Calculation
+		- Priority: 0
+		- PP: 10
+		- Type: Steel
+		- Users: Zamazenta
+- Armor Smash
+	- Implemented
+		- Base Power: __
+		- Accuracy: __
+		- Category: Status
+		- Contact: No
+		- Effect: Raises Pokemon's Atk and SpA by 1; Spe is raised by 2; Def and SpD drop by 1; Same properties, duration, restrictions, and penalties as Shell Smash
+		- Priority: 0
+		- PP: 5
+		- Type: Normal
+		- Users: Necrozma-Dusk-Mane
+- Aromatic Mist
+	- Prohibitions: Atk; SpA -> Atk; SpA; Spe
+- Eternabeam
+	- Base Power: 190 -> 170
+- Nature's Voice
+	- Additional Effect: Ignores the aspect of Power of Alchemy that halves the power of boosted Pokemon. This effect lasts until the Move ends, or the Pokemon switches out
+- Neuron Blade
+	- Implemented
+		- Base Power: 100
+		- Accuracy: 100
+		- Category: Physical
+		- Contact: Tactile (Receives the Benefits of being a Contact Move, without the Detriments)
+		- Effect: Usually moves first; Has a halved Base Power against Mega Mewtwo X
+		- Priority: 1
+		- PP: 5
+		- Type: Psychic
+		- Users: Deoxys (All Formes), Gallade, Mewtwo
+- Shell Smash
+	- Stat Boosts are no longer reduced when Memorizing
+- Shield Dance
+	- Implemented
+		- Base Power: __
+		- Accuracy: __
+		- Category: Status
+		- Contact: No
+		- Effect: Raises Pokemon's Def and Spe by 1, and restores 1/10 of the Pokemon's Max Hp. This move can only be used once per Switch-In
+		- Priority: 0
+		- PP: 20
+		- Type: Fighting
+		- Users: Zamazenta
+
+Pokemon
+- Jirachi
+	- Learnset Additions
+		- Ice Beam
+		- Parting Shot
+		- Sweet Retreat
+- Necrozma
+	- Dawn Wing
+		- Learnset Additions
+			- Autotomize
+			- Howl
+	- Dusk Mane
+		- Learnset
+		- Due to an oversight, Necrozma accidentally received Shell Smash, instead of Rental Charge. This issue has been corrected
+		- Armor Crash added to learnset
+- Tapu Fini
+	- Learnset Additions
+		- Aromatic Mist
+- Zamazenta
+	- Learnset
+		- Corrected an error where Zamazenta was unable to learn Dragon Breath, despite being intended to
+	- Learnset Reductions
+		- Agility
+		- Iron Defense
+
 Pokemon Memories v1.8.3
 General
 - Animations

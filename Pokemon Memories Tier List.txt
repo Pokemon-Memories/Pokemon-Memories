@@ -119,7 +119,7 @@ Note: Pokemon beneath the A-Tier, are listed alphabetically; Pokemon in the lowe
 
 Viability Rankings
 
-S-Tier (9 Total)
+S-Tier (6 Total)
 
 S+
 Mewtwo
@@ -127,77 +127,73 @@ Eternatus (A-; Dragon Memory/Any Memory)
 Arcanine-Hisui
 
 S
-Arceus (S; Omnipotent + Chilan Berry)
+Calyrex-Shadow
 Landorus-Therian
 
 S-
 Muk-Alola
-Gliscor (A-; Ice Memory)
-Calyrex-Shadow
-Meowth (A; Dubious Disc)
 
 
 A-Tier (39 Total)
 
 A+
+Lugia
+Sandslash-Alola
 Zacian-Crowned
+Arceus (S; Omnipotent + Chilan Berry)
 Groudon (A+; Fire Memory/Gold Bottle Cap/Room Service)
 Cresselia
 Urshifu-S (A; Ability Shield/Ghost Memory)
 Porygon-Z (A+; Ability Shield/Ice Memory)
+Gliscor (A-; Ice Memory)
 Azumarill
 Kyogre
 Arceus-Grass
 Arceus-Ground
-Lilligant
-Meloetta
-Meloetta-Pirouette
+Meowth (A; Dubious Disc)
 
 A
-Lugia
 Victreebel
-Palkia
-Amoonguss (A; Ice Memory)
-Tornadus
 Golurk
-Greninja-Ash
-Garchomp (A-; Ice Memory)
 Ho-Oh
+Arceus-Fairy
+Meloetta
+Meloetta-Pirouette
 Deoxys-Attack
 Calyrex-Ice
-Darkrai (A; Grass Memory)
+Zekrom
 Marshadow (A-; Fighting Memory)
 Necrozma-Dawn-Wings
 Arceus-Water
 
 A-
+Lilligant
+Greninja-Ash
+Palkia
 Dialga
-Zekrom (B+; Electric Memory)
 Rayquaza
-Yveltal
-Weavile
 Volcanion
 Lucario-Mega
 Klinklang
 Infernape
 Meowscarada
 Phione
-Arceus-Fairy
-Vaporeon
-Suicune (B+; Ice Memory)
 Entei
 Mew (C+; Dubious Disc)
 
 
-B-Tier (70 Total)
+B-Tier (77 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
+Amoonguss
 Arceus-Electric
 Arceus-Flying
 Arceus-Ghost
+Darkrai
 Decidueye
 Empoleon
+Garchomp
 Genesect
 Giratina
 Keldeo
@@ -209,16 +205,20 @@ Mimikyu
 Mimikyu-Busted
 Necrozma-Ultra
 Pikachu-Original
-Sandslash-Alola
 Shaymin-Sky
+Suicune
 Sunflora
 Swampert
 Tapu Fini
 Tapu Koko
 Thundurus
 Thundurus-Therian
+Tornadus
 Umbreon
+Vaporeon
+Weavile
 Xerneas
+Yveltal
 Zamazenta-Crowned
 Zarude
 Zygarde
@@ -673,9 +673,10 @@ Eternatus
 Hp: 250/Atk: 272/Def: 205/Spa: 305/Spd: 205/Spe: 163
 Common Items
 - Black Sludge
-- Earth Plate
-- Fist Plate
 - Prism Scale
+
+Common Memories
+- Dragon Memory
 
 Common Moves
 - Autotomize
@@ -691,13 +692,20 @@ Common Moves
 - Stealth Rock
 - Venoshock
 
+Common Overdrives
+- Emergency Runner
+- Escape Planner*
+- Impact Absorber
+- Super Healer
+
 Preferred Ability
 - Space Power
 
-Playstyle: Eternatus is best used as a "tank-and-run" Defensive Support Pokemon. Eternatus' prodigious bulk, and pivotal Resistances and Immunities allow it to handle several problematic Pokemon, and even deny opposing U-Turns, however its equally disastrous set of weaknesses prevent it from staying in for too long without endangering itself. Thus, Eternatus should prioritize absorbing the hits that it needs to, and acting in anticipation of the opponent's next move, only attacking when certain that the opponent will either stay in, or switch to a wall, and Sludge Switching out, otherwise. It is not recommended to use Eternatus as a hard-wall, or Support Lead
+Playstyle: Eternatus is best used as a "tank-and-run" Defensive Support Pokemon. Eternatus' prodigious bulk, and pivotal Resistances and Immunities allow it to handle several problematic Pokemon, and even deny opposing U-Turns, however its equally disastrous set of weaknesses prevent it from staying in for too long without endangering itself. Thus, Eternatus should prioritize absorbing the hits that it needs to, and acting in anticipation of the opponent's next move, only attacking when certain that the opponent will either stay in, or switch to a wall, and Sludge Switching out, otherwise. It is not recommended to use Eternatus as a hard-wall, or Support Lead. Memory Eternatus is very different from Non-Memorized Eternatus, in that its Ability: Space Power, allows it to receive a substantial Boost in whichever Stat Eternatus has a Positive Nature for. With a combination of the Dragon Memory, and a SpA-Boosting Nature: Eternatus can survive almost any neutral hit thrown its way, while retaliating with powerful moves that are capable of 2HKO'ing--or even OHKO'ing the near-entirety of the Meta. Regular Eternatus can use Super Healer or Impact Absorber to increase its longevity, while Dragon Memory Eternatus will also want to consider Emergency Runner or Escape Planner, if it is being used to sweep with Autotomize
 
 Eternatus @ Black Sludge  
 Ability: Space Power  
+Happiness: 251 (Super Healer)
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
 - Venoshock
@@ -708,18 +716,16 @@ Timid Nature
 Strengths
 - Phenomenal, nigh-unrivaled 250/205/205 Bulk, which allows it to check some Pokemon through bulk alone
 - Multiple notable resistances, including Electric, Fire, Grass, Poison, and Water
-- These resistances allow it to check Pokemon like Entei, and counter Tapu Koko, Bellsprout, and Kyogre
-- Extensive utility movepool; Can set Hazards, and clear them with a STAB Dragon Breath, with also intoxicates the opponent, allowing it to break down walls, while also potentially leaving the opponents vulnerable to Venoshock; Can also pivot out with Sludge Wave
+- Extensive utility movepool; Can set Hazards, and clear them with a STAB Dragon Breath, which also intoxicates the opponent, allowing it to break down walls, while also potentially leaving the opponents vulnerable to Venoshock; Can also pivot out with Sludge Wave
 - Slightly above average Base 163 Speed, which allows it to outspeed other support Pokemon, such as Ho-Oh, or Cresselia
 - Amazing longevity, due to Black Sludge; Can potentially outpace the damage it sustains, allowing it to serve as a wall
 - Immunity to Paralysis Damage, due to Space Power
 - Decent offensive potential
 - Space Power allows its Damaging-Moves to bypass opposing Abilities
-- Can one-shot Kyogre with Venoshock, and can plow through most Waters with Venom Drench
 - One of the best Prism Scale abusers in the game, due to Draco Meteor being a STAB move, and having the bulk to set up
 - Has access to Autotomize, allowing it to outspeed the entire Metagame after a single turn of setup
-- Decent Coverage; Meteor Beam hits Ho-Oh, while Shadow Ball can hit Pokemon such as Calyrex-Shadow, or Lunala
-- Has access to Magma Storm, which allows it to potentially pick opposing Pokemon off, whilst hitting Steel-Types hard
+- Decent Coverage; Meteor Beam hits Ho-Oh, while Shadow Ball can hit Pokemon such as Calyrex-Shadow
+- Has access to Magma Storm, which allows it to potentially pick opposing Pokemon off, whilst hitting Steel-Types and Ice-Types hard
 
 Weaknesses
 - Mewtwo; Eternatus' Poison-Typing makes it a prime target for Mewtwo, which is singlehandedly responsible for its dubious viability
@@ -735,52 +741,77 @@ Weaknesses
 Offensive
 Eternatus @ Black Sludge  
 Ability: Space Power  
+Happiness: 246 (Emergency Runner) 
 EVs: 252 HP / 252 SpA / 4 Spe  
 Modest Nature 
 - Eternabeam  
-- Venom Drench  
+- Venom Drench / Venoshock 
 - Shadow Ball  
 - Autotomize
 
 Strengths
-- Its massive Bulk, paired with its Black Sludge, allows it to survive a significant number of powerful moves, including Super-Effective STAB Moves from opposing unboosted Dialga
-- Autotomize's +4 Speed Boost allows it to outspeed nearly every Scarfer and Set-Up Pokemon, including Shell Smash Dialga
+- Its massive Bulk, paired with its Black Sludge, allows it to survive a significant number of powerful moves, including many powerful Super-Effective Moves
+- Autotomize's +4 Speed Boost allows it to outspeed nearly every Scarfer and Set-Up Pokemon, including Mons with +2 Speed
 - Can OHKO Calyrex-Shadow with Shadow Ball, and deal significant damage to Mewtwo with Eternabeam
-- Decimates opposing Vaporeon and Meowscarada with Venom Drench, and hits hard even when its uncharged
 - Due to Autotomize resetting the Pokemon's Stats upon completing, Eternatus can safely use Eternabeam toward the end of the move's duration and reset the Defensive drops, allowing it to perform better against the opponent's next Pokemon
 
 Weaknesses
-- Cannot OHKO Dialga under normal circumstances, forces Eternatus to play cautiously to ensure it tanks Dialga's response
-- Eternatus wants to run Magma Storm to hit Steels harder, however it needs all of its moves to function properly, and will struggle significantly in other areas should it choose to swap one of the recommended moves out
-- In addition to retaliatory attacks: Eternatus is most especially vulnerable to opposing Thunder Wave Dialga sets
-- Gets obliterated by the power of Mewtwo: Can potentially be K.O.'d before it has a chance to act, due to its Psychic-Weakness
+- Outclassed by its Dragon Memory Set in nearly every way
+- Generally lacks power compared to other attackers in the Tier
+- Its Poison-Typing leaves it vulnerable to threats such as Mewtwo, or mons with Ice or Ground Coverage
+
+Dragon Memory
+Eternatus @ Dragon Memory  
+Ability: Space Power  
+Happiness: 246 (Emergency Runner) / 251 (Super Healer) / 253 (Impact Absorber) / 245 (Escape Planner)
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- Eternabeam  
+- Venoshock  
+- Magma Storm  
+- Autotomize
+
+Strengths
+- Nearly unkillable: Capable of surviving a Stored Power from Mewtwo with room to spare, without investment
+- Overwhelming moves capable of OHKO'ing or 2HKO'ing nearly everything short of a dedicated check
+- Servicable Speed, even without a Speed-Boosting Nature, allowing it to decimate even decently fast Walls that don't invest
+- Nigh Eternal Life, due to the Dragon Memory's endowment of Regenerator
+- Can potentially set up for a sweep, using Autotomize
+
+Weaknesses
+- Exploitable Speed-Tier, due to its inability to wield its SpA Boost with a Positive-Speed Nature
+- Subject to being revenge-K.O.'d by opposing Priority Users or Dedicated Checks, should it commit to Autotomize
 =====================================================================================================================
 Category: G  
 =====================================================================================================================
 Groudon
 Hp: 160/Atk: 320/Def: 280/Spa: 240/Spd: 180/Spe: 160
 Common Items
-- Full Incense
+- Full Incense*
 - Gold Bottle Cap
-- Light Ball
 - Room Service
-- White Herb
-- Yache Berry
+- White Herb*
 
 Common Memories
 - Fire Memory
-- Ground Memory
+- Ground Memory*
 
 Common Moves
 - Fire Punch
 - Flame Wheel
+- Ice Punch
 - Precipice Blades
+- Rental Charge
 - Rock Polish
 - Rock Slide
 - Stone Edge
-- Swords Dance
+- Swords Dance*
 - Thermal Press
-- Thunder Punch
+- Thunder Punch*
+
+Common Overdrives
+- Critical Striker
+- Impact Absorber
 
 Preferred Ability
 - Drought
@@ -1750,6 +1781,14 @@ EVs: 4 HP / 88 SpD
 Raw Stats: 542 Hp / 478 SpD
 Explanation: With 4 HP EVs, and 88 SpD EVs, Arceus is guaranteed to survive at least one Adrenaline Orb Stored Power from a Special-Neutral Nature Mewtwo
 Example: 252 SpA Adrenaline Orb Mewtwo Stored Power vs. 4 HP / 88 SpD Arceus: 459-541 (84.6 - 99.8%) -- guaranteed 2HKO
+--------------------------
+Calyrex-Shadow
+--
+Surviving Dragon Memory Eternatus' Eternabeam
+Optimal EVs
+EVs: 88 HP / 8 SpD
+Raw Stats: 523 Hp / 558 SpD
+Example: 252+ SpA Space Power: SpA Dragon Memory Eternatus Eternabeam vs. 84 HP / 8 SpD Calyrex-Shadow: 442-520 (84.6 - 99.6%) -- guaranteed 2HKO
 --------------------------
 Mewtwo
 --

@@ -1398,6 +1398,7 @@ Mystery Slash
 Mystery Sphere
 Mystical Fire
 Nasty Plot
+Neuron Blade
 Night Daze
 Overheat
 Pixie Run
@@ -1481,7 +1482,7 @@ Psycho Force
 Effect: Multiplies damage of both Semi-Effective and Super-Effective Attacks by x1.5. Fairy-Type weakness is ignored, and Pokemon's moves do not make Contact. Poison Jab becomes Supercharged into Gunk Shot. Pokemon's Burst-Moves are always at Full Power. Immunity to having stats lowered under any circumstances. Incapacitates if user isn't Mewtwo.
 
 Psychic Assault
-Effect: Multiplies the power of non-burst moves with a Base Power equal or lesser than 120 by x1.5. Multiplies User's Attack Stat by x1.5. Pokemon's Burst-Moves are always at Full Power. Immunity to having stats lowered by the opponent. Incapacitates if user isn't Mewtwo.
+Effect: Multiplies the power of non-burst moves with a Base Power equal or lesser than 120 by x1.5. Psystrike, and Scalar-Moves receive the Power Boost, regardless of their Base Power. Multiplies User's Attack Stat by x1.5. Pokemon's Burst-Moves are always at Full Power. Immunity to having stats lowered by the opponent. Incapacitates if user isn't Mewtwo.
 ------------------------------------------------------------------------
 Charizard    
 Hp: 78 -> 128 = +50
@@ -2720,6 +2721,7 @@ Malice Run
 Mystery Bind
 Mystery Deluge
 Mystery Slash
+Neuron Blade
 Shatter Shade
 Slush Switch
 Strange Wave
@@ -3173,11 +3175,13 @@ Drill Run
 Frigid Blast
 Gear Up
 Gyro Ball
+Ice Beam
 Inferno Beam
 Iron Run
 Meteor Beam
 Mineral Cannon
 Nasty Plot
+Parting Shot
 Psychic Light
 Psychic Quake
 Psycho Cut
@@ -3188,6 +3192,7 @@ Shatter Beam
 Shatter Shot
 Shatter Splash
 Stone Edge
+Sweet Retreat
 Swords Dance
 Teleport
 Thousand Arrows
@@ -3222,6 +3227,7 @@ Mind Cleaner
 Mystery Bind
 Mystery Slash
 Mystery Sphere
+Neuron Blade
 Outrage
 Payback
 Poison Tail
@@ -6733,6 +6739,7 @@ Spe: 77 -> 108 = +31
 BST: 680 -> 1300
 Added Ability: Searing Burst/Tinted Lens
 New Moves
+Armor Smash
 Aromatic Mist
 Darkest Lariat
 Defog
@@ -6772,19 +6779,21 @@ Spe: 77 -> 146 = +99
 BST: 680 -> 1300
 Added Ability: Soaring Burst/Light Inversion
 New Moves
-Psycho Fire
-Psycho Darts
-Psychic Storm
-Royal Turbulence
+Autotomize
 Cosmic Starfall
-Mind Cleaner
-Sludge Switch
-Express Heal
-Nasty Plot
-Teleport
-Recover
 Defog
+Express Heal
 Haze
+Howl
+Mind Cleaner
+Nasty Plot
+Psychic Storm
+Psycho Darts
+Psycho Fire
+Recover
+Royal Turbulence
+Sludge Switch
+Teleport
 
 Special Learned Move
 Light That Burns the Sky
@@ -7146,6 +7155,7 @@ Spe: 159 -> 171 = +12
 BST: 990 -> 1165
 New Moves
 Anchor Shot
+Armor Press
 Aromatic Mist
 Autotomize
 Body Press
@@ -7163,12 +7173,14 @@ Rapid Spin
 Return
 Royal Shattering
 Secret Sword
+Shield Dance
 Stone Edge
 Stealth Rock
 Toxic
 
 Unlearned Moves
 Howl
+Iron Defense
 ------------------------------------------------------------------------
 Eternatus   
 Hp: 140 -> 250 = +110
@@ -8336,6 +8348,7 @@ Ability: Misty Terrain/Telepathy -> Misty Blessing/Memory Armor
 Added Ability: Antipathy
 New Moves
 Aqua Soul
+Aromatic Mist
 Aura Sphere
 Ethereal Stream
 Fairy Wind
@@ -9537,6 +9550,8 @@ Banlist
 	- Red Orb
 - Mechanics
 	- Ultra Assist
+- Moves
+	- Shield Dance
 - Pokemon
 	- Groudon-Primal
 	- Kyogre-Primal
@@ -9573,6 +9588,7 @@ Banlist
 	- Memorization
 - Moves
 	- Royal Submersion
+	- Shield Dance
 	- Tailwind
 - Pokemon
 	- Groudon-Primal
@@ -9818,7 +9834,7 @@ Oversight
 Effect: Pokemon's ???-Type Moves receive a x1.2 Power Boost; All Normal-Type Moves with a Base Power up to 150 become ???-Type Moves, however they will not receive Oversight's Base Power boost.
 --
 Perfect Form
-Effect: Pokemon's Physical-Moves with a Base Power up to 120, have x1.5 Base Power (Priority Moves, Moves with guaranteed Crit Chances, and Super-Moves are not boosted); Pokemon's Super-Effective Moves have x1.2 Power.
+Effect: Pokemon's Physical-Moves with a Base Power up to 120, have x1.5 Base Power (Priority Moves, Moves with guaranteed Crit Chances, and Super-Moves are not boosted). Physical Scalar Moves are always boosted.; Pokemon's Super-Effective Moves have x1.2 Power.
 --
 Spectral Force
 Effect: Pokemon's Ghost-Type Moves ignore the target's Type-Based immunities; Pokemon restores 1/16 of the Damage inflicted upon the opponent. Pokemon's Damaging-Moves have Mold Breaking Properties.
@@ -10470,12 +10486,35 @@ Aqua Tail
 Base Power: 90 -> 120
 Accuracy: 90 -> 100
 --
+Armor Press (New Move)
+Base Power: 100
+Category: Physical
+Accuracy: 100
+Contact: Yes
+Effect: Uses the Defense stat in Damage Calculation
+Priority: +0
+PP: 10
+Target: Normal
+Type: Steel
+--
+Armor Smash (New Move)
+Base Power: __
+Accuracy: True
+Category: Status
+Contact: No
+Effect: Raises the Pokemon's Attack and Special Attack by 1 stage each, while raising the Speed by 2 stages; The Pokemon's Defense and Special Defense drop by 1 stage, each.
+Penalty: User is trapped for 3 turns upon using this move (4 turns, if counting the turn the move is used on); Shed Shell and Run Away will not free the user; All stat stages are reset to zero, on the turn that the user is freed.
+Restriction: Can only be used once while Pokemon is active; Restriction lifted upon switching out
+PP: 5
+Target: Self
+Type: Normal
+--
 Arm Thrust
 Base Power: 15 -> 27
 Minimal Hits: 2 -> 3
 --
 Aromatic Mist
-Effect: Raises Ally's SpD by 1 stage -> Restores 1/2 of user's Hp if they do not have any positive Atk or SpA boosts.
+Effect: Raises Ally's SpD by 1 stage -> Restores 1/2 of user's Hp if they do not have any positive Atk, SpA, or Spe boosts.
 PP: 20 -> 5
 --
 Ascending Power (New Move)
@@ -11327,7 +11366,7 @@ Target: Any
 Type: Water
 --
 Eternabeam
-Base Power: 160 -> 190
+Base Power: 160 -> 170
 Effect: User must recharge -> Lowers Def and SpD by 1 stage each.
 --
 Ethereal Stream (New Move)
@@ -12363,10 +12402,21 @@ Base Power: __
 Accuracy: True
 Category: Status
 Contact: No
-Effect: Raises the user's Special Attack by 1 stage, and their Special Defense and Speed by 2 stages each. This move permanently disappears immediately after it is successfully used. Pokemon cannot use any Status Moves upon successfully using this move, unless they switch out. All of the Pokemon's Stat Changes reset 3 Turns after successfully using this move. This move can only be used by Arceus-Grass.
+Effect: Raises the user's Special Attack by 1 stage, and their Special Defense and Speed by 2 stages each. This move permanently disappears immediately after it is successfully used. Pokemon cannot use any Status Moves upon successfully using this move, unless they switch out. All of the Pokemon's Stat Changes reset 3 Turns after successfully using this move. Pokemon's Moves ignore the Boosted-Move Power Reduction from Power of Alchemy for as long as this move is active. This move can only be used by Arceus-Grass.
 PP: 5
 Target: Self
 Type: Grass
+--
+Neuron Blade (New Move)
+Base Power: 100
+Accuracy: 100
+Category: Physical
+Priority: +1
+Contact: Tactile
+Effect: Usually moves first; Damage is halved if the opponent has Psycho Force. Counts as a Sword Move.
+PP: 5
+Target: Normal
+Type: Psychic
 --
 Night Daze
 Base Power: 85 -> 135
@@ -13366,6 +13416,16 @@ Priority: +0
 PP: 5
 Target: Normal
 Type: Poison
+--
+Shield Dance (New Move)
+Base Power: __
+Accuracy: True
+Category: Status
+Contact: No
+Effect: Raises the Pokemon's Defense and Speed by 1 stage each, and restores 1/10 of the Pokemon's Max Hp. This move can only be used once per Switch-In
+PP: 20
+Target: Self
+Type: Fighting
 --
 Shift Gear
 PP: 10 -> 5 (Static)
@@ -14561,7 +14621,7 @@ Psycho Force
 Effect: Multiplies damage of both Semi-Effective and Super-Effective Attacks by x1.5. Fairy-Type weakness is ignored, and Pokemon's moves do not make Contact. Pokemon's Burst-Moves are always at Full Power. Immunity to having stats lowered under any circumstances. Ignores Mold Breaker. Incapacitates if user isn't Mewtwo.
 --
 Psychic Assault
-Effect: Multiplies the power of non-burst moves with a Base Power equal or lesser than 120 by x1.5. Multiplies User's Attack Stat by x1.5. Pokemon's Burst-Moves are always at Full Power. Immunity to having stats lowered by the opponent. Ignores Mold Breaker. Incapacitates if user isn't Mewtwo.
+Effect: Multiplies the power of non-burst moves with a Base Power equal or lesser than 120 by x1.5. Psystrike, and Scalar-Moves receive the Power Boost, regardless of their Base Power. Multiplies User's Attack Stat by x1.5. Pokemon's Burst-Moves are always at Full Power. Immunity to having stats lowered by the opponent. Incapacitates if user isn't Mewtwo.
 ------------------------------------------------------------------------
 Category: Rayquaza Exclusive Abilities
 --
