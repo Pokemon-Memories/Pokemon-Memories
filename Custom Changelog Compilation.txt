@@ -1405,6 +1405,7 @@ Pixie Run
 Poltergeist
 Power Gem
 Prattle Rattle
+Psychic Fury
 Psychic Quake
 Psychic Storm
 Psychic Wind
@@ -9340,7 +9341,7 @@ Whirlwind
 Withdraw
 
 Power of Alchemy
-Effect: Pokemon loses its Psychic-Type weakness from its Poison-Typing when Memorized*(1); Opposing Burst-Moves have x0.67 Base Power against this Pokemon. Opposing Pokemon's Moves have halved Damage if they have any Positive Stat Boosts in the stat they are attacking in*(2). Opposing Ground-Type Moves have x0.67 Base Power when used by non-Ground-Type Pokemon (3). Pokemon is immune to Critical Hits. Prevents opposing Pokemon from using Tailwind or Trick Room.
+Effect: Pokemon loses its Psychic-Type weakness from its Poison-Typing when Memorized*(1); Opposing Burst-Moves have x0.67 Base Power against this Pokemon. Opposing Pokemon's Moves have halved Damage if they have any Positive Stat Boosts in the stat they are attacking in*(2). Opposing Ground-Type Moves have x0.67 Base Power when used by non-Ground-Type Pokemon (3). Pokemon is immune to Critical Hits. Prevents opposing Pokemon from using Tailwind or Trick Room. Pokemon will always heal from Black Sludge, regardless of its Typing.
 *(1): Psyshock and Psystrike ignore this effect
 *(2-3): This effect does not apply against Pokemon with: Hightened Mind, Psychic Assault, Psychic Power, Psycho Force
 --------------------------------------------------------------------------
@@ -9699,7 +9700,7 @@ Item Exceptions: Assist Drive, Cell Battery, Dragon Scale, Light Clay, Prism Sca
 Range: 252
 
 Impact Absorber
-Effect: Pokemon receives x0.5 Damage from the first Attack to successfully damage it
+Effect: Pokemon receives x0.67 Damage from the first Attack to successfully damage it
 Range: 253
 
 Rule Breaker
@@ -9956,6 +9957,18 @@ Priority: +0
 PP: 10
 Target: All Adjacent Foes
 Type: ???
+--
+Psychic Fury  
+Base Power: 80
+Accuracy: 100
+Category: Status
+Contact: No
+Effect: Move's Type changes the match the Pokemon's Type
+Priority: +1
+Conditions: Can only be used by a Memorized Pokemon
+PP: 10
+Target: Normal
+Type: Psychic
 --
 Vital Dance  
 Base Power: __
@@ -11545,11 +11558,11 @@ Flip Turn
 Base Power: 60 -> 85
 PP: 20 -> 5
 --
-Flower Trick
+Flower Trick      
 Base Power: 70 -> 130
 Category: Physical -> Varies (Physical by Default; Special, if SpA is higher)
 Effect: Guaranteed Critical Hit -> Changes the opposing Pokemon into a random Type, and lowers their Def and SpD by 1 stage each; Opposing Pokemon's attacks have x0.67 power for the rest of the turn.
-Restrictions: These effects will only activate once, until the opponent Switches Out.
+Restrictions: This Move has three effects: (1) Type-Changing, (2) Power-Reducing, (3) Stat-Dropping. A given opponent can only be affected by any of these effects once per Switch-In. The User can only activate effects (1) and (2) once per Switch-In, however (3) is not restricted, and will continue activating if the opponent switches into a new Pokemon
 Conditions: Pokemon must have Parlor Trick as their Ability to activate this Move's Secondary Effects (including the Stat-Dropping Effect).
 --
 Flutter Song (New Move)
@@ -14435,7 +14448,7 @@ Power Drive
 Effect: Bypasses Substitutes. Multiplies Damage of Super-Effective Attacks by x1.2.
 --
 Power of Alchemy   
-Effect: Pokemon loses its Psychic-Type weakness from its Poison-Typing when Memorized*(1); Opposing Burst-Moves have x0.67 Base Power against this Pokemon. Opposing Pokemon's Moves have halved Damage if they have any Positive Stat Boosts in the stat they are attacking in*(2). Opposing Ground-Type Moves have x0.67 Base Power when used by non-Ground-Type Pokemon (3). Pokemon is immune to Critical Hits. Prevents opposing Pokemon from using Tailwind or Trick Room.
+Effect: Pokemon loses its Psychic-Type weakness from its Poison-Typing when Memorized*(1); Opposing Burst-Moves have x0.67 Base Power against this Pokemon. Opposing Pokemon's Moves have halved Damage if they have any Positive Stat Boosts in the stat they are attacking in*(2). Opposing Ground-Type Moves have x0.67 Base Power when used by non-Ground-Type Pokemon (3). Pokemon is immune to Critical Hits. Prevents opposing Pokemon from using Tailwind or Trick Room. Pokemon will always heal from Black Sludge, regardless of its Typing.
 *(1): Psyshock and Psystrike ignore this effect
 *(2-3): This effect does not apply against Pokemon with: Hightened Mind, Psychic Assault, Psychic Power, Psycho Force
 --

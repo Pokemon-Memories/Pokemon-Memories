@@ -34,7 +34,7 @@ Description: Certain Pokemon are given "Highlights", which will be posted here. 
 					              [ Psychic ]
 			    	(Hp: 170/Atk: 335/Def: 185/SpA: 338/SpD: 185/Spe: 187) BST: 1400
 					 Psychic Power/Hightened Mind/Antipathy
- 						    [Psychic Memory]
+ 					[Dark Memory/Fairy Memory/Psychic Memory]
 
 
 Description: Between its peerless offenses, blistering speed, and its perfectly distributed defenses; Mewtwo is an unparalleled force of mass destruction in this Meta. Whereas most Pokemon are biased toward specific sets, which serve as the primary cause for their exalted viability; Mewtwo is able to continuously adapt its sets on the fly, allowing it to always keep its opponents guessing. Its perfectly placed stats leave it with no major vulnerabilites, and its access to a nearly unlimited movepool, encompassing every Type in the game, makes it nigh uncounterable. Simply figuring out the opposing Mewtwo's set, is itself, a daunting task, and actually managing to successfully defeat it, is something that will usually only be possible after a very long struggle between both sides. Mewtwo's combination of attributes make it a force to be reckoned with, and when paired with its dangerous unpredictability, powerful teammates, signature items, and phenomenal abilities; This Genetic Masterpiece proves itself to be a powerful Pokemon that is second to none. We dreamed of creating the most powerful Pokemon, and we succeeded.
@@ -119,14 +119,15 @@ Note: Pokemon beneath the A-Tier, are listed alphabetically; Pokemon in the lowe
 
 Viability Rankings
 
-S-Tier (6 Total)
+S-Tier (7 Total)
 
 S+
 Mewtwo
-Eternatus (A-; Dragon Memory/Any Memory)
 Arcanine-Hisui
+Eternatus (A-; Dragon Memory/Any Memory)
 
 S
+Sandslash-Alola
 Calyrex-Shadow
 Landorus-Therian
 
@@ -134,12 +135,12 @@ S-
 Muk-Alola
 
 
-A-Tier (39 Total)
+A-Tier (38 Total)
 
 A+
 Lugia
-Sandslash-Alola
 Zacian-Crowned
+Meowscarada
 Arceus (S; Omnipotent + Chilan Berry)
 Groudon (A+; Fire Memory/Gold Bottle Cap/Room Service)
 Cresselia
@@ -155,6 +156,7 @@ Meowth (A; Dubious Disc)
 A
 Victreebel
 Golurk
+Necrozma-Dusk-Mane
 Ho-Oh
 Arceus-Fairy
 Meloetta
@@ -163,7 +165,6 @@ Deoxys-Attack
 Calyrex-Ice
 Zekrom
 Marshadow (A-; Fighting Memory)
-Necrozma-Dawn-Wings
 Arceus-Water
 
 A-
@@ -176,7 +177,6 @@ Volcanion
 Lucario-Mega
 Klinklang
 Infernape
-Meowscarada
 Phione
 Entei
 Mew (C+; Dubious Disc)
@@ -203,6 +203,7 @@ Magearna-Original
 Manaphy
 Mimikyu
 Mimikyu-Busted
+Necrozma-Dawn-Wings
 Necrozma-Ultra
 Pikachu-Original
 Shaymin-Sky
@@ -263,7 +264,6 @@ Gengar-Mega
 Gyarados-Mega
 Hoopa Unbound
 Minun
-Necrozma-Dusk-Mane
 Rapidash-Galar
 Reshiram
 Salamence-Mega
@@ -1798,6 +1798,14 @@ EVs: 4 HP / 20 SpD
 Raw Stats: 482 Hp / 411 SpD 
 Explanation: With 4 HP EVs, and 20 SpD EVs, Mewtwo is guaranteed to survive at least one Choice Scarf Modest Palkia Boomburst from Full HP
 Example: 252+ SpA Dracolate Palkia Boomburst vs. 4 HP / 20 SpD Mewtwo: 408-481 (84.6 - 99.7%) -- guaranteed 2HKO
+--
+Surviving Snowball Sandslash-Alola's Critical Striker Subzero Freeze
+EVs: 12 HP / 4 Def
+Raw Stats: 484 Hp / 407 Def
+Explanation: This calc is only applicable for Attack-Neutral Nature Sandslash Sets. If it is running an Attack-Boosting Nature, 168 HP / 32 Def (523/414) can survive it, however this is not worth running
+Example: 252 Atk Snowball Below Freezing Sandslash-Alola Subzero Freeze vs. 12 HP / 4 Def Mewtwo on a critical hit: 409-483 (84.5 - 99.7%) -- guaranteed 2HKO
+--
+Note: Mewtwo can run 28 HP / 4 Def to have a guaranteed chance of surviving both of the aforementioned calcs
 =====================================================================================================================
 						      Section B    
 						     Ultra Assist

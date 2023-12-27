@@ -1,5 +1,34 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v1.8.5
+General
+- Mechanics
+	- Overdrives
+		- Impact Absorber
+			- Damage Reduction: x0.5 -> x0.67
+
+Abilities
+- Below Freezing
+	- Power Boost: x1.3 -> x1.2
+Moves
+- Aurora Beam
+	- Base Power: 140 -> 150
+- Flower Trick
+	- Added Restriction: The user can only trigger this move's Type-Changing and Power Reducing Effects once per Switch-In
+- Psychic Fury
+	- Implemented
+		- Base Power: 80
+		- Accuracy: 100
+		- Category: Special (Physical, if the Pokemon's Atk is higher)
+		- Contact: No
+		- Effect: Move's type changes to match the Pokemon's Type; Can only be used by a Memorized Pokemon
+		- Priority: 1
+		- PP: 10
+		- Type: Psychic
+		- Users: Mewtwo
+- Subzero Freeze
+	- Base Power: 100 -> 90
+
 Pokemon Memories v1.8.4
 General
 - Animations
