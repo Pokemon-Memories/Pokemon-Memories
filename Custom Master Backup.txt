@@ -15708,7 +15708,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - auradrain  
 - Low Kick  
-- Stone Edge  
+- Low Sweep  
 - bulletswitch  
 
 Meowscarada (F) @ Lax Incense  
@@ -15732,4 +15732,71 @@ Jolly Nature
 - battlecry  
 - slushswitch  
 - Powder Snow  
+
+
+=== [gen6ubers] Spectroferro Armor (Rayquaza, Steel) ===
+
+Rayquaza @ Steel Memory  
+Ability: dragonheart  
+Shiny: Yes  
+Happiness: 251  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Hasty Nature  
+- royalrampage  
+- royalshattering  
+- Rock Slide  
+- frostyglide  
+
+Gengar-Mega (M) @ Gengarite  
+Ability: shadowdraw  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Bitter Malice  
+- Venom Drench  
+- Meteor Beam  
+- sludgeswitch  
+
+Carracosta (M) @ Cover Fossil  
+Ability: ultrashell  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 252 Atk / 4 Def  
+Brave Nature  
+- essencecrusher  
+- Aqua Jet  
+- Aromatic Mist  
+- sludgeswitch  
+
+Muk-Alola (M) @ Black Sludge  
+Ability: Power of Alchemy  
+Happiness: 251  
+EVs: 252 HP / 4 Atk / 252 Def  
+Relaxed Nature  
+IVs: 0 Atk / 0 Spe  
+- Dragon Breath  
+- Stealth Rock  
+- Milk Drink  
+- Withdraw  
+
+Greninja-Ash @ Choice Scarf  
+Ability: Battle Bond  
+Happiness: 251  
+EVs: 128 Atk / 128 SpA / 252 Spe  
+Naive Nature  
+- Water Sport  
+- Darkest Lariat  
+- Water Shuriken  
+- leafswitch  
+
+Sandslash-Alola (M) @ Snowball  
+Ability: belowfreezing  
+Shiny: Yes  
+Happiness: 250  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- subzerofreeze  
+- battlecry  
+- slushswitch  
+- Powder Snow  
+
 

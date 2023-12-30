@@ -119,10 +119,11 @@ Note: Pokemon beneath the A-Tier, are listed alphabetically; Pokemon in the lowe
 
 Viability Rankings
 
-S-Tier (7 Total)
+S-Tier (8 Total)
 
 S+
 Mewtwo
+Carracosta
 Arcanine-Hisui
 Eternatus (A-; Dragon Memory/Any Memory)
 
@@ -135,19 +136,19 @@ S-
 Muk-Alola
 
 
-A-Tier (35 Total)
+A-Tier (34 Total)
 
 A+
 Zacian-Crowned
 Meowscarada
-Carracosta
 Arceus (S; Omnipotent + Chilan Berry)
 Groudon (A+; Fire Memory/Gold Bottle Cap/Room Service)
-Cresselia
 Porygon-Z (A+; Ability Shield/Ice Memory)
+Rayquaza (B+; Steel Memory)
 
 A
 Arceus-Ground
+Cresselia
 Lugia
 Victreebel
 Golurk
@@ -172,7 +173,6 @@ Lilligant
 Greninja-Ash
 Palkia
 Dialga
-Rayquaza
 Volcanion
 Lucario-Mega
 Klinklang

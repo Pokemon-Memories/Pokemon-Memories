@@ -1994,11 +1994,14 @@ Spe: 181 -> 181 = +0
 BST: 894 -> 1220
 Ability: Shadow Tag -> Shadow Draw
 New Moves
+Aura Sphere
 Bitter Malice
 Covert Switch
+Meteor Beam
 Mystery Slash
 Mystery Sphere
 Mystery Wave
+Ice Beam
 Nasty Plot
 Shadow Force
 Shadow Steal
@@ -2008,7 +2011,7 @@ Sludge Switch
 Venom Drench
 
 Shadow Draw
-Effect: User heals 1/4 of damage inflicted on opponent upon successfully landing an attack.
+Effect: User heals 1/4 of damage inflicted on opponent upon successfully landing an attack. Pokemon's Ghost-Type Moves ignore Resistances
 ------------------------------------------------------------------------
 Chansey   
 Hp: 250 -> 330 = +80
@@ -10248,6 +10251,7 @@ Roar: Threshold: +1 SpD; Attrition: +1 SpD -> __
 Receiving Strike: Threshold: +1 Spe; Attrition: +1 Spe -> __
 Rising Power: Threshold: +1 Atk; Attrition: +1 Atk -> __
 Rock Polish: Threshold: +2 Spe; Attrition: +2 Spe -> __
+Royal Rampage: Threshold: +1 Spe; Attrition: +1 Spe -> __
 Scale Shot: Threshold: +1 Spe; Attrition: -1 Def/+1 Spe -> __
 Shift Gear: Threshold: +1 Atk/+2 Spe; Attrition: +1 SpA/+2 Spe -> __/+2 Spe
 Sludge Rush: Threshold: +1 Spe; Attrition: +1 Spe -> __

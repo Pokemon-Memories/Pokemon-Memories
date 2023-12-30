@@ -1,5 +1,23 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v1.8.7
+General
+- Animations
+	- The following Moves have received Animations: "Royal Decree", "Royal Inversion", "Royal Obfuscation", "Royal Reverie", "Royal Sacrifice", "Royal Voltage", "Shatter Beam", "Shatter Bolt", "Shattered Earth", "Shatter Fist", "Shatter Night", "Shatter Reign", "Shatter Shade", "Shatter Spark", "Shatter Splash", "Shatter Sting"
+
+Abilities
+- Shadow Draw
+	- Additional Effect: Pokemon's Ghost-Type Moves hit any Resistances neutrally
+
+Moves
+- Royal Rampage
+	- Attrition Implemented
+
+Pokemon
+- Gengar
+	- Learnset Additions
+		- Aura Sphere
+
 Pokemon Memories v1.8.6
 General
 - Aliases
