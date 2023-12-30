@@ -1,5 +1,68 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v1.8.6
+General
+- Aliases
+	- Carracosta: "carra", "costa", "car", "cara" 
+- Animations
+	- The following Moves have received Animations: Memory Dance, Memory Song, Mineral Cannon
+	- The Following Moves have updated Animations: Aura Drain, Mystery Deluge, Psychic Storm
+- Miscellaneous
+	- Adjusted a number of Abilities with deferred Properties to improve their Performance with Memorization
+
+Mechanics
+- Mega Evolution
+	- Corrected an oversight where Pokemon could have their Mega Stones removed or swapped
+- Memorization
+	- Memory-STAB
+		- The following Abilities have been corrected to behave properly: Climate Change, Ensemble, Searing Burst, Soaring Burst
+		- Expanded the "Memory-STAB" and "Perpetual-STAB" entries in the Custom Changelog Compilation to improve clarity
+	- Perpetual-STAB
+		- Pokemon that receive the Perpetual-STAB Bonus will always have STAB on the Disc-Matching Moves, regardless of whether they continue to possess the matching Type(s) after receiving this Bonus
+
+Abilities
+- Appetite
+	- Corrected an oversight where Moves that target a Stat outside of their own Category would not yield the appropriate Boost
+- Climate Change
+	- No longer requires a Float Stone to activate
+- Power of Alchemy
+	- Additional Effect: This Ability cannot be changed, swapped, or removed from the wielder.
+- Ultra Shell
+	- Implemented
+	- Effect: Pokemon's Rock-Type loses its Ground-Type Weakness and gains a Dragon-Type Resistance; Pokemon's Water-Type changes its Poison-Type Weakness into a Resistance. Pokemon's Stats cannot be lowered by the opponent. Pokemon gains Ground-Type STAB, and Pokemon's Water-Type Moves have perfect accuracy and Mold-Breaking Properties, however they will not ignore Power of Alchemy. Pokemon cannot be burned; Burned Pokemon will be cured upon gaining this Ability. This Ability cannot be ignored by Mold Breaker
+
+Moves
+- Essence Crusher
+	- Health Restoration: 1/4 Damage Inflicted -> 1/3 Damage Inflicted
+
+Item
+- Cover Fossil
+	- Effect: The first damaging move that hits the Carracosta will raise their Defense or Special Defense, depending on the Category of the move that hit it. Carracosta restores 1/10 of their Max Hp at the end of each turn
+
+Pokemon
+- Arcanine-Hisui
+	- Learnset Removals
+		- Close Combat
+		- Double Kick
+		- Reversal
+- Carracosta
+	- Ability: Inveigle -> Ultra Shell
+	- Learnset Additions
+		- Armor Smash
+		- Aromatic Mist
+		- Ethereal Stream
+		- Ice Punch
+		- Sludge Switch
+		- Slush Switch
+	- Learnset Removals
+		- Express Heal
+		- Shell Smash
+- Eternatus
+	- Learnset Removals
+		- Focus Blast
+		- Solar Beam
+
+
 Pokemon Memories v1.8.5
 General
 - Mechanics

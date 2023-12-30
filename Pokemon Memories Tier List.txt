@@ -135,25 +135,20 @@ S-
 Muk-Alola
 
 
-A-Tier (38 Total)
+A-Tier (35 Total)
 
 A+
-Lugia
 Zacian-Crowned
 Meowscarada
+Carracosta
 Arceus (S; Omnipotent + Chilan Berry)
 Groudon (A+; Fire Memory/Gold Bottle Cap/Room Service)
 Cresselia
-Urshifu-S (A; Ability Shield/Ghost Memory)
 Porygon-Z (A+; Ability Shield/Ice Memory)
-Gliscor (A-; Ice Memory)
-Azumarill
-Kyogre
-Arceus-Grass
-Arceus-Ground
-Meowth (A; Dubious Disc)
 
 A
+Arceus-Ground
+Lugia
 Victreebel
 Golurk
 Necrozma-Dusk-Mane
@@ -161,13 +156,18 @@ Ho-Oh
 Arceus-Fairy
 Meloetta
 Meloetta-Pirouette
-Deoxys-Attack
 Calyrex-Ice
-Zekrom
 Marshadow (A-; Fighting Memory)
-Arceus-Water
 
 A-
+Gliscor (A-; Ice Memory)
+Azumarill
+Arceus-Water
+Meowth (B+; Dubious Disc)
+Deoxys-Attack
+Zekrom
+Urshifu-S
+Kyogre
 Lilligant
 Greninja-Ash
 Palkia
@@ -176,13 +176,10 @@ Rayquaza
 Volcanion
 Lucario-Mega
 Klinklang
-Infernape
-Phione
-Entei
 Mew (C+; Dubious Disc)
 
 
-B-Tier (77 Total)
+B-Tier (81 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
@@ -190,12 +187,15 @@ Amoonguss
 Arceus-Electric
 Arceus-Flying
 Arceus-Ghost
+Arceus-Grass
 Darkrai
 Decidueye
 Empoleon
+Entei
 Garchomp
 Genesect
 Giratina
+Infernape
 Keldeo
 Lunala
 Magearna
@@ -205,6 +205,7 @@ Mimikyu
 Mimikyu-Busted
 Necrozma-Dawn-Wings
 Necrozma-Ultra
+Phione
 Pikachu-Original
 Shaymin-Sky
 Suicune
@@ -338,11 +339,10 @@ Terrakion
 Tyrantrum
 
 
-Unranked (9 Total)
+Unranked (8 Total)
 
 UR
 Blaziken
-Carracosta
 Ferrothorn
 Flareon
 Latios

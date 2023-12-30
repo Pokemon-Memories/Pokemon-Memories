@@ -3493,7 +3493,6 @@ Spe: 90 -> 171 = +81
 BST: 525 -> 1235
 Abilities: Justified -> Speed Touch
 Signature Move: Aura Drain
-Auto-Mega Item: Cover Fossil
 New Moves
 Agility
 Aura Drain
@@ -4620,7 +4619,7 @@ Acupressure
 Water Trap
 Effect: Prevents opposing Water-Type Pokemon from escaping.
 ------------------------------------------------------------------------
-Carracosta
+Carracosta        
 Hp: 74 -> 244 = +170
 Atk: 108 -> 290 = +182
 Def: 133 -> 203 = +70
@@ -4628,16 +4627,23 @@ SpA: 83 -> 290 = +227
 SpD: 65 -> 241 = +176
 Spe: 32 -> 60 = +28
 BST: 495 -> 1328
-Ability: Sturdy -> Inveigle
+Ability: Sturdy -> Ultra Shell
 New Moves
-Essence Crusher
-Liquidation
-Close Combat
-Mystery Bind
-Express Heal
+Aromatic Mist
 Autotomize
+Close Combat
+Essence Crusher
+Ethereal Stream
 Flip Turn
+Ice Hammer
+Liquidation
+Mystery Bind
+Sludge Switch
+Slush Switch
 Uproar
+
+Ultra Shell (New Ability)
+Effect: Pokemon's Rock-Type loses its Ground-Type Weakness and gains a Dragon-Type Resistance; Pokemon's Water-Type changes its Poison-Type Weakness into a Resistance. Pokemon's Stats cannot be lowered by the opponent. Pokemon gains Ground-Type STAB, and Pokemon's Water-Type Moves have perfect accuracy and Mold-Breaking Properties, however they will not ignore Power of Alchemy. Pokemon cannot be burned; Burned Pokemon will be cured upon gaining this Ability. This Ability cannot be ignored by Mold Breaker
 ------------------------------------------------------------------------
 Zoroark
 Hp: 60 -> 160 = +100
@@ -4785,7 +4791,7 @@ BST: 1177 -> 1304
 Requires Rain
 
 Climate Change
-Effect: Transforms Sawsbuck depending on the weather, if it is holding a Float Stone.
+Effect: Transforms Sawsbuck depending on the weather
 ------------------------------------------------------------------------
 Emolga    
 Hp: 55 -> 155 = +100
@@ -7197,14 +7203,13 @@ Anchor Shot
 Aromatic Mist
 Autotomize
 Blizzard
-Chaos Switchs
+Chaos Switch
 Cross Poison
 Discharge
 Dragon Breath
 Earth Power
 Earthquake
 Ember
-Focus Blast
 Focus Energy
 Heal Block
 Icy Wind
@@ -7230,6 +7235,7 @@ Unlearned
 Agility
 Dragon Dance
 Recover
+Solar Beam
 
 Space Power (New Ability)
 Effect: Pokemon does not receive status conditions from Flame Orb, Toxic Orb, Light Ball, or Snowball; Immunity to Paralysis Damage. Pokemon's Damage-Dealing Moves bypass the opposing Pokemon's Abilities
@@ -9449,8 +9455,11 @@ Sacred Fire
 Spark
 
 Unlearned
+Close Combat
+Double Kick
 Howl
 Morning Sun
+Reversal
 Thunder Fang
 Wild Charge
 
@@ -9715,13 +9724,19 @@ Special Mechanic: Memorization
 Description: Pokemon can choose a Memory Disc from each Type; These Discs impart the Pokemon with certain Type, and Ability.
 
 Mechanics
-Pokemon will gain the properties of its held Memory, upon Switching In; If the Pokemon shared a Type with the held Memory before it Memorized, its Memory-STAB will have x2 Power, insead of x1.5; Pokemon that do not share a Type with the held Memory, receive a 20% Base Power boost when using Moves that share the Type of the held Disc. All of the Pokemon's STABs that they had prior to this Mechanic activating, are preserved.
+Pokemon will gain the properties of its held Memory, upon Switching In; If the Pokemon shared a Type with the held Memory before it Memorized, it will gain a Perpetual-STAB, which increases the power of its STAB-Moves to x2. Any STAB that was not converted a Perpetual-STAB, becomes a Memory-STAB, which maintains the initial x1.5 Power Boost; Pokemon that do not share a Type with their held Memory, receive a 20% Base Power boost when using Moves that share the Type of the held Disc. All of the Pokemon's STABs that they had prior to this Mechanic activating, are preserved.
+
+Memory-STAB
+Any STABs that a Pokemon possessed prior to Memorizing, become Memory-STABs. Memory-STABs generally last until the Pokemon Switches Out, however if a Pokemon has a Forme-Changing Ability--such as Climate Change or Ensemble--which cause the Pokemon to change Type(s), their Memory-STAB will be updated to reflect the native Type(s) of the Forme they are changing into. If a Pokemon's Memory Disc matches one of their native Types, that Memory-STAB will become a Perpetual-STAB. The allocation of Memory-STABs and Perpetual-STABs is determined by the Type(s) that the Pokemon had while Switching In. Pokemon without a Perpetual-STAB cannot obtain one by Forme-Changing into a Forme with Type(s) that match their Memory Disc, nor can Pokemon that only match their Disc due to Type-Changing Abilities.
+
+Perpetual-STAB
+If a Pokemon's Type(s) match the Type of their held Memory Disc, their Memory-STAB will become a Perpetual-STAB, which imparts a x2 Boost to STAB-Moves that match the Type of the held Memory Disc, as opposed to the standard x1.5 STAB Boost. Perpetual-STABs will remain in effect, even if the Pokemon Forme-Changes into a Forme that no longer possesses the Pokemon's original Perpetual-STAB Type (e.g. A Normal/Psychic Pokemon with a Psychic Memory that Forme-Changes into a Normal/Fighting Type, would possess a Normal-Type and Fighting-Type Memory-STAB, in addition to a Psychic-Type Perpetual-STAB).
 
 Special Mechanics
 In addition to their own Ability, Pokemon will also gain the Ability of their respective Disc, granting them two Abilities.
 
 Forme-Change Mechanics
-Memorized Pokemon will maintain their Memory-Types, if they use a Move or Ability that modifies their Forme, however their Memory-Type will be temporarily replaced, if a Pokemon uses a Move or Ability that directly modifies their Typing (e.g. Protean). Any Memorized Pokemon with a modified Type, will revert back to their Memory-Type, at the end of the turn; Arceus will change Types using the Memory Discs, however it will not change Formes.
+Memorized Pokemon will maintain their Memory-Types, if they use a Move or Ability that modifies their Forme, however, their Memory-Type will be temporarily replaced, if a Pokemon uses a Move or Ability that directly modifies their Typing (e.g. Protean). Any Memorized Pokemon with a modified Type, will revert back to their Memory-Type, at the end of the turn; Arceus will change Types using the Memory Discs, however it will not change Formes.
 
 Note: Due to in-game mechanics, the Memory-Type label will temporarily be hidden when a Pokemon changes Formes, however they will retain their Memory-Type, as stated.
 
@@ -13462,7 +13477,7 @@ Sing
 Accuracy: 55
 --
 Skill Swap
-Additional Checks: Fails if used against Pokemon with the abilities: "Omnipotent", "Desolate Land", "Primordial Sea", "Delta Stream", "Psycho Force", "Psychic Assault", "Psychic Power", "Oppression", "Slow Start", "Malleate", "Climate Change", "Dragon Ascension", "Ensemble", "Mold Breaker".
+Additional Checks: Fails if used against Pokemon with the abilities: "Omnipotent", "Desolate Land", "Primordial Sea", "Delta Stream", "Power of Alchemy", "Psycho Force", "Psychic Assault", "Psychic Power", "Oppression", "Slow Start", "Malleate", "Climate Change", "Dragon Ascension", "Ensemble", "Mold Breaker".
 Cannot use Entrainment to transfer: "Omnipotent", or "Core Power"
 PP: 10 -> 5
 --
@@ -14217,9 +14232,9 @@ Candle Trap
 Effect: If an opposing Ground-Type or Fire-Type Pokemon is on the field: Opponent loses 1/4 Max Hp; Pokemon with Ability restores 1/6 Max Hp.
 --
 Climate Change
-Effect: Transforms Sawsbuck depending on the weather, if it is holding a Float Stone.
-Sunny Day = Summer Forme
-Rainy Day = Autumn Forme
+Effect: Transforms Sawsbuck depending on the weather
+Sunlight = Summer Forme
+Rain = Autumn Forme
 Hail = Winter Forme
 --
 Corrosion
@@ -14582,7 +14597,7 @@ Trace
 Activation: Indefinite -> Once upon Switching In.
 Additional Effect: Raises SpD by 1 stage upon switching in if it is unable to copy the opponent's Ability.
 
-Additional Checks: Fails if used against Pokemon with the abilities: "Omnipotent", "Desolate Land", "Primordial Sea", "Delta Stream", "Psycho Force", "Psychic Assault", "Psychic Power", "Oppression", "Slow Start", "Malleate", "Climate Change", "Dragon Ascension", "Ensemble", "Mold Breaker", "Turboblaze", "Teravolt", or "Dragon Power".
+Additional Checks: Fails if used against Pokemon with the abilities: "Omnipotent", "Desolate Land", "Primordial Sea", "Delta Stream", "Power of Alchemy", "Psycho Force", "Psychic Assault", "Psychic Power", "Oppression", "Slow Start", "Malleate", "Climate Change", "Dragon Ascension", "Ensemble", "Mold Breaker", "Turboblaze", "Teravolt", or "Dragon Power".
 --
 Triage
 Priority Boost: +3 -> +2
@@ -14830,6 +14845,11 @@ Category: Arcanine-Hisui Exclusive Abilities
 --
 Empyrean Blaze   
 Effect: Pokemon's Rock-Type Weaknesses (excluding opposing Grass-Type and Steel-Type Moves) become resistances. Pokemon reflects all moves with increased Priority that are directed toward it, back to the opponent--including attacking moves.
+------------------------------------------------------------------------------
+Category: Carracosta Exclusive Abilities
+--
+Ultra Shell (New Ability)
+Effect: Pokemon's Rock-Type loses its Ground-Type Weakness and gains a Dragon-Type Resistance; Pokemon's Water-Type changes its Poison-Type Weakness into a Resistance. Pokemon's Stats cannot be lowered by the opponent. Pokemon gains Ground-Type STAB, and Pokemon's Water-Type Moves have perfect accuracy and Mold-Breaking Properties, however they will not ignore Power of Alchemy. Pokemon cannot be burned; Burned Pokemon will be cured upon gaining this Ability. This Ability cannot be ignored by Mold Breaker
 =========================================================
 Section H  
 Modified Type Interactions  
@@ -15227,6 +15247,9 @@ Effect: Return restores 200 Hp instead of 100 Hp.
 --
 Booster Energy
 Effect: No In-Battle Effect -> Raises the holder's Spe by 2 Stages upon successfully landing a Super-Effective Move. Single Use.
+--
+Cover Fossil
+Effect: The first damaging move that hits the Carracosta will raise their Defense or Special Defense, depending on the Category of the move that hit it. Carracosta restores 1/10 of their Max Hp at the end of each turn
 --
 Dawn Stone
 Effect: Multiplies the Base Power of Special Moves by x1.5; Single Use.
