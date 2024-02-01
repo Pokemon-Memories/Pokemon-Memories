@@ -34,7 +34,7 @@ Description: Certain Pokemon are given "Highlights", which will be posted here. 
 					              [ Psychic ]
 			    	(Hp: 170/Atk: 335/Def: 185/SpA: 338/SpD: 185/Spe: 187) BST: 1400
 					 Psychic Power/Hightened Mind/Antipathy
- 					[Dark Memory/Fairy Memory/Psychic Memory]
+ 				[Dark Memory/Fairy Memory/Poison Memory/Psychic Memory]
 
 
 Description: Between its peerless offenses, blistering speed, and its perfectly distributed defenses; Mewtwo is an unparalleled force of mass destruction in this Meta. Whereas most Pokemon are biased toward specific sets, which serve as the primary cause for their exalted viability; Mewtwo is able to continuously adapt its sets on the fly, allowing it to always keep its opponents guessing. Its perfectly placed stats leave it with no major vulnerabilites, and its access to a nearly unlimited movepool, encompassing every Type in the game, makes it nigh uncounterable. Simply figuring out the opposing Mewtwo's set, is itself, a daunting task, and actually managing to successfully defeat it, is something that will usually only be possible after a very long struggle between both sides. Mewtwo's combination of attributes make it a force to be reckoned with, and when paired with its dangerous unpredictability, powerful teammates, signature items, and phenomenal abilities; This Genetic Masterpiece proves itself to be a powerful Pokemon that is second to none. We dreamed of creating the most powerful Pokemon, and we succeeded.
@@ -92,7 +92,7 @@ Description: Ever the Songstress: This Musical Pokemon's love for its craft is e
 							Dialga
 						    [Steel/Dragon]
 			        (Hp: 230/Atk: 280/Def: 210/SpA: 280/SpD: 180/Spe: 160) BST: 1340
-					     Pressure/Telepathy/Regenerator
+					     Antipathy/Telepathy/Regenerator
 			  [Dark Memory/Dubious Disc/Fairy Memory/Fire Memory/Ice Memory/Rock Memory]
 
 
@@ -119,41 +119,44 @@ Note: Pokemon beneath the A-Tier, are listed alphabetically; Pokemon in the lowe
 
 Viability Rankings
 
-S-Tier (8 Total)
+S-Tier (3 Total)
 
 S+
 Mewtwo
-Carracosta
-Arcanine-Hisui
-Eternatus (A-; Dragon Memory/Any Memory)
 
 S
-Sandslash-Alola
-Calyrex-Shadow
-Landorus-Therian
+Eternatus (A-; Grass Memory/Dragon Memory)
 
 S-
 Muk-Alola
 
 
-A-Tier (34 Total)
+A-Tier (40 Total)
 
 A+
+Lucario-Mega
+Carracosta
+Kyogre
+Greninja-Ash
+Calyrex-Shadow
 Zacian-Crowned
 Meowscarada
-Arceus (S; Omnipotent + Chilan Berry)
-Groudon (A+; Fire Memory/Gold Bottle Cap/Room Service)
-Porygon-Z (A+; Ability Shield/Ice Memory)
 Rayquaza (B+; Steel Memory)
+Arcanine-Hisui
 
 A
 Arceus-Ground
+Arceus
+Groudon (A+; Fire Memory/Gold Bottle Cap/Room Service)
+Landorus-Therian
+Sandslash-Alola
+Porygon-Z (A+; Ability Shield/Ice Memory)
 Cresselia
-Lugia
 Victreebel
 Golurk
 Necrozma-Dusk-Mane
 Ho-Oh
+Deoxys-Attack
 Arceus-Fairy
 Meloetta
 Meloetta-Pirouette
@@ -161,25 +164,23 @@ Calyrex-Ice
 Marshadow (A-; Fighting Memory)
 
 A-
+Lugia
+Gengar-Mega
 Gliscor (A-; Ice Memory)
 Azumarill
 Arceus-Water
 Meowth (B+; Dubious Disc)
-Deoxys-Attack
 Zekrom
 Urshifu-S
-Kyogre
 Lilligant
-Greninja-Ash
 Palkia
 Dialga
 Volcanion
-Lucario-Mega
 Klinklang
 Mew (C+; Dubious Disc)
 
 
-B-Tier (81 Total)
+B-Tier (80 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
@@ -261,7 +262,6 @@ Celebi
 Darmanitan
 Darmanitan-Galar
 Gengar
-Gengar-Mega
 Gyarados-Mega
 Hoopa Unbound
 Minun

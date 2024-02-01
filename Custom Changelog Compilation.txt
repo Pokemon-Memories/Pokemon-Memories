@@ -3228,6 +3228,7 @@ Flame Burst
 Leech Seed
 Magma Storm
 Mind Cleaner
+Mud Sport
 Mystery Bind
 Mystery Slash
 Mystery Sphere
@@ -3261,15 +3262,20 @@ Shadow Ball
 Signal Beam
 
 Deoxys-Attack Specific Unlearned Moves
+Baneful Bunker
 Body Slam
 Cut
+Endure
 Facade
 Headbutt
 Mega Kick
 Mega Punch
-Memory Blast
+Protect
 Strength
 Substitute
+
+Power Surge
+Effect: User's Atk and SpA raise by 1 stage each upon successfully fainting an opponent. Only activates once while the Pokemon is on the field. Refreshes upon switching out.
 
 Deoxys Attack   
 Hp: 154 -> 86 = -68
@@ -3279,10 +3285,16 @@ SpA: 320 -> 405 = +85
 SpD: 100 -> 45 = -55
 Spe: 186 -> 214 = +28
 BST: 1200 -> 1200
-Ability: Antipathy
+Abilities: Heartless/Antipathy
 
-Power Surge
-Effect: User's Atk and SpA raise by 1 stage each upon successfully fainting an opponent. Only activates once while the Pokemon is on the field. Refreshes upon switching out.
+Heartless (New Ability) 
+Effect: The Pokemon's Moves increase in Power the longer they remain on the field
+Mechanics by Active Turns
+1 Turn: x1.2
+2 Turns: x1.35
+3 Turns: x1.5
+4 Turns: x1.65
+5 Turns+: x1.8
 
 Deoxys Defense   
 Hp: 154 -> 160 = +6
@@ -3785,8 +3797,10 @@ SpA: 150 -> 280 = +130
 SpD: 100 -> 180 = +80
 Spe: 90 -> 160 = +50
 BST: 680 -> 1340
+Ability: Pressure -> Antipathy
 Added Ability: Regenerator
 New Moves
+Armor Smash
 Body Slam
 Breaking Swipe
 Doom Desire
@@ -3795,6 +3809,7 @@ Facade
 Flash Cannon
 Heat Crash
 Mystery Bind
+Shatter Reign
 Shell Smash
 Thunder Wave
 
@@ -4157,6 +4172,7 @@ Chilling Water
 Comet Punch
 Darkest Nightfall
 Dazzling Gleam
+Divine Call
 Dragon Lunge
 Dragon Rush
 Dual Chop
@@ -4256,7 +4272,7 @@ Fighting: Rising Power
 Fire: Infinite Velocity
 Grass: Nature's Voice*
 Ground: Earthen Song
-Normal: Heaven Dance
+Normal: Divine Call / Heaven Dance
 Water: Aqua Charge*
 * These moves cannot be used by Arceus-Normal
 --
@@ -6763,6 +6779,7 @@ Psycho Blitz
 Rental Charge
 Steel Beam
 Teleport
+Thunder Fang
 
 Unlearned
 Aerial Ace
@@ -9676,7 +9693,7 @@ Special Mechanic: Overdrive
 Mechanics
 Every Pokemon has the option to Overdrive. When a Pokemon uses the Overdrive Mechanic, they receive a Special Effect depending on their Happiness Stat
 
-List of Overdrives 
+List of Overdrives                 
 Escape Planner
 Effect: Automatically switches the Pokemon to a chosen ally after successfully using a Move.
 Range: 245 and below
@@ -9708,7 +9725,7 @@ Range: 251
 Gift Collector
 Effect: Pokemon instantly restores their lost or destroyed held Item.
 Ability Exceptions: Hightened Mind
-Item Exceptions: Assist Drive, Cell Battery, Dragon Scale, Light Clay, Prism Scale, Twisted Spoon
+Item Exceptions: Assist Drive, Cell Battery, Dragon Scale, Light Clay, Twisted Spoon
 Range: 252
 
 Impact Absorber
@@ -9716,7 +9733,8 @@ Effect: Pokemon receives x0.67 Damage from the first Attack to successfully dama
 Range: 253
 
 Rule Breaker
-Effect: Pokemon's First Successful Attack ignores all Type-Based Immunities
+Effect: Pokemon's First Successful Attack ignores all Abilities, and bypasses Type-Based Immunities
+Additional Info: This Move can bypass most Abilities--including Abilities that ordinarily ignore Mold Breaking Moves and Abilities, however it cannot bypass Memory Abilities
 Range: 254
 
 Speed Blitzer
@@ -10451,7 +10469,7 @@ Type: Water
 Aqua Fang (New Move)
 Base Power: 90
 Category: Physical
-Accuracy: 95
+Accuracy: 100
 Contact: Yes
 Effect: 20% chance to make Target flinch.
 Priority: +0
@@ -10534,7 +10552,7 @@ Base Power: __
 Accuracy: True
 Category: Status
 Contact: No
-Effect: Raises the Pokemon's Attack and Special Attack by 1 stage each, while raising the Speed by 2 stages; The Pokemon's Defense and Special Defense drop by 1 stage, each.
+Effect: Raises the Pokemon's Attack and Special Attack by 1 stage each, while raising the Speed by 2 stages; The Pokemon's Defense and Special Defense drop by 1 stage, each. Pokemon's Damaging Moves ignore opposing Abilities while this Move is active
 Penalty: User is trapped for 3 turns upon using this move (4 turns, if counting the turn the move is used on); Shed Shell and Run Away will not free the user; All stat stages are reset to zero, on the turn that the user is freed.
 Restriction: Can only be used once while Pokemon is active; Restriction lifted upon switching out
 PP: 5
@@ -11116,6 +11134,16 @@ Dive
 Base Power: 80 -> 140
 Effect: Raises Speed by 1 stage.
 --
+Divine Call (New Move)
+Base Power: __
+Accuracy: True
+Category: Status
+Contact: No
+Effect: Raises user's Attack and Speed by 1 stage each, and induces the Fatigue Effect. This move can only be used by Normal Arceus.
+PP: 5
+Target: Self
+Type: Normal
+--
 Dizzy Punch
 Base Power: 70 -> 50
 Confusion Chance: 20% -> 100%
@@ -11347,7 +11375,7 @@ Base Power: 90 -> 140
 SpD Lowering Chance: 10% -> 25%
 --
 Enigma Cannon (New Move)
-Base Power: 150
+Base Power: 165
 Accuracy: True
 Category: Special
 Priority: +0
@@ -11358,7 +11386,7 @@ Target: Normal
 Type: ???
 --
 Enigma Charge (New Move)
-Base Power: 150
+Base Power: 165
 Accuracy: True
 Category: Physical
 Priority: +0
@@ -11492,6 +11520,7 @@ Burn Chance: 10% -> 50%
 --
 Fire Fang
 Base Power: 65 -> 90
+Accuracy: 95 -> 100
 Burn/Flinch Chance: 10% -> 20%
 --
 Fire Punch
@@ -11971,8 +12000,8 @@ Ice Burn
 Additional Effect: Raises user's SpA by 1 stage.
 --
 Ice Fang
-Base Power: 65 -> 80
-Burn/Flinch Chance: 10% -> 20%
+Base Power: 65 -> 90
+Freeze/Flinch Chance: 10% -> 20%
 --
 Ice Hammer
 Base Power: 100 -> 140
@@ -13857,7 +13886,8 @@ Base Power: 80 -> 120
 --
 Thunder Fang
 Base Power: 65 -> 90
-Burn/Flinch Chance: 10% -> 20%
+Accuracy: 95 -> 100
+Par/Flinch Chance: 10% -> 20%
 --
 Thunderous Kick
 Base Power: 90 -> 160
@@ -14585,6 +14615,9 @@ Technician
 Condition: If the applicable move is a Priority-Move or Multi-Hit Move, the boost will be x1.3, rather than x1.5. Does not boost Super-Moves
 Threshold: 60 -> 100
 --
+Telepathy
+Additional Effect: Opposing Priortiy-Moves deal x0.67 Damage
+--
 Thousand Arms
 Effect: The user's attacks hit two additional times at x0.25 power of initial hit (Does not work on attacks that deal a set amount of damage).
 --
@@ -14852,8 +14885,19 @@ Effect: Pokemon's Rock-Type Weaknesses (excluding opposing Grass-Type and Steel-
 ------------------------------------------------------------------------------
 Category: Carracosta Exclusive Abilities
 --
-Ultra Shell (New Ability)
+Ultra Shell   
 Effect: Pokemon's Rock-Type loses its Ground-Type Weakness and gains a Dragon-Type Resistance; Pokemon's Water-Type changes its Poison-Type Weakness into a Resistance. Pokemon's Stats cannot be lowered by the opponent. Pokemon gains Ground-Type STAB, and Pokemon's Water-Type Moves have perfect accuracy and Mold-Breaking Properties, however they will not ignore Power of Alchemy. Pokemon cannot be burned; Burned Pokemon will be cured upon gaining this Ability. This Ability cannot be ignored by Mold Breaker
+------------------------------------------------------------------------------
+Category: Deoxys Exclusive Abilities
+--
+Heartless   
+Effect: The Pokemon's Moves increase in Power the longer they remain on the field
+Mechanics by Active Turns
+1 Turn: x1.2
+2 Turns: x1.35
+3 Turns: x1.5
+4 Turns: x1.65
+5 Turns+: x1.8
 =========================================================
 Section H  
 Modified Type Interactions  
