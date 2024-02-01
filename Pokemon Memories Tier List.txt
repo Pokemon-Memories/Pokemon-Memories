@@ -119,19 +119,20 @@ Note: Pokemon beneath the A-Tier, are listed alphabetically; Pokemon in the lowe
 
 Viability Rankings
 
-S-Tier (3 Total)
+S-Tier (4 Total)
 
 S+
 Mewtwo
 
 S
 Eternatus (A-; Grass Memory/Dragon Memory)
+Deoxys-Attack (A; Dubious Disc)
 
 S-
 Muk-Alola
 
 
-A-Tier (40 Total)
+A-Tier (39 Total)
 
 A+
 Lucario-Mega
@@ -156,7 +157,6 @@ Victreebel
 Golurk
 Necrozma-Dusk-Mane
 Ho-Oh
-Deoxys-Attack
 Arceus-Fairy
 Meloetta
 Meloetta-Pirouette
