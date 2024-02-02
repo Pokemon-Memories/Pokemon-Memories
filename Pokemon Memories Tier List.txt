@@ -119,14 +119,15 @@ Note: Pokemon beneath the A-Tier, are listed alphabetically; Pokemon in the lowe
 
 Viability Rankings
 
-S-Tier (4 Total)
+S-Tier (5 Total)
 
 S+
 Mewtwo
 
 S
-Eternatus (A-; Grass Memory/Dragon Memory)
 Deoxys-Attack (A; Dubious Disc)
+Eternatus (A-; Grass Memory/Dragon Memory)
+Rayquaza (B+; Steel Memory)
 
 S-
 Muk-Alola
@@ -142,7 +143,6 @@ Greninja-Ash
 Calyrex-Shadow
 Zacian-Crowned
 Meowscarada
-Rayquaza (B+; Steel Memory)
 Arcanine-Hisui
 
 A
@@ -153,6 +153,7 @@ Landorus-Therian
 Sandslash-Alola
 Porygon-Z (A+; Ability Shield/Ice Memory)
 Cresselia
+Kyurem-Black
 Victreebel
 Golurk
 Necrozma-Dusk-Mane
@@ -180,7 +181,7 @@ Klinklang
 Mew (C+; Dubious Disc)
 
 
-B-Tier (80 Total)
+B-Tier (79 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
@@ -240,7 +241,6 @@ Darmanitan-Galar-Zen
 Deoxys-Speed
 Giratina-Origin
 Jellicent
-Kyurem-Black
 Landorus-Incarnate
 Ludicolo
 Magnezone

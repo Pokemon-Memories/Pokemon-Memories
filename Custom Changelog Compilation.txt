@@ -1417,6 +1417,7 @@ Psycho Rush
 Receiving Strike
 Retaliate
 Roar
+Scorching Sands
 Shadow Claw
 Shadow Punch
 Shadow Flame
@@ -4238,7 +4239,7 @@ Swords Dance
 Substitute
 --
 Omnipotent (New Ability)
-Effect: Pokemon's Moves without STAB receive a x1.3 STAB-Bonus. Grants the Pokemon an immunity to certain moves depending on the user's Damage-Reducing Berry. Pokemon receives a x1.5 Base Power Boost in moves that share a Type with its Damage-Reducing Berry. Pokemon has the Permaburst Effect. Pokemon cannot use Healing Moves, however pivoting moves that heal the Pokemon as a secondary effect still work. Only works with Normal-Type Arceus.
+Effect: Pokemon's Moves without STAB receive a x1.3 STAB-Bonus. Grants the Pokemon an immunity to certain moves depending on the user's Damage-Reducing Berry. Pokemon receives a x1.5 Base Power Boost in moves that share a Type with its Damage-Reducing Berry. Pokemon has the Permaburst Effect. Pokemon cannot use Healing Moves, however pivoting moves that heal the Pokemon as a secondary effect still work. Opposing Priority-Moves deal x0.67 Damage. Only works with Normal-Type Arceus.
 Mechanics: Type Immunity = Type-Based Damage-Reducing Berry
 
 Specific Mechanics
@@ -5375,7 +5376,7 @@ Recover
 Roost
 
 Dragon Power
-Effect: Multiplies the power of the user's non-Priority Super-Effective Dragon-Type and Ice-Type attacks by x1.5. Pokemon receives minimum damage from Stealth Rock.
+Effect: Multiplies the power of the user's non-Priority Super-Effective Dragon-Type and Ice-Type attacks by x1.5. Entry Hazards heal the Pokemon in proportion to the Damage they would have received from Entry Hazards. Switching in against Toxic Spikes will cause them to be removed from the Pokemon's side. Life Orb restores 1/16 of the Pokemon's Hp instead of inflicting damage. Pokemon has Mold-Breaking Properties
 ------------------------------------------------------------------------
 Keldeo   
 Type: Water/Fighting
@@ -7100,9 +7101,16 @@ SpA: 102 -> 222 = +120
 SpD: 80 -> 113 = +33
 Spe: 143 -> 250 = +107
 BST: 600 -> 1080
+Added Ability: Frenetic
 New Moves
-Rising Voltage
+Lightning Strike
 Play Rough
+Rising Voltage
+Rock Slide
+Thunder Spin
+
+Frenetic (New Ability)
+Effect: Pokemon's Electric-Type Moves hit opposing Poison-Types and Dragon-Types neutrally
 ------------------------------------------------------------------------
 Marshadow   
 Hp: 90 -> 150 = +60
@@ -9507,6 +9515,21 @@ Swords Dance
 
 Below Freezing (New Ability)
 Effect: Pokemon's Ice-Type Moves have x1.3 Power
+--------------------------------------------------------------------------
+Lilligant-Hisui   
+Hp: 70 -> 200 = +130
+Atk: 105 -> 275 = +170
+Def: 75 -> 205 = +120
+SpA: 50 -> 231 = +181
+SpD: 75 -> 175 = +100
+Spe: 105 -> 184 = +79
+BST: 480 -> 1270
+Ability: Leaf Guard -> Evergreen
+New Moves
+Slush Switch
+
+Evergreen (New Ability)
+Effect: Pokemon's Fighting-Type Moves hit Poison-Types and Fairy-Types neutrally, and its Grass-Type Moves hit Memorized Pokemon Super-Effectively. Opposing Pokemon will receive half of the Damage that they inflict on this Pokemon, if they attacked it with a Priority Move
 =========================================================
 Template Compendium
 Template Stats   
@@ -9634,6 +9657,7 @@ Ruleset
 - Assist Clause: Only one Assist Drive is allowed per Team*
 - Compound Clause: No more than two Memory Discs are allowed on a Team*
 - Memory Ability Clause: Pokemon must be Memorized to use Memory Abilities
+- Paralysis Clause Mod: Only one opposing Pokemon can be Paralyzed at any given time
 - Stacking Clause: Teams cannot run a Memory Disc and Assist Drive concurrently*
 
 Banlist
@@ -9644,6 +9668,7 @@ Abilities
 	- Candle Trap
 	- Contrary
 	- Defeatist
+	- Golden Touch
 	- Huge Power
 	- Indignation
 	- Inertia⚫
@@ -9669,15 +9694,20 @@ Moves
 	- Assist
 	- Belly Drum
 	- Chatter
+	- Glare
 	- Vanishing Strike
 	- Psychic Infinity
-	- Royal Punishment⚫
+	- Royal Punishment
 	- Simple
 	- Submission
+	- Substitute
 	- Tail Glow
-
+- Overdrives
+	- Critical Striker
+	- Rule Breaker
 Pokemon
 	- Eternatus-Eternamax
+	- Deoxys-Attack*
 	- Mewtwo-Mega-X*
 	- Mewtwo-Mega-Y*
 	- Rayquaza-Mega*
@@ -10642,6 +10672,11 @@ Base Power: 60 -> 135
 Perfect Accuracy in Hail
 Secondary Effect: Doubled power if user moves last -> 25% chance to flinch
 Priority: -4 -> 0
+--
+Axe Kick
+Base Power: 120 -> 150
+Accuracy: 90 -> 100
+Effect: 30% Confusion Chance; 1/2 Max Hp Recoil upon missing -> Hits opposing Flying-Types Neutrally
 ------------------------------------------------------------------------
 Category: B 
 --
@@ -10935,7 +10970,7 @@ Multihits: 2-5 -> 3-5
 --
 Comeuppance   
 Base Power: __ -> 130
-Effect: Returns x1.5 damage to opponent, if the user was hurt -> Type changes to become the user's First Type, and hits any opponent that shares at least one type with the user, Super-Effectively
+Effect: Returns x1.5 damage to opponent, if the user was hurt -> Type changes to become the user's First Type, and Super-Effectively hits any opponent that shares at least one type with the user
 Conditions: The Target must have at least one type in common with the Move's Type, otherwise, this move will fail.
 Penalty: Halved Base Power against an opposing Psychic/Fighting Mega Mewtwo X; If Mega Mewtwo X loses one of its Types, changes Types, or acquires a different Type combination, this move will hit it with its normal Base Power.
 --
@@ -12015,6 +12050,10 @@ Base Power: 75 -> 100
 Ice Shard
 Base Power: 40 -> 50
 --
+Ice Spinner
+Base Power: 80 -> 100
+Effect: Clears Terrain -> Clears Hazards
+--
 Icicle Barrage (New Move)
 Base Power: 20
 Category: Special
@@ -12165,6 +12204,17 @@ Damage: 1/8 -> 1/8
 --
 Lick
 Base Power: 30 -> 60
+--
+Lightning Strike (New Move)
+Base Power: 80
+Category: Physical
+Accuracy: 100
+Contact: Yes
+Effect: __
+Priority: +2
+PP: 5
+Target: Normal
+Type: Electric
 --
 Light of Ruin
 Base Power: 140 -> 180
@@ -12602,7 +12652,9 @@ Target: Normal
 Type: Fairy
 --
 Plasma Fists
-Base Power: 100 -> 150
+Base Power Calculation: 150 -> ((User's Raw Speed before modifiers) / 5) + 30
+Minimum Power: 30 BP
+Maximum Power: 180 BP
 PP: 15 -> 5
 --
 Play Rough
@@ -13257,6 +13309,9 @@ Base Power: 25 -> 60
 Accuracy: 90 -> 100
 Multi-Hits: 2-5 -> 2
 --
+Scorching Sands
+Base Power: 70 -> 130
+--
 Scratch
 Base Power: 40 -> 80
 --
@@ -13851,6 +13906,10 @@ Teleport
 Effect: Switches User out
 PP: 20 -> 5 (Static)
 --
+Temper Flare
+Base Power: 75 -> 100
+Effect: Doubled Power if last move failed -> Pokemon's next Fire-Type Move has Doubled Power
+--
 Thermal Press (New Move)
 Base Power: 100
 Category: Physical
@@ -14042,6 +14101,9 @@ Base Power: 65 -> 150
 Added Effect: Targets opponent's Def stat
 Damage Multiplier on Poisoned targets: x2 -> x1.5
 PP: 10 -> 5
+--
+Victory Dance
+Penalty: Induces the Fatigue Status
 --
 Vine Whip
 Base Power: 45 -> 130
@@ -14638,7 +14700,6 @@ Additional Checks: Fails if used against Pokemon with the abilities: "Omnipotent
 --
 Triage
 Priority Boost: +3 -> +2
-Additional Effect: Ineffective against Pokemon with Mold Breaker, Teravolt, Turboblaze, or Inertia.
 Penalty: Priority-Boosted Moves have their Base Power divided by ÷1.25 (around x0.8)
 ------------------------------------------------------------------------
 Category: U 
@@ -14707,7 +14768,7 @@ Multitype
 Additional Effect: Pokemon gains a Resistance to Stealth Rock, regardless of their Type.
 --
 Omnipotent    
-Effect: Pokemon's Moves without STAB receive a x1.3 STAB-Bonus. Grants the Pokemon an immunity to certain moves depending on the user's Damage-Reducing Berry. Pokemon receives a x1.5 Base Power Boost in moves that share a Type with its Damage-Reducing Berry. Pokemon has the Permaburst Effect. Pokemon cannot use Healing Moves, however pivoting moves that heal the Pokemon as a secondary effect still work. Only works with Normal-Type Arceus.
+Effect: Pokemon's Moves without STAB receive a x1.3 STAB-Bonus. Grants the Pokemon an immunity to certain moves depending on the user's Damage-Reducing Berry. Pokemon receives a x1.5 Base Power Boost in moves that share a Type with its Damage-Reducing Berry. Pokemon has the Permaburst Effect. Pokemon cannot use Healing Moves, however pivoting moves that heal the Pokemon as a secondary effect still work. Opposing Priority-Moves deal x0.67 Damage. Only works with Normal-Type Arceus.
 Mechanics: Type Immunity = Type-Based Damage-Reducing Berry
 ------------------------------------------------------------------------
 Category: Cobalion Exclusive Abilities
@@ -14736,7 +14797,7 @@ Effect: Transforms Thundurus depending on the type of attack used
 Category: Kyurem Exclusive Abilities
 --
 Dragon Power  
-Effect: Multiplies the power of the user's non-Priority Super-Effective Dragon-Type and Ice-Type attacks by x1.5. Pokemon receives minimum damage from Stealth Rock.
+Effect: Multiplies the power of the user's non-Priority Super-Effective Dragon-Type and Ice-Type attacks by x1.5. Entry Hazards heal the Pokemon in proportion to the Damage they would have received from Entry Hazards. Switching in against Toxic Spikes will cause them to be removed from the Pokemon's side. Life Orb restores 1/16 of the Pokemon's Hp instead of inflicting damage. Pokemon has Mold-Breaking Properties
 ------------------------------------------------------------------------
 Category: Pikachu Exclusive Abilities
 --

@@ -1,14 +1,126 @@
 Pokemon Memories Update Notes
 
 Pokemon Memories v1.8.9
+General
+- Animations
+	- The following Moves have received Animations: "Etheral Stream", "Lustrous Stream"
+- Bugfixes
+	- Removed Triage's interactions with Mold-Breaking Abilities due to it crashing the game
+- Learnsets
+	- Polished some of the newer Pokemon to remove Substitute and Knock-Off, bringing them in line with the rest of the Pokemon
+- Formats
+	- Balanced Hackmons
+		- Additional Restrictions
+			- Paralysis Clause Mod: Only one opposing Pokemon can be Paralyzed at any given time
+		- Banlist Additions
+			- Note: Any Entry marked by "*" is also banned in Unlimited BH
+			- Abilities
+				- Golden Touch*
+			- Pokemon
+				- Deoxys-Attack
+			- Moves
+				- Calamity Wing
+				- Glare
+				- Photon Geyser
+				- Royal Punishment*
+				- Substitute*
+			- Overdrives
+				- Critical Striker
+				- Rule Breaker
+					- Note: The Ban for these Overdrives are implemented directly into the "pokemon" rule in rulesets.js
+	- Limited Ubers
+		- Banlist Additions
+			- Overdrives are now prohibited in this Format
+
+Abilities
+- Dragon Power
+	- Effect: Pokemon receives the minimum amount of damage from Entry Hazards -> Entry Hazards heal the Pokemon in proportion to the Damage they would have received from Entry Hazards. Switching in against Toxic Spikes will cause them to be removed from the Pokemon's side. Life Orb restores 1/16 of the Pokemon's Hp instead of inflicting damage
+- Evergreen
+	- Implemented
+		- Effect: Pokemon's Fighting-Type Moves hit Poison-Types and Fairy-Types neutrally, and its Grass-Type Moves hit Memorized Pokemon Super-Effectively. Opposing Pokemon will receive half of the Damage that they inflict on this Pokemon, if they attacked it with a Priority Move
+- Lightning Force
+	- Additional Effects: Pokemon's Electric-Type Moves hit opposing Fire, Dragon, and Rock-Type Pokemon neutrally
+- Omnipotent
+	- Additional Effect: Opposing Priority-Moves deal x0.67 Damage
+
+Moves
+- Axe Kick
+	- Implemented
+	- Base Power: 120 -> 150
+	- Accuracy: 90 -> 100
+	- Effect: 30% Confusion Chance; 50% Recoil if it misses -> Hits opposing Flying-Type Pokemon neutrally
+- Comeuppance
+	- This Move will now factor both of the Pokemon's Type(s) into consideration (when applicable), rather than just their first Type. Because of this, Pokemon can now hit opponents that share a Type with the Pokemon's Second Type.
+- Ice Spinner
+	- Implemented
+		- Base Power: 80 -> 100
+		- Effect: Clears Terrain -> Clears Hazards
+- Lightning Strike
+	- Implemented
+		- Base Power: 80
+		- Accuracy: 100
+		- Category: Physical
+		- Contact: Yes
+		- Effect: Almost always moves first
+		- Priority: 2
+		- PP: 5
+		- Type: Electric
+		- Users: Zeraora
+- Plasma Fists
+	- Base Power: 150 -> Dynamic: (Raw Unmodified Speed Stat / 5) + 30
+		- BP Floor: 30 BP
+		- BP Ceiling: 180 BP
+- Scorching Sands
+	- Base Power: 70 -> 130
+- Temper Flare
+	- Base Power: 75 -> 100
+	- Effect: Doubled Power if last move failed -> Pokemon's next Fire-Type Move has Doubled Power
+- Thunder Spin
+	- Implemented
+		- Base Power: 50
+		- Accuracy: 100
+		- Category: Physical
+		- Contact: Yes
+		- Effect: Almost always moves first; Switches the user out
+		- Priority: 2
+		- PP: 5
+		- Type: Electric
+		- Users: Zeraora
+- Victory Dance
+	- Implemented
+		- Restrictions: Induces the Fatigue Status
+
 Pokemon
 - Deoxys Formes
-	- Attack
+	- Attack-Forme
 		- Learnset Removals
 			- Baneful Bunker
+- Lilligant-Hisui
+	- Implemented
+		- Base Stats
+	- Abilities: Leaf Guard -> Evergreen
+	- Base Stats
+		- Hp: 70 -> 200
+		- Atk: 105 -> 275
+		- Def: 75 -> 205
+		- SpA: 50 -> 231
+		- SpD: 75 -> 175
+		- Spe: 105 -> 184
+		- BST: 480 -> 1270
+	- Learnset Additions
+		- Slush Switch
+- Meowscarada
+	- Learnset Additions
+		- Uproar
+- Zeraora
+	- Learnset Additions
+		- Lightning Strike
+		- Thunder Spin
+		- Rock Slide
 
 Pokemon Memories v1.8.8
-Mechanics- Animations
+Mechanics
+- Animations
 	- The following Moves have received Animations: "Inferno Beam"
 	- The following Moves received Modified Animations: "Enigma Cannon", "Enigma Charge"
 - Memorization
