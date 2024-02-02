@@ -101,17 +101,15 @@ Description: Dialga's massive defensive stats, stratospheric offenses, and excel
 
 
 						     Tier Assesments
-S-Tier: Reserved for the absolute most powerful Pokemon; These Pokemon can fit on to every Team and immediately improve the group's viability through its presence alone, having the potential not only to fortify already powerful Teams, but elevate to viability Teams, Pokemon, and strategies that would otherwise be suboptimal without them. There are few, if any downsides to selecting a Pokemon from this Tier, and it is crucial that opponents have answers to these threats if their Team is to gain any traction in the Meta. 
+S-Tier: Pokemon in this Tier are exceptional even among their peers, and have the potential to warp the Metagame around themselves. Most of the Pokemon in this Tier tend to be self-sufficient, and as such, are capable of synergizing with most Team Structures. Due to their power, even Teams that would be mediocre without these Pokemon can become Meta-Viable Structures when one of these Pokemon are present
 
-A-Tier: Reserved for exemplary Pokemon that either fulfil a multitude of roles, or accomplish their specific roles with with peerless excellence. Pokemon in this Tier tend to have only minor weaknesses, all of which are almost completely compensated for by the immense utility provided for players' Teams. These are the Electrons that orbit the Nuclei of the Tier, and players should strongly consider having at least one of these Pokemon on their Team if they hope to gain any traction in the Meta.
+A-Tier: Pokemon in this Tier tend to either possess tremendous versatility, or excel in a specific set of roles that allow them to function as powerful allies to their Teammates. Some of these Pokemon have advantages that even S-Tiers lack, however they also tend to possess more weaknesses
 
-B-Tier: Reserved for Pokemon that serve noticeable functions in the Meta, with varying degrees of success. Many of the Pokemon in this Tier have profound, or even rare strengths which cannot be found in the A-Tier proper, but possess glaring weaknesses that prevent them from gaining a spot in the aforementioned Tier themselves. Strategic play and additional support may be required to bring out these Pokemons' full potential, however when played optimally, they may be able to give Players the particular utility they'll need to gain traction in the Meta.
+B-Tier: Most of the Pokemon in this Tier may still have a number of positive attributes, but also possess enough vulnerabilities to noticeably affect their viability in the Meta. When considering the power of the S-Tiers and A-Tiers above these Pokemon, these should generally be used only sparingly, unless there an adequate reason to utilize them.
 
-C-Tier: Reserved for Pokemon that are capable of fulfilling certain roles with varying degrees of success, but lack either the consistency or environment to fully capitalize on their positive attributes. These Pokemon are typically outclassed by the Pokemon in the Tiers above them due to either lacking a sufficient number of relevant strengths, or possessing too many exploitable weaknessness, however many of these Pokemon may be capable of rising to one of the higher Tiers, should either the meta change, or new sets end up being discovered within their current Meta. These Pokemon may require considerable skill to play, but might just provide the necessary resources to help players gain traction in the Meta.
+C-Tier: Pokemon in this Tier tend to possess significant weaknesses, and are generally not considered to be viable, however they can still be functional under certain circumstances.
 
-D-Tier: Reserved for Pokemon that are almost completely outclassed by the Pokemon in the Tiers above them due to a number of intrinsic factors, which may never be completely remedied even with new set discoveries or drastic Meta changes. Pokemon often merit this Tier, either due to insufficient stats, poor typing(s), insufficient movepools, or being completely outclassed in the few roles they do have by other, significantly more powerful Pokemon, among which, may even be variants of themselves. Researching these Pokemon may be helpful should an opponent endeavor to use one of these Pokemon in a game, however well-designed Teams will likely have resources that can handle one, or even many of these Pokemon, regardless. As such, these Pokemon are not helpful for gaining any traction in the Meta.
-
-Unranked: Reserved for Pokemon that were experimented with during development, but failed to meet the Meta's standard to justify placement in a proper Tier; Since this game is primarily balanced around Ubers, it could be entirely possible for these Pokemon to be viable in lower Tiers, however in this Tier, these Pokemon fail to accomplish anything of value, and should realistically never be used if Players hope to gain any traction in the Meta.
+D-Tier and below: Pokemon in this Tier are generally considered to be unviable, and should not be used
 
 Conditional Placements: If a Pokemon that would otherwise reside in a lower Tier, finds itself worthy of the A-Tier on account of its synergy with the Memorization Mechanic; Next to the Pokemon's name will be the letter of the Tier they would have otherwise resided in, alongside, if applicable, the particular Held Item, or Memory Mechanic(s) (e.g. Items, Abilities, etc) that contributed to their higher placement. (E.g.: PokePoke (D; Bug Memory)).
 
@@ -119,7 +117,7 @@ Note: Pokemon beneath the A-Tier, are listed alphabetically; Pokemon in the lowe
 
 Viability Rankings
 
-S-Tier (5 Total)
+S-Tier (6 Total)
 
 S+
 Mewtwo
@@ -131,62 +129,50 @@ Rayquaza (B+; Steel Memory)
 
 S-
 Muk-Alola
+Carracosta
 
 
-A-Tier (39 Total)
+A-Tier (25 Total)
 
 A+
 Lucario-Mega
-Carracosta
 Kyogre
-Greninja-Ash
-Calyrex-Shadow
+Necrozma-Dusk-Mane
 Zacian-Crowned
-Meowscarada
-Arcanine-Hisui
 
 A
-Arceus-Ground
-Arceus
-Groudon (A+; Fire Memory/Gold Bottle Cap/Room Service)
-Landorus-Therian
-Sandslash-Alola
+Calyrex-Shadow
+Arcanine-Hisui
+Greninja-Ash
 Porygon-Z (A+; Ability Shield/Ice Memory)
-Cresselia
 Kyurem-Black
+Arceus
+Landorus-Therian
 Victreebel
-Golurk
-Necrozma-Dusk-Mane
 Ho-Oh
-Arceus-Fairy
-Meloetta
-Meloetta-Pirouette
 Calyrex-Ice
-Marshadow (A-; Fighting Memory)
 
 A-
+Sandslash-Alola
+Cresselia
 Lugia
-Gengar-Mega
-Gliscor (A-; Ice Memory)
 Azumarill
 Arceus-Water
 Meowth (B+; Dubious Disc)
-Zekrom
-Urshifu-S
-Lilligant
-Palkia
 Dialga
-Volcanion
+Arceus-Ground
 Klinklang
-Mew (C+; Dubious Disc)
+Marshadow (A-; Fighting Memory)
+Golurk
 
 
-B-Tier (79 Total)
+B-Tier (92 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
 Amoonguss
 Arceus-Electric
+Arceus-Fairy
 Arceus-Flying
 Arceus-Ghost
 Arceus-Grass
@@ -197,16 +183,23 @@ Entei
 Garchomp
 Genesect
 Giratina
+Gliscor
+Groudon
 Infernape
 Keldeo
+Lilligant
 Lunala
 Magearna
 Magearna-Original
 Manaphy
+Meloetta
+Meloetta-Pirouette
+Mew
 Mimikyu
 Mimikyu-Busted
 Necrozma-Dawn-Wings
 Necrozma-Ultra
+Palkia
 Phione
 Pikachu-Original
 Shaymin-Sky
@@ -225,6 +218,7 @@ Xerneas
 Yveltal
 Zamazenta-Crowned
 Zarude
+Zekrom
 Zygarde
 Zygarde-Complete
 
@@ -239,11 +233,13 @@ Corviknight
 Cryogonal
 Darmanitan-Galar-Zen
 Deoxys-Speed
+Gengar-Mega
 Giratina-Origin
 Jellicent
 Landorus-Incarnate
 Ludicolo
 Magnezone
+Meowscarada
 Mesprit
 Moltres-Galar
 Pikachu-Alola
@@ -253,6 +249,8 @@ Skarmory
 Solgaleo
 Torterra
 Urshifu-R
+Urshifu-S
+Volcanion
 Zapdos-Galar
 Zoroark-Hisui
 

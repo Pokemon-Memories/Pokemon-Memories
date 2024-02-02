@@ -6768,8 +6768,10 @@ Added Ability: Searing Burst/Tinted Lens
 New Moves
 Armor Smash
 Aromatic Mist
+Bullet Switch
 Darkest Lariat
 Defog
+Diffusion Wave
 Dragon Dance
 Dragon Energy
 Fire Blast
@@ -6778,6 +6780,7 @@ High Horsepower
 Lash Out
 Psycho Blitz
 Rental Charge
+Roar
 Steel Beam
 Teleport
 Thunder Fang
@@ -6810,6 +6813,7 @@ New Moves
 Autotomize
 Cosmic Starfall
 Defog
+Diffusion Wave
 Express Heal
 Haze
 Howl
@@ -6819,6 +6823,7 @@ Psychic Storm
 Psycho Darts
 Psycho Fire
 Recover
+Roar
 Royal Turbulence
 Sludge Switch
 Teleport
@@ -6960,13 +6965,13 @@ Dual Wingbeat
 Ethereal Stream
 Expanding Force
 Focus Blast
-Howl
 Hydro Pump
 Lustrous Stream
 Magma Storm
 Meteor Beam
 Mind Cleaner
 Poltergeist
+Psychic Light
 Psychic Storm
 Psychic Wind
 Psycho Darts
@@ -9368,6 +9373,7 @@ Ember
 Knock Off
 Memory Blast
 Milk Drink
+Roar
 Spikes
 Sludge Switch
 Stealth Rock
@@ -9526,10 +9532,13 @@ Spe: 105 -> 184 = +79
 BST: 480 -> 1270
 Ability: Leaf Guard -> Evergreen
 New Moves
+Earthquake
+Flip Turn
+Leaf Switch
 Slush Switch
 
 Evergreen (New Ability)
-Effect: Pokemon's Fighting-Type Moves hit Poison-Types and Fairy-Types neutrally, and its Grass-Type Moves hit Memorized Pokemon Super-Effectively. Opposing Pokemon will receive half of the Damage that they inflict on this Pokemon, if they attacked it with a Priority Move
+Effect: Pokemon's Fighting-Type Moves hit Poison-Types and Fairy-Types neutrally, and its Grass-Type Moves hit Memorized Pokemon Super-Effectively. Opposing Pokemon will receive half of the Damage that they inflict on this Pokemon, if they attacked it with a Priority Move. Pokemon's Grass-Type loses its Poison-Type weakness
 =========================================================
 Template Compendium
 Template Stats   
@@ -10714,6 +10723,9 @@ Multihits: (Number of Teammates) -> 4-6
 Recoil: __ -> 1/4 per hit
 Contact: Yes
 --
+Belly Drum
+Penalty: Induces the Fatigue Status; Boosts Clear after 3 Turns; Pokemon is trapped until the move ends. This move disappears after use
+--
 Berserk Blaze (New Move)
 Base Power: 200
 Accuracy: 100
@@ -10917,7 +10929,7 @@ Accuracy: 100
 Category: Varies (Physical by Default; Special, if SpA is higher)
 Priority: +0
 Contact: No
-Effect: 50% chance to burn the opponent
+Effect: 50% chance to burn the opponent; Ignores Ultra Shell's Effectiveness Modifiers
 PP: 10
 Target: Any
 Type: Dragon
@@ -11142,6 +11154,17 @@ Effect: Protects against attacks -> Hits ???-Types Super-Effectively and ignores
 Diamond Storm
 Base Power: 100 -> 150
 Accuracy: 95 -> 100
+--
+Diffusion Wave (New Move)
+Base Power: 120
+Accuracy: 100
+Category: Varies (Special by Default; Physical, if Atk is higher)
+Priority: -6
+Contact: No
+Effect: Forces the opponent out, and attempts to set Spikes
+PP: 5
+Target: Any
+Type: Fire
 --
 Dig
 Base Power: 80 -> 140
@@ -14959,6 +14982,11 @@ Mechanics by Active Turns
 3 Turns: x1.5
 4 Turns: x1.65
 5 Turns+: x1.8
+-------------------------------------------------------------------------------
+Category: Lilligant-Hisui Exclusive Abilities
+--
+Evergreen (New Ability)
+Effect: Pokemon's Fighting-Type Moves hit Poison-Types and Fairy-Types neutrally, and its Grass-Type Moves hit Memorized Pokemon Super-Effectively. Opposing Pokemon will receive half of the Damage that they inflict on this Pokemon, if they attacked it with a Priority Move. Pokemon's Grass-Type loses its Poison-Type weakness
 =========================================================
 Section H  
 Modified Type Interactions  
@@ -14988,6 +15016,7 @@ Freeze Immunity
 Electric Damage: x1 -> x0.5
 --
 Flying (Type) 
+Bug Damage: x0.5 -> x1
 Trapping Immunity
 --
 Ghost (Type) 
@@ -15001,6 +15030,7 @@ Steel Damage: x1 -> x0.5
 --
 Ice (Type) 
 Burn Immunity
+Bug Damage: x0.5 -> x1
 Dragon Damage: x1 -> x0.5
 Flying Damage: x1 -> x0.5
 Normal Damage: x1 -> x0.5

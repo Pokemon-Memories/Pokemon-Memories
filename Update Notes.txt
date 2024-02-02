@@ -3,11 +3,16 @@ Pokemon Memories Update Notes
 Pokemon Memories v1.8.9
 General
 - Animations
-	- The following Moves have received Animations: "Etheral Stream", "Lustrous Stream"
+	- The following Moves have received Animations: "Etheral Stream", "Lustrous Stream", "Psychic Light"
 - Bugfixes
 	- Removed Triage's interactions with Mold-Breaking Abilities due to it crashing the game
 - Learnsets
 	- Polished some of the newer Pokemon to remove Substitute and Knock-Off, bringing them in line with the rest of the Pokemon
+- Typechart
+	- Bug-Type
+		- Offensive Matchups
+			- Flying: x0.5 -> x1
+			- Ice: x0.5 -> x1
 - Formats
 	- Balanced Hackmons
 		- Additional Restrictions
@@ -37,7 +42,7 @@ Abilities
 	- Effect: Pokemon receives the minimum amount of damage from Entry Hazards -> Entry Hazards heal the Pokemon in proportion to the Damage they would have received from Entry Hazards. Switching in against Toxic Spikes will cause them to be removed from the Pokemon's side. Life Orb restores 1/16 of the Pokemon's Hp instead of inflicting damage
 - Evergreen
 	- Implemented
-		- Effect: Pokemon's Fighting-Type Moves hit Poison-Types and Fairy-Types neutrally, and its Grass-Type Moves hit Memorized Pokemon Super-Effectively. Opposing Pokemon will receive half of the Damage that they inflict on this Pokemon, if they attacked it with a Priority Move
+		- Effect: Pokemon's Fighting-Type Moves hit Poison-Types and Fairy-Types neutrally, and its Grass-Type Moves hit Memorized Pokemon Super-Effectively. Opposing Pokemon will receive half of the Damage that they inflict on this Pokemon, if they attacked it with a Priority Move. Pokemon's Grass-Type loses its Poison-Type weakness
 - Lightning Force
 	- Additional Effects: Pokemon's Electric-Type Moves hit opposing Fire, Dragon, and Rock-Type Pokemon neutrally
 - Omnipotent
@@ -49,8 +54,24 @@ Moves
 	- Base Power: 120 -> 150
 	- Accuracy: 90 -> 100
 	- Effect: 30% Confusion Chance; 50% Recoil if it misses -> Hits opposing Flying-Type Pokemon neutrally
+- Belly Drum
+	- Penalty: Induces the Fatigue Status; Boosts Clear after 3 Turns; Pokemon is trapped until the move ends. This move disappears after use
+- Celestial Strike
+	- Additional Effect: Ignores Ultra Shell
 - Comeuppance
 	- This Move will now factor both of the Pokemon's Type(s) into consideration (when applicable), rather than just their first Type. Because of this, Pokemon can now hit opponents that share a Type with the Pokemon's Second Type.
+- Diffusion Wave
+	- Implemented
+		- Base Power: 120
+		- Accuracy: 100
+		- Category: Special (Physical if the Pokemon's Atk is higher)
+		- Defensive Category: Special
+		- Contact: No
+		- Effect: Forces the opponent out, and sets Spikes
+		- Priority: -6
+		- PP: 5
+		- Type: Fire
+		- Users: Necrozma (All Formes)
 - Ice Spinner
 	- Implemented
 		- Base Power: 80 -> 100
@@ -108,10 +129,24 @@ Pokemon
 		- Spe: 105 -> 184
 		- BST: 480 -> 1270
 	- Learnset Additions
+		- Earthquake
+		- Flip Turn
+		- Leaf Switch
 		- Slush Switch
+- Lunala
+	- Learnset Additions
+		- Psychic Light
+	- Learnset Removals
+		- Howl
 - Meowscarada
 	- Learnset Additions
 		- Uproar
+- Muk-Alola
+	- Learnset Additions
+		- Roar
+- Necrozma (All Formes)
+	- Learnset Additions
+		- Roar
 - Zeraora
 	- Learnset Additions
 		- Lightning Strike
