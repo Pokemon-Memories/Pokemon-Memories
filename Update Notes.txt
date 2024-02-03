@@ -124,9 +124,9 @@ Pokemon
 		- Hp: 70 -> 200
 		- Atk: 105 -> 275
 		- Def: 75 -> 205
-		- SpA: 50 -> 231
+		- SpA: 50 -> 230
 		- SpD: 75 -> 175
-		- Spe: 105 -> 184
+		- Spe: 105 -> 185
 		- BST: 480 -> 1270
 	- Learnset Additions
 		- Earthquake

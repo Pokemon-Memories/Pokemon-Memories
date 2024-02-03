@@ -9526,9 +9526,9 @@ Lilligant-Hisui
 Hp: 70 -> 200 = +130
 Atk: 105 -> 275 = +170
 Def: 75 -> 205 = +120
-SpA: 50 -> 231 = +181
+SpA: 50 -> 230 = +180
 SpD: 75 -> 175 = +100
-Spe: 105 -> 184 = +79
+Spe: 105 -> 185 = +80
 BST: 480 -> 1270
 Ability: Leaf Guard -> Evergreen
 New Moves
