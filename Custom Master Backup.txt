@@ -1,3 +1,70 @@
+=== [gen6anythinggoes] Is Deoxys-A Broken? (Deoxys-A, ???) ===
+
+Necrozma-Dusk-Mane @ Metal Coat  
+Ability: Prism Armor  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 252 Def / 4 SpD  
+Relaxed Nature  
+IVs: 0 Spe  
+- Sunsteel Strike  
+- diffusionwave  
+- Aromatic Mist  
+- bulletswitch  
+
+Lugia @ White Herb  
+Ability: deepsea  
+Happiness: 251  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Calm Nature  
+- calamitywing  
+- royalsubmersion  
+- Thunder Wave  
+- Recover  
+
+Hoopa @ Chipped Pot  
+Ability: utilitylock  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 252 Def / 4 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Hyperspace Hole  
+- Stealth Rock  
+- Recover  
+- Teleport  
+
+Muk-Alola (M) @ Black Sludge  
+Ability: Power of Alchemy  
+Happiness: 251  
+EVs: 252 HP / 4 Atk / 252 Def  
+Relaxed Nature  
+IVs: 0 Atk / 0 Spe  
+- Dragon Breath  
+- Roar  
+- Milk Drink  
+- Withdraw  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+Happiness: 250  
+EVs: 28 HP / 4 Def / 224 SpA / 252 Spe  
+Timid Nature  
+- Stored Power  
+- Grass Knot  
+- Mud Bomb  
+- psychodarts  
+
+Deoxys-Attack @ Dubious Disc  
+Ability: heartless  
+EVs: 252 Atk / 28 SpA / 228 Spe  
+Naughty Nature  
+- memoryblast  
+- Rock Slide  
+- Extreme Speed  
+- Magma Storm  
+
+
 === [gen6anythinggoes] Mewtwo X Suspect (✗) ===
 
 Mewtwo @ Mewtwonite X  
@@ -729,7 +796,7 @@ IVs: 0 Atk / 0 Spe
 === [gen6ultraassist] Ultra Assist/Power of Stall (EX Lugia) ===
 
 Mewtwo @ Leftovers  
-Ability: Antipathy  
+Ability: antipathy  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
@@ -811,7 +878,7 @@ Impish Nature
 - expressheal  
 
 Mewtwo @ Adrenaline Orb  
-Ability: Antipathy  
+Ability: antipathy  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Psystrike  
@@ -1771,7 +1838,7 @@ IVs: 0 Spe
 === [gen6ultraassist] Ultra Assist/Eternal Life (EX Xerneas) ===
 
 Kyogre @ Choice Scarf  
-Ability: Antipathy  
+Ability: antipathy  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
 IVs: 0 Atk  
@@ -1989,7 +2056,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
@@ -2105,7 +2172,7 @@ IVs: 0 Atk
 - Teleport  
 
 Deoxys-Attack @ Life Orb  
-Ability: Antipathy  
+Ability: antipathy  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Naive Nature  
 - Zen Headbutt  
@@ -2114,7 +2181,7 @@ Naive Nature
 - Extreme Speed  
 
 Deoxys-Attack @ Dubious Disc  
-Ability: Antipathy  
+Ability: antipathy  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Naive Nature  
 - Secret Power  
@@ -2562,7 +2629,7 @@ Timid Nature
 - Flip Turn  
 
 Deoxys-Attack @ Dubious Disc  
-Ability: Antipathy  
+Ability: antipathy  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Naughty Nature  
 - Secret Power  
@@ -2602,7 +2669,7 @@ Careful Nature
 - Aromatic Mist  
 
 Deoxys-Attack @ Life Orb  
-Ability: Antipathy  
+Ability: antipathy  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
 - Psycho Boost  
@@ -2830,7 +2897,7 @@ Adamant Nature
 - accelerate  
 
 Deoxys-Attack @ Life Orb  
-Ability: Antipathy  
+Ability: antipathy  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
 - Psycho Boost  
@@ -3294,7 +3361,7 @@ Jolly Nature
 - Flip Turn  
 
 Deoxys-Attack @ Life Orb  
-Ability: Antipathy  
+Ability: antipathy  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
 - Psycho Boost  
@@ -4337,7 +4404,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Klinklang @ Metal Coat  
 Ability: utilitylock  
@@ -4550,7 +4617,7 @@ Calm Nature
 - sludgeswitch  
 
 Deoxys-Attack @ Life Orb  
-Ability: Antipathy  
+Ability: antipathy  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
 - Psycho Boost  
@@ -4591,7 +4658,7 @@ Careful Nature
 === [gen6ubers] Enigma (Deoxys-Attack, ???) ===
 
 Deoxys-Attack @ Dubious Disc  
-Ability: Antipathy  
+Ability: antipathy  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Naughty Nature  
 - Secret Power  
@@ -4962,7 +5029,7 @@ Timid Nature
 - slushswitch  
 
 Deoxys-Attack @ Life Orb  
-Ability: Antipathy  
+Ability: antipathy  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
 - Psycho Boost  
@@ -6475,7 +6542,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Bellsprout (M) @ Toxic Orb  
 Ability: Sheer Force  
@@ -6983,7 +7050,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Vaporeon @ Leftovers  
 Ability: utilitylock  
@@ -7515,7 +7582,7 @@ Impish Nature
 - U-turn  
 
 Deoxys-Attack @ Protector  
-Ability: Antipathy  
+Ability: antipathy  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
 - Psycho Boost  
@@ -7730,7 +7797,7 @@ Modest Nature
 - Flip Turn  
 
 Deoxys-Attack @ Protector  
-Ability: Antipathy  
+Ability: antipathy  
 Happiness: 250  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
@@ -9759,7 +9826,7 @@ Timid Nature
 - Night Daze  
 
 Deoxys-Attack @ Dubious Disc  
-Ability: Antipathy  
+Ability: antipathy  
 Happiness: 250  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Naughty Nature  
@@ -9995,7 +10062,7 @@ Careful Nature
 === [gen6ubers] Mewtwo #150: Psycho Killer (Mewtwo, Psychic) ===
 
 Mewtwo @ Psychic Memory  
-Ability: Antipathy  
+Ability: antipathy  
 Happiness: 250  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
@@ -11421,7 +11488,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Necrozma-Dawn-Wings @ Assault Vest  
 Ability: lightinversion  
@@ -11752,7 +11819,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
@@ -11823,7 +11890,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
@@ -11875,7 +11942,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Rayquaza @ Ground Memory  
 Ability: dragonheart  
@@ -12145,7 +12212,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Necrozma-Dawn-Wings @ Assault Vest  
 Ability: lightinversion  
@@ -12377,7 +12444,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Arceus-Water @ Splash Plate  
 Ability: Multitype  
@@ -12500,7 +12567,7 @@ Calm Nature
 === [gen6ubers] Mewtwo's Antipathy (Mewtwo, Psychic) ===
 
 Mewtwo @ Psychic Memory  
-Ability: Antipathy  
+Ability: antipathy  
 EVs: 252 SpA / 252 Spe  
 Timid Nature  
 - Psystrike  
@@ -12775,7 +12842,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Arceus-Grass @ Meadow Plate  
 Ability: Multitype  
@@ -12904,7 +12971,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Meloetta @ Throat Spray  
 Ability: ensemble  
@@ -13008,7 +13075,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 
 === [gen6ubers] Garchomp Goes Forth (Garchomp, Poison) ===
@@ -13379,7 +13446,7 @@ Modest Nature
 - Flip Turn  
 
 Deoxys-Attack @ Protector  
-Ability: Antipathy  
+Ability: antipathy  
 Happiness: 250  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Hasty Nature  
@@ -13463,7 +13530,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 
 === [gen6ubers] Forecast (Gliscor, Ice) ===
@@ -13517,7 +13584,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Necrozma-Dawn-Wings @ Assault Vest  
 Ability: lightinversion  
@@ -13570,7 +13637,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
@@ -13625,7 +13692,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
@@ -13638,7 +13705,7 @@ IVs: 0 Spe
 - Milk Drink  
 - Withdraw  
 
-Zacian-Crowned @ Metal Coat  
+Zacian-Crowned @ Ability Shield  
 Ability: Intrepid Sword  
 Shiny: Yes  
 Happiness: 250  
@@ -13650,7 +13717,7 @@ Jolly Nature
 - rentalcharge  
 
 Deoxys-Attack @ Protector  
-Ability: Antipathy  
+Ability: antipathy  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Hasty Nature  
 IVs: 0 Def  
@@ -13681,7 +13748,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Darkrai @ Grass Memory  
 Ability: midnightveil  
@@ -13789,7 +13856,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 
 === [gen6ubers] Mind Control (Mewtwo, Psychic) ===
@@ -13835,7 +13902,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Landorus-Therian @ Assault Vest  
 Ability: inveigle  
@@ -14071,7 +14138,7 @@ IVs: 0 Spe
 - slushswitch  
 
 Calyrex-Ice @ Ice Memory  
-Ability: Antipathy  
+Ability: antipathy  
 Happiness: 245  
 EVs: 252 HP / 252 Atk / 4 Def  
 Brave Nature  
@@ -14370,7 +14437,7 @@ Naive Nature
 - Hydro Pump  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
@@ -14838,7 +14905,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 
 === [gen6ubers] Amoonguss is Among Us (Rayquaza, Fairy) ===
@@ -15050,7 +15117,7 @@ Jolly Nature
 - Grass Knot  
 - Spirit Shackle  
 - Bullet Seed  
-- Leaf Switch  
+- leafswitch  
 
 Arceus-Water @ Splash Plate  
 Ability: Multitype  
@@ -15418,7 +15485,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Arceus-Water @ Splash Plate  
 Ability: Multitype  
@@ -15616,7 +15683,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Zacian-Crowned @ Ability Shield  
 Ability: Intrepid Sword  
@@ -15772,7 +15839,7 @@ Hasty Nature
 - frostyglide  
 
 Gengar-Mega (M) @ Gengarite  
-Ability: Shadow Draw  
+Ability: shadowdraw  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Bitter Malice  
@@ -15810,7 +15877,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Sandslash-Alola (M) @ Snowball  
 Ability: belowfreezing  
@@ -15854,7 +15921,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Arceus @ Shuca Berry  
 Ability: omnipotent  
@@ -15952,7 +16019,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 
 === [gen6ubers] Toxic (Mewtwo, Poison) ===
@@ -16019,26 +16086,27 @@ Jolly Nature
 - mysteryspeed  
 
 
-=== [gen6ubers] Absolute Power (Deoxys-Attack, ???) ===
+=== [gen6ubers] Absolute Power (Deoxys-Attack, Normal) ===
 
-Deoxys-Attack @ Dubious Disc  
+Deoxys-Attack @ Up-Grade  
 Ability: heartless  
 Happiness: 250  
-EVs: 252 Atk / 28 SpA / 228 Spe  
+EVs: 252 Atk / 4 SpA / 252 Spe  
 Naughty Nature  
 - memoryblast  
-- Rock Slide  
+- Payback  
+- Mud Sport  
 - Extreme Speed  
-- Magma Storm  
 
 Mewtwo @ Choice Specs  
 Ability: psychicpower  
 EVs: 28 HP / 4 Def / 224 SpA / 252 Spe  
 Timid Nature  
+IVs: 0 Atk  
 - Stored Power  
 - Aurora Beam  
 - Grass Knot  
-- psychodarts  
+- Mud Bomb  
 
 Carracosta (M) @ Cover Fossil  
 Ability: ultrashell  
@@ -16218,6 +16286,7 @@ Timid Nature
 Kyurem-Black @ Life Orb  
 Ability: dragonpower  
 Shiny: Yes  
+Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - celestialstrike  
@@ -16270,6 +16339,7 @@ IVs: 0 Atk / 0 Spe
 
 Necrozma-Dusk-Mane @ Metal Coat  
 Ability: Prism Armor  
+Shiny: Yes  
 Happiness: 251  
 EVs: 252 HP / 252 Def / 4 SpD  
 Relaxed Nature  
@@ -16280,7 +16350,7 @@ IVs: 0 Spe
 - bulletswitch  
 
 
-=== [gen6ubers] Broken Vessel (Porygon, Bug) ===
+=== [gen6ubers] Broken Vessel (Arcanine-H, Grass) ===
 
 Lunala @ Chipped Pot  
 Ability: fullmoon  
@@ -16322,16 +16392,14 @@ IVs: 0 Atk
 - Thunder Wave  
 - Tailwind  
 
-Porygon-Z @ Bug Memory  
-Ability: formatdrive  
-Shiny: Yes  
-Happiness: 250  
-EVs: 4 HP / 252 Atk / 252 Spe  
+Arcanine-Hisui @ Grass Memory  
+Ability: empyreanblaze  
+EVs: 252 Atk / 252 Spe  
 Jolly Nature  
+- Sacred Fire  
 - memoryblast  
-- Waterfall  
-- Parabolic Charge  
-- mysteryspeed  
+- Extreme Speed  
+- flameswitch  
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
@@ -16343,5 +16411,268 @@ IVs: 0 Atk / 0 Spe
 - Stealth Rock  
 - Milk Drink  
 - Withdraw  
+
+
+=== [gen6ubers] Proposition (Eternatus, Grass) ===
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+Happiness: 250  
+EVs: 28 HP / 4 Def / 224 SpA / 252 Spe  
+Timid Nature  
+- Stored Power  
+- Grass Knot  
+- Mud Bomb  
+- psychodarts  
+
+Necrozma-Dusk-Mane @ Metal Coat  
+Ability: Prism Armor  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 252 Def / 4 SpD  
+Relaxed Nature  
+IVs: 0 Spe  
+- Sunsteel Strike  
+- diffusionwave  
+- Aromatic Mist  
+- bulletswitch  
+
+Calyrex-Shadow @ Choice Scarf  
+Ability: Power Spot  
+EVs: 88 HP / 160 SpA / 8 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psycho Boost  
+- Astral Barrage  
+- Trick  
+- Parting Shot  
+
+Eternatus @ Grass Memory  
+Ability: spacepower  
+EVs: 128 HP / 128 SpA / 252 Spe  
+Modest Nature  
+- Dynamax Cannon  
+- memoryblast  
+- Aromatic Mist  
+- sludgeswitch  
+
+Arceus-Electric @ Zap Plate  
+Ability: Multitype  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Judgment  
+- Grass Knot  
+- lightningstrike  
+- waveturn  
+
+Muk-Alola (M) @ Black Sludge  
+Ability: Power of Alchemy  
+Happiness: 251  
+EVs: 252 HP / 4 Atk / 252 Def  
+Relaxed Nature  
+IVs: 0 Atk / 0 Spe  
+- Dragon Breath  
+- Stealth Rock  
+- Milk Drink  
+- Withdraw  
+
+
+=== [gen6ubers] Hazardous (Deoxys, Normal) ===
+
+Necrozma-Dusk-Mane @ Metal Coat  
+Ability: Prism Armor  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 252 Def / 4 SpD  
+Relaxed Nature  
+IVs: 0 Spe  
+- Sunsteel Strike  
+- diffusionwave  
+- Aromatic Mist  
+- bulletswitch  
+
+Lugia @ White Herb  
+Ability: deepsea  
+Happiness: 251  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Calm Nature  
+- calamitywing  
+- royalsubmersion  
+- Thunder Wave  
+- Recover  
+
+Hoopa @ Chipped Pot  
+Ability: utilitylock  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 252 Def / 4 Spe  
+Bold Nature  
+- Hyperspace Hole  
+- psychodarts  
+- Recover  
+- Teleport  
+
+Muk-Alola (M) @ Black Sludge  
+Ability: Power of Alchemy  
+Happiness: 251  
+EVs: 252 HP / 4 Atk / 252 Def  
+Relaxed Nature  
+IVs: 0 Atk / 0 Spe  
+- Dragon Breath  
+- Stealth Rock  
+- Milk Drink  
+- Withdraw  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+Happiness: 250  
+EVs: 28 HP / 4 Def / 224 SpA / 252 Spe  
+Timid Nature  
+- Stored Power  
+- Grass Knot  
+- Mud Bomb  
+- psychodarts  
+
+Deoxys-Attack @ Up-Grade  
+Ability: heartless  
+Happiness: 250  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naughty Nature  
+- memoryblast  
+- Payback  
+- Mud Sport  
+- Extreme Speed  
+
+
+=== [gen6ubers] Utility Kyurem (Kyurem-B, Dragon) ===
+
+Kyurem-Black @ Dragon Memory  
+Ability: dragonpower  
+Shiny: Yes  
+Happiness: 251  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- celestialstrike  
+- Dragon Breath  
+- Ice Shard  
+- slushswitch  
+
+Calyrex-Shadow @ Choice Scarf  
+Ability: Power Spot  
+EVs: 88 HP / 160 SpA / 8 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psycho Boost  
+- Astral Barrage  
+- Dazzling Gleam  
+- Parting Shot  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+Happiness: 251  
+EVs: 28 HP / 4 Def / 224 SpA / 252 Spe  
+Timid Nature  
+- Stored Power  
+- Venoshock  
+- Mud Bomb  
+- psychodarts  
+
+Arceus-Electric @ Zap Plate  
+Ability: Multitype  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Judgment  
+- Grass Knot  
+- lightningstrike  
+- slushswitch  
+
+Muk-Alola (M) @ Black Sludge  
+Ability: Power of Alchemy  
+Happiness: 251  
+EVs: 128 HP / 128 Def / 252 SpD  
+Relaxed Nature  
+IVs: 0 Atk / 0 Spe  
+- Stealth Rock  
+- Dragon Breath  
+- Milk Drink  
+- Withdraw  
+
+Porygon-Z @ Ability Shield  
+Ability: formatdrive  
+Shiny: Yes  
+Happiness: 250  
+EVs: 92 Atk / 164 SpD / 252 Spe  
+Jolly Nature  
+- enigmacharge  
+- Earthquake  
+- Parabolic Charge  
+- mysteryspeed  
+
+
+=== [gen6ubers] Times are Changing (Mewtwo, Psychic) ===
+
+Arcanine-Hisui (M) @ Choice Scarf  
+Ability: empyreanblaze  
+Happiness: 250  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Sacred Fire  
+- Stone Edge  
+- Grass Knot  
+- chaosswitch  
+
+Arceus-Ghost @ Spooky Plate  
+Ability: Multitype  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Judgment  
+- Ember  
+- Recover  
+- covertswitch  
+
+Kyurem-Black @ Life Orb  
+Ability: dragonpower  
+Shiny: Yes  
+Happiness: 251  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- celestialstrike  
+- Dragon Breath  
+- Ice Shard  
+- slushswitch  
+
+Kyogre @ Rose Incense  
+Ability: Drizzle  
+Happiness: 251  
+EVs: 252 HP / 252 Def / 4 SpA  
+Timid Nature  
+IVs: 0 Atk  
+- Origin Pulse  
+- Grass Knot  
+- Thunder Wave  
+- Tailwind  
+
+Muk-Alola (M) @ Black Sludge  
+Ability: Power of Alchemy  
+Happiness: 251  
+EVs: 128 HP / 128 Def / 252 SpD  
+Relaxed Nature  
+IVs: 0 Spe  
+- Stealth Rock  
+- Crunch  
+- Milk Drink  
+- Withdraw  
+
+Mewtwo @ Psychic Memory  
+Ability: psychicpower  
+Happiness: 251  
+EVs: 28 HP / 4 Def / 224 SpA / 252 Spe  
+Timid Nature  
+- Psystrike  
+- psychofire  
+- Grass Knot  
+- psychodarts  
 
 

@@ -447,7 +447,10 @@ Minun
 Plusle
 Reuniclus
 Alomomola
-Total: 388
+Arcanine-Hisui
+Sandslash-Alola
+Lilligant-Hisui
+Total: 391
 ============================================================
 Section A   
 Base Stat Total Compendium  
@@ -528,6 +531,7 @@ Rapidash-Galar: 		BST: 1280
 Celebi: 			BST: 1270
 Dusknoir: 			BST: 1270
 Ho-Oh: 				BST: 1270
+Lilligant-Hisui: 		BST: 1270
 Lugia: 				BST: 1270
 Zarude-Dada: 			BST: 1270
 Zarude: 			BST: 1270
@@ -875,7 +879,7 @@ Mega Mewtwo Y: 210
 Category: 190s (1 Total)
 Rotom-Frost: 195
 ===============
-Category: 180s (68 Total)
+Category: 180s (69 Total)
 Mewtwo: 187
 Deoxys: 186
 Tapu Koko: 186
@@ -889,6 +893,7 @@ Beedrill: 185
 Darkrai: 185
 Dragalge: 185
 Jolteon: 185
+Lilligant-Hisui: 185
 Minun: 185
 Plusle: 185
 Mega Beedrill: 185
@@ -1802,9 +1807,10 @@ SpA: 100 -> 290 = +190
 SpD: 80 -> 230 = +150
 Spe: 95 -> 175 = +80
 BST: 555 -> 1325
-Ability: Intimidate/Flash Fire -> Tinted Lens/Inveigle
+Ability: Intimidate/Flash Fire/Justified -> Tinted Lens/Inveigle/Magic Bounce
 New Moves
 Ember
+Flame Switch
 Grass Knot
 Mineral Cannon
 Play Rough
@@ -4168,9 +4174,12 @@ Block
 Body Press
 Brave Bird
 Bulk Up
+Bullet Switch
 Celestial Strike
+Chaos Switch
 Chilling Water
 Comet Punch
+Covert Switch
 Darkest Nightfall
 Dazzling Gleam
 Divine Call
@@ -4183,7 +4192,9 @@ Essence Crusher
 Extreme Speed
 Fall Back
 Flame Burst
+Flame Switch
 Flash
+Flip Turn
 Frenzy Plant
 Glacial Strike
 Haze
@@ -4194,6 +4205,8 @@ Hyper Drill
 Ice Hammer
 Icicle Crash
 Infinite Velocity
+Leaf Switch
+Lightning Strike
 Liquidation
 Metal Burst
 Meteor Beam
@@ -4209,6 +4222,7 @@ Photon Geyser
 Poltergeist
 Power Whip
 Psycho Drain
+Regal Exit
 Rising Power
 Rock Wrecker
 Royal Forestation
@@ -4220,18 +4234,24 @@ Sacred Water
 Seed Flare
 Simple Beam
 Sludge Bomb
-Strange Wave
+Sludge Switch
+Slush Switch
 Stored Power
+Strange Wave
 Sunsteel Strike
 Taunt
 Teleport
 Thermal Press
+Turbine Turn
 Twinkle Tackle
+U-Turn
 Uproar
 Venoshock
 Vine Whip
+Volt Switch
 Volt Tackle
 Water Spout
+Wave Turn
 X-Scissor
 
 Unlearned Moves
@@ -5376,7 +5396,7 @@ Recover
 Roost
 
 Dragon Power
-Effect: Multiplies the power of the user's non-Priority Super-Effective Dragon-Type and Ice-Type attacks by x1.5. Entry Hazards heal the Pokemon in proportion to the Damage they would have received from Entry Hazards. Switching in against Toxic Spikes will cause them to be removed from the Pokemon's side. Life Orb restores 1/16 of the Pokemon's Hp instead of inflicting damage. Pokemon has Mold-Breaking Properties
+Effect: Multiplies the power of the user's non-Priority Super-Effective Dragon-Type and Ice-Type attacks by x1.5. Entry Hazards heal the Pokemon in proportion to the Damage they would have received from Entry Hazards. Switching in against Toxic Spikes will cause them to be removed from the Pokemon's side. Life Orb restores 1/16 of the Pokemon's Hp instead of inflicting damage. Pokemon has Mold-Breaking Properties. Pokemon's Status Conditions are cured upon Switching Out
 ------------------------------------------------------------------------
 Keldeo   
 Type: Water/Fighting
@@ -9011,7 +9031,7 @@ Dynamic Punch
 Earth Power
 Expanding Force
 Fake Out
-Psychic Light
+Psycho Darts
 Psycho Blitz
 Recompense
 Recover
@@ -9593,6 +9613,7 @@ Standard Ubers
 Ruleset
 - Memory Clause: Only one Memory Disc is allowed per Team*
 - Arceus Clause: Arceus cannot hold a Dubious Disc*
+- Deoxys-Attack Clause: Deoxys-Attack cannot hold a Dubious Disc*
 
 Banlist
 - Abilities
@@ -10912,9 +10933,9 @@ Calamity Wing (New Move)
 Base Power: __
 Accuracy: true
 Category: Status
-Effect: The opponent is forced to switch to a random ally; The Pokemon switching in loses health equal to 1/4 of the user's Max Hp
+Effect: The opponent is forced to switch to a random ally; The Pokemon switching in loses health equal to 1/5 of the user's Max Hp
 Priority: -1
-PP: 5
+PP: 4 (Static)
 Target: Normal
 Type: Water
 --
@@ -11162,7 +11183,7 @@ Category: Varies (Special by Default; Physical, if Atk is higher)
 Priority: -6
 Contact: No
 Effect: Forces the opponent out, and attempts to set Spikes
-PP: 5
+PP: 4 (Static)
 Target: Any
 Type: Fire
 --
@@ -12035,7 +12056,7 @@ Recoil: 1/10 Damage Inflicted
 --
 Hyperspace Hole
 Base Power: 80 -> 120
-Secondary Effect: __ -> Opponent loses 1/5 of their Max HP at the end of each turn
+Secondary Effect: __ -> Opponent loses 1/5 of their Max HP at the end of each turn; Hits opposing Dark-Types neutrally
 Type: Psychic -> Ghost
 --
 Hyper Voice
@@ -14820,7 +14841,7 @@ Effect: Transforms Thundurus depending on the type of attack used
 Category: Kyurem Exclusive Abilities
 --
 Dragon Power  
-Effect: Multiplies the power of the user's non-Priority Super-Effective Dragon-Type and Ice-Type attacks by x1.5. Entry Hazards heal the Pokemon in proportion to the Damage they would have received from Entry Hazards. Switching in against Toxic Spikes will cause them to be removed from the Pokemon's side. Life Orb restores 1/16 of the Pokemon's Hp instead of inflicting damage. Pokemon has Mold-Breaking Properties
+Effect: Multiplies the power of the user's non-Priority Super-Effective Dragon-Type and Ice-Type attacks by x1.5. Entry Hazards heal the Pokemon in proportion to the Damage they would have received from Entry Hazards. Switching in against Toxic Spikes will cause them to be removed from the Pokemon's side. Life Orb restores 1/16 of the Pokemon's Hp instead of inflicting damage. Pokemon has Mold-Breaking Properties. Pokemon's Status Conditions are cured upon Switching Out
 ------------------------------------------------------------------------
 Category: Pikachu Exclusive Abilities
 --
@@ -14985,7 +15006,7 @@ Mechanics by Active Turns
 -------------------------------------------------------------------------------
 Category: Lilligant-Hisui Exclusive Abilities
 --
-Evergreen (New Ability)
+Evergreen    
 Effect: Pokemon's Fighting-Type Moves hit Poison-Types and Fairy-Types neutrally, and its Grass-Type Moves hit Memorized Pokemon Super-Effectively. Opposing Pokemon will receive half of the Damage that they inflict on this Pokemon, if they attacked it with a Priority Move. Pokemon's Grass-Type loses its Poison-Type weakness
 =========================================================
 Section H  

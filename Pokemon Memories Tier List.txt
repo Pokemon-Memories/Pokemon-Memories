@@ -21,7 +21,7 @@ Section C
 	• Viability Rankings
 	• History of the Format
 
-(180 Total)
+(181 Total)
 						      Section A    
 						    Standard Ubers
 						      Highlights
@@ -105,7 +105,7 @@ S-Tier: Pokemon in this Tier are exceptional even among their peers, and have th
 
 A-Tier: Pokemon in this Tier tend to either possess tremendous versatility, or excel in a specific set of roles that allow them to function as powerful allies to their Teammates. Some of these Pokemon have advantages that even S-Tiers lack, however they also tend to possess more weaknesses
 
-B-Tier: Most of the Pokemon in this Tier may still have a number of positive attributes, but also possess enough vulnerabilities to noticeably affect their viability in the Meta. When considering the power of the S-Tiers and A-Tiers above these Pokemon, these should generally be used only sparingly, unless there an adequate reason to utilize them.
+B-Tier: Most of the Pokemon in this Tier may still have a number of positive attributes, but also possess enough vulnerabilities to noticeably affect their viability in the Meta. Despite this, these Pokemon are still considered to be viable, and can offer unique contributions to their Teams if played correctly
 
 C-Tier: Pokemon in this Tier tend to possess significant weaknesses, and are generally not considered to be viable, however they can still be functional under certain circumstances.
 
@@ -117,61 +117,63 @@ Note: Pokemon beneath the A-Tier, are listed alphabetically; Pokemon in the lowe
 
 Viability Rankings
 
-S-Tier (6 Total)
+S-Tier (7 Total)
 
 S+
 Mewtwo
 
 S
-Deoxys-Attack (A; Dubious Disc)
 Eternatus (A-; Grass Memory/Dragon Memory)
 Rayquaza (B+; Steel Memory)
 
 S-
 Muk-Alola
 Carracosta
+Necrozma-Dusk-Mane
+Kyogre
 
 
-A-Tier (25 Total)
+A-Tier (26 Total)
 
 A+
+Arcanine-Hisui
+Kyurem-Black
+Calyrex-Shadow
 Lucario-Mega
-Kyogre
-Necrozma-Dusk-Mane
-Zacian-Crowned
+Deoxys-Attack (A; Up-Grade)
 
 A
-Calyrex-Shadow
-Arcanine-Hisui
+Zacian-Crowned
 Greninja-Ash
 Porygon-Z (A+; Ability Shield/Ice Memory)
-Kyurem-Black
 Arceus
 Landorus-Therian
-Victreebel
 Ho-Oh
 Calyrex-Ice
 
 A-
+Lunala
 Sandslash-Alola
 Cresselia
 Lugia
+Palkia
 Azumarill
 Arceus-Water
 Meowth (B+; Dubious Disc)
+Arceus-Electric
 Dialga
 Arceus-Ground
 Klinklang
 Marshadow (A-; Fighting Memory)
 Golurk
+Victreebel
 
 
-B-Tier (92 Total)
+B-Tier (91 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
 Amoonguss
-Arceus-Electric
 Arceus-Fairy
 Arceus-Flying
 Arceus-Ghost
@@ -185,10 +187,10 @@ Genesect
 Giratina
 Gliscor
 Groudon
+Hoopa
 Infernape
 Keldeo
 Lilligant
-Lunala
 Magearna
 Magearna-Original
 Manaphy
@@ -199,7 +201,6 @@ Mimikyu
 Mimikyu-Busted
 Necrozma-Dawn-Wings
 Necrozma-Ultra
-Palkia
 Phione
 Pikachu-Original
 Shaymin-Sky
@@ -237,6 +238,7 @@ Gengar-Mega
 Giratina-Origin
 Jellicent
 Landorus-Incarnate
+Lilligant-Hisui
 Ludicolo
 Magnezone
 Meowscarada

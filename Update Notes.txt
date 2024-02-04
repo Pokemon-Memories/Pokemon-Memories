@@ -1,5 +1,66 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v1.9.0
+General
+- Animations
+	- The following Moves have received Animations: "Bullet Switch", "Chaos Switch", "Covert Switch",  "Flame Switch", "Leaf Switch", "Regal Exit", "Slush Switch", "Sludge Switch", "Turbine Turn", "Wave Turn"
+
+Formats
+- Ubers
+	- Restrictions
+		- Deoxys-Clause: Deoxys-Attack cannot hold a Dubious Disc
+			- *With a combination of Diffusion Wave Necrozma-Dusk-Mane (NDM), Calamity Wing Lugia, and Utility Lock/Psychic Light Hoopa: Speed Blitzer Deoxys-Attack became virtually unstoppable. Despite this, neither NDM, Lugia, Utility Lockers, or Deoxys-Attack alone were problematic to the point of needing Tiering action
+
+Abilities
+- Dragon Power
+	- Additional Effect: Pokemon is cured of its Status Conditions upon Switching Out
+- Empyrean Blaze
+	- Corrected an error where this Ability would also reflect any negative-priority Moves
+
+Moves
+- Calamity Wing
+	- PP: 5 -> 4 (Static)
+	- Damage: 1/4 User's Max Hp -> 1/5 User's Max Hp
+- Diffusion Wave
+	- PP: 5 -> 4 (Static)
+- Hyperspace Hole
+	- PP: 5 -> 10
+	- Additional Effect: Hits opposing Dark-Types Neutrally
+	- Corrected the Passive Damage to work as intended
+
+Pokemon
+- Arcanine
+	- Ability: Justified -> Magic Bounce
+	- Learnset Additions
+		- Flame Switch
+- Arceus
+	- Learnset Additions
+		- Bullet Switch
+		- Chaos Switch
+		- Covert Switch
+		- Flame Switch
+		- Flip Turn
+		- Leaf Switch
+		- Lightning Strike
+		- Regal Exit
+		- Slush Switch
+		- Sludge Switch
+		- Turbine Turn
+		- U-Turn
+		- Volt Switch
+		- Wave Turn
+- Hoopa
+	- General
+		- Corrected an error where Hoopa learned Withdraw instead of Teleport
+	- Learnset Additions
+		- Psycho Darts
+	- Learnset Removals
+		- Psychic Light
+
+
+
+
+
 Pokemon Memories v1.8.9
 General
 - Animations
