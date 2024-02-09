@@ -394,6 +394,7 @@ Gliscor
 Tapu Koko
 Tapu Fini
 Tapu Lele
+Tapu Bulu
 Starmie
 Dragapult
 Regieleki
@@ -450,7 +451,7 @@ Alomomola
 Arcanine-Hisui
 Sandslash-Alola
 Lilligant-Hisui
-Total: 391
+Total: 392
 ============================================================
 Section A   
 Base Stat Total Compendium  
@@ -538,6 +539,7 @@ Zarude: 			BST: 1270
 Raichu: 			BST: 1264
 Zoroark-Hisui: 			BST: 1262
 Lapras: 			BST: 1260
+Tapu Bulu: 			BST: 1260
 Tapu Fini: 			BST: 1260
 Tapu Koko: 			BST: 1260
 Tapu Lele: 			BST: 1260
@@ -1016,7 +1018,7 @@ Mega Blaziken: 170
 Blaziken: 170
 Mienshao: 170
 ===============
-Category: 160s (77 Total)
+Category: 160s (78 Total)
 --
 Charizard: 169
 Mega Charizard X: 169
@@ -1033,6 +1035,7 @@ Froslass: 167
 Chandelure: 167
 Haxorus: 167
 Hawlucha: 166
+Tapu Bulu: 165
 Tapu Lele: 165
 Articuno-Galar: 165
 Darmanitan: 165
@@ -1377,6 +1380,7 @@ Ethereal Stream
 Expanding Force
 Feint Attack
 Flame Charge
+Flash Cannon
 Fly
 Frost Step
 Heat Crash
@@ -1489,7 +1493,7 @@ Psycho Force
 Effect: Multiplies damage of both Semi-Effective and Super-Effective Attacks by x1.5. Fairy-Type weakness is ignored, and Pokemon's moves do not make Contact. Poison Jab becomes Supercharged into Gunk Shot. Pokemon's Burst-Moves are always at Full Power. Immunity to having stats lowered under any circumstances. Incapacitates if user isn't Mewtwo.
 
 Psychic Assault
-Effect: Multiplies the power of non-burst moves with a Base Power equal or lesser than 120 by x1.5. Psystrike, and Scalar-Moves receive the Power Boost, regardless of their Base Power. Multiplies User's Attack Stat by x1.5. Pokemon's Burst-Moves are always at Full Power. Immunity to having stats lowered by the opponent. Incapacitates if user isn't Mewtwo.
+Effect: Multiplies the power of non-burst moves with a Base Power equal or lesser than 140 by x1.5. Psystrike, and Scalar-Moves receive the Power Boost, regardless of their Base Power. Multiplies User's Attack Stat by x1.5. Pokemon's Burst-Moves are always at Full Power. Immunity to having stats lowered by the opponent. Incapacitates if user isn't Mewtwo.
 ------------------------------------------------------------------------
 Charizard    
 Hp: 78 -> 128 = +50
@@ -3239,7 +3243,6 @@ Mud Sport
 Mystery Bind
 Mystery Slash
 Mystery Sphere
-Neuron Blade
 Outrage
 Payback
 Poison Tail
@@ -3254,6 +3257,7 @@ Teleport
 Situationally Learned Moves
 Dark Pulse (Users: Deoxys, Deoxys-Defense)
 Lash Out (Users: Deoxys, Deoxys-Defense)
+Neuron Blade (Users: Deoxys, Deoxys-Defensive, Deoxys-Speed)
 Shadow Ball (Users: Deoxys, Deoxys-Defense)
 Shattered Earth (Users: Deoxys, Deoxys-Defense)
 Signal Beam (Users: Deoxys, Deoxys-Defense)
@@ -3275,6 +3279,7 @@ Cut
 Endure
 Facade
 Headbutt
+Low Sweep
 Mega Kick
 Mega Punch
 Protect
@@ -6869,7 +6874,7 @@ BST: 1340 -> 1400
 New Moves
 Light That Burns The Sky
 ------------------------------------------------------------------------
-Magearna
+Magearna       
 Hp: 80 -> 190 = +110
 Atk: 95 -> 195 = +120
 Def: 115 -> 175 = +60
@@ -6894,7 +6899,7 @@ Stealth Rock
 Steel Beam
 Toxic
 
-Magearna Original
+Magearna Original    
 Hp: 190 -> 190 = +0
 Atk: 165 -> 225 = +60
 Def: 255 -> 195 = -60
@@ -6978,11 +6983,9 @@ New Moves
 Amnesia
 Aqua Soul
 Bubble Beam
-Compact Stream
 Cosmic Starfall
 Covert Switch
 Dual Wingbeat
-Ethereal Stream
 Expanding Force
 Focus Blast
 Hydro Pump
@@ -8255,6 +8258,7 @@ SpA: 100 -> 163 = +63
 SpD: 100 -> 180 = +80
 Spe: 70 -> 174 = +104
 BST: 530 -> 1140
+Ability: Overgrow -> Bird of Prey
 Added Ability: Reckless
 New Moves
 Agility
@@ -8271,6 +8275,9 @@ Smack Down
 Low Sweep
 Giga Drain
 Leaf Storm
+
+Bird of Prey (New Ability)
+Effect: Pokemon's Moves have halved Base Power by default; If this Pokemon hits an opponent that has 1/2 or less of its Max Hp, it's attack OHKO's the target
 ------------------------------------------------------------------------
 Incineroar    
 Hp: 95 -> 165 = +70
@@ -8367,6 +8374,7 @@ Added Ability: Antipathy
 New Moves
 Aeroblast
 Air Cutter
+Aromatic Mist
 Bolt Strike
 Brave Bird
 Close Combat
@@ -8387,14 +8395,13 @@ Air Cutter
 Brave Bird
 
 Unlearned
-Brave Bird
 Sky Drop
 Acrobatics
 Fly
 Charge
 
 Lightning Force
-Effect: Pokemon's Electric-Type moves and Flying-Type have perfect accuracy; Volt Switch ignores the opponent's immunities.
+Effect: Pokemon's Electric-Type moves and Flying-Type have perfect accuracy; Volt Switch ignores the opponent's immunities; Pokemon's Electric-Type Moves hit opposing Dragon and Rock-Type Pokemon neutrally
 
 Tapu Fini   
 Hp: 70 -> 200 = +130
@@ -8447,6 +8454,31 @@ Psycho Darts
 Psycho Fire
 Slush Switch
 Stored Power
+
+Tapu Bulu     
+Hp: 70 -> 230 = +160
+Atk: 130 -> 250 = +120
+Def: 115 -> 255 = +140
+SpA: 85 -> 175 = +90
+SpD: 95 -> 185 = +90
+Spe: 75 -> 165 = +90
+BST: 570 -> 1260
+Ability: Grassy Surge -> Grassy Blessing
+Additional Ability: Inveigle
+New Moves
+Aromatic Mist
+Knock Off
+Jungle Healing
+Leaf Switch
+Light Screen
+Parting Shot
+Power Whip
+Reflect
+Roar
+Royal Retreat
+
+Grassy Blessing (New Ability)
+Effect: Pokemon's Grass-Type Moves hit opposing Grass-Type Pokemon neutrally. Pokemon's Stats cannot be lowered, and Uproar will fail against it. This Pokemon's Type(s) cannot be changed by Flower Trick.
 ------------------------------------------------------------------------
 Starmie
 Hp: 60 -> 120 = +60
@@ -9558,7 +9590,7 @@ Leaf Switch
 Slush Switch
 
 Evergreen (New Ability)
-Effect: Pokemon's Fighting-Type Moves hit Poison-Types and Fairy-Types neutrally, and its Grass-Type Moves hit Memorized Pokemon Super-Effectively. Opposing Pokemon will receive half of the Damage that they inflict on this Pokemon, if they attacked it with a Priority Move. Pokemon's Grass-Type loses its Poison-Type weakness
+Effect: Pokemon's Fighting-Type Moves hit Poison-Types and Fairy-Types neutrally, and its Grass-Type Moves hit Memorized Pokemon Super-Effectively. Opposing Pokemon will receive half of the Damage that they inflict on this Pokemon, if they attacked it with a Priority Move. Pokemon's Grass-Type loses its Poison-Type weakness; Pokemon loses its Fighting-Type Weaknesses; Sets Evergreen Field for 4 Turns upon successfully landing a damaging move
 =========================================================
 Template Compendium
 Template Stats   
@@ -9613,7 +9645,8 @@ Standard Ubers
 Ruleset
 - Memory Clause: Only one Memory Disc is allowed per Team*
 - Arceus Clause: Arceus cannot hold a Dubious Disc*
-- Deoxys-Attack Clause: Deoxys-Attack cannot hold a Dubious Disc*
+- Deoxys-Attack Clause: Deoxys-Attack cannot hold a Dubious Disc or a Fighting Memory*
+- Mewtwo Clause: Mewtwo cannot hold a Psychic Memory or a Water Memory
 
 Banlist
 - Abilities
@@ -10164,6 +10197,7 @@ Mega Evolution
 Changes: Mega Evolution now happens instantly if the Pokemon is holding their respective Mega Stone, or Transformation Item. Furthermore, the Mega-Limit has been removed, allowing for multiple Mega Evolutions in a match
 =========================================================
 Section D  
+Statuses   
 Status Changelog   
 References
 Par = Paralysis
@@ -10216,6 +10250,15 @@ Non-Fire Types lose 1/10 Max Hp at the end of each turn.
 Sandstorm
 Effect: Raises the Special Defense of Rock-Type Pokemon -> x1.3 Base Power on Ground-Type and Rock-Type Moves; x0.5 Base Power for Grass-Type Moves
 Secondary Effect: 1/16 Residual Damage -> 1/10 Residual Damage
+------------------------------------------------------------------------
+Side-Condition Changelog   
+--
+Evergreen Field
+Effect: Pokemon restore 1/10 of their Max Hp at the end of each turn
+--
+Jungle Healing
+Effect: Restores the Pokemon's Hp by 1/16th of its Maximum Hp at the end of each turn
+Duration: 10 Turns
 --
 Tailwind      
 Additional Effect: Flying-Type Moves deal x1.3 Damage; x1.5 Power, if the Pokemon is Memorized into a Flying-Type.
@@ -11218,7 +11261,7 @@ Base Power: __
 Accuracy: True
 Category: Status
 Contact: No
-Effect: Raises user's Attack and Speed by 1 stage each, and induces the Fatigue Effect. This move can only be used by Normal Arceus.
+Effect: Raises user's Attack and Speed by 1 stage each, and induces the Fatigue Effect. All of the Pokemon's Stats are reset after causing 2 Pokemon to faint. This move can only be used by Normal Arceus.
 PP: 5
 Target: Self
 Type: Normal
@@ -12056,7 +12099,7 @@ Recoil: 1/10 Damage Inflicted
 --
 Hyperspace Hole
 Base Power: 80 -> 120
-Secondary Effect: __ -> Opponent loses 1/5 of their Max HP at the end of each turn; Hits opposing Dark-Types neutrally
+Secondary Effect: __ -> Opponent loses 1/8 of their Max HP at the end of each turn; Hits opposing Dark-Types neutrally
 Type: Psychic -> Ghost
 --
 Hyper Voice
@@ -12135,7 +12178,7 @@ Accuracy: 100
 Category: Varies (Special by Default; Physical if Attack Stat is higher)
 Priority: +0
 Contact: No
-Effect: Hits opposing Dragon-Type Pokemon Super-Effectively; Double Base Power under Rain (does not ignore Rain's Base Power dampening).
+Effect: Hits opposing Dragon-Type Pokemon Super-Effectively; Power is not reduced in Rain; 10% Burn Chance
 PP: 5
 Target: Normal
 Type: Fire
@@ -14791,7 +14834,7 @@ Psycho Force
 Effect: Multiplies damage of both Semi-Effective and Super-Effective Attacks by x1.5. Fairy-Type weakness is ignored, and Pokemon's moves do not make Contact. Pokemon's Burst-Moves are always at Full Power. Immunity to having stats lowered under any circumstances. Ignores Mold Breaker. Incapacitates if user isn't Mewtwo.
 --
 Psychic Assault
-Effect: Multiplies the power of non-burst moves with a Base Power equal or lesser than 120 by x1.5. Psystrike, and Scalar-Moves receive the Power Boost, regardless of their Base Power. Multiplies User's Attack Stat by x1.5. Pokemon's Burst-Moves are always at Full Power. Immunity to having stats lowered by the opponent. Incapacitates if user isn't Mewtwo.
+Effect: Multiplies the power of non-burst moves with a Base Power equal or lesser than 140 by x1.5. Psystrike, and Scalar-Moves receive the Power Boost, regardless of their Base Power. Multiplies User's Attack Stat by x1.5. Pokemon's Burst-Moves are always at Full Power. Immunity to having stats lowered by the opponent. Incapacitates if user isn't Mewtwo.
 ------------------------------------------------------------------------
 Category: Rayquaza Exclusive Abilities
 --
@@ -14917,8 +14960,11 @@ Effect: Changes Pokemon into a Water/Flying Type upon Switching In; Opposing mov
 -------------------------------------------------------------------------
 Category: Tapu Trio Exclusive Abilities
 --
+Grassy Blessing   
+Effect: Pokemon's Grass-Type Moves hit opposing Grass-Type Pokemon neutrally. Pokemon's Stats cannot be lowered, and Uproar will fail against it. This Pokemon's Type(s) cannot be changed by Flower Trick.
+--
 Lightning Force
-Effect: Pokemon's Electric-Type moves and Flying-Type have perfect accuracy; Volt Switch ignores the opponent's immunities.
+Effect: Pokemon's Electric-Type moves and Flying-Type have perfect accuracy; Volt Switch ignores the opponent's immunities; Pokemon's Electric-Type Moves hit opposing Dragon and Rock-Type Pokemon neutrally
 --
 Misty Blessing
 Effect: Opposing Poison-Type attacks deal 1/2 damage; Opposing Spout-Type attacks have x0.67 power
@@ -15007,7 +15053,12 @@ Mechanics by Active Turns
 Category: Lilligant-Hisui Exclusive Abilities
 --
 Evergreen    
-Effect: Pokemon's Fighting-Type Moves hit Poison-Types and Fairy-Types neutrally, and its Grass-Type Moves hit Memorized Pokemon Super-Effectively. Opposing Pokemon will receive half of the Damage that they inflict on this Pokemon, if they attacked it with a Priority Move. Pokemon's Grass-Type loses its Poison-Type weakness
+Effect: Pokemon's Fighting-Type Moves hit Poison-Types and Fairy-Types neutrally, and its Grass-Type Moves hit Memorized Pokemon Super-Effectively. Opposing Pokemon will receive half of the Damage that they inflict on this Pokemon, if they attacked it with a Priority Move. Pokemon's Grass-Type loses its Poison-Type weakness; Pokemon loses its Fighting-Type Weaknesses; Sets Evergreen Field for 4 Turns upon successfully landing a damaging move
+--------------------------------------------------------------------------------
+Category: Decidueye Exclusive Abilities
+--
+Bird of Prey   
+Effect: Pokemon's Moves have halved Base Power by default; If this Pokemon hits an opponent that has 1/2 or less of its Max Hp, it's attack OHKO's the target
 =========================================================
 Section H  
 Modified Type Interactions  

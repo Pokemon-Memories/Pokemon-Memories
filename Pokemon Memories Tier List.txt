@@ -21,7 +21,7 @@ Section C
 	• Viability Rankings
 	• History of the Format
 
-(181 Total)
+(182 Total)
 						      Section A    
 						    Standard Ubers
 						      Highlights
@@ -117,43 +117,45 @@ Note: Pokemon beneath the A-Tier, are listed alphabetically; Pokemon in the lowe
 
 Viability Rankings
 
-S-Tier (7 Total)
-
-S+
-Mewtwo
+S-Tier (6 Total)
 
 S
-Eternatus (A-; Grass Memory/Dragon Memory)
-Rayquaza (B+; Steel Memory)
-
-S-
-Muk-Alola
-Carracosta
+Mewtwo
+Meowscarada
 Necrozma-Dusk-Mane
 Kyogre
+Eternatus (A-; Grass Memory/Dragon Memory)
+
+S-
+Rayquaza (B+; Steel Memory)
 
 
-A-Tier (26 Total)
+A-Tier (29 Total)
 
 A+
-Arcanine-Hisui
+Lunala
 Kyurem-Black
+Carracosta
+Muk-Alola
 Calyrex-Shadow
 Lucario-Mega
-Deoxys-Attack (A; Up-Grade)
+Arcanine-Hisui
 
 A
+Sandslash-Alola
+Kyurem-White
 Zacian-Crowned
 Greninja-Ash
 Porygon-Z (A+; Ability Shield/Ice Memory)
+Deoxys-Attack (A; Fighting Memory/Up-Grade)
+Hoopa
 Arceus
 Landorus-Therian
 Ho-Oh
 Calyrex-Ice
 
 A-
-Lunala
-Sandslash-Alola
+Tapu Bulu
 Cresselia
 Lugia
 Palkia
@@ -169,7 +171,7 @@ Golurk
 Victreebel
 
 
-B-Tier (91 Total)
+B-Tier (89 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
@@ -187,7 +189,6 @@ Genesect
 Giratina
 Gliscor
 Groudon
-Hoopa
 Infernape
 Keldeo
 Lilligant
@@ -241,7 +242,6 @@ Landorus-Incarnate
 Lilligant-Hisui
 Ludicolo
 Magnezone
-Meowscarada
 Mesprit
 Moltres-Galar
 Pikachu-Alola
@@ -270,7 +270,7 @@ Reshiram
 Salamence-Mega
 
 
-C-Tier (38 Total)
+C-Tier (37 Total)
 
 C+
 Abomasnow
@@ -285,7 +285,6 @@ Emolga
 Excadrill
 Jirachi
 Kartana
-Kyurem-White
 Pheromosa
 Regieleki
 Rotom-Wash

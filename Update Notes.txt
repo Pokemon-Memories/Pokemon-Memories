@@ -1,5 +1,87 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v1.9.1
+General
+- Animations
+	- The following Moves received Modified Animations: "Vanishing Strike"
+Abilities
+- Bird of Prey
+	- Implemented
+	- Effect: Pokemon's Moves have halved Base Power by default; If this Pokemon hits an opponent that has 1/2 or less of its Max Hp, it's attack OHKO's the target
+- Evergreen
+	- Additional Effects: Pokemon loses its Fighting-Type Weaknesses; Sets Evergreen Field for 4 Turns upon successfully landing a damaging move
+- Grassy Blessing
+	- Implemented
+	- Effect: Pokemon's Grass-Type Moves hit opposing Grass-Type Pokemon neutrally. Pokemon's Stats cannot be lowered, and Uproar will fail against it. This Pokemon's Type(s) cannot be changed by Flower Trick.
+- Lightning Force
+	- No longer hits Fire-Types neutrally
+- Psychic Assault
+	- Upper Threshold: 120 -> 140
+- Resolution
+	- Corrected an error where the Damage Multiplier was x1.5 instead of x2
+
+Statuses
+- Evergreen Field
+	- Effect: Pokemon heal 1/10 of their Max Hp at the end of each turn
+
+Formats
+- Ubers
+	- Restrictions
+		- Deoxys-Clause
+			- Deoxys-Cannot hold a Fighting Memory
+				- *While nowhere nearly as versatile or universally broken as Deoxys-Attack-???, in terms of raw damage output, Deoxys-Fighting was actually even more powerful thanks to its Memory Ability, Perfect Form, and access to Dynamic Punch. If played correctly, Deoxys could force itself in against threats that it carefully "vetted" through its Teammates, and unleash devastating attacks that, in some instances, could even OHKO through resistances. Despite not being as broken as its ???-Type Counterpart overall: Its massive advantage in brute force still made it uncounterable, and effectively uncheckable, defensively. Theoretically, Deoxys-Fighting could be argued to stimulate some manner of "complexity" in the Meta, since Scarfed--or Priority-Wielding Ghosts could give it trouble should they either predict an incoming Fighting-Type Move, or switch in from a fainted ally, however, sacrificing the rest of the Meta was not worth it to simulate Rock-Paper-Scissors in the Battle Simulator, and since Ubers is designed to be the "primary" Tier in this Game, where true Balance supercedes simply being theoretically beatable: This action was necessary
+		- Mewtwo-Clause
+			- Mewtwo cannot hold a Psychic Memory
+				- *Although it wasn't fully apparent at first, in time it quickly appeared to be evident that Psychic Memory Mewtwo's uncounterable levels of power elevated it to levels that rivaled even its Mega Evolutions. In fact, Psychic Memory Mewtwo even has a niche over its Mega counterparts, in that it has more reliable bulk than Y, while being a better "mixed" attacker than either Mega ever was, due to its oppressive combination of Psystrike + Psycho Fire. So powerful was this Pokemon, that it could even be said that Psychic Memory Mewtwo was effectively "Mega Mewtwo Z", and with its only somewhat consistent nemesis, in Deoxys-A-???--being banished to join Arceus-???, and the other titans in AG: It was time for the AG Mega Mewtwo "Trifecta" to be completed.
+			- Mewtwo cannot hold a Water Memory
+				- *Although Water Sport Mewtwo, and Water Memory Mewtwo are not broken by themselves: When paired together, they formed a deadly combination that was not only uncounterable, but nigh-uncheckable. Considering that the Memory Disc had the "secondary" benefit of modifying Mewtwo's Typing, it even had a defensive niche over Psychic Memory Mewtwo, in that it could laugh at any former Super-Effective threats that had designed their sets around stopping "normal" Mewtwo and Mewtwo-Psychic, while still being comparably powerful. Short of using another Mewtwo, or hoping for a Speed Blitzer Super-Effective Move to hit, there are almost no true answers to this.
+
+Moves
+- Diffusion Wave
+	- Now only generates Spikes once per Switch-In
+- Hyperspace Hole
+	- Residual Damage: 1/5 -> 1/8
+- Inferno Beam
+	- Additional Effect: 10% Burn Chance
+
+Pokemon
+- Deoxys-Attack
+	- Learnset Removals
+		- Low Sweep
+		- Neuron Blade
+- Lunala
+	- Learnset Removals
+		- Compact Stream
+		- Ethereal Stream
+- Mewtwo
+	- Learnset Additions
+		- Flash Cannon
+- Tapu Bulu
+	- Implemented
+	- Ability: Grassy Surge -> Grassy Blessing
+		- Added Ability: Inveigle
+	- Base Stats
+		- Hp: 70 -> 230
+		- Atk: 130 -> 250
+		- Def: 115 -> 255
+		- SpA: 85 -> 175
+		- SpD: 95 -> 185
+		- Spe: 75 -> 165
+	- Learnset Additions
+		- Aromatic Mist
+		- Knock Off
+		- Jungle Healing
+		- Leaf Switch
+		- Light Screen
+		- Parting Shot
+		- Power Whip
+		- Reflect
+		- Roar
+		- Royal Retreat
+- Tapu Koko
+	- Learnset Additions
+		- Aromatic Mist
+
 Pokemon Memories v1.9.0
 General
 - Animations
