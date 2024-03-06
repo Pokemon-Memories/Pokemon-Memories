@@ -21,7 +21,7 @@ Section C
 	• Viability Rankings
 	• History of the Format
 
-(182 Total)
+(183 Total)
 						      Section A    
 						    Standard Ubers
 						      Highlights
@@ -117,53 +117,54 @@ Note: Pokemon beneath the A-Tier, are listed alphabetically; Pokemon in the lowe
 
 Viability Rankings
 
-S-Tier (6 Total)
+S-Tier (5 Total)
 
 S
 Mewtwo
-Meowscarada
-Necrozma-Dusk-Mane
-Kyogre
-Eternatus (A-; Grass Memory/Dragon Memory)
+Lunala
+Calyrex-Shadow (A+ Fairy Memory)
 
 S-
 Rayquaza (B+; Steel Memory)
+Kyurem-White
 
-
-A-Tier (29 Total)
+A-Tier (35 Total)
 
 A+
-Lunala
-Kyurem-Black
-Carracosta
-Muk-Alola
-Calyrex-Shadow
+Eternatus (A-; Grass Memory/Dragon Memory)
+Arceus-Electric
+Arceus-Fairy
+Raikou
+Dialga
 Lucario-Mega
-Arcanine-Hisui
+Kyogre
 
 A
+Heatran
+Necrozma-Dusk-Mane
 Sandslash-Alola
-Kyurem-White
 Zacian-Crowned
 Greninja-Ash
-Porygon-Z (A+; Ability Shield/Ice Memory)
-Deoxys-Attack (A; Fighting Memory/Up-Grade)
-Hoopa
+Meowscarada
+Kyurem-Black
+Deoxys-Attack
 Arceus
 Landorus-Therian
 Ho-Oh
-Calyrex-Ice
 
 A-
-Tapu Bulu
-Cresselia
+Hoopa
+Arcanine-Hisui
+Carracosta
+Muk-Alola
+Gengar-Mega
+Porygon-Z (A+; Ability Shield/Ice Memory)
+Darkrai
 Lugia
 Palkia
 Azumarill
 Arceus-Water
 Meowth (B+; Dubious Disc)
-Arceus-Electric
-Dialga
 Arceus-Ground
 Klinklang
 Marshadow (A-; Fighting Memory)
@@ -171,22 +172,22 @@ Golurk
 Victreebel
 
 
-B-Tier (89 Total)
+B-Tier (84 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
 Amoonguss
-Arceus-Fairy
+Arceus-Dark
 Arceus-Flying
 Arceus-Ghost
 Arceus-Grass
-Darkrai
+Calyrex-Ice
+Cresselia
 Decidueye
 Empoleon
 Entei
 Garchomp
 Genesect
-Giratina
 Gliscor
 Groudon
 Infernape
@@ -208,6 +209,7 @@ Shaymin-Sky
 Suicune
 Sunflora
 Swampert
+Tapu Bulu
 Tapu Fini
 Tapu Koko
 Thundurus
@@ -225,7 +227,6 @@ Zygarde
 Zygarde-Complete
 
 B
-Arceus-Dark
 Arceus-Fire
 Bellsprout
 Blastoise
@@ -235,7 +236,6 @@ Corviknight
 Cryogonal
 Darmanitan-Galar-Zen
 Deoxys-Speed
-Gengar-Mega
 Giratina-Origin
 Jellicent
 Landorus-Incarnate
@@ -262,6 +262,7 @@ Celebi
 Darmanitan
 Darmanitan-Galar
 Gengar
+Giratina
 Gyarados-Mega
 Hoopa Unbound
 Minun
@@ -316,12 +317,11 @@ Registeel
 Sableye
 
 
-D-Tier (13 Total)
+D-Tier (12 Total)
 
 D+
 Cobalion
 Gigalith
-Heatran
 Latios-Mega
 Maractus
 Milotic
@@ -1788,6 +1788,14 @@ Optimal EVs
 EVs: 88 HP / 8 SpD
 Raw Stats: 523 Hp / 558 SpD
 Example: 252+ SpA Space Power: SpA Dragon Memory Eternatus Eternabeam vs. 84 HP / 8 SpD Calyrex-Shadow: 442-520 (84.6 - 99.6%) -- guaranteed 2HKO
+--------------------------
+Deoxys-Attack
+--
+Surviving Adrenaline Orb Mewtwo's Psycho Darts
+Optimal EVs
+EVs: 248 SpD
+Raw Stats: 188 SpD
+Example: 252 SpA Adrenaline Orb Mewtwo Psycho Darts vs. 0 HP / 248 SpD Deoxys-Attack: 265-312 (84.6 - 99.6%) -- guaranteed 2HKO
 --------------------------
 Mewtwo
 --

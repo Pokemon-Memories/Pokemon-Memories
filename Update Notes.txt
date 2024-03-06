@@ -1,5 +1,155 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v1.9.2
+General
+- Animations
+	- The following Moves received Modified Animations: "Heavenly Mist", "Sacred Water"
+- Bugfixes
+	- Corrected an error where Pokemon could no longer learn Flash Cannon
+	- Corrected an error where some Pokemon would trigger false alarms in the Validator when attempting to run their Hidden Abilities
+Mechanics
+- Memory Discs and Assist Drives
+	- These Items are no longer affected by Item-Suppressed Moves, Field Conditions, or Abilities
+
+Formats
+- Ubers
+	- Restrictions
+		- Mewtwo can now hold a Water Memory again
+
+Abilities
+- Battle Bond
+	- Power Boost: x1.5 -> x1.3
+- Burning Beast
+	- Effect: Pokemon's Defensive Stats are Multiplied by x1.5 if it is holding a Choice Item
+	- Users: Entei
+- Dragon Armor
+	- Choice-Locked Pokemon Base Power Reduction: 1/4 -> 1/3 (x0.33)
+- Thunderous Beast
+	- Effect: Pokemon still receives the benefits of Choice Items, but is immune to being Choice-Locked. Ignores the Damage-Mitigating Properties of Anti-Choice-Lock Abilities and Items, such as Dragon Armor, and Utility Umbrella. Pokemon's Electric-Type Moves hit opposing Dragon-Types neutrally
+	- Users: Raikou
+- Torrential Beast
+	- Effect: Pokemon's Offenses are Multiplied by x1.5 if it is holding a Choice Item
+	- Users: Suicune
+- Earth Eater
+	- Implemented
+- Water Absorb
+	- Corrected an error where this Ability ignored Mold Breaking Properties
+
+Items
+- Choice Band and Choice Specs
+	- Prohibited Ability Additions: Battle Bond
+- Utility Umbrella
+	- Additional Effect: Reduces the power of opposing Choice Item-Holding Pokemon by 30%.
+
+Moves
+- Heavenly Mist
+	- Implemented
+		- Base Power: __
+		- Accuracy: __
+		- Category: Status
+		- Contact: No
+		- Effect: Lowers the opponent's Defense and Special Defense by 1 stage each, clears all hazards on the user's side, and sets Stealth Rock on the opponent's side. This move does not bypass the opposing Pokemon's Immunity(s)
+		- Priority: 0
+		- PP: 5
+		- Type: Normal
+		- Users: Arceus (All Formes)
+- Ice Spinner
+	- Base Power: 100 -> 110
+- Sonic Boom
+	- Accuracy: 90 -> 100
+	- Recoil: 1/4 -> 1/10
+
+Pokemon
+- Arceus
+	- Universal
+		- Learnset Additions
+			- Aura Sphere
+	- Arceus-Dark
+		- Base Stats
+			- Hp: 230 -> 270
+			- Atk: 240 -> 200
+	- Arceus-Electric
+		- Base Stats
+			- Hp: 30 -> 70
+			- Def: 285 -> 265
+			- SpD: 285 -> 265
+- Deoxys
+	- Base Forme
+		- Learnset Additions
+			- Receiving Strike
+- Dialga
+	- Learnset Additions
+		- Diffusion Wave
+		- Sweet Retreat
+- Entei
+	- Base Stats
+		- Atk: 300 -> 320
+		- Def: 300 -> 320
+		- SpA: 107 -> 137
+	- Learnset Additions
+		- Dragon Breath
+		- Fire Spin
+		- Royal Retreat
+		- Spikes
+- Garchomp
+	- General
+		- Corrected an oversight where Garchomp's and Mega Garchomp's Stats in the Game Data did not reflect the Stats intended for them in the Changelog
+	- Base Stats
+		- Atk: 270 -> 290
+		- Def: 185 -> 205
+		- SpD: 155 -> 185
+	- Learnset Additions
+		- Shattered Earth
+	- Garchomp-Mega
+		- Ability: Dyslexia -> Dragon Armor
+- Golurk
+	- Base Stats
+		- Hp: 233 -> 253
+- Greninja
+	- Greninja-Ash
+		- Base Stats
+			- Spe: 185 -> 182
+- Heatran
+	- Added Abilities: Earth Eater
+	- Base Stats
+		- Hp: 221 -> 261
+		- SpA: 240 -> 290
+- Mewtwo
+	- Learnset Removals
+		- Shattered Earth
+		- Water Sport
+- Necrozma-Dawn-Wings
+	- Learnset Additions
+		- Echoed Voice
+- Raikou
+	- Base Stats
+		- Hp: 120 -> 150
+		- Atk: 244 -> 270
+		- SpA: 256 -> 274
+		- Spe: 180 -> 186
+	- Learnset Additions
+		- Bolt Beak
+		- Close Combat
+		- Dragon Pulse
+		- Electro Ball
+		- Ice Spinner
+		- Nasty Plot
+		- Shadow Claw
+		- Slush Switch
+		- Sonic Boom
+		- Volt Tackle
+- Suicune
+	- Base Stats
+		- Atk: 212 -> 242
+		- SpA: 250 -> 280
+		- Spe: 163 -> 173
+	- Learnset Additions
+		- Aqua Jet
+		- Fishious Rend
+		- Water Spout
+	- Learnset Removals
+		- Quiver Dance
+
 Pokemon Memories v1.9.1
 General
 - Animations

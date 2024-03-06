@@ -28,6 +28,7 @@ Gallade: 320
 Groudon: 320
 Rayquaza: 320
 Slaking: 320
+Entei: 320
 Zacian Crowned: 320
 Zarude-Dada: 320
 Zekrom: 320
@@ -62,7 +63,6 @@ Arceus-Steel: 300
 Arceus-Water: 300
 Arceus: 300
 Darmanitan-Galar: 300
-Entei: 300
 Golurk: 300
 Kyurem-Black: 300
 Mega Aggron: 300

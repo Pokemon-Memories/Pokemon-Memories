@@ -485,6 +485,7 @@ Zygarde Complete: 		BST: 1400
 Landorus: 			BST: 1380
 Landorus Therian: 		BST: 1380
 Mega Diancie: 			BST: 1380
+Heatran: 			BST: 1370
 Mega Camerupt: 			BST: 1360
 Rayquaza: 			BST: 1345
 Dialga: 			BST: 1340
@@ -506,6 +507,7 @@ Pikachu Sinnoh: 		BST: 1304
 Sawsbuck-Autumn: 		BST: 1304
 Sawsbuck-Summer: 		BST: 1304
 Sawsbuck-Winter: 		BST: 1304
+Entei: 				BST: 1300
 Mega Charizard X: 		BST: 1300
 Mega Charizard Y: 		BST: 1300
 Drive Genesect: 		BST: 1300
@@ -514,6 +516,8 @@ Giratina: 			BST: 1300
 Mega Tyranitar: 		BST: 1300
 Necrozma-Dawn-Wings: 		BST: 1300
 Necrozma-Dusk-Mane: 		BST: 1300
+Raikou: 			BST: 1300
+Suicune: 			BST: 1300
 Victreebel: 			BST: 1300
 Reshiram: 			BST: 1300
 Zekrom: 			BST: 1300
@@ -523,8 +527,8 @@ Hoopa: 				BST: 1290
 Jirachi: 			BST: 1290
 Rapidash:  			BST: 1289
 Shaymin-Sky: 			BST: 1285
-Heatran: 			BST: 1280
 Mega Blastoise: 		BST: 1280
+Mega Garchomp: 			BST: 1280
 Mega Latias: 			BST: 1280
 Mega Latios: 			BST: 1280
 Mega Venusaur: 			BST: 1280
@@ -548,8 +552,8 @@ Melmetal: 			BST: 1252
 Mega Blaziken: 			BST: 1250
 Swanna: 			BST: 1250
 Infernape: 			BST: 1249
-Ash-Greninja: 			BST: 1248
 Emboar: 			BST: 1248
+Ash-Greninja: 			BST: 1245
 Xerneas: 			BST: 1242
 Yveltal: 			BST: 1242
 Empoleon: 			BST: 1240
@@ -557,10 +561,7 @@ Magearna Original: 		BST: 1240
 Lucario: 			BST: 1235
 Mega Altaria: 			BST: 1235
 Wailord: 			BST: 1235
-Entei: 				BST: 1230
 Mew:  				BST: 1230
-Raikou: 			BST: 1230
-Suicune: 			BST: 1230
 Zoroark: 			BST: 1230
 Mega Audino: 			BST: 1225
 Mienshao: 			BST: 1225
@@ -605,6 +606,7 @@ Braixen: 			BST: 1190
 Darkrai: 			BST: 1184
 Cresselia: 			BST: 1184
 Klinklang: 			BST: 1181
+Golurk: 			BST: 1180
 Volcanion: 			BST: 1180
 Sawsbuck: 			BST: 1177
 Zacian-Crowned 			BST: 1171
@@ -626,9 +628,7 @@ Rotom-Mow: 			BST: 1165
 Articuno-Galar: 		BST: 1160
 Articuno: 			BST: 1160
 Dragonite: 			BST: 1160
-Golurk: 			BST: 1160
 Lilligant: 			BST: 1160
-Mega Garchomp: 			BST: 1160
 Minun: 				BST: 1160
 Moltres-Galar: 			BST: 1160
 Moltres: 			BST: 1160
@@ -637,6 +637,7 @@ Zapdos-Galar: 			BST: 1160
 Zapdos: 			BST: 1160
 Dracozolt: 			BST: 1155
 Flygon: 			BST: 1150
+Garchomp: 			BST: 1150
 Mantine: 			BST: 1145
 Porygon2: 			BST: 1144
 Porygon-Z: 			BST: 1144
@@ -672,7 +673,7 @@ Corviknight: 			BST: 1125
 Dragapult: 			BST: 1124
 Jellicent: 			BST: 1120
 Slowking: 			BST: 1120
-Mega Metagross: 		BST: 112
+Mega Metagross: 		BST: 1120
 Diggersby: 			BST: 1113
 Hydreigon: 			BST: 1110
 Sceptile: 			BST: 1110
@@ -700,7 +701,6 @@ Sudowoodo: 			BST: 1080
 Snorlax: 			BST: 1080
 Minior: 			BST: 1080
 Alolan Muk: 			BST: 1080
-Garchomp: 			BST: 1080
 Haxorus: 			BST: 1080
 Roserade: 			BST: 1080
 Jumpluff: 			BST: 1080
@@ -883,6 +883,7 @@ Rotom-Frost: 195
 ===============
 Category: 180s (69 Total)
 Mewtwo: 187
+Raikou: 186
 Deoxys: 186
 Tapu Koko: 186
 Tornadus Therian: 186
@@ -890,7 +891,6 @@ Braixen: 186
 Ultra Necrozma: 186
 Mimikyu-Busted: 186
 Accelgor: 185
-Ash-Greninja: 185
 Beedrill: 185
 Darkrai: 185
 Dragalge: 185
@@ -907,6 +907,7 @@ Zoroark-Hisui: 184
 Infernape: 183
 Marshadow: 183
 Mega Lopunny: 183
+Ash-Greninja: 182
 Floette: 182
 Aerodactyl: 182
 Mega Aerodactyl: 182
@@ -949,7 +950,6 @@ Arceus-Water: 180
 Rotom-Fan: 180
 Zapdos: 180
 Minior: 180
-Raikou: 180
 ===============
 Category: 170s (64 Total)
 --
@@ -991,6 +991,7 @@ Decidueye: 174
 Porygon2: 174
 Luxray: 174
 Entei: 173
+Suicune: 173
 Azelf: 173
 Solgaleo: 172
 Lunala: 172
@@ -1018,7 +1019,7 @@ Mega Blaziken: 170
 Blaziken: 170
 Mienshao: 170
 ===============
-Category: 160s (78 Total)
+Category: 160s (77 Total)
 --
 Charizard: 169
 Mega Charizard X: 169
@@ -1053,7 +1054,6 @@ Eternatus: 163
 Eternamax Eternatus: 163
 Emolga: 163
 Nihilego: 163
-Suicune: 163
 Lugia: 162
 Regigigas: 162
 Victreebel: 162
@@ -1452,7 +1452,6 @@ Venoshock
 Water Gun
 Water Punch
 Waterfall
-Water Sport
 Wave Crash
 Work Up
 X-Scissor
@@ -2576,59 +2575,82 @@ New Moves
 High Horsepower
 ------------------------------------------------------------------------
 Raikou   
-Hp: 90 -> 120 = +30
-Atk: 85 -> 244 = +159
+Hp: 90 -> 150 = +60
+Atk: 85 -> 270 = +185
 Def: 75 -> 220 = +145
-SpA: 115 -> 256 = +141
+SpA: 115 -> 274 = +169
 SpD: 100 -> 210 = +130
-Spe: 115 -> 180 = +65
-BST: 580 -> 1230
-Added Ability: Lightning Tunnel
+Spe: 115 -> 186 = +71
+BST: 580 -> 1300
+Added Ability: Lightning Tunnel/Thunderous Beast
 New Moves
+Bolt Beak
+Close Combat
+Dragon Pulse
+Electro Ball
+Ice Spinner
+Lightning Strike
+Nasty Plot
+Play Rough
 Rising Voltage
+Shadow Claw
+Slush Switch
+Sonic Boom
+Volt Tackle
+
+Thunderous Beast (New Ability)
+Effect: Pokemon still receives the benefits of Choice Items, but is immune to being Choice-Locked. Bypasses the Choice-Related Damage-Reducing Properties of Dragon Armor and Utility Umbrella. Pokemon's Electric-Type Moves hit opposing Dragon-Types neutrally
 --
 Entei   
 Hp: 115 -> 180 = +65
-Atk: 115 -> 300 = +185
-Def: 85 -> 300 = +215
-SpA: 90 -> 107 = +17
+Atk: 115 -> 320 = +205
+Def: 85 -> 320 = +235
+SpA: 90 -> 137 = +47
 SpD: 75 -> 170 = +95
 Spe: 100 -> 173 = +73
-BST: 580 -> 1230
-Abilities: Pressure/Inner Focus -> Anger Point/Double-Layer
+BST: 580 -> 1300
+Abilities: Pressure/Inner Focus -> Anger Point/Double-Layer/Burning Beast
 
 New Moves
 Aromatic Mist
+Body Press
+Dragon Breath
 Earthquake
 Flame Switch
-Body Press
+Fire Spin
+Royal Retreat
+Spikes
 Withdraw
 
 Unlearned
 Flame Charge
+
+Burning Beast (New Ability)
+Effect: Pokemon's Defensive Stats are Multiplied by x1.5 if it is holding a Choice Item
 --
 Suicune   
 Hp: 100 -> 170 = +70
-Atk: 75 -> 212 = +137
+Atk: 75 -> 242 = +167
 Def: 115 -> 235 = +120
-SpA: 90 -> 250 = +160
+SpA: 90 -> 280 = +190
 SpD: 115 -> 200 = +85
-Spe: 85 -> 163 = +78
-BST: 580 -> 1230
-Abilities: Snow Warning/Regenerator
+Spe: 85 -> 173 = +88
+BST: 580 -> 1300
+Abilities: Snow Warning/Regenerator/Torrential Beast
 
 New Moves
 Aqua Fang
+Aqua Jet
 Aqua Soul
 Ethereal Stream
 Express Heal
 Flip Turn
+Fishious Rend
 Imprison
 Lustrous Stream
 Mud Sport
 Mystery Deluge
 Nasty Plot
-Quiver Dance
 Rapid Spin
 Recover
 Royal Submersion
@@ -2637,6 +2659,10 @@ Slush Switch
 Sparkling Ice
 Stealth Rock
 Water Sport
+Water Spout
+
+Torrential Beast (New Ability)
+Effect: Pokemon's Offenses are Multiplied by x1.5 if it is holding a Choice Item
 ------------------------------------------------------------------------
 Sceptile
 Hp: 70 -> 150 = +80
@@ -3258,6 +3284,7 @@ Situationally Learned Moves
 Dark Pulse (Users: Deoxys, Deoxys-Defense)
 Lash Out (Users: Deoxys, Deoxys-Defense)
 Neuron Blade (Users: Deoxys, Deoxys-Defensive, Deoxys-Speed)
+Receiving Strike (Users: Deoxys)
 Shadow Ball (Users: Deoxys, Deoxys-Defense)
 Shattered Earth (Users: Deoxys, Deoxys-Defense)
 Signal Beam (Users: Deoxys, Deoxys-Defense)
@@ -3474,12 +3501,12 @@ Fire Blast
 ------------------------------------------------------------------------
 Garchomp  
 Hp: 108 -> 178 = +70
-Atk: 130 -> 270 = +140
-Def: 95 -> 185 = +90
+Atk: 130 -> 290 = +160
+Def: 95 -> 205 = +110
 SpA: 80 -> 128 = +48
-SpD: 85 -> 155 = +70
+SpD: 85 -> 185 = +100
 Spe: 102 -> 164 = +62
-BST: 600 -> 1080
+BST: 600 -> 1150
 Ability: Sand Veil -> Stamina
 Added Ability: Dragon Armor
 
@@ -3491,7 +3518,7 @@ SpA: 128 -> 128 = +0
 SpD: 155 -> 205 = +50
 Spe: 164 -> 164 = +0
 BST: 1080 -> 1280
-Ability: Dyslexia
+Ability: Dragon Armor
 New Moves
 Agility
 Breaking Swipe
@@ -3504,11 +3531,12 @@ Milk Drink
 Regal Exit
 Scale Shot
 Stomping Tantrum
+Shattered Earth
 Tailwind
 Thermal Press
 
 Dragon Armor (New Ability)
-Effect: Pokemon's Dragon-Type, and Ground-Type Moves have x1.2 Base Power when they have any positive stat boosts; Opposing Choice-Locked Pokemon deal 1/4 their usual Damage; Pokemon is immune to recoil damage
+Effect: Pokemon's Dragon-Type, and Ground-Type Moves have x1.2 Base Power when they have any positive stat boosts; Opposing Choice-Locked Pokemon deal 1/3 their usual Damage; Pokemon is immune to recoil damage
 ------------------------------------------------------------------------
 Lucario    
 Hp: 70 -> 140 = +70
@@ -3815,6 +3843,7 @@ New Moves
 Armor Smash
 Body Slam
 Breaking Swipe
+Diffusion Wave
 Doom Desire
 Dragon Jaw
 Facade
@@ -3823,6 +3852,7 @@ Heat Crash
 Mystery Bind
 Shatter Reign
 Shell Smash
+Sweet Retreat
 Thunder Wave
 
 Unlearned
@@ -3845,7 +3875,7 @@ Def: 100 -> 190 = +80
 SpA: 150 -> 280 = +130
 SpD: 120 -> 200 = +80
 Spe: 100 -> 160 = +60
-BST: 680 -> 1280
+BST: 680 -> 1340
 Ability: Telepathy -> Dracolate
 Added Ability: Antipathy
 Chilling Water
@@ -3866,15 +3896,15 @@ Flip Turn
 Unlearned
 Substitute
 ------------------------------------------------------------------------
-Heatran
-Hp: 91 -> 221 = +130
+Heatran   
+Hp: 91 -> 261 = +170
 Atk: 90 -> 230 = +140
 Def: 106 -> 226 = +120
-SpA: 130 -> 240 = +110
+SpA: 130 -> 290 = +160
 SpD: 106 -> 226 = +120
 Spe: 77 -> 137 = +60
-BST: 600 -> 1280
-Abilities: Flash Fire/Flame Body -> Mold Breaker/Flash Fire
+BST: 600 -> 1370
+Abilities: Flash Fire/Flame Body -> Mold Breaker/Flash Fire/Earth Eater
 New Moves
 Thermal Press
 Meteor Mash
@@ -4174,6 +4204,7 @@ Aqua Charge
 Aqua Drain
 Aqua Jet
 Aqua Soul
+Aura Sphere
 Ascending Power
 Block
 Body Press
@@ -4205,6 +4236,7 @@ Glacial Strike
 Haze
 Healing Wish
 Heaven Dance
+Heavenly Mist
 Hydro Pump
 Hyper Drill
 Ice Hammer
@@ -4317,10 +4349,10 @@ Spe: 180 -> 180 = +0
 BST: 1400 -> 1400		
 
 Arceus Dark
-Formula: +30Hp, -60 Atk, +20 Def, +10 SpD
+Formula: +70 Hp, -100 Atk, +20 Def, +10 SpD
 Special Move: Darkest Nightfall
-Hp: 200 -> 230 = +30
-Atk: 300 -> 240 = -60
+Hp: 200 -> 270 = +70
+Atk: 300 -> 200 = -100
 Def: 210 -> 230 = +20
 SpA: 300 -> 300 = +0
 SpD: 210 -> 220 = +10
@@ -4339,12 +4371,12 @@ Spe: 180 -> 180 = +0
 BST: 1400 -> 1400		
 
 Arceus Electric
-Formula: -170 Hp, +35 Atk, +75 Def, +35 SpA, +75 SpD, +70 Spe
-Hp: 200 -> 30 = -170
+Formula: -130 Hp, +35 Atk, +55 Def, +35 SpA, +55 SpD, +70 Spe
+Hp: 200 -> 70 = -130
 Atk: 240 -> 275 = +35
-Def: 210 -> 285 = +75
+Def: 210 -> 265 = +55
 SpA: 240 -> 275 = +35
-SpD: 210 -> 285 = +75
+SpD: 210 -> 265 = +55
 Spe: 180 -> 250 = +70
 BST: 1400 -> 1400		
 
@@ -5002,14 +5034,14 @@ Spe: 35 -> 130 = +95
 BST: 303 -> 708
 
 Golurk   
-Hp: 233 -> 233 = +0
+Hp: 233 -> 253 = +20
 Atk: 90 -> 350 = +260
 Def: 140 -> 200 = +60
 SpA: 15 -> 1 = -14
 SpD: 100 -> 242 = +142
 Spe: 130 -> 134 = +4
-BST: 708 -> 1160
-Ability: Magic Bounce
+BST: 708 -> 1180
+Ability: No Guard -> Magic Bounce
 
 Special Moves
 Blades of Enlightenment
@@ -5672,8 +5704,8 @@ Atk: 218 -> 282 = +64
 Def: 132 -> 172 = +40
 SpA: 228 -> 292 = +64
 SpD: 132 -> 162 = +30
-Spe: 175 -> 185 = +62
-BST: 1020 -> 1248
+Spe: 175 -> 182 = +59
+BST: 1020 -> 1245
 Ability: Battle Bond
 New Moves
 Brutal Swing
@@ -6839,6 +6871,7 @@ Autotomize
 Cosmic Starfall
 Defog
 Diffusion Wave
+Echoed Voice
 Express Heal
 Haze
 Howl
@@ -9646,7 +9679,7 @@ Ruleset
 - Memory Clause: Only one Memory Disc is allowed per Team*
 - Arceus Clause: Arceus cannot hold a Dubious Disc*
 - Deoxys-Attack Clause: Deoxys-Attack cannot hold a Dubious Disc or a Fighting Memory*
-- Mewtwo Clause: Mewtwo cannot hold a Psychic Memory or a Water Memory
+- Mewtwo Clause: Mewtwo cannot hold a Psychic Memory.
 
 Banlist
 - Abilities
@@ -9847,7 +9880,7 @@ Perpetual-STAB
 If a Pokemon's Type(s) match the Type of their held Memory Disc, their Memory-STAB will become a Perpetual-STAB, which imparts a x2 Boost to STAB-Moves that match the Type of the held Memory Disc, as opposed to the standard x1.5 STAB Boost. Perpetual-STABs will remain in effect, even if the Pokemon Forme-Changes into a Forme that no longer possesses the Pokemon's original Perpetual-STAB Type (e.g. A Normal/Psychic Pokemon with a Psychic Memory that Forme-Changes into a Normal/Fighting Type, would possess a Normal-Type and Fighting-Type Memory-STAB, in addition to a Psychic-Type Perpetual-STAB).
 
 Special Mechanics
-In addition to their own Ability, Pokemon will also gain the Ability of their respective Disc, granting them two Abilities.
+In addition to their own Ability, Pokemon will also gain the Ability of their respective Disc, granting them two Abilities. Memory Discs are unaffected by Item-Suppressing Mechanics.
 
 Forme-Change Mechanics
 Memorized Pokemon will maintain their Memory-Types, if they use a Move or Ability that modifies their Forme, however, their Memory-Type will be temporarily replaced, if a Pokemon uses a Move or Ability that directly modifies their Typing (e.g. Protean). Any Memorized Pokemon with a modified Type, will revert back to their Memory-Type, at the end of the turn; Arceus will change Types using the Memory Discs, however it will not change Formes.
@@ -10133,6 +10166,9 @@ Certain Pokemon have Special Assist States (known as EX Assist States) that have
 
 Application
 Once activated, the Assist Abilities will affect every Pokemon on the holder's Team
+
+Item Interactions
+Assist Drives are unaffected by Item-Suppressing Mechanics.
 
 Type Assist
 Type-Based Damage Reduction: 20%
@@ -11155,7 +11191,7 @@ Category: D
 Dark Abyss (New Move)
 Base Power: 180
 Accuracy: 100
-Category: Physical
+Category: Special
 Priority: +0
 Contact: Yes
 Effect: Hits opposing Dark-Type Pokemon neutrally; x1.5 Base Power against sleeping Opponents
@@ -12027,12 +12063,22 @@ PP: 5
 Target: Self
 Type: Normal
 --
+Heavenly Mist (New Move)
+Base Power: __
+Accuracy: true
+Category: Status
+Effect: Lowers the opponent's Defense and Special Defense by 1 stage each, clears all hazards on the user's side, and sets Stealth Rock on the opponent's side. This move does not bypass the opposing Pokemon's Immunity(s)
+Priority: 0
+PP: 5
+Target: Normal
+Type: Normal
+--
 Heavy Slam
 Base Power: Varies -> 140
 --
 Hex
 Base Power: 65 -> 70
-Effect: Tripled Power if target has a Status Condition -> Tripled Power
+Effect: Doubled Power if target has a Status Condition -> Tripled Power under these conditions
 --
 Hidden Power
 Base Power: 60 -> 80
@@ -13765,10 +13811,11 @@ PP: 10 -> 5
 --
 Sonic Boom
 Base Power: __ -> 180
-Accuracy: 90
+Accuracy: 90 -> 100
 Category: Status -> Special
 Contact: No
-Penalty: 1/4 recoil
+Effect: Inflicts 20 HP of Damage -> __
+Penalty: 1/10 recoil
 PP: 20 -> 5
 --
 Spacial Rend
@@ -14385,7 +14432,7 @@ Battle Armor
 Additional Effect: Pokemon cannot lower its own stats
 --
 Battle Bond   
-Effect: Pokemon's First Successful Move has x1.5 Base Power. Pokemon's Resisted Moves have x1.5 Base Power. The Damage of the Pokemon's Moves is unaffected by the Weather
+Effect: Pokemon's First Successful Move has x1.3 Base Power. Pokemon's Resisted Moves deal x1.5 Damage. The Damage of the Pokemon's Moves is unaffected by the Weather
 --
 Barricade
 Effect: Reduces the Damage of opposing Ice-Type Attacks to x0.25; Pokemon cannot be Frozen.
@@ -14451,19 +14498,24 @@ Double-Layer
 Effect: All Semi-Effective attacks against the user deal x0.5 damage.
 --
 Download
-Effect: All Boosts Disappear at the end of a full turn, regardless of what stats were boosted.
+Effect: All Boosts Disappear after four active Turns
 --
 Dracolate
 Effect: Transforms Normal-Type moves into Dragon-Type attacks. x1.2 power.
 --
 Dragon Armor 
-Effect: Pokemon's Dragon-Type, and Ground-Type Moves have x1.2 Base Power when they have any positive stat boosts; Opposing Choice-Locked Pokemon deal 1/4 their usual Damage; Pokemon is immune to recoil damage
+Effect: Pokemon's Dragon-Type, and Ground-Type Moves have x1.2 Base Power when they have any positive stat boosts; Opposing Choice-Locked Pokemon deal 1/3 their usual Damage; Pokemon is immune to recoil damage
 --
 Dragon Heart
 Effect: Halves the damage of opposing Physical Attacks when above 1/2 Max Hp.
 --
 Dyslexia
 Effect: Pokemon's Weaknesses and Resistances become inverted.
+------------------------------------------------------------------------
+Category: E   
+--
+Earth Eater
+Status: Implemented
 ------------------------------------------------------------------------
 Category: F 
 --
@@ -15059,6 +15111,17 @@ Category: Decidueye Exclusive Abilities
 --
 Bird of Prey   
 Effect: Pokemon's Moves have halved Base Power by default; If this Pokemon hits an opponent that has 1/2 or less of its Max Hp, it's attack OHKO's the target
+--------------------------------------------------------------------------------
+Category: Legendary Beast Exclusive Abilities
+--
+Burning Beast   
+Effect: Pokemon's Defensive Stats are Multiplied by x1.5 if it is holding a Choice Item.
+--
+Thunderous Beast   
+Effect: Pokemon still receives the benefits of Choice Items, but is immune to being Choice-Locked. Bypasses the Choice-Related Damage-Reducing Properties of Dragon Armor and Utility Umbrella. Pokemon's Electric-Type Moves hit opposing Dragon-Types neutrally
+--
+Torrential Beast    
+Effect: Pokemon's Offenses are Multiplied by x1.5 if it is holding a Choice Item
 =========================================================
 Section H  
 Modified Type Interactions  
@@ -15226,6 +15289,9 @@ Effect: Heals holder by 1/10 max hp each turn if it is a Ghost-Type.
 --
 Choice Items
 Collective Penalty: Immediately destroyed if holder has the following abilities: Beast Boost, Bulldozer, Download, Dual Wielder, Huge Power, Illusion, Libero, Parlor Trick, Pure Power, Protean
+-
+Exceptions: The following Abilities will only destroy the specified Choice Items (rather than all of them)
+* Battle Bond (Choice Band; Choice Specs)
 --
 Dragon Fang
 Additional Effect: Mega Evolves Rayquaza in the formats that allow it
@@ -15438,7 +15504,7 @@ Type-Dependent Gem
 Multiplier: x1.3 -> x1.5
 --
 Utility Umbrella
-Effect: Opposing Spout-Based Attacks deal 1/4 damage; Immunity to Paralysis Damage, and Full Paralysis.
+Effect: Opposing Spout-Based Attacks deal 1/4 damage; Opposing Moves from Pokemon holding Choice-Items deal x0.7 their usual Damage; Immunity to Paralysis Damage, and Full Paralysis.
 Additional Effect: Getting hit by a Spout-Move raises holder's Def and SpD by 1 stage each (Multi-Use).
 Affected Moves: Water Spout, Eruption, Water Sport, Mud Sport, Venom Drench
 --
