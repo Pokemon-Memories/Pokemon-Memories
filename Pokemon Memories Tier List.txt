@@ -117,54 +117,53 @@ Note: Pokemon beneath the A-Tier, are listed alphabetically; Pokemon in the lowe
 
 Viability Rankings
 
-S-Tier (5 Total)
+S-Tier (7 Total)
 
 S
 Mewtwo
 Lunala
-Calyrex-Shadow (A+ Fairy Memory)
+Heatran
+Greninja-Ash
+Calyrex-Shadow (S-; Ghost Memory/Fairy Memory)
 
 S-
 Rayquaza (B+; Steel Memory)
 Kyurem-White
 
-A-Tier (35 Total)
+A-Tier (32 Total)
 
 A+
+Zacian-Crowned (A; Ground Memory)
 Eternatus (A-; Grass Memory/Dragon Memory)
 Arceus-Electric
 Arceus-Fairy
 Raikou
-Dialga
 Lucario-Mega
 Kyogre
 
 A
-Heatran
+Dialga
 Necrozma-Dusk-Mane
 Sandslash-Alola
-Zacian-Crowned
-Greninja-Ash
 Meowscarada
 Kyurem-Black
+Darkrai
 Deoxys-Attack
 Arceus
-Landorus-Therian
 Ho-Oh
 
 A-
-Hoopa
+Landorus-Therian
 Arcanine-Hisui
 Carracosta
 Muk-Alola
 Gengar-Mega
 Porygon-Z (A+; Ability Shield/Ice Memory)
-Darkrai
 Lugia
 Palkia
 Azumarill
 Arceus-Water
-Meowth (B+; Dubious Disc)
+Meowth (B; Dubious Disc)
 Arceus-Ground
 Klinklang
 Marshadow (A-; Fighting Memory)
@@ -172,7 +171,7 @@ Golurk
 Victreebel
 
 
-B-Tier (84 Total)
+B-Tier (90 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
@@ -190,6 +189,7 @@ Garchomp
 Genesect
 Gliscor
 Groudon
+Hoopa
 Infernape
 Keldeo
 Lilligant

@@ -3112,7 +3112,7 @@ SpA: 100 -> 240 = +140
 SpD: 90 -> 180 = +90
 Spe: 90 -> 160 = +40
 BST: 670 -> 1340
-Added Ability: Antipathy
+Added Abilities: Sand Stream/Antipathy
 New Moves
 Body Press
 Flame Wheel
@@ -3906,6 +3906,7 @@ Spe: 77 -> 137 = +60
 BST: 600 -> 1370
 Abilities: Flash Fire/Flame Body -> Mold Breaker/Flash Fire/Earth Eater
 New Moves
+Diffusion Wave
 Thermal Press
 Meteor Mash
 Swords Dance
@@ -4230,6 +4231,7 @@ Fall Back
 Flame Burst
 Flame Switch
 Flash
+Flip Kick
 Flip Turn
 Frenzy Plant
 Glacial Strike
@@ -9970,7 +9972,7 @@ Diamond Armor
 Effect: Eliminates the Pokemon's Ground-Type Weakness, and bounces opposing Status-Moves
 --
 Endless Earth 
-Effect: Ignores the immunities of the target when using Ground-Type Moves; Opposing Electric-Type moves are always ineffective, regardless of the opponent's Ability.
+Effect: Ignores the immunities of the target when using Ground-Type Moves, Hits opposing Flying-Types with 1/2 Effectiveness; Opposing Electric-Type moves are always ineffective, regardless of the opponent's Ability.
 --
 Eternal Stream
 Effect: Resisted Water-Type attacks hit with x1.5 Base Power (does not override Resistances); Pokemon's Water-Type moves have perfect accuracy. Pokemon cannot be trapped by Life Force.
@@ -9985,7 +9987,7 @@ Frost Shield
 Effect: Pokemon receives x0.67 Damage from opposing Special Attacks
 --
 Infinite Voltage
-Effect: Ignores the immunities of the target when using Ground-Type Moves, and hits Ground-Types for x1.5 Damage.
+Effect: Ignores the immunities of the target when using Electric-Type Moves, and hits Ground-Types for x1.5 Damage.
 --
 Life Force
 Effect: Traps opposing Water-Type Pokemon; Opposing Water-Type moves deal x0.5 Damage. If an opposing Water-Type Pokemon is on the field: Opponent loses 1/8 Max Hp, while the Ability's wielder restores 1/8 Max Hp, at the end of each turn. Pokemon is instantly cured upon being statused.
@@ -13143,6 +13145,7 @@ Accuracy: True
 Category: Status
 Contact: No
 Effect: Raises the Pokemon's Speed by 2 Stages, and its Highest Attacking Stat by 1 Stage, for 3 Turns, before clearing all of the Pokemon's Boosts. If both Offensive Stats are equal, this move will raise both of the Pokemon's Attacking Stats, and their Speed, by 1 stage each. This move can only be used once per Battle.
+Memory Effect: This move will restore 1/2 of the Pokemon's Max Hp instead of boosting its Stats, if they are Memorized
 PP: 5
 Target: Self
 Type: Normal

@@ -1,5 +1,34 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v1.9.3
+Mechanics
+- Memorization
+	- Memory Abilities
+		- Endless Earth
+			- Ground-Type Moves now hit opposing Flying-Types with 1/2 Effectiveness, rather than Neutral Effectiveness.
+
+Moves
+- Heavenly Mist
+	- Additional Effect: Restores 1/2 of the user's Max Hp
+- Rental Charge
+	- Memory Effect: __ (+1 Highest Offensive Stat/+2 Spe) -> Restores 1/2 of the Pokemon's Max Hp
+
+Pokemon
+- Arceus
+	- Learnset Additions
+		- Flip Kick
+- Greninja
+	- Ash-Greninja
+		- Corrected an oversight where Ash-Greninja's Speed Stat was not lowered to its intended value
+- Groudon
+	- Added Ability: Sand Stream
+- Heatran
+	- Learnset Additions
+		- Diffusion Wave
+- Lilligant-Hisui
+	- Learnset Additions
+		- Healing Wish
+
 Pokemon Memories v1.9.2
 General
 - Animations
