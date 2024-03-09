@@ -120,39 +120,42 @@ Viability Rankings
 S-Tier (7 Total)
 
 S
-Mewtwo
-Lunala
+Arceus
 Heatran
-Greninja-Ash
-Calyrex-Shadow (S-; Ghost Memory/Fairy Memory)
+Kyurem-White (S-; Dragon Memory)
+Mewtwo
 
 S-
-Rayquaza (B+; Steel Memory)
-Kyurem-White
+Raikou
+Greninja-Ash
+Calyrex-Shadow (S-; Ghost Memory/Fairy Memory)
 
 A-Tier (32 Total)
 
 A+
-Zacian-Crowned (A; Ground Memory)
-Eternatus (A-; Grass Memory/Dragon Memory)
-Arceus-Electric
-Arceus-Fairy
-Raikou
+Zacian-Crowned
+Ho-Oh
+Lilligant-Hisui
+Lunala
 Lucario-Mega
+Meowscarada
 Kyogre
 
 A
-Dialga
-Necrozma-Dusk-Mane
-Sandslash-Alola
-Meowscarada
-Kyurem-Black
+Tornadus
 Darkrai
 Deoxys-Attack
-Arceus
-Ho-Oh
+Rayquaza
+Eternatus
+Necrozma-Dusk-Mane
+Sandslash-Alola
+Spectrier
+Kyurem-Black
 
 A-
+Arceus-Electric
+Arceus-Fairy
+Dialga
 Landorus-Therian
 Arcanine-Hisui
 Carracosta
@@ -160,18 +163,16 @@ Muk-Alola
 Gengar-Mega
 Porygon-Z (A+; Ability Shield/Ice Memory)
 Lugia
-Palkia
 Azumarill
 Arceus-Water
 Meowth (B; Dubious Disc)
 Arceus-Ground
 Klinklang
 Marshadow (A-; Fighting Memory)
-Golurk
 Victreebel
 
 
-B-Tier (90 Total)
+B-Tier (91 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
@@ -180,14 +181,15 @@ Arceus-Dark
 Arceus-Flying
 Arceus-Ghost
 Arceus-Grass
-Calyrex-Ice
 Cresselia
 Decidueye
 Empoleon
 Entei
 Garchomp
 Genesect
+Glastrier
 Gliscor
+Golurk
 Groudon
 Hoopa
 Infernape
@@ -203,6 +205,7 @@ Mimikyu
 Mimikyu-Busted
 Necrozma-Dawn-Wings
 Necrozma-Ultra
+Palkia
 Phione
 Pikachu-Original
 Shaymin-Sky
@@ -214,7 +217,6 @@ Tapu Fini
 Tapu Koko
 Thundurus
 Thundurus-Therian
-Tornadus
 Umbreon
 Vaporeon
 Weavile
@@ -232,6 +234,7 @@ Bellsprout
 Blastoise
 Blastoise-Mega
 Blissey
+Calyrex-Ice
 Corviknight
 Cryogonal
 Darmanitan-Galar-Zen
@@ -239,7 +242,6 @@ Deoxys-Speed
 Giratina-Origin
 Jellicent
 Landorus-Incarnate
-Lilligant-Hisui
 Ludicolo
 Magnezone
 Mesprit
@@ -1768,7 +1770,7 @@ Description: Calyrex-Ice's incredible natural 180/260/200 bulk, paired with its 
 
 
 
-						     Laboratory
+						     Laboratory         
 Purpose: The Laboratory exists to document certain EV, Moveset, and Ability Sets that can assist in optimizing a Pokemon, and increasing their potential.
 
 --------------------------

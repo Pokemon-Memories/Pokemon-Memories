@@ -1,3 +1,63 @@
+=== [gen6unlimitedmemorizeubers] Super Memory Abilities Testing ===
+
+Yveltal @ Dark Memory  
+Ability: Dark Aura  
+Happiness: 251  
+EVs: 252 HP / 252 Atk  
+Adamant Nature  
+- memoryblast  
+- Dual Wingbeat  
+- Tailwind  
+- Uproar  
+
+Xerneas @ Fairy Memory  
+Ability: Fairy Aura  
+EVs: 252 HP / 252 SpA / 4 Spe  
+Modest Nature  
+- memoryblast  
+- Focus Blast  
+- Aromatic Mist  
+- sweetretreat  
+
+Dialga @ Dragon Memory  
+Ability: Regenerator  
+EVs: 252 HP / 252 Def / 4 Spe  
+Impish Nature  
+- shatterreign  
+- Iron Head  
+- Stealth Rock  
+- sweetretreat  
+
+Landorus (M) @ Fire Memory  
+Ability: Sheer Force  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- memoryblast  
+- Aeroblast  
+- Focus Blast  
+- expressheal  
+
+Rotom-Wash @ Poison Memory  
+Ability: doubledown  
+Happiness: 251  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+- Light Screen  
+- aquasoul  
+- Dragon Breath  
+- Recover  
+
+Heatran (M) @ Metal Coat  
+Ability: battlebastion  
+Happiness: 251  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+- diffusionwave  
+- Flash Cannon  
+- Recover  
+- Withdraw  
+
+
 === [gen6anythinggoes] Aquatic Chaos (Mewtwo, Water) ===
 
 Mewtwo @ Water Memory  
@@ -7,11 +67,11 @@ EVs: 28 HP / 4 Def / 224 SpA / 252 Spe
 Timid Nature  
 - psychicstorm  
 - etherealstream  
-- Inferno Beam  
+- infernobeam  
 - psychicfury  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -31,7 +91,7 @@ Jolly Nature
 - Volt Switch  
 
 Kyurem-White @ Leftovers  
-Ability: dragonpower  
+Ability: Dragon Power  
 Shiny: Yes  
 Happiness: 251  
 EVs: 4 HP / 252 SpD / 252 Spe  
@@ -51,7 +111,7 @@ IVs: 0 Spe
 - Sunsteel Strike  
 - diffusionwave  
 - Aromatic Mist  
-- Bullet Switch  
+- bulletswitch  
 
 Tapu Bulu @ Lax Incense  
 Ability: grassyblessing  
@@ -62,7 +122,7 @@ Impish Nature
 - Power Whip  
 - Reflect  
 - Aromatic Mist  
-- Leaf Switch  
+- leafswitch  
 
 
 === [gen6anythinggoes] Absolute Power (Deoxys-Attack, Fighting) ===
@@ -127,7 +187,7 @@ Jolly Nature
 - auradrain  
 - Low Kick  
 - Low Sweep  
-- Bullet Switch  
+- bulletswitch  
 
 
 === [gen6anythinggoes] Why? Just... Why? (Deoxys-A, ???) ===
@@ -153,7 +213,7 @@ Naughty Nature
 - Magma Storm  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -163,7 +223,7 @@ Jolly Nature
 - Uproar  
 
 Kyurem-White @ Leftovers  
-Ability: dragonpower  
+Ability: Dragon Power  
 Shiny: Yes  
 Happiness: 251  
 EVs: 4 HP / 252 SpD / 252 Spe  
@@ -183,7 +243,7 @@ IVs: 0 Spe
 - Sunsteel Strike  
 - diffusionwave  
 - Aromatic Mist  
-- Bullet Switch  
+- bulletswitch  
 
 Tapu Bulu @ Lax Incense  
 Ability: grassyblessing  
@@ -194,7 +254,7 @@ Impish Nature
 - Power Whip  
 - Reflect  
 - Aromatic Mist  
-- Leaf Switch  
+- leafswitch  
 
 
 === [gen6anythinggoes] Y? Just... Y? (Deoxys-A, ???) ===
@@ -220,7 +280,7 @@ Naughty Nature
 - Magma Storm  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -230,7 +290,7 @@ Jolly Nature
 - Uproar  
 
 Kyurem-White @ Leftovers  
-Ability: dragonpower  
+Ability: Dragon Power  
 Shiny: Yes  
 Happiness: 251  
 EVs: 4 HP / 252 SpD / 252 Spe  
@@ -250,7 +310,7 @@ IVs: 0 Spe
 - Sunsteel Strike  
 - diffusionwave  
 - Aromatic Mist  
-- Bullet Switch  
+- bulletswitch  
 
 Tapu Bulu @ Lax Incense  
 Ability: grassyblessing  
@@ -261,13 +321,13 @@ Impish Nature
 - Power Whip  
 - Reflect  
 - Aromatic Mist  
-- Leaf Switch  
+- leafswitch  
 
 
 === [gen6anythinggoes] Psychic-Two got Banned (Mewtwo, Psychic) ===
 
 Kyurem-Black @ Life Orb  
-Ability: dragonpower  
+Ability: Dragon Power  
 Shiny: Yes  
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
@@ -330,7 +390,7 @@ IVs: 0 Spe
 - Sunsteel Strike  
 - diffusionwave  
 - Aromatic Mist  
-- Bullet Switch  
+- bulletswitch  
 
 
 === [gen6anythinggoes] Mega Mewtwo Z (Mewtwo, Psychic) ===
@@ -352,11 +412,11 @@ EVs: 4 HP / 252 SpA / 252 Spe
 Timid Nature  
 - Judgment  
 - Meteor Beam  
-- Covert Switch  
+- covertswitch  
 - Recover  
 
 Kyurem-Black @ Life Orb  
-Ability: dragonpower  
+Ability: Dragon Power  
 Shiny: Yes  
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
@@ -411,7 +471,7 @@ IVs: 0 Spe
 - Sunsteel Strike  
 - diffusionwave  
 - Aromatic Mist  
-- Bullet Switch  
+- bulletswitch  
 
 Lugia @ White Herb  
 Ability: deepsea  
@@ -626,7 +686,7 @@ EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
 Jolly Nature  
 - Sacred Sword  
 - Storm Throw  
-- Glacial Strike  
+- glacialstrike  
 - Heal Order  
 
 
@@ -779,7 +839,7 @@ Sassy Nature
 IVs: 0 Spe  
 - Origin Pulse  
 - Spectral Thief  
-- Express Heal  
+- expressheal  
 - royalretreat  
 
 Arceus-Fire @ Lax Incense  
@@ -797,7 +857,7 @@ Happiness: 251
 EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
 Modest Nature  
 - Sludge Bomb  
-- Inferno Beam  
+- infernobeam  
 - healingfeather  
 - Celebrate  
 
@@ -873,7 +933,7 @@ Sassy Nature
 IVs: 0 Spe  
 - Origin Pulse  
 - diffusionwave  
-- Express Heal  
+- expressheal  
 - royalretreat  
 
 Arceus-Fighting @ Leftovers  
@@ -916,7 +976,7 @@ Shiny: Yes
 EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
 Timid Nature  
 - Surf  
-- Inferno Beam  
+- infernobeam  
 - Stealth Rock  
 - Trailblaze  
 
@@ -934,7 +994,7 @@ Ability: bulldozer
 EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
 Timid Nature  
 - psychicinfinity  
-- Inferno Beam  
+- infernobeam  
 - Fleur Cannon  
 - snowrush  
 
@@ -997,7 +1057,7 @@ Impish Nature
 - Sacred Fire  
 - Dragon Breath  
 - flameswitch  
-- Express Heal  
+- expressheal  
 
 Unown-S @ assistdrive  
 Ability: Shadow Tag  
@@ -1090,7 +1150,7 @@ Impish Nature
 - Sacred Fire  
 - Dragon Breath  
 - flameswitch  
-- Express Heal  
+- expressheal  
 
 Celesteela @ Metal Coat  
 Ability: Filter  
@@ -1180,7 +1240,7 @@ Impish Nature
 - Sacred Fire  
 - Dragon Breath  
 - flameswitch  
-- Express Heal  
+- expressheal  
 
 Camerupt (M) @ assistdrive  
 Ability: Magma Armor  
@@ -1276,7 +1336,7 @@ Impish Nature
 - Sacred Fire  
 - Dragon Breath  
 - flameswitch  
-- Express Heal  
+- expressheal  
 
 Mewtwo @ Adrenaline Orb  
 Ability: antipathy  
@@ -1408,7 +1468,7 @@ Ability: Multitype
 EVs: 252 Atk / 4 Def / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
-- Glacial Strike  
+- glacialstrike  
 - infinitevelocity  
 - heavendance  
 
@@ -1460,7 +1520,7 @@ Ability: hightenedmind
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Psystrike  
-- Inferno Beam  
+- infernobeam  
 - etherealstream  
 - Night Daze  
 
@@ -1521,7 +1581,7 @@ Ability: psychicpower
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Psystrike  
-- Inferno Beam  
+- infernobeam  
 - Aurora Beam  
 - Night Daze  
 
@@ -1531,7 +1591,7 @@ Shiny: Yes
 EVs: 252 Atk / 4 Def / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
-- Glacial Strike  
+- glacialstrike  
 - infinitevelocity  
 - heavendance  
 
@@ -1582,7 +1642,7 @@ Ability: omnipotent
 EVs: 252 Atk / 4 Def / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
-- Glacial Strike  
+- glacialstrike  
 - infinitevelocity  
 - heavendance  
 
@@ -1654,7 +1714,7 @@ Bold Nature
 - Sandsear Storm  
 - Stealth Rock  
 - U-turn  
-- Express Heal  
+- expressheal  
 
 Arceus-Fairy @ Pixie Plate  
 Ability: Multitype  
@@ -1671,7 +1731,7 @@ Ability: hightenedmind
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Psystrike  
-- Inferno Beam  
+- infernobeam  
 - Aurora Beam  
 - Night Daze  
 
@@ -1705,7 +1765,7 @@ Bold Nature
 - Sandsear Storm  
 - Rapid Spin  
 - U-turn  
-- Express Heal  
+- expressheal  
 
 Zacian-Crowned @ Metal Coat  
 Ability: Intrepid Sword  
@@ -1843,7 +1903,7 @@ Shiny: Yes
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
-- Glacial Strike  
+- glacialstrike  
 - infinitevelocity  
 - heavendance  
 
@@ -1876,7 +1936,7 @@ Ability: hightenedmind
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Expanding Force  
-- Inferno Beam  
+- infernobeam  
 - Venoshock  
 - Night Daze  
 
@@ -1978,7 +2038,7 @@ Impish Nature
 - Sandsear Storm  
 - Stealth Rock  
 - U-turn  
-- Express Heal  
+- expressheal  
 
 Gardevoir @ assistdrive  
 Ability: Trace  
@@ -2038,7 +2098,7 @@ Shiny: Yes
 EVs: 252 Atk / 4 Def / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
-- Glacial Strike  
+- glacialstrike  
 - infinitevelocity  
 - heavendance  
 
@@ -2113,7 +2173,7 @@ Bold Nature
 - Sandsear Storm  
 - Sludge Bomb  
 - U-turn  
-- Express Heal  
+- expressheal  
 
 
 === [gen6ultraassist] Ultra Assist/Contrarian (Def Assist: Unown-?) ===
@@ -2123,7 +2183,7 @@ Ability: psychicpower
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Psystrike  
-- Inferno Beam  
+- infernobeam  
 - etherealstream  
 - Night Daze  
 
@@ -2163,7 +2223,7 @@ Impish Nature
 - Sandsear Storm  
 - Stealth Rock  
 - U-turn  
-- Express Heal  
+- expressheal  
 
 Rotom-Wash @ Sweet Apple  
 Ability: doubledown  
@@ -2194,7 +2254,7 @@ Impish Nature
 - Sandsear Storm  
 - Rock Tomb  
 - U-turn  
-- Express Heal  
+- expressheal  
 
 Dialga @ Dusk Stone  
 Ability: Regenerator  
@@ -2255,7 +2315,7 @@ Impish Nature
 - Sandsear Storm  
 - Stealth Rock  
 - U-turn  
-- Express Heal  
+- expressheal  
 
 Xerneas @ assistdrive  
 Ability: Fairy Aura  
@@ -2274,7 +2334,7 @@ Shiny: Yes
 EVs: 252 Atk / 4 Def / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
-- Glacial Strike  
+- glacialstrike  
 - infinitevelocity  
 - heavendance  
 
@@ -2358,7 +2418,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- Express Heal  
+- expressheal  
 - sludgeswitch  
 
 
@@ -2397,7 +2457,7 @@ Timid Nature
 - psychodarts  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -2457,7 +2517,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
@@ -2505,7 +2565,7 @@ Ability: psychicpower
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Expanding Force  
-- Inferno Beam  
+- infernobeam  
 - Night Daze  
 - pixierun  
 
@@ -2595,7 +2655,7 @@ Ability: hightenedmind
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
 - Stored Power  
-- Inferno Beam  
+- infernobeam  
 - etherealstream  
 - Comeuppance  
 
@@ -2660,7 +2720,7 @@ Adamant Nature
 - Agility  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -2771,7 +2831,7 @@ Adamant Nature
 - Agility  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -2877,7 +2937,7 @@ IVs: 0 Spe
 - Sunsteel Strike  
 - diffusionwave  
 - Aromatic Mist  
-- Bullet Switch  
+- bulletswitch  
 
 Dialga @ Sweet Apple  
 Ability: Regenerator  
@@ -2958,7 +3018,7 @@ Adamant Nature
 - Glacial Lance  
 - Stealth Rock  
 - Aromatic Mist  
-- Accelerate  
+- accelerate  
 
 Giratina @ Chipped Pot  
 Ability: distortionveil  
@@ -3008,7 +3068,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - lustrousstream  
 - Stealth Rock  
-- Express Heal  
+- expressheal  
 - slushswitch  
 
 Zamazenta-Crowned @ Rusted Shield  
@@ -3042,12 +3102,12 @@ Naughty Nature
 === [gen6ubers] Lando Breaks the Ice (Lando-T, Ice) ===
 
 Landorus-Therian @ Ice Memory  
-Ability: Inveigle  
+Ability: inveigle  
 EVs: 4 HP / 252 SpD / 252 Spe  
 Jolly Nature  
 - Sandsear Storm  
 - memoryblast  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 Giratina @ Chipped Pot  
@@ -3115,7 +3175,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - lustrousstream  
 - Stealth Rock  
-- Express Heal  
+- expressheal  
 - slushswitch  
 
 Tornadus @ Choice Scarf  
@@ -3196,13 +3256,13 @@ Ability: Tough Claws
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- Shadow Flame  
+- shadowflame  
 - Rock Slide  
 - Cross Poison  
 - snowrush  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Flower Trick  
@@ -3295,7 +3355,7 @@ Adamant Nature
 - Glacial Lance  
 - Stealth Rock  
 - Aromatic Mist  
-- Accelerate  
+- accelerate  
 
 Deoxys-Attack @ Life Orb  
 Ability: antipathy  
@@ -3371,7 +3431,7 @@ EVs: 4 HP / 252 Def / 252 Spe
 Impish Nature  
 - Sandsear Storm  
 - Aeroblast  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 Calyrex-Shadow @ Choice Scarf  
@@ -3412,7 +3472,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - mindcleaner  
-- Express Heal  
+- expressheal  
 - sludgeswitch  
 
 Mew @ energypowder  
@@ -3431,7 +3491,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - lustrousstream  
 - Stealth Rock  
-- Express Heal  
+- expressheal  
 - slushswitch  
 
 Ho-Oh @ Sweet Apple  
@@ -3584,7 +3644,7 @@ Jolly Nature
 - Feint Attack  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -3669,7 +3729,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - lustrousstream  
 - Stealth Rock  
-- Express Heal  
+- expressheal  
 - slushswitch  
 
 Ho-Oh @ Sweet Apple  
@@ -3794,7 +3854,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - lustrousstream  
 - Stealth Rock  
-- Express Heal  
+- expressheal  
 - slushswitch  
 
 Necrozma-Dawn-Wings @ Assault Vest  
@@ -3803,7 +3863,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - mindcleaner  
-- Express Heal  
+- expressheal  
 - sludgeswitch  
 
 
@@ -3815,7 +3875,7 @@ EVs: 4 Atk / 252 SpA / 252 Spe
 Naive Nature  
 - Stored Power  
 - memoryblast  
-- Inferno Beam  
+- infernobeam  
 - malicerun  
 
 Klinklang @ Metal Coat  
@@ -3833,7 +3893,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- Express Heal  
+- expressheal  
 - sludgeswitch  
 
 Dialga @ Metal Coat  
@@ -3846,7 +3906,7 @@ Lonely Nature
 - Shell Smash  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -3894,7 +3954,7 @@ Adamant Nature
 - Glacial Lance  
 - Stealth Rock  
 - Aromatic Mist  
-- Accelerate  
+- accelerate  
 
 Groudon @ Gold Bottle Cap  
 Ability: Drought  
@@ -3989,11 +4049,11 @@ Careful Nature
 === [gen6ubers] Fissure (Kyurem-B, Ground) ===
 
 Kyurem-Black @ Ground Memory  
-Ability: dragonpower  
+Ability: Dragon Power  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- Glacial Strike  
+- glacialstrike  
 - memoryblast  
 - Fusion Bolt  
 - Agility  
@@ -4033,7 +4093,7 @@ Adamant Nature
 - Glacial Lance  
 - Stealth Rock  
 - Aromatic Mist  
-- Accelerate  
+- accelerate  
 
 Necrozma-Dawn-Wings @ Assault Vest  
 Ability: lightinversion  
@@ -4041,7 +4101,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - mindcleaner  
-- Express Heal  
+- expressheal  
 - sludgeswitch  
 
 
@@ -4062,7 +4122,7 @@ Shiny: Yes
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Stored Power  
-- Inferno Beam  
+- infernobeam  
 - shattershade  
 - Nasty Plot  
 
@@ -4115,7 +4175,7 @@ Jolly Nature
 - Glacial Lance  
 - memoryblast  
 - Aromatic Mist  
-- Accelerate  
+- accelerate  
 
 Marshadow @ Life Orb  
 Ability: Technician  
@@ -4161,7 +4221,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - mindcleaner  
-- Express Heal  
+- expressheal  
 - sludgeswitch  
 
 
@@ -4182,7 +4242,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - royalturbulence  
-- Express Heal  
+- expressheal  
 - sludgeswitch  
 
 Arceus-Ice @ Icicle Plate  
@@ -4232,7 +4292,7 @@ Timid Nature
 - Astral Barrage  
 - memoryblast  
 - Nasty Plot  
-- Accelerate  
+- accelerate  
 
 Dialga @ Sweet Apple  
 Ability: Regenerator  
@@ -4248,7 +4308,7 @@ Ability: psychicpower
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Stored Power  
-- Inferno Beam  
+- infernobeam  
 - etherealstream  
 - Night Daze  
 
@@ -4322,7 +4382,7 @@ Jolly Nature
 - Shell Smash  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -4389,7 +4449,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - royalturbulence  
-- Express Heal  
+- expressheal  
 - sludgeswitch  
 
 Giratina-Origin @ Griseous Orb  
@@ -4434,7 +4494,7 @@ Jolly Nature
 - earthensong  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -4502,7 +4562,7 @@ Careful Nature
 - Aromatic Mist  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -4534,7 +4594,7 @@ Timid Nature
 - Magma Storm  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -4622,7 +4682,7 @@ Mild Nature
 - Shell Smash  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -4648,12 +4708,12 @@ Ability: psychicpower
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Naive Nature  
 - Poltergeist  
-- Inferno Beam  
+- infernobeam  
 - mineralcannon  
 - Trailblaze  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Flower Trick  
@@ -4805,7 +4865,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Klinklang @ Metal Coat  
 Ability: utilitylock  
@@ -4843,7 +4903,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - royalturbulence  
-- Express Heal  
+- expressheal  
 - sludgeswitch  
 
 Manaphy @ Sea Incense  
@@ -4907,7 +4967,7 @@ Timid Nature
 - fluttersong  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Flower Trick  
@@ -4993,7 +5053,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - lustrousstream  
 - Stealth Rock  
-- Express Heal  
+- expressheal  
 - slushswitch  
 
 
@@ -5014,7 +5074,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - royalturbulence  
-- Express Heal  
+- expressheal  
 - sludgeswitch  
 
 Deoxys-Attack @ Life Orb  
@@ -5167,12 +5227,12 @@ IVs: 0 Atk
 - Withdraw  
 
 Landorus-Therian @ Assault Vest  
-Ability: Inveigle  
+Ability: inveigle  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Careful Nature  
 - Sandsear Storm  
 - Rock Tomb  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 
@@ -5281,7 +5341,7 @@ EVs: 252 HP / 252 Def / 4 Spe
 Impish Nature  
 - Sandsear Storm  
 - Rock Tomb  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 Lilligant @ Flower Sweet  
@@ -5300,6 +5360,7 @@ Timid Nature
 Meloetta-Pirouette @ Ice Memory  
 Ability: Defiant  
 Shiny: Yes  
+Happiness: 250  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - memorydance  
@@ -5385,7 +5446,7 @@ Careful Nature
 - Sacred Fire  
 - Dragon Breath  
 - flameswitch  
-- Express Heal  
+- expressheal  
 
 Cresselia @ Electric Memory  
 Ability: Regenerator  
@@ -5573,7 +5634,7 @@ EVs: 252 HP / 108 Def / 144 SpD / 4 Spe
 Impish Nature  
 - Sandsear Storm  
 - memoryblast  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 Dialga @ Sweet Apple  
@@ -5613,7 +5674,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - memoryblast  
 - Body Press  
-- Express Heal  
+- expressheal  
 - Parting Shot  
 
 Mewtwo @ Adrenaline Orb  
@@ -5665,15 +5726,15 @@ IVs: 0 Atk
 - Psycho Boost  
 - Astral Barrage  
 - Dazzling Gleam  
-- Accelerate  
+- accelerate  
 
 Landorus-Therian @ Assault Vest  
-Ability: Inveigle  
+Ability: inveigle  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Careful Nature  
 - Sandsear Storm  
 - Rock Tomb  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 Arceus-Ice @ Icicle Plate  
@@ -5755,7 +5816,7 @@ IVs: 0 Atk
 - Parting Shot  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -5809,7 +5870,7 @@ Ability: Tough Claws
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- Shadow Flame  
+- shadowflame  
 - Rock Slide  
 - Cross Poison  
 - snowrush  
@@ -5851,7 +5912,7 @@ Ability: psychicpower
 EVs: 4 HP / 252 Atk / 252 Spe  
 Naive Nature  
 - Poltergeist  
-- Inferno Beam  
+- infernobeam  
 - mineralcannon  
 - Trailblaze  
 
@@ -5876,7 +5937,7 @@ Jolly Nature
 - Protect  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -5908,7 +5969,7 @@ Timid Nature
 - crystalrush  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -6059,7 +6120,7 @@ Jolly Nature
 - royalretreat  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -6081,7 +6142,7 @@ Timid Nature
 === [gen6ubers] Water, Water... (Carracosta, Water) ===
 
 Carracosta (M) @ Water Memory  
-Ability: Inveigle  
+Ability: inveigle  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -6110,12 +6171,12 @@ Timid Nature
 - Comeuppance  
 
 Landorus-Therian @ Assault Vest  
-Ability: Inveigle  
+Ability: inveigle  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Careful Nature  
 - Sandsear Storm  
 - Rock Tomb  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 Ho-Oh @ Sweet Apple  
@@ -6185,7 +6246,7 @@ Ability: Multitype
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Judgment  
-- Glacial Strike  
+- glacialstrike  
 - Uproar  
 - Recover  
 
@@ -6236,18 +6297,18 @@ Ability: Tough Claws
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- Shadow Flame  
+- shadowflame  
 - Rock Slide  
 - Cross Poison  
 - snowrush  
 
 Landorus-Therian @ Assault Vest  
-Ability: Inveigle  
+Ability: inveigle  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Careful Nature  
 - Sandsear Storm  
 - Rock Tomb  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 Yveltal @ Zoom Lens  
@@ -6344,7 +6405,7 @@ Calm Nature
 - sweetretreat  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -6440,7 +6501,7 @@ EVs: 252 HP / 252 Def / 4 Spe
 Impish Nature  
 - Sandsear Storm  
 - Rock Tomb  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 
@@ -6472,7 +6533,7 @@ EVs: 252 HP / 252 Def / 4 Spe
 Impish Nature  
 - Sandsear Storm  
 - Rock Tomb  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 Zoroark-Hisui (M) @ Spooky Plate  
@@ -6480,7 +6541,7 @@ Ability: Tough Claws
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- Shadow Flame  
+- shadowflame  
 - Rock Slide  
 - Cross Poison  
 - snowrush  
@@ -6532,7 +6593,7 @@ EVs: 252 HP / 108 Def / 144 SpD / 4 Spe
 Impish Nature  
 - Sandsear Storm  
 - memoryblast  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 Dialga @ Sweet Apple  
@@ -6609,7 +6670,7 @@ EVs: 252 HP / 252 Def / 4 Spe
 Impish Nature  
 - Sandsear Storm  
 - Stealth Rock  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 Arceus @ Payapa Berry  
@@ -6649,7 +6710,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Careful Nature  
 - Sandsear Storm  
 - Rock Tomb  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 Calyrex-Shadow @ Choice Scarf  
@@ -6720,7 +6781,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - royalturbulence  
-- Express Heal  
+- expressheal  
 - sludgeswitch  
 
 Ho-Oh @ Sweet Apple  
@@ -6792,7 +6853,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Careful Nature  
 - Sandsear Storm  
 - Rock Tomb  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 Mewtwo @ Adrenaline Orb  
@@ -6847,7 +6908,7 @@ IVs: 0 Atk
 - Withdraw  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Flower Trick  
@@ -6906,7 +6967,7 @@ Jolly Nature
 - Agility  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Flower Trick  
@@ -6920,7 +6981,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Careful Nature  
 - Sandsear Storm  
 - Rock Tomb  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 
@@ -6943,7 +7004,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Bellsprout (M) @ Toxic Orb  
 Ability: Sheer Force  
@@ -6960,7 +7021,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Heat Wave  
-- Express Heal  
+- expressheal  
 - sludgeswitch  
 
 Genesect @ Sweet Apple  
@@ -6973,7 +7034,7 @@ Hasty Nature
 - Shell Smash  
 
 Landorus-Therian (M) @ Flying Memory  
-Ability: Inveigle  
+Ability: inveigle  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Sandsear Storm  
@@ -6994,7 +7055,7 @@ Timid Nature
 - Night Daze  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Flower Trick  
@@ -7063,7 +7124,7 @@ Impish Nature
 - Aromatic Mist  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Flower Trick  
@@ -7105,7 +7166,7 @@ IVs: 0 Atk
 === [gen6ubers] Meow (Vaporeon, Dragon) ===
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Flower Trick  
@@ -7186,7 +7247,7 @@ Adamant Nature
 - Agility  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Flower Trick  
@@ -7220,7 +7281,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Careful Nature  
 - Sandsear Storm  
 - Rock Tomb  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 
@@ -7236,7 +7297,7 @@ Naive Nature
 - crystalrush  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Flower Trick  
@@ -7294,7 +7355,7 @@ Naive Nature
 - aquarise  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Flower Trick  
@@ -7384,7 +7445,7 @@ Careful Nature
 - Aromatic Mist  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Flower Trick  
@@ -7425,7 +7486,7 @@ IVs: 0 Atk
 - Parting Shot  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Flower Trick  
@@ -7451,7 +7512,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Vaporeon @ Leftovers  
 Ability: utilitylock  
@@ -7514,7 +7575,7 @@ IVs: 0 Atk
 - Withdraw  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Flower Trick  
@@ -7554,7 +7615,7 @@ Jolly Nature
 - sludgeswitch  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Flower Trick  
@@ -7568,7 +7629,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Careful Nature  
 - Sandsear Storm  
 - Rock Tomb  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 Mewtwo @ Adrenaline Orb  
@@ -7604,7 +7665,7 @@ Jolly Nature
 - Agility  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -7692,7 +7753,7 @@ Timid Nature
 - Flip Turn  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -7715,7 +7776,7 @@ IVs: 0 Atk
 - Autotomize  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -7748,7 +7809,7 @@ EVs: 4 HP / 252 SpA / 252 Spe
 Timid Nature  
 - Stored Power  
 - etherealstream  
-- Inferno Beam  
+- infernobeam  
 - froststep  
 
 Bellsprout (M) @ Toxic Orb  
@@ -7783,7 +7844,7 @@ Careful Nature
 - Aromatic Mist  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -7824,11 +7885,11 @@ IVs: 0 Atk
 === [gen6ubers] Hyper Offense (Mewtwo, Fairy) ===
 
 Kyurem-Black @ Snowball  
-Ability: dragonpower  
+Ability: Dragon Power  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- Glacial Strike  
+- glacialstrike  
 - Freeze-Dry  
 - Ice Shard  
 - froststep  
@@ -7853,7 +7914,7 @@ Naive Nature
 - crystalrush  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -7922,7 +7983,7 @@ Lonely Nature
 - Shell Smash  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -7960,15 +8021,15 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - lustrousstream  
 - Stealth Rock  
-- Express Heal  
+- expressheal  
 - slushswitch  
 
 Kyurem-Black @ Ice Memory  
-Ability: dragonpower  
+Ability: Dragon Power  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- Glacial Strike  
+- glacialstrike  
 - Fusion Bolt  
 - Fire Punch  
 - Agility  
@@ -8018,7 +8079,7 @@ Ability: Tough Claws
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- Shadow Flame  
+- shadowflame  
 - Rock Slide  
 - Cross Poison  
 - snowrush  
@@ -8043,7 +8104,7 @@ Jolly Nature
 - heavendance  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -8069,7 +8130,7 @@ Ability: Tough Claws
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- Shadow Flame  
+- shadowflame  
 - Rock Slide  
 - Cross Poison  
 - snowrush  
@@ -8084,7 +8145,7 @@ Timid Nature
 - slushswitch  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -8162,11 +8223,11 @@ EVs: 4 HP / 252 SpA / 252 Spe
 Timid Nature  
 - psychicstorm  
 - etherealstream  
-- Inferno Beam  
+- infernobeam  
 - malicerun  
 
 Meowscarada (F) @ Bright Powder  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -8246,7 +8307,7 @@ Ability: Tough Claws
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- Shadow Flame  
+- shadowflame  
 - Rock Slide  
 - Cross Poison  
 - snowrush  
@@ -8269,7 +8330,7 @@ Ability: Tough Claws
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- Shadow Flame  
+- shadowflame  
 - Rock Slide  
 - Cross Poison  
 - snowrush  
@@ -8313,7 +8374,7 @@ EVs: 252 HP / 108 Def / 144 SpD / 4 Spe
 Impish Nature  
 - Sandsear Storm  
 - memoryblast  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 
@@ -8351,7 +8412,7 @@ Naive Nature
 - mysteryspeed  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -8411,7 +8472,7 @@ EVs: 252 HP / 108 Def / 144 SpD / 4 Spe
 Impish Nature  
 - Sandsear Storm  
 - memoryblast  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 Arceus @ Payapa Berry  
@@ -8521,10 +8582,10 @@ Timid Nature
 - Astral Barrage  
 - Dazzling Gleam  
 - Parting Shot  
-- Accelerate  
+- accelerate  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -8683,7 +8744,7 @@ Timid Nature
 - Stealth Rock  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -8738,7 +8799,7 @@ IVs: 0 Atk
 - Withdraw  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -8753,7 +8814,7 @@ Shiny: Yes
 Happiness: 250  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- Shadow Flame  
+- shadowflame  
 - Rock Slide  
 - Cross Poison  
 - snowrush  
@@ -8946,7 +9007,7 @@ IVs: 0 Atk
 - Withdraw  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -9115,7 +9176,7 @@ Ability: Tough Claws
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- Shadow Flame  
+- shadowflame  
 - Rock Slide  
 - Cross Poison  
 - snowrush  
@@ -9131,13 +9192,13 @@ Jolly Nature
 - Volt Switch  
 
 Landorus-Therian @ Grass Memory  
-Ability: Inveigle  
+Ability: inveigle  
 Happiness: 251  
 EVs: 252 HP / 108 Def / 144 SpD / 4 Spe  
 Impish Nature  
 - Sandsear Storm  
 - memoryblast  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 Deoxys-Speed @ Nomel Berry  
@@ -9366,7 +9427,7 @@ Jolly Nature
 - Glacial Lance  
 - memoryblast  
 - Swords Dance  
-- Accelerate  
+- accelerate  
 
 Skarmory (M) @ Choice Scarf  
 Ability: windstreamer  
@@ -9429,7 +9490,7 @@ EVs: 252 Def / 252 SpD / 4 Spe
 Impish Nature  
 - Sandsear Storm  
 - Stealth Rock  
-- Express Heal  
+- expressheal  
 - turbineturn  
 
 Skarmory (M) @ Choice Scarf  
@@ -9481,7 +9542,7 @@ Ability: Tough Claws
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- Shadow Flame  
+- shadowflame  
 - Rock Slide  
 - Cross Poison  
 - snowrush  
@@ -9582,12 +9643,12 @@ Ability: psychicpower
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Stored Power  
-- Inferno Beam  
+- infernobeam  
 - etherealstream  
 - Comeuppance  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -9673,7 +9734,7 @@ Careful Nature
 - Aromatic Mist  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 Happiness: 253  
 EVs: 4 HP / 252 Atk / 252 Spe  
@@ -9708,7 +9769,7 @@ Jolly Nature
 - Roost  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
@@ -9774,7 +9835,7 @@ Timid Nature
 - Comeuppance  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -9853,7 +9914,7 @@ Ability: psychicpower
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Stored Power  
-- Inferno Beam  
+- infernobeam  
 - Night Daze  
 - pixierun  
 
@@ -9869,7 +9930,7 @@ IVs: 0 Atk
 - Withdraw  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -9886,7 +9947,7 @@ Ability: Tough Claws
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- Shadow Flame  
+- shadowflame  
 - Rock Slide  
 - Cross Poison  
 - snowrush  
@@ -9920,7 +9981,7 @@ EVs: 252 HP / 108 Def / 144 SpD / 4 Spe
 Impish Nature  
 - Sandsear Storm  
 - memoryblast  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 Vaporeon @ Leftovers  
@@ -9958,7 +10019,7 @@ Jolly Nature
 - Autotomize  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -9982,7 +10043,7 @@ Ability: Tough Claws
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- Shadow Flame  
+- shadowflame  
 - Rock Slide  
 - Cross Poison  
 - snowrush  
@@ -10028,11 +10089,11 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Play Rough  
 - memoryblast  
-- Bullet Switch  
+- bulletswitch  
 - Agility  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -10052,12 +10113,12 @@ Modest Nature
 - Flip Turn  
 
 Kyurem-Black @ Life Orb  
-Ability: dragonpower  
+Ability: Dragon Power  
 Shiny: Yes  
 Happiness: 253  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- Glacial Strike  
+- glacialstrike  
 - Freeze-Dry  
 - Ice Shard  
 - slushswitch  
@@ -10107,12 +10168,12 @@ IVs: 0 Atk
 - Withdraw  
 
 Kyurem-Black @ Snowball  
-Ability: dragonpower  
+Ability: Dragon Power  
 Shiny: Yes  
 Happiness: 253  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- Glacial Strike  
+- glacialstrike  
 - Freeze-Dry  
 - Ice Shard  
 - slushswitch  
@@ -10128,7 +10189,7 @@ Careful Nature
 - Shell Smash  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -10152,7 +10213,7 @@ IVs: 0 Atk
 - Volt Switch  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -10257,7 +10318,7 @@ IVs: 0 Atk
 - Withdraw  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -10281,7 +10342,7 @@ Jolly Nature
 - Flip Turn  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -10364,7 +10425,7 @@ Jolly Nature
 - U-turn  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -10440,7 +10501,7 @@ Timid Nature
 - fluttersong  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -10493,7 +10554,7 @@ Careful Nature
 - royalretreat  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -10570,7 +10631,7 @@ Naive Nature
 - Geomancy  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -10644,7 +10705,7 @@ IVs: 0 Atk
 - Withdraw  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -10758,12 +10819,12 @@ Ability: psychicpower
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Stored Power  
-- Inferno Beam  
+- infernobeam  
 - Night Daze  
 - crystalrush  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 Happiness: 250  
 EVs: 4 HP / 252 Atk / 252 Spe  
@@ -10794,7 +10855,7 @@ Timid Nature
 - Psycho Boost  
 - Astral Barrage  
 - memoryblast  
-- Accelerate  
+- accelerate  
 
 Palkia @ Choice Scarf  
 Ability: dracolate  
@@ -10807,7 +10868,7 @@ Modest Nature
 - Flip Turn  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 Happiness: 250  
 EVs: 4 HP / 252 Atk / 252 Spe  
@@ -10882,7 +10943,7 @@ Timid Nature
 - flameswitch  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 Happiness: 250  
 EVs: 4 HP / 252 Atk / 252 Spe  
@@ -10904,12 +10965,12 @@ IVs: 0 Atk
 - Withdraw  
 
 Kyurem-Black @ Snowball  
-Ability: dragonpower  
+Ability: Dragon Power  
 Shiny: Yes  
 Happiness: 253  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- Glacial Strike  
+- glacialstrike  
 - Freeze-Dry  
 - Ice Shard  
 - slushswitch  
@@ -10963,7 +11024,7 @@ IVs: 0 Atk
 - Withdraw  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 Happiness: 245  
 EVs: 4 HP / 252 Atk / 252 Spe  
@@ -11020,7 +11081,7 @@ IVs: 0 Atk
 - Withdraw  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -11059,7 +11120,7 @@ EVs: 4 HP / 252 SpA / 252 Spe
 Timid Nature  
 - psychicstorm  
 - etherealstream  
-- Inferno Beam  
+- infernobeam  
 - malicerun  
 
 Manaphy @ Rose Incense  
@@ -11124,7 +11185,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- Express Heal  
+- expressheal  
 - sludgeswitch  
 
 Xerneas @ Poison Memory  
@@ -11137,7 +11198,7 @@ Timid Nature
 - sweetretreat  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -11160,7 +11221,7 @@ Ability: psychicpower
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Stored Power  
-- Inferno Beam  
+- infernobeam  
 - Night Daze  
 - crystalrush  
 
@@ -11184,7 +11245,7 @@ Jolly Nature
 - Zen Headbutt  
 - Glacial Lance  
 - memoryblast  
-- Accelerate  
+- accelerate  
 
 Tapu Koko @ Light Ball  
 Ability: lightningforce  
@@ -11217,7 +11278,7 @@ IVs: 0 Atk
 - Withdraw  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -11253,12 +11314,12 @@ Ability: psychicpower
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Stored Power  
-- Inferno Beam  
+- infernobeam  
 - Night Daze  
 - crystalrush  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -11294,7 +11355,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- Express Heal  
+- expressheal  
 - sludgeswitch  
 
 
@@ -11333,7 +11394,7 @@ IVs: 0 Spe
 - U-turn  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -11448,7 +11509,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Play Rough  
 - memoryblast  
-- Bullet Switch  
+- bulletswitch  
 - Agility  
 
 Klinklang @ Metal Coat  
@@ -11463,7 +11524,7 @@ Careful Nature
 - royalretreat  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -11489,7 +11550,7 @@ Happiness: 250
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Judgment  
-- Glacial Strike  
+- glacialstrike  
 - Mud Sport  
 - Taunt  
 
@@ -11512,7 +11573,7 @@ Ability: psychicpower
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
 - Stored Power  
-- Inferno Beam  
+- infernobeam  
 - Night Daze  
 - crystalrush  
 
@@ -11605,7 +11666,7 @@ Careful Nature
 - royalretreat  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -11651,7 +11712,7 @@ Ability: psychicpower
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
 - Stored Power  
-- Inferno Beam  
+- infernobeam  
 - Night Daze  
 - crystalrush  
 
@@ -11666,7 +11727,7 @@ Careful Nature
 - royalretreat  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -11696,14 +11757,14 @@ Timid Nature
 - Astral Barrage  
 - Dazzling Gleam  
 - Parting Shot  
-- Accelerate  
+- accelerate  
 
 Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Hasty Nature  
 - Stored Power  
-- Inferno Beam  
+- infernobeam  
 - Night Daze  
 - receivingstrike  
 
@@ -11729,7 +11790,7 @@ Careful Nature
 - royalretreat  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -11758,7 +11819,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- Express Heal  
+- expressheal  
 - sludgeswitch  
 
 Klinklang @ Metal Coat  
@@ -11865,7 +11926,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- Express Heal  
+- expressheal  
 - sludgeswitch  
 
 Klinklang @ Metal Coat  
@@ -11889,7 +11950,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Necrozma-Dawn-Wings @ Assault Vest  
 Ability: lightinversion  
@@ -11898,7 +11959,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- Express Heal  
+- expressheal  
 - sludgeswitch  
 
 Dialga @ Sweet Apple  
@@ -11940,7 +12001,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Play Rough  
 - memoryblast  
-- Bullet Switch  
+- bulletswitch  
 - Agility  
 
 
@@ -11962,7 +12023,7 @@ EVs: 140 Atk / 116 SpA / 252 Spe
 Naive Nature  
 - psychofire  
 - memoryblast  
-- Inferno Beam  
+- infernobeam  
 - crystalrush  
 
 Darkrai @ Bright Powder  
@@ -11970,7 +12031,7 @@ Ability: midnightveil
 Shiny: Yes  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- Dark Abyss  
+- darkabyss  
 - Venom Drench  
 - Dark Void  
 - slushswitch  
@@ -12090,7 +12151,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Play Rough  
 - memoryblast  
-- Bullet Switch  
+- bulletswitch  
 - Agility  
 
 Jellicent (M) @ Star Sweet  
@@ -12121,7 +12182,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- Express Heal  
+- expressheal  
 - sludgeswitch  
 
 Mewtwo @ Adrenaline Orb  
@@ -12194,7 +12255,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- Express Heal  
+- expressheal  
 - sludgeswitch  
 
 
@@ -12218,14 +12279,14 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
 - Stored Power  
-- Inferno Beam  
+- infernobeam  
 - Night Daze  
 - pixierun  
 
@@ -12243,7 +12304,7 @@ Ability: midnightveil
 Shiny: Yes  
 EVs: 4 HP / 252 SpD / 252 Spe  
 Timid Nature  
-- Dark Abyss  
+- darkabyss  
 - Venom Drench  
 - Dark Void  
 - slushswitch  
@@ -12289,7 +12350,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
@@ -12317,7 +12378,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- Express Heal  
+- expressheal  
 - sludgeswitch  
 
 
@@ -12341,7 +12402,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Rayquaza @ Ground Memory  
 Ability: dragonheart  
@@ -12426,7 +12487,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Play Rough  
 - memoryblast  
-- Bullet Switch  
+- bulletswitch  
 - Agility  
 
 Klinklang @ Metal Coat  
@@ -12446,7 +12507,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- Express Heal  
+- expressheal  
 - sludgeswitch  
 
 
@@ -12553,7 +12614,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Play Rough  
 - memoryblast  
-- Bullet Switch  
+- bulletswitch  
 - Agility  
 
 Giratina @ Chipped Pot  
@@ -12609,7 +12670,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Necrozma-Dawn-Wings @ Assault Vest  
 Ability: lightinversion  
@@ -12618,7 +12679,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- Express Heal  
+- expressheal  
 - sludgeswitch  
 
 Klinklang @ Metal Coat  
@@ -12650,7 +12711,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Play Rough  
 - memoryblast  
-- Bullet Switch  
+- bulletswitch  
 - Agility  
 
 Klinklang @ Metal Coat  
@@ -12701,7 +12762,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- Express Heal  
+- expressheal  
 - sludgeswitch  
 
 
@@ -12753,7 +12814,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- Express Heal  
+- expressheal  
 - sludgeswitch  
 
 Dialga @ Syrupy Apple  
@@ -12815,7 +12876,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- Express Heal  
+- expressheal  
 - sludgeswitch  
 
 Lilligant @ Grass Memory  
@@ -12840,7 +12901,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Arceus-Water @ Splash Plate  
 Ability: Multitype  
@@ -12880,7 +12941,7 @@ EVs: 4 HP / 252 Def / 252 Spe
 Bold Nature  
 - Sandsear Storm  
 - Aeroblast  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 Rayquaza @ Dark Memory  
@@ -12956,7 +13017,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- Express Heal  
+- expressheal  
 - sludgeswitch  
 
 
@@ -13010,7 +13071,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- Express Heal  
+- expressheal  
 - sludgeswitch  
 
 Lilligant @ Flower Sweet  
@@ -13054,7 +13115,7 @@ EVs: 4 HP / 252 Def / 252 Spe
 Bold Nature  
 - Sandsear Storm  
 - Aeroblast  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 Vaporeon @ Sitrus Berry  
@@ -13108,7 +13169,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- Express Heal  
+- expressheal  
 - sludgeswitch  
 
 Arceus-Water @ Splash Plate  
@@ -13127,7 +13188,7 @@ EVs: 4 HP / 252 Def / 252 Spe
 Bold Nature  
 - Sandsear Storm  
 - Aeroblast  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 Vaporeon @ Sitrus Berry  
@@ -13238,7 +13299,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Arceus-Grass @ Meadow Plate  
 Ability: Multitype  
@@ -13247,7 +13308,7 @@ EVs: 4 HP / 164 SpA / 88 SpD / 252 Spe
 Timid Nature  
 - Judgment  
 - Meteor Beam  
-- Glacial Strike  
+- glacialstrike  
 - naturesvoice  
 
 Landorus-Therian @ Fairy Memory  
@@ -13257,7 +13318,7 @@ EVs: 4 HP / 252 SpD / 252 Spe
 Calm Nature  
 - Sandsear Storm  
 - Aeroblast  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 Mewtwo @ Twisted Spoon  
@@ -13333,7 +13394,7 @@ EVs: 4 HP / 252 SpD / 252 Spe
 Calm Nature  
 - Sandsear Storm  
 - Aeroblast  
-- Express Heal  
+- expressheal  
 - U-turn  
 
 Vaporeon @ Sitrus Berry  
@@ -13367,7 +13428,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Meloetta @ Throat Spray  
 Ability: ensemble  
@@ -13398,7 +13459,7 @@ EVs: 4 HP / 164 SpA / 88 SpD / 252 Spe
 Timid Nature  
 - Judgment  
 - Meteor Beam  
-- Glacial Strike  
+- glacialstrike  
 - naturesvoice  
 
 Calyrex-Ice @ Snowball  
@@ -13409,7 +13470,7 @@ Adamant Nature
 - Glacial Lance  
 - Leafage  
 - Smart Strike  
-- Accelerate  
+- accelerate  
 
 
 === [gen6ubers] It's Not That Easy (Caly-S, Ground) ===
@@ -13421,7 +13482,7 @@ Timid Nature
 - Astral Barrage  
 - memoryblast  
 - Parting Shot  
-- Accelerate  
+- accelerate  
 
 Groudon @ Room Service  
 Ability: Drought  
@@ -13461,7 +13522,7 @@ EVs: 4 HP / 164 SpA / 88 SpD / 252 Spe
 Timid Nature  
 - Judgment  
 - Meteor Beam  
-- Glacial Strike  
+- glacialstrike  
 - naturesvoice  
 
 Greninja-Ash @ Choice Scarf  
@@ -13471,7 +13532,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 
 === [gen6ubers] Garchomp Goes Forth (Garchomp, Poison) ===
@@ -13558,7 +13619,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Careful Nature  
 - Earthquake  
 - Dragon Breath  
-- Express Heal  
+- expressheal  
 - turbineturn  
 
 Muk-Alola (M) @ Black Sludge  
@@ -13632,7 +13693,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Careful Nature  
 - Sandsear Storm  
 - memoryblast  
-- Express Heal  
+- expressheal  
 - turbineturn  
 
 Muk-Alola (M) @ Black Sludge  
@@ -13663,7 +13724,7 @@ Happiness: 254
 EVs: 4 HP / 164 Atk / 88 SpD / 252 Spe  
 Jolly Nature  
 - Multi-Attack  
-- Glacial Strike  
+- glacialstrike  
 - Rock Wrecker  
 - Agility  
 
@@ -13689,7 +13750,7 @@ Adamant Nature
 - Glacial Lance  
 - Leafage  
 - Smart Strike  
-- Accelerate  
+- accelerate  
 
 Arceus-Ground @ Earth Plate  
 Ability: Multitype  
@@ -13819,7 +13880,7 @@ EVs: 4 HP / 252 SpD / 252 Spe
 Calm Nature  
 - Sandsear Storm  
 - Aeroblast  
-- Express Heal  
+- expressheal  
 - turbineturn  
 
 Zacian-Crowned @ Ground Memory  
@@ -13829,7 +13890,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Play Rough  
 - memoryblast  
-- Bullet Switch  
+- bulletswitch  
 - Agility  
 
 Palkia @ Choice Scarf  
@@ -13873,7 +13934,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Careful Nature  
 - Earthquake  
 - Stealth Rock  
-- Express Heal  
+- expressheal  
 - turbineturn  
 
 Mewtwo @ Adrenaline Orb  
@@ -13893,7 +13954,7 @@ Happiness: 253
 EVs: 4 HP / 164 Atk / 88 SpD / 252 Spe  
 Jolly Nature  
 - Multi-Attack  
-- Glacial Strike  
+- glacialstrike  
 - Sunsteel Strike  
 - earthensong  
 
@@ -13926,7 +13987,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 
 === [gen6ubers] Forecast (Gliscor, Ice) ===
@@ -13948,7 +14009,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Careful Nature  
 - Earthquake  
 - Dragon Breath  
-- Express Heal  
+- expressheal  
 - turbineturn  
 
 Muk-Alola (M) @ Black Sludge  
@@ -13980,7 +14041,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Necrozma-Dawn-Wings @ Assault Vest  
 Ability: lightinversion  
@@ -13989,7 +14050,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Moongeist Beam  
 - Signal Beam  
-- Express Heal  
+- expressheal  
 - sludgeswitch  
 
 
@@ -14001,7 +14062,7 @@ Shiny: Yes
 EVs: 4 HP / 164 Atk / 88 SpD / 252 Spe  
 Jolly Nature  
 - Multi-Attack  
-- Glacial Strike  
+- glacialstrike  
 - Sunsteel Strike  
 - earthensong  
 
@@ -14033,7 +14094,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
@@ -14088,7 +14149,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
@@ -14144,7 +14205,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Darkrai @ Grass Memory  
 Ability: midnightveil  
@@ -14242,7 +14303,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Careful Nature  
 - Earthquake  
 - Dragon Breath  
-- Express Heal  
+- expressheal  
 - turbineturn  
 
 Greninja-Ash @ Choice Scarf  
@@ -14252,7 +14313,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 
 === [gen6ubers] Mind Control (✗) ===
@@ -14297,16 +14358,16 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Landorus-Therian @ Assault Vest  
-Ability: Inveigle  
+Ability: inveigle  
 Happiness: 251  
 EVs: 4 HP / 252 SpD / 252 Spe  
 Calm Nature  
 - Sandsear Storm  
 - Aeroblast  
-- Express Heal  
+- expressheal  
 - turbineturn  
 
 Cresselia @ Leftovers  
@@ -14397,7 +14458,7 @@ Adamant Nature
 - Glacial Lance  
 - Leafage  
 - Smart Strike  
-- Accelerate  
+- accelerate  
 
 Tornadus @ Rose Incense  
 Ability: tempest  
@@ -14492,7 +14553,7 @@ Happiness: 253
 EVs: 252 HP / 4 Atk / 252 SpD  
 Careful Nature  
 - Steam Eruption  
-- Inferno Beam  
+- infernobeam  
 - Aromatic Mist  
 - Withdraw  
 
@@ -14608,7 +14669,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Careful Nature  
 - Earthquake  
 - Stealth Rock  
-- Express Heal  
+- expressheal  
 - turbineturn  
 
 Groudon @ Room Service  
@@ -14756,7 +14817,7 @@ Happiness: 251
 EVs: 252 HP / 4 SpA / 252 SpD  
 Calm Nature  
 - Steam Eruption  
-- Inferno Beam  
+- infernobeam  
 - Aromatic Mist  
 - Withdraw  
 
@@ -14791,7 +14852,7 @@ Timid Nature
 - psychiclight  
 - Moongeist Beam  
 - lustrousstream  
-- Covert Switch  
+- covertswitch  
 
 Meowth (M) @ Dubious Disc  
 Ability: goldentouch  
@@ -14821,7 +14882,7 @@ Happiness: 253
 EVs: 4 HP / 164 Atk / 88 SpD / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
-- Glacial Strike  
+- glacialstrike  
 - Rock Wrecker  
 - Earthquake  
 
@@ -14832,7 +14893,7 @@ Naive Nature
 - Hydro Pump  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Muk-Alola (M) @ Black Sludge  
 Ability: Power of Alchemy  
@@ -14907,7 +14968,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Careful Nature  
 - Earthquake  
 - Stealth Rock  
-- Express Heal  
+- expressheal  
 - turbineturn  
 
 
@@ -15082,7 +15143,7 @@ EVs: 4 HP / 252 SpD / 252 Spe
 Calm Nature  
 - Sandsear Storm  
 - Aeroblast  
-- Express Heal  
+- expressheal  
 - turbineturn  
 
 Eternatus @ Dragon Memory  
@@ -15126,7 +15187,7 @@ EVs: 4 HP / 252 SpD / 252 Spe
 Calm Nature  
 - Sandsear Storm  
 - Aeroblast  
-- Express Heal  
+- expressheal  
 - turbineturn  
 
 Calyrex-Shadow @ Choice Scarf  
@@ -15300,7 +15361,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 
 === [gen6ubers] Amoonguss is Among Us (Rayquaza, Fairy) ===
@@ -15512,7 +15573,7 @@ Jolly Nature
 - Grass Knot  
 - Spirit Shackle  
 - Bullet Seed  
-- Leaf Switch  
+- leafswitch  
 
 Arceus-Water @ Splash Plate  
 Ability: Multitype  
@@ -15555,7 +15616,7 @@ Adamant Nature
 - Glacial Lance  
 - Smart Strike  
 - Leafage  
-- Accelerate  
+- accelerate  
 
 Pikachu-Alola @ Light Ball  
 Ability: alolaschampion  
@@ -15637,13 +15698,13 @@ Timid Nature
 === [gen6ubers] Stalling for Our Lives (✗) ===
 
 Landorus-Therian @ Assault Vest  
-Ability: Inveigle  
+Ability: inveigle  
 Happiness: 251  
 EVs: 4 HP / 252 SpD / 252 Spe  
 Calm Nature  
 - Sandsear Storm  
 - Aeroblast  
-- Express Heal  
+- expressheal  
 - turbineturn  
 
 Cresselia @ Snowball  
@@ -15685,7 +15746,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - etherealstream  
 - Stealth Rock  
-- Express Heal  
+- expressheal  
 - slushswitch  
 
 Calyrex-Shadow @ Choice Scarf  
@@ -15723,13 +15784,13 @@ IVs: 0 Spe
 - Withdraw  
 
 Landorus-Therian @ Assault Vest  
-Ability: Inveigle  
+Ability: inveigle  
 Happiness: 253  
 EVs: 4 HP / 252 SpD / 252 Spe  
 Calm Nature  
 - Sandsear Storm  
 - Aeroblast  
-- Express Heal  
+- expressheal  
 - turbineturn  
 
 Lugia @ White Herb  
@@ -15766,7 +15827,7 @@ Jolly Nature
 === [gen6ubers] Adaptation (Kyurem, Dragon) ===
 
 Kyurem-Black @ Dragon Memory  
-Ability: dragonpower  
+Ability: Dragon Power  
 Shiny: Yes  
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
@@ -15848,7 +15909,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Sacred Sword  
 - Smart Strike  
-- Bullet Switch  
+- bulletswitch  
 - rentalcharge  
 
 Muk-Alola (M) @ Black Sludge  
@@ -15899,7 +15960,7 @@ Jolly Nature
 === [gen6ubers] Untold Power (Eternatus, Dragon) ===
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 Happiness: 253  
 EVs: 4 HP / 252 Atk / 252 Spe  
@@ -16080,7 +16141,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Zacian-Crowned @ Ability Shield  
 Ability: Intrepid Sword  
@@ -16088,7 +16149,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Sacred Sword  
 - Smart Strike  
-- Bullet Switch  
+- bulletswitch  
 - rentalcharge  
 
 
@@ -16131,7 +16192,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Smart Strike  
 - Close Combat  
-- Bullet Switch  
+- bulletswitch  
 - rentalcharge  
 
 Carracosta (M) @ Cover Fossil  
@@ -16146,7 +16207,7 @@ Brave Nature
 - sludgeswitch  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 Happiness: 253  
 EVs: 4 HP / 252 Atk / 252 Spe  
@@ -16199,10 +16260,10 @@ Jolly Nature
 - auradrain  
 - Low Kick  
 - Low Sweep  
-- Bullet Switch  
+- bulletswitch  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 Happiness: 253  
 EVs: 4 HP / 252 Atk / 252 Spe  
@@ -16276,7 +16337,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Sandslash-Alola (M) @ Snowball  
 Ability: belowfreezing  
@@ -16320,7 +16381,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Arceus @ Shuca Berry  
 Ability: omnipotent  
@@ -16418,7 +16479,7 @@ Naive Nature
 - Water Sport  
 - Darkest Lariat  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 
 === [gen6ubers] Toxic (Mewtwo, Poison) ===
@@ -16428,7 +16489,7 @@ Ability: psychicpower
 EVs: 28 HP / 4 Def / 224 SpA / 252 Spe  
 Timid Nature  
 - Psystrike  
-- Inferno Beam  
+- infernobeam  
 - Recover  
 - Nasty Plot  
 
@@ -16438,11 +16499,11 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Sacred Sword  
 - Smart Strike  
-- Bullet Switch  
+- bulletswitch  
 - rentalcharge  
 
 Kyurem-Black @ Life Orb  
-Ability: dragonpower  
+Ability: Dragon Power  
 Shiny: Yes  
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
@@ -16453,7 +16514,7 @@ Jolly Nature
 - slushswitch  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 Happiness: 253  
 EVs: 4 HP / 252 Atk / 252 Spe  
@@ -16548,7 +16609,7 @@ Jolly Nature
 - auradrain  
 - Low Kick  
 - Low Sweep  
-- Bullet Switch  
+- bulletswitch  
 
 
 === [gen6ubers] Corrupts Absolutely (Rayquaza, Steel) ===
@@ -16604,7 +16665,7 @@ Jolly Nature
 - Stone Edge  
 - Low Kick  
 - Low Sweep  
-- Bullet Switch  
+- bulletswitch  
 
 Porygon-Z @ Ability Shield  
 Ability: formatdrive  
@@ -16667,7 +16728,7 @@ EVs: 4 HP / 224 Def / 112 SpD / 168 Spe
 Calm Nature  
 - Sandsear Storm  
 - Rock Slide  
-- Express Heal  
+- expressheal  
 - turbineturn  
 
 Mewtwo @ Adrenaline Orb  
@@ -16685,7 +16746,7 @@ IVs: 0 Atk
 === [gen6ubers] Kyurem's Upgrade (Kyurem, Dragon) ===
 
 Kyurem-Black @ Dragon Memory  
-Ability: dragonpower  
+Ability: Dragon Power  
 Shiny: Yes  
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
@@ -16748,7 +16809,7 @@ IVs: 0 Spe
 - Sunsteel Strike  
 - diffusionwave  
 - Aromatic Mist  
-- Bullet Switch  
+- bulletswitch  
 
 
 === [gen6ubers] Broken Vessel (Arcanine-H, Grass) ===
@@ -16760,7 +16821,7 @@ Timid Nature
 - psychiclight  
 - Moongeist Beam  
 - lustrousstream  
-- Covert Switch  
+- covertswitch  
 
 Lilligant-Hisui @ Lax Incense  
 Ability: evergreen  
@@ -16822,7 +16883,7 @@ Happiness: 250
 EVs: 28 HP / 4 Def / 224 SpA / 252 Spe  
 Timid Nature  
 - Stored Power  
-- Inferno Beam  
+- infernobeam  
 - etherealstream  
 - psychodarts  
 
@@ -16836,7 +16897,7 @@ IVs: 0 Spe
 - Sunsteel Strike  
 - diffusionwave  
 - Aromatic Mist  
-- Bullet Switch  
+- bulletswitch  
 
 Calyrex-Shadow @ Choice Scarf  
 Ability: Power Spot  
@@ -16864,7 +16925,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Judgment  
 - Grass Knot  
-- Lightning Strike  
+- lightningstrike  
 - waveturn  
 
 Muk-Alola (M) @ Black Sludge  
@@ -16891,7 +16952,7 @@ IVs: 0 Spe
 - Sunsteel Strike  
 - diffusionwave  
 - Aromatic Mist  
-- Bullet Switch  
+- bulletswitch  
 
 Lugia @ White Herb  
 Ability: deepsea  
@@ -16931,12 +16992,12 @@ Happiness: 250
 EVs: 28 HP / 4 Def / 224 SpA / 252 Spe  
 Timid Nature  
 - Stored Power  
-- Inferno Beam  
+- infernobeam  
 - etherealstream  
 - psychodarts  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -16949,7 +17010,7 @@ Jolly Nature
 === [gen6ubers] Utility Kyurem (Kyurem-B, Dragon) ===
 
 Kyurem-Black @ Dragon Memory  
-Ability: dragonpower  
+Ability: Dragon Power  
 Shiny: Yes  
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
@@ -16975,7 +17036,7 @@ Happiness: 251
 EVs: 28 HP / 4 Def / 224 SpA / 252 Spe  
 Timid Nature  
 - Stored Power  
-- Inferno Beam  
+- infernobeam  
 - etherealstream  
 - psychodarts  
 
@@ -16986,7 +17047,7 @@ EVs: 4 HP / 252 SpA / 252 Spe
 Naive Nature  
 - Judgment  
 - Grass Knot  
-- Lightning Strike  
+- lightningstrike  
 - slushswitch  
 
 Muk-Alola (M) @ Black Sludge  
@@ -17031,11 +17092,11 @@ EVs: 4 HP / 252 SpA / 252 Spe
 Timid Nature  
 - Judgment  
 - Meteor Beam  
-- Covert Switch  
+- covertswitch  
 - Recover  
 
 Kyurem-Black @ Life Orb  
-Ability: dragonpower  
+Ability: Dragon Power  
 Shiny: Yes  
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
@@ -17111,10 +17172,10 @@ IVs: 0 Spe
 - Sunsteel Strike  
 - diffusionwave  
 - Aromatic Mist  
-- Bullet Switch  
+- bulletswitch  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -17141,7 +17202,7 @@ Timid Nature
 - psychiclight  
 - Moongeist Beam  
 - lustrousstream  
-- Covert Switch  
+- covertswitch  
 
 
 === [gen6ubers] Freedom (Eternatus, Dragon) ===
@@ -17168,7 +17229,7 @@ Modest Nature
 - sludgeswitch  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -17194,7 +17255,7 @@ Timid Nature
 - psychiclight  
 - Moongeist Beam  
 - lustrousstream  
-- Covert Switch  
+- covertswitch  
 
 Necrozma-Dusk-Mane @ Metal Coat  
 Ability: Prism Armor  
@@ -17206,7 +17267,7 @@ IVs: 0 Spe
 - Sunsteel Strike  
 - diffusionwave  
 - Aromatic Mist  
-- Bullet Switch  
+- bulletswitch  
 
 
 === [gen6ubers] Confusion (Eternatus, Dragon) ===
@@ -17218,7 +17279,7 @@ EVs: 28 HP / 4 Def / 224 SpA / 252 Spe
 Timid Nature  
 - Stored Power  
 - Aura Sphere  
-- Inferno Beam  
+- infernobeam  
 - psychodarts  
 
 Eternatus @ Dragon Memory  
@@ -17232,7 +17293,7 @@ Modest Nature
 - sludgeswitch  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -17252,7 +17313,7 @@ Careful Nature
 - Aromatic Mist  
 
 Kyurem-White @ Leftovers  
-Ability: dragonpower  
+Ability: Dragon Power  
 Shiny: Yes  
 EVs: 4 HP / 252 SpD / 252 Spe  
 Timid Nature  
@@ -17271,7 +17332,7 @@ IVs: 0 Spe
 - Sunsteel Strike  
 - diffusionwave  
 - Aromatic Mist  
-- Bullet Switch  
+- bulletswitch  
 
 
 === [gen6ubers] Normal Mewtwo (Kyurem-Black, Dragon) ===
@@ -17283,11 +17344,11 @@ EVs: 28 HP / 4 Def / 224 SpA / 252 Spe
 Timid Nature  
 - Stored Power  
 - Aura Sphere  
-- Inferno Beam  
+- infernobeam  
 - psychodarts  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -17308,7 +17369,7 @@ IVs: 0 Atk
 - Volt Switch  
 
 Kyurem-Black @ Dragon Memory  
-Ability: dragonpower  
+Ability: Dragon Power  
 Shiny: Yes  
 Happiness: 251  
 EVs: 252 HP / 252 Spe  
@@ -17347,12 +17408,12 @@ Happiness: 251
 EVs: 28 HP / 4 Def / 224 SpA / 252 Spe  
 Timid Nature  
 - psychicstorm  
-- Inferno Beam  
+- infernobeam  
 - Meteor Beam  
 - Flash Cannon  
 
 Meowscarada (F) @ Lax Incense  
-Ability: Parlor Trick  
+Ability: parlortrick  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -17368,10 +17429,10 @@ Timid Nature
 - psychiclight  
 - Moongeist Beam  
 - lustrousstream  
-- Covert Switch  
+- covertswitch  
 
 Kyurem-White @ Leftovers  
-Ability: dragonpower  
+Ability: Dragon Power  
 Shiny: Yes  
 Happiness: 251  
 EVs: 4 HP / 252 SpD / 252 Spe  
@@ -17391,7 +17452,7 @@ IVs: 0 Spe
 - Sunsteel Strike  
 - diffusionwave  
 - Aromatic Mist  
-- Bullet Switch  
+- bulletswitch  
 
 Arceus-Fairy @ Pixie Plate  
 Ability: Multitype  
@@ -17400,7 +17461,7 @@ EVs: 4 HP / 252 SpA / 252 Spe
 Timid Nature  
 - Judgment  
 - Meteor Beam  
-- Covert Switch  
+- covertswitch  
 - Recover  
 
 
@@ -17413,7 +17474,7 @@ EVs: 4 HP / 252 SpD / 252 Spe
 Timid Nature  
 - Judgment  
 - Meteor Beam  
-- Covert Switch  
+- covertswitch  
 - Recover  
 
 Ho-Oh @ Sweet Apple  
@@ -17444,11 +17505,11 @@ EVs: 28 HP / 4 Def / 224 SpA / 252 Spe
 Timid Nature  
 - Stored Power  
 - Aura Sphere  
-- Inferno Beam  
+- infernobeam  
 - psychodarts  
 
 Kyurem-White @ Leftovers  
-Ability: dragonpower  
+Ability: Dragon Power  
 Shiny: Yes  
 Happiness: 251  
 EVs: 4 HP / 252 SpD / 252 Spe  
@@ -17466,7 +17527,7 @@ Timid Nature
 - memoryblast  
 - Astral Barrage  
 - Nasty Plot  
-- Accelerate  
+- accelerate  
 
 
 === [gen6ubers] Sanity Check (Mewtwo, Fire) ===
@@ -17479,10 +17540,10 @@ Jolly Nature
 - Low Kick  
 - Bullet Punch  
 - Stone Edge  
-- Bullet Switch  
+- bulletswitch  
 
 Kyurem-White @ Leftovers  
-Ability: dragonpower  
+Ability: Dragon Power  
 Shiny: Yes  
 Happiness: 251  
 EVs: 4 HP / 252 SpD / 252 Spe  
@@ -17508,7 +17569,7 @@ Happiness: 251
 EVs: 28 HP / 4 Def / 224 SpA / 252 Spe  
 Timid Nature  
 - psychicstorm  
-- Inferno Beam  
+- infernobeam  
 - Meteor Beam  
 - psychicfury  
 
@@ -17543,7 +17604,7 @@ EVs: 4 HP / 252 SpA / 252 Spe
 Timid Nature  
 - psychicstorm  
 - memoryblast  
-- Inferno Beam  
+- infernobeam  
 - Meteor Beam  
 
 Ho-Oh @ Sweet Apple  
@@ -17566,7 +17627,7 @@ IVs: 0 Spe
 - Sunsteel Strike  
 - diffusionwave  
 - Aromatic Mist  
-- Bullet Switch  
+- bulletswitch  
 
 Sandslash-Alola (M) @ Snowball  
 Ability: belowfreezing  
@@ -17587,7 +17648,7 @@ Jolly Nature
 - Low Kick  
 - Bullet Punch  
 - Stone Edge  
-- Bullet Switch  
+- bulletswitch  
 
 Kyogre @ Rose Incense  
 Ability: Drizzle  
@@ -17611,7 +17672,7 @@ Jolly Nature
 - memoryblast  
 - Play Rough  
 - Smart Strike  
-- Bullet Switch  
+- bulletswitch  
 
 Lunala @ Chipped Pot  
 Ability: fullmoon  
@@ -17620,7 +17681,7 @@ Timid Nature
 - psychiclight  
 - Moongeist Beam  
 - lustrousstream  
-- Covert Switch  
+- covertswitch  
 
 Necrozma-Dusk-Mane @ Metal Coat  
 Ability: Prism Armor  
@@ -17632,7 +17693,7 @@ IVs: 0 Spe
 - Sunsteel Strike  
 - diffusionwave  
 - Aromatic Mist  
-- Bullet Switch  
+- bulletswitch  
 
 Calyrex-Shadow @ Choice Scarf  
 Ability: Power Spot  
@@ -17655,7 +17716,7 @@ Careful Nature
 - Aromatic Mist  
 
 Kyurem-White @ Leftovers  
-Ability: dragonpower  
+Ability: Dragon Power  
 Shiny: Yes  
 Happiness: 251  
 EVs: 4 HP / 252 SpD / 252 Spe  
@@ -17685,7 +17746,7 @@ Timid Nature
 - Water Sport  
 - Dark Pulse  
 - Water Shuriken  
-- Leaf Switch  
+- leafswitch  
 
 Sandslash-Alola (M) @ Snowball  
 Ability: belowfreezing  
@@ -17703,7 +17764,7 @@ Ability: midnightveil
 Shiny: Yes  
 EVs: 4 HP / 252 SpD / 252 Spe  
 Timid Nature  
-- Dark Abyss  
+- darkabyss  
 - Venom Drench  
 - Dark Void  
 - slushswitch  
@@ -17718,7 +17779,7 @@ IVs: 0 Spe
 - Sunsteel Strike  
 - diffusionwave  
 - Aromatic Mist  
-- Bullet Switch  
+- bulletswitch  
 
 Zacian-Crowned @ Metal Coat  
 Ability: Intrepid Sword  
@@ -17728,13 +17789,13 @@ Jolly Nature
 - Sacred Sword  
 - Smart Strike  
 - Close Combat  
-- Bullet Switch  
+- bulletswitch  
 
 
 === [gen6ubers] Tailwind Returns (Calyrex-Shadow, Fairy) ===
 
 Kyurem-White @ Leftovers  
-Ability: dragonpower  
+Ability: Dragon Power  
 Shiny: Yes  
 Happiness: 251  
 EVs: 4 HP / 252 SpD / 252 Spe  
@@ -17754,7 +17815,7 @@ IVs: 0 Spe
 - Sunsteel Strike  
 - diffusionwave  
 - Aromatic Mist  
-- Bullet Switch  
+- bulletswitch  
 
 Calyrex-Shadow @ Fairy Memory  
 Ability: Power Spot  
@@ -17773,7 +17834,7 @@ EVs: 28 HP / 4 Def / 224 SpA / 252 Spe
 Timid Nature  
 - Stored Power  
 - Aura Sphere  
-- Inferno Beam  
+- infernobeam  
 - psychodarts  
 
 Urshifu (M) @ Zoom Lens  
@@ -17806,7 +17867,7 @@ EVs: 28 HP / 4 Def / 224 SpA / 252 Spe
 Timid Nature  
 - Stored Power  
 - Aura Sphere  
-- Inferno Beam  
+- infernobeam  
 - psychodarts  
 
 Sandslash-Alola (M) @ Snowball  
@@ -17829,10 +17890,10 @@ Careful Nature
 - memoryblast  
 - Aromatic Mist  
 - Agility  
-- Covert Switch  
+- covertswitch  
 
 Kyurem-White @ Leftovers  
-Ability: dragonpower  
+Ability: Dragon Power  
 Shiny: Yes  
 Happiness: 251  
 EVs: 4 HP / 252 SpD / 252 Spe  
@@ -17850,7 +17911,7 @@ EVs: 140 HP / 192 SpA / 176 Spe
 Modest Nature  
 - Judgment  
 - royalsubmersion  
-- Lightning Strike  
+- lightningstrike  
 - waveturn  
 
 Necrozma-Dusk-Mane @ Metal Coat  
@@ -17863,7 +17924,7 @@ IVs: 0 Spe
 - Sunsteel Strike  
 - diffusionwave  
 - Aromatic Mist  
-- Bullet Switch  
+- bulletswitch  
 
 
 === [gen6ubers] Lightning (Kyurem-White, Dragon) ===
@@ -17875,11 +17936,11 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Bolt Beak  
 - Close Combat  
-- Lightning Strike  
+- lightningstrike  
 - Volt Switch  
 
 Kyurem-White @ Dragon Memory  
-Ability: dragonpower  
+Ability: Dragon Power  
 Shiny: Yes  
 Happiness: 251  
 EVs: 4 HP / 252 SpD / 252 Spe  
@@ -17890,7 +17951,7 @@ Timid Nature
 - slushswitch  
 
 Heatran @ Metal Coat  
-Ability: Earth Eater  
+Ability: battlebastion  
 Happiness: 251  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
@@ -17907,7 +17968,7 @@ Timid Nature
 - psychiclight  
 - Moongeist Beam  
 - lustrousstream  
-- Covert Switch  
+- covertswitch  
 
 Lucario @ Lucarionite  
 Ability: speedtouch  
@@ -17917,7 +17978,7 @@ Jolly Nature
 - Low Kick  
 - Bullet Punch  
 - Stone Edge  
-- Bullet Switch  
+- bulletswitch  
 
 Dialga @ Metal Coat  
 Ability: Regenerator  
@@ -17969,7 +18030,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Naive Nature  
 - Bolt Beak  
 - Sonic Boom  
-- Lightning Strike  
+- lightningstrike  
 - slushswitch  
 
 Lunala @ Chipped Pot  
@@ -17979,10 +18040,10 @@ Timid Nature
 - psychodarts  
 - Moongeist Beam  
 - lustrousstream  
-- Covert Switch  
+- covertswitch  
 
 Kyurem-White @ Leftovers  
-Ability: dragonpower  
+Ability: Dragon Power  
 Shiny: Yes  
 Happiness: 251  
 EVs: 4 HP / 252 SpD / 252 Spe  
@@ -18001,7 +18062,7 @@ EVs: 4 HP / 252 SpA / 252 Spe
 Timid Nature  
 - Astral Barrage  
 - Nasty Plot  
-- Accelerate  
+- accelerate  
 - Parting Shot  
 
 Lilligant-Hisui @ Choice Scarf  
@@ -18013,18 +18074,18 @@ Jolly Nature
 - Healing Wish  
 - slushswitch  
 
-Landorus-Therian @ Assault Vest  
-Ability: Inveigle  
+Landorus-Therian @ Ability Shield  
+Ability: pacify  
 Happiness: 253  
 EVs: 4 HP / 252 SpD / 252 Spe  
-Calm Nature  
+Careful Nature  
 - Sandsear Storm  
-- Aeroblast  
-- Express Heal  
+- Stealth Rock  
+- expressheal  
 - turbineturn  
 
 Kyurem-White @ Leftovers  
-Ability: dragonpower  
+Ability: Dragon Power  
 Shiny: Yes  
 Happiness: 251  
 EVs: 4 HP / 252 SpD / 252 Spe  
@@ -18041,11 +18102,11 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Bolt Beak  
 - Close Combat  
-- Lightning Strike  
+- lightningstrike  
 - slushswitch  
 
 Heatran @ Metal Coat  
-Ability: Earth Eater  
+Ability: battlebastion  
 Happiness: 251  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
@@ -18063,7 +18124,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- Shadow Flame  
+- shadowflame  
 - Rock Slide  
 - Cross Poison  
 - snowrush  
@@ -18090,7 +18151,7 @@ IVs: 0 Atk
 - Parting Shot  
 
 Kyurem-White @ Leftovers  
-Ability: dragonpower  
+Ability: Dragon Power  
 Shiny: Yes  
 Happiness: 251  
 EVs: 4 HP / 252 SpD / 252 Spe  
@@ -18101,7 +18162,7 @@ Timid Nature
 - slushswitch  
 
 Heatran @ Metal Coat  
-Ability: Earth Eater  
+Ability: battlebastion  
 Happiness: 251  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
@@ -18112,11 +18173,10 @@ Calm Nature
 
 Mewtwo @ Dark Memory  
 Ability: psychicpower  
-Happiness: 251  
 EVs: 28 HP / 4 Def / 224 SpA / 252 Spe  
 Timid Nature  
 - memoryblast  
-- Inferno Beam  
+- infernobeam  
 - psychicfury  
 - Uproar  
 
@@ -18129,7 +18189,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - memoryblast  
 - Close Combat  
-- Bullet Switch  
+- bulletswitch  
 - Agility  
 
 Magearna @ Bright Powder  
@@ -18150,7 +18210,7 @@ Timid Nature
 - psychodarts  
 - Moongeist Beam  
 - lustrousstream  
-- Covert Switch  
+- covertswitch  
 
 Raikou @ Choice Scarf  
 Ability: thunderousbeast  
@@ -18159,11 +18219,11 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Bolt Beak  
 - Close Combat  
-- Lightning Strike  
+- lightningstrike  
 - slushswitch  
 
 Heatran @ Metal Coat  
-Ability: Earth Eater  
+Ability: battlebastion  
 Happiness: 251  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
@@ -18184,18 +18244,16 @@ Bold Nature
 - Parting Shot  
 
 
-=== [gen6ubers] Shadows (Golurk, ???) ===
+=== [gen6ubers] Shadows (Keldeo, Water) ===
 
-Golurk @ Dubious Disc  
-Ability: Klutz  
-Shiny: Yes  
-Happiness: 251  
-EVs: 48 HP / 252 Atk / 208 Spe  
+Keldeo-Resolute @ Water Memory  
+Ability: perfectsword  
+EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- memoryblast  
-- Power-Up Punch  
-- Aromatic Mist  
-- Agility  
+- Sacred Sword  
+- Secret Sword  
+- Aqua Jet  
+- Aqua Step  
 
 Calyrex-Shadow @ Choice Scarf  
 Ability: Power Spot  
@@ -18207,17 +18265,18 @@ IVs: 0 Atk
 - Dazzling Gleam  
 - Parting Shot  
 
-Arceus-Water @ Splash Plate  
+Arceus-Grass @ Meadow Plate  
 Ability: Multitype  
-EVs: 4 HP / 252 Atk / 252 Spe  
-Jolly Nature  
-- sacredwater  
-- Aqua Jet  
+Happiness: 251  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Judgment  
+- royalsubmersion  
 - heavenlymist  
 - slushswitch  
 
 Heatran @ Metal Coat  
-Ability: Earth Eater  
+Ability: battlebastion  
 Happiness: 251  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
@@ -18227,7 +18286,7 @@ Calm Nature
 - Withdraw  
 
 Kyurem-White @ Leftovers  
-Ability: dragonpower  
+Ability: Dragon Power  
 Shiny: Yes  
 Happiness: 251  
 EVs: 4 HP / 252 SpD / 252 Spe  
@@ -18237,14 +18296,384 @@ Timid Nature
 - Aromatic Mist  
 - slushswitch  
 
-Mewtwo @ Sweet Apple  
+Mewtwo @ Ability Shield  
 Ability: psychicpower  
-Happiness: 250  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Stored Power  
-- Aura Sphere  
-- etherealstream  
+- infernobeam  
+- Mud Bomb  
 - psychodarts  
+
+
+=== [gen6ubers] Spectral (Spectrier, Ghost) ===
+
+Spectrier @ Ghost Memory  
+Ability: Grim Neigh  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- memoryblast  
+- spectralball  
+- Nasty Plot  
+- covertswitch  
+
+Raikou @ Choice Scarf  
+Ability: thunderousbeast  
+Happiness: 250  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Bolt Beak  
+- Close Combat  
+- lightningstrike  
+- slushswitch  
+
+Heatran @ Metal Coat  
+Ability: battlebastion  
+Happiness: 251  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+- diffusionwave  
+- Flash Cannon  
+- Recover  
+- Withdraw  
+
+Meowscarada (F) @ Utility Umbrella  
+Ability: parlortrick  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Flower Trick  
+- Night Slash  
+- Stealth Rock  
+- Uproar  
+
+Calyrex-Shadow @ Choice Scarf  
+Ability: Power Spot  
+EVs: 88 HP / 160 SpA / 8 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psycho Boost  
+- Astral Barrage  
+- Dazzling Gleam  
+- Parting Shot  
+
+Ho-Oh @ Sweet Apple  
+Ability: Magic Guard  
+Happiness: 253  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Sacred Fire  
+- Dragon Breath  
+- healingfeather  
+- Aromatic Mist  
+
+
+=== [gen6ubers] Unbreakable (Kyurem-White, Dragon) ===
+
+Arceus @ Passho Berry  
+Ability: omnipotent  
+Happiness: 251  
+EVs: 252 Atk / 252 Spe  
+Jolly Nature  
+- sacredwater  
+- infinitevelocity  
+- Extreme Speed  
+- divinecall  
+
+Mewtwo @ Ability Shield  
+Ability: psychicpower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Stored Power  
+- infernobeam  
+- Mud Bomb  
+- psychodarts  
+
+Kyurem-White @ Dragon Memory  
+Ability: Dragon Power  
+Shiny: Yes  
+Happiness: 251  
+EVs: 4 HP / 252 SpD / 252 Spe  
+Timid Nature  
+- celestialstrike  
+- Earth Power  
+- Aromatic Mist  
+- slushswitch  
+
+Heatran @ Metal Coat  
+Ability: battlebastion  
+Happiness: 251  
+EVs: 128 HP / 124 Def / 252 SpD / 4 Spe  
+Bold Nature  
+- diffusionwave  
+- Fire Spin  
+- Recover  
+- Withdraw  
+
+Calyrex-Shadow @ Choice Scarf  
+Ability: Power Spot  
+EVs: 88 HP / 160 SpA / 8 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psycho Boost  
+- Astral Barrage  
+- Dazzling Gleam  
+- Parting Shot  
+
+Meowscarada (F) @ Utility Umbrella  
+Ability: parlortrick  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Flower Trick  
+- Night Slash  
+- Milk Drink  
+- Uproar  
+
+
+=== [gen6ubers] Mirages in the Night (Kyurem-White, Dragon) ===
+
+Calyrex-Shadow @ Choice Scarf  
+Ability: Power Spot  
+EVs: 88 HP / 160 SpA / 8 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psycho Boost  
+- Astral Barrage  
+- Dazzling Gleam  
+- Parting Shot  
+
+Raikou @ Choice Scarf  
+Ability: thunderousbeast  
+Happiness: 250  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Bolt Beak  
+- Close Combat  
+- lightningstrike  
+- slushswitch  
+
+Arceus @ Passho Berry  
+Ability: omnipotent  
+Happiness: 251  
+EVs: 252 Atk / 252 Spe  
+Jolly Nature  
+- sacredwater  
+- infinitevelocity  
+- Extreme Speed  
+- divinecall  
+
+Greninja-Ash @ Choice Scarf  
+Ability: Battle Bond  
+Happiness: 251  
+EVs: 128 Atk / 128 SpA / 252 Spe  
+Naive Nature  
+- Water Sport  
+- Darkest Lariat  
+- Water Shuriken  
+- leafswitch  
+
+Heatran @ Metal Coat  
+Ability: battlebastion  
+Happiness: 251  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+- diffusionwave  
+- Flash Cannon  
+- Recover  
+- Withdraw  
+
+Kyurem-White @ Dragon Memory  
+Ability: Dragon Power  
+Shiny: Yes  
+Happiness: 251  
+EVs: 4 HP / 252 SpD / 252 Spe  
+Timid Nature  
+- celestialstrike  
+- Dragon Breath  
+- Aromatic Mist  
+- slushswitch  
+
+
+=== [gen6ubers] My Way (Kyurem-White, Dragon) ===
+
+Mewtwo @ Ability Shield  
+Ability: psychicpower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Stored Power  
+- infernobeam  
+- Mud Bomb  
+- psychodarts  
+
+Meowscarada (F) @ Utility Umbrella  
+Ability: parlortrick  
+Shiny: Yes  
+EVs: 252 HP / 252 Spe  
+Jolly Nature  
+- Flower Trick  
+- Night Slash  
+- Stealth Rock  
+- Uproar  
+
+Heatran (M) @ Metal Coat  
+Ability: battlebastion  
+Happiness: 251  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+- diffusionwave  
+- Flash Cannon  
+- Recover  
+- Withdraw  
+
+Lilligant-Hisui @ Choice Scarf  
+Ability: evergreen  
+EVs: 252 HP / 4 Atk / 252 Spe  
+Jolly Nature  
+- Petal Blizzard  
+- Axe Kick  
+- Healing Wish  
+- slushswitch  
+
+Kyurem-White @ Dragon Memory  
+Ability: Dragon Power  
+Shiny: Yes  
+Happiness: 251  
+EVs: 4 HP / 252 SpD / 252 Spe  
+Timid Nature  
+- celestialstrike  
+- Dragon Breath  
+- Aromatic Mist  
+- slushswitch  
+
+Marshadow @ Ability Shield  
+Ability: Technician  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- paddlekick  
+- Smack Down  
+- Low Sweep  
+- flipkick  
+
+
+=== [gen6ubers] Antiseptic (Tornadus, Fairy) ===
+
+Tornadus (M) @ Fairy Memory  
+Ability: tempest  
+EVs: 152 Atk / 104 SpA / 252 Spe  
+Hasty Nature  
+- Water Sport  
+- memoryblast  
+- Aeroblast  
+- turbineturn  
+
+Heatran (M) @ Metal Coat  
+Ability: battlebastion  
+Happiness: 251  
+EVs: 252 HP / 152 Def / 100 SpD / 4 Spe  
+Bold Nature  
+- diffusionwave  
+- Flash Cannon  
+- Recover  
+- Withdraw  
+
+Arceus @ Occa Berry  
+Ability: omnipotent  
+Happiness: 251  
+EVs: 252 HP / 4 Atk / 252 Spe  
+Jolly Nature  
+- infinitevelocity  
+- heavenlymist  
+- Extreme Speed  
+- divinecall  
+
+Calyrex-Shadow @ Choice Scarf  
+Ability: Power Spot  
+EVs: 88 HP / 160 SpA / 8 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psycho Boost  
+- Astral Barrage  
+- Dazzling Gleam  
+- Parting Shot  
+
+Zacian-Crowned @ Rusted Sword  
+Ability: Intrepid Sword  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Sacred Sword  
+- Close Combat  
+- aquafang  
+- bulletswitch  
+
+Lugia @ White Herb  
+Ability: deepsea  
+EVs: 116 HP / 252 Def / 136 SpD / 4 Spe  
+Bold Nature  
+- calamitywing  
+- aquasoul  
+- Thunder Wave  
+- royalretreat  
+
+
+=== [gen6ubers] Mewtwo's Answer (Ho-Oh, Grass) ===
+
+Mewtwo @ Choice Specs  
+Ability: psychicpower  
+EVs: 252 SpA / 252 Spe  
+Timid Nature  
+- Stored Power  
+- Expanding Force  
+- psychofire  
+- psychodarts  
+
+Lugia @ White Herb  
+Ability: deepsea  
+EVs: 116 HP / 252 Def / 136 SpD / 4 Spe  
+Bold Nature  
+- calamitywing  
+- aquasoul  
+- Thunder Wave  
+- royalretreat  
+
+Ho-Oh @ Grass Memory  
+Ability: Regenerator  
+Happiness: 253  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Sacred Fire  
+- Stealth Rock  
+- healingfeather  
+- Aromatic Mist  
+
+Heatran (M) @ Metal Coat  
+Ability: battlebastion  
+Happiness: 251  
+EVs: 252 HP / 152 Def / 100 SpD / 4 Spe  
+Bold Nature  
+- diffusionwave  
+- Flash Cannon  
+- Recover  
+- Withdraw  
+
+Raikou @ Choice Scarf  
+Ability: thunderousbeast  
+Happiness: 250  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Bolt Beak  
+- Close Combat  
+- lightningstrike  
+- slushswitch  
+
+Arceus @ Passho Berry  
+Ability: omnipotent  
+Happiness: 251  
+EVs: 252 Atk / 252 Spe  
+Jolly Nature  
+- sacredwater  
+- infinitevelocity  
+- Extreme Speed  
+- divinecall  
 
 

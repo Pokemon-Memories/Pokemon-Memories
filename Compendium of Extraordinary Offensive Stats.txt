@@ -1,6 +1,6 @@
 Offensive Stats over 300
 
-Attack (71 Total)
+Attack (72 Total)
 
 Mega Mewtwo X: 450
 Deoxys Attack: 405
@@ -35,6 +35,7 @@ Zekrom: 320
 Mega Lopunny: 316
 Arcanine-Hisui: 315
 Bellsprout: 315
+Glastrier: 315
 Mega Diancie: 315
 Rampardos: 315
 Keldeo Resolute: 310
@@ -72,7 +73,7 @@ Regigigas: 300
 Terrakion: 300
 Zapdos-Galar: 300
 
-Special Attack (60 Total)
+Special Attack (61 Total)
 
 Mega Mewtwo Y: 450
 Deoxys Attack: 405
@@ -98,6 +99,7 @@ Mega Gardevoir: 320
 Rayquaza: 320
 Reshiram: 320
 Bellsprout: 315
+Spectrier: 315
 Mega Diancie: 315
 Keldeo Resolute: 310
 Naganadel: 307

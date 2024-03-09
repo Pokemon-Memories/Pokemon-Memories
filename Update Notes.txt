@@ -1,5 +1,239 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v1.9.4
+General
+- Animations
+	- The following Moves received Modified Animations: "Aqua Step", "Blazing Blast", "Compact Stream", "Crowd Control", "Crystal Rush", "Earth Power", "Electro Strike", "Flutter Song", "Flutter Step", "Frost Step", "Frosty Glide", "Iron Run", "Malice Run", "Paddle Kick", "Pixie Run", "Prattle Rattle", "Receiving Strike", "Smash Hit", "Sludge Rush", "Snow Rush", "Spectral Ball", "Thermal Press", "Vital Dance"
+
+Formats
+- Ubers
+	- Restrictions
+		- Mewtwo Cluase
+			- Mewtwo cannot hold a Fighting Memory
+				- Explanation: Although none of Mewtwo's Physical options are particularly oppressive in its Base Forme, or its other Memory Forms: With a Fighting Memory, Mewtwo is able to turn Power-Up Punch and Receiving Strike into devastating nukes, while dealing lethal amounts of damage to threats that could otherwise oppose its Special Sets, due to the immense power it commands with its expansive list of Perfect Form "compatible" Physical Moves. Keeping Fighting Mewtwo, in the Meta's current state, would potentially cause the Meta to devolve into Fighting Mewtwo vs Psycho Darts Mewtwo 50/50s, which is not healthy for a Metagame.
+
+Mechanics
+- Memorization
+	- Super Memory Abilities
+		- Implemented
+		- Description: When a Pokemon shares an Ability with their Memory Ability, the two will combine to form a "Super Memory Ability". These Special Abilities will either amplify the effects of the Base Ability, or introduce new Properties to the Ability, altogether
+		- Compatible Abilities
+			- Super Dark Aura
+				- Memory Disc: Dark
+				- Additional Effect: Opposing Pokemon receive 1/4 of the Damage they inflict to this Pokemon
+			- Super Regenerator
+				- Memory Disc: Dragon
+				- Additional Effect: The Pokemon restores 1/2 of their Max Hp upon Switching Out
+			- Super Fairy Aura
+				- Memory Disc: Fairy
+				- Additional Effect: The user clears all Hazards on their side, upon Switching In. Upon fainting, the user generates a field that restores 1/16 of their Party's Max Hp at the end of each turn, that lasts for 10 Turns
+			- Super Sheer Force
+				- Memory Disc: Fire
+				- Effect: x1.3 Base Power on Moves with Secondary Effects -> x1.5 Base Power on all Moves (Secondary Effects are still removed)
+			- Super Double Down
+				- Memory Disc: Poison
+				- Additional Effect: Pokemon receives a Resistance to any Move that shares a Type with the Move in its First Moveslot. Pokemon automatically restores an additional 25% after using any Status Move
+- Ultra Assist
+	- EX Yveltal
+		- Now blocks Heavenly Mist from being used
+
+Abilities
+- Chilling Neigh
+	- Effect: Raises the Pokemon's Attack Stat by 1 Stage for every successful K.O. -> Raises the Pokemon's Attack Stat by 1 Stage, for 3 Active Turns, upon Switching In. Pokemon will lose this boost after the Time Limit even if it is holding a Fairy Memory
+- Battle Bastion
+	- Implemented
+	- Effect: Pokemon gains immunity to opposing Ground-Type Moves, and heals 1/4 of its Max Hp when they are used against it; Prevents the opponent from using Tailwind while this Pokemon is active
+- Grim Neigh
+	- Effect: Raises the Pokemon's Special Attack Stat by 1 Stage for every successful K.O. -> Raises the Pokemon's Special Attack Stat by 1 Stage, for 3 Active Turns, upon Switching In. Pokemon will lose this boost after the Time Limit even if it is holding a Fairy Memory
+- Serene Grace
+	- Additional Effect: Pokemon restores 1/5 of their Max Hp for each successful non-Healing Status Move they use; Healing Status Moves restore 1/10 of their Max Hp.
+	- Memory Effect has been removed
+
+Moves
+- Crowd Control
+	- Implemented
+		- Base Power: __
+		- Accuracy: Always Hits
+		- Category: Status
+		- Contact: No
+		- Sound: No
+		- Effect: Attempts to force the opponent to Switch Out into an ally of their choice at the end of the Turn
+		- Priority: 3
+		- PP: 4 (Static)
+		- Type: ???
+		- Users: Meloetta
+- Divine Call
+	- Corrected an error where the move would not reset the user's stats in the manner intended
+- Heavenly Mist
+	- Corrected an oversight where this move would not be blocked by Abilities such as Omnipotent
+- House Cleaning
+	- Implemented
+		- Base Power: 80
+		- Accuracy: __
+		- Category: Special
+		- Contact: No
+		- Effect: Clears all hazards on the user's side, and sets Stealth Rock on the opponent's side.
+		- Priority: 0
+		- PP: 5
+		- Type: Water
+		- Users: Amoonguss, Azelf, Azumarill, Blissey, Calyrex, Calyrex-Ice, Eevee, Gardevoir, Glastrier, Landorus, Manaphy, Meloetta, Mew, Phione, Rotom, Shaymin, Spectrier
+- Smash Hit
+	- Implemented
+		- Base Power: 100
+		- Accuracy: 100
+		- Category: Special
+		- Contact: No
+		- Sound: Yes
+		- Effect: Attempts to induce Encore on the Opponent.
+		- Priority: 0
+		- PP: 5
+		- Type: Normal
+		- Users: Meloetta
+- Spectral Ball
+	- Implemented
+		- Base Power: 80
+		- Accuracy: 100
+		- Category: Status
+		- Contact: No
+		- Bullet Move: Yes
+		- Effect: 20% Chance to lower the Target's Special Attack by 1 Stage
+		- Priority: 0
+		- PP: 10
+		- Type: ???
+		- Users: Spectrier
+
+Pokemon
+- Blissey
+	- Learnset Additions
+		- Fall Back
+- Chandelure
+	- Learnset Additions
+		- Aromatic Mist
+		- Covert Switch
+		- Flame Switch
+		- Shadow Flame
+	- Learnset Removals
+		- Double Team
+		- Recover
+		- Milk Drink
+- Glastrier
+	- Implemented
+	- Base Stats
+		- Hp: 100 -> 160
+		- Atk: 145 -> 315
+		- Def: 130 -> 200
+		- SpA: 65 -> 185
+		- SpD: 110 -> 160
+		- Spe: 30 -> 180
+		- BST: 580 -> 1200
+	- Learnset Additions
+		- Defog
+		- House Cleaning
+		- Memory Blast
+		- Powder Snow
+		- Slush Switch
+		- Substitute
+		- Uproar
+	- Learnset Removals
+		- Assurance
+		- Body Press
+		- Bulldoze
+		- Close Combat
+		- Crunch
+		- Double Kick
+		- High Horsepower
+		- Lash Out
+		- Megahorn
+		- Mud Shot
+		- Payback
+		- Snarl
+		- Stomping Tantrum
+		- Superpower
+		- Throat Chop
+- Heatran
+	- Ability: Earth Eater -> Battle Bastion
+- Manaphy
+	- Learnset Additions
+		- Fairy Wind
+		- House Cleaning
+		- Sweet Retreat
+		- Switcheroo
+		- Whirlwind
+- Meloetta
+	- Learnset Additions
+		- Fire Spin
+		- House Cleaning
+		- Imprison
+		- Nasty Plot
+		- Roar
+		- Stealth Rock
+		- Sweet Retreat
+		- Swords Dance
+	- Learnset Removals
+		- Milk Drink
+- Phione
+	- Learnset Additions
+		- Aromatic Mist
+		- Fairy Wind
+		- House Cleaning
+		- Perish Song
+		- Royal Obfuscation
+		- Stealth Rock
+		- Sweet Retreat
+- Registeel
+	- Learnset Additions
+		- Fire Spin
+- Rotom
+	- Learnset Additions
+		- Dragon Breath
+- Spectrier
+	- Implemented
+	- Base Stats
+		- Hp: 100 -> 160
+		- Atk: 65 -> 205
+		- Def: 60 -> 140
+		- SpA: 145 -> 315
+		- SpD: 80 -> 180
+		- Spe: 130 -> 180
+		- BST: 580 -> 1200
+	- Learnset Additions
+		- Covert Switch
+		- Defog
+		- House Cleaning
+		- Memory Blast
+		- Nightmare
+		- Spectral Ball
+		- Substitute
+		- Uproar
+	- Learnset Removals
+		- Agility
+		- Assurance
+		- Bulldoze
+		- Crunch
+		- Dark Pulse
+		- Foul Play
+		- Lash Out
+		- Mud Shot
+		- Payback
+		- Stomping Tantrum
+		- Snarl
+- Tornadus
+	- Universal
+		- Learnset Additions
+			- Aromatic Mist
+		- Learnset Removals
+			- Recover
+	- Incarnate Forme
+		- Hidden Ability: Defiant -> Competitive
+		- Base Stats
+			- Hp: 149 -> 179
+			- Atk: 105 -> 215
+			- SpA: 115 -> 215 
+	- Therian Forme
+		- Base Stats
+			- Hp: 149 -> 179
+
+
 Pokemon Memories v1.9.3
 Mechanics
 - Memorization
