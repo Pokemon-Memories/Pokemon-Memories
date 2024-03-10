@@ -124,6 +124,7 @@ Arceus
 Heatran
 Kyurem-White (S-; Dragon Memory)
 Mewtwo
+Tornadus (A; Fairy Memory)
 
 S-
 Zacian-Crowned
@@ -131,7 +132,7 @@ Raikou
 Greninja-Ash
 Calyrex-Shadow (S-; Ghost Memory/Fairy Memory)
 
-A-Tier (31 Total)
+A-Tier (26 Total)
 
 A+
 Ho-Oh
@@ -142,19 +143,16 @@ Meowscarada
 Kyogre
 
 A
-Tornadus
 Darkrai
 Deoxys-Attack
-Rayquaza
-Eternatus
+Volcanion
 Necrozma-Dusk-Mane
-Sandslash-Alola
 Spectrier
 Kyurem-Black
 
 A-
+Sandslash-Alola
 Arceus-Electric
-Arceus-Fairy
 Dialga
 Landorus-Therian
 Arcanine-Hisui
@@ -167,24 +165,23 @@ Azumarill
 Arceus-Water
 Meowth (B; Dubious Disc)
 Arceus-Ground
-Klinklang
 Marshadow (A-; Fighting Memory)
-Victreebel
 
 
-B-Tier (91 Total)
+B-Tier (94 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
 Amoonguss
 Arceus-Dark
+Arceus-Fire
 Arceus-Flying
 Arceus-Ghost
 Arceus-Grass
 Cresselia
-Decidueye
 Empoleon
 Entei
+Eternatus
 Garchomp
 Genesect
 Glastrier
@@ -208,6 +205,7 @@ Necrozma-Ultra
 Palkia
 Phione
 Pikachu-Original
+Rayquaza
 Shaymin-Sky
 Suicune
 Sunflora
@@ -218,8 +216,10 @@ Tapu Koko
 Thundurus
 Thundurus-Therian
 Umbreon
+Urshifu-R
+Urshifu-S
 Vaporeon
-Weavile
+Victreebel
 Xerneas
 Yveltal
 Zamazenta-Crowned
@@ -229,7 +229,7 @@ Zygarde
 Zygarde-Complete
 
 B
-Arceus-Fire
+Arceus-Fairy
 Bellsprout
 Blastoise
 Blastoise-Mega
@@ -241,6 +241,7 @@ Darmanitan-Galar-Zen
 Deoxys-Speed
 Giratina-Origin
 Jellicent
+Klinklang
 Landorus-Incarnate
 Ludicolo
 Magnezone
@@ -252,9 +253,6 @@ Reuniclus
 Skarmory
 Solgaleo
 Torterra
-Urshifu-R
-Urshifu-S
-Volcanion
 Zapdos-Galar
 Zoroark-Hisui
 
@@ -263,6 +261,7 @@ Arceus-Dragon
 Celebi
 Darmanitan
 Darmanitan-Galar
+Decidueye
 Gengar
 Giratina
 Gyarados-Mega
@@ -273,7 +272,7 @@ Reshiram
 Salamence-Mega
 
 
-C-Tier (37 Total)
+C-Tier (38 Total)
 
 C+
 Abomasnow
@@ -298,6 +297,7 @@ Serperior
 Sawsbuck
 Snorlax
 Victini
+Weavile
 
 C
 Dracozolt

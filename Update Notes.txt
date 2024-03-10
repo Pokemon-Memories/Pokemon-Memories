@@ -20,16 +20,16 @@ Mechanics
 		- Compatible Abilities
 			- Super Dark Aura
 				- Memory Disc: Dark
-				- Additional Effect: Opposing Pokemon receive 1/4 of the Damage they inflict to this Pokemon
+				- Additional Effect: Upon fainting, this Pokemon attempts to set 3 Layers of Spikes on the opponent's side of the field.
 			- Super Regenerator
 				- Memory Disc: Dragon
-				- Additional Effect: The Pokemon restores 1/2 of their Max Hp upon Switching Out
+				- Additional Effect: The Pokemon restores 1/2 of their Max Hp upon Switching Out, and the Pokemon replacing it is healed by 1/4 of the user's Max Hp
 			- Super Fairy Aura
 				- Memory Disc: Fairy
-				- Additional Effect: The user clears all Hazards on their side, upon Switching In. Upon fainting, the user generates a field that restores 1/16 of their Party's Max Hp at the end of each turn, that lasts for 10 Turns
+				- Additional Effect: The user clears all Hazards on their side, upon Switching In. Upon fainting, the user generates a field that restores 1/16 of their Party's Max Hp at the end of each turn, for 10 Turns.
 			- Super Sheer Force
 				- Memory Disc: Fire
-				- Effect: x1.3 Base Power on Moves with Secondary Effects -> x1.5 Base Power on all Moves (Secondary Effects are still removed)
+				- Effect: x1.5 Base Power on all Moves; Additional x1.2 Damage if the Move is Super-Effective. Pokemon's Secondary Effects are still removed.
 			- Super Double Down
 				- Memory Disc: Poison
 				- Additional Effect: Pokemon receives a Resistance to any Move that shares a Type with the Move in its First Moveslot. Pokemon automatically restores an additional 25% after using any Status Move

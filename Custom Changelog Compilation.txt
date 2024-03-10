@@ -10083,20 +10083,19 @@ Description: If a Pokemon shares an Ability with the target Ability of their hel
 --
 Compatible Abilities
 Super Dark Aura 🌟
-Additional Effect: Opposing Pokemon receive 1/4 of the Damage they inflict to this Pokemon.
-Penalty: This Pokemon cannot use non-Healing Status Moves
+Additional Effect: Opposing Pokemon receive 1/4 of the Damage they inflict to this Pokemon. Upon fainting, this Pokemon attempts to set 3 Layers of Spikes on the opponent's side of the field.
 Memory Disc: Dark
 --
 Super Regenerator 🌟
-Additional Effect: The Pokemon restores 1/2 of their Max Hp upon Switching Out
+Additional Effect: The Pokemon restores 1/2 of their Max Hp upon Switching Out, and the Pokemon replacing it is healed by 1/4 of the user's Max Hp
 Memory Disc: Dragon
 --
 Super Fairy Aura 🌟
-Additional Effect: The user clears all Hazards on their side, upon Switching In. Upon fainting, the user generates a field that restores 1/16 of their Party's Max Hp at the end of each turn, that lasts for 10 Turns.
+Additional Effect: The user clears all Hazards on their side, upon Switching In. Upon fainting, the user generates a field that restores 1/16 of their Party's Max Hp at the end of each turn, for 10 Turns.
 Memory Disc: Fairy
 --
 Super Sheer Force 🌟
-Effect: x1.3 Base Power on Moves with Secondary Effects -> x1.5 Base Power on all Moves (Secondary Effects are still removed)
+Effect: x1.3 Base Power on Moves with Secondary Effects -> x1.5 Base Power on all Moves; Additional x1.2 Damage if the Move is Super-Effective. Pokemon's Secondary Effects are still removed.
 Memory Disc: Fire
 --
 Super Double Down 🌟
