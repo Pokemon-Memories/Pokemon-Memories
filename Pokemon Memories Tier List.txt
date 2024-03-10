@@ -117,7 +117,7 @@ Note: Pokemon beneath the A-Tier, are listed alphabetically; Pokemon in the lowe
 
 Viability Rankings
 
-S-Tier (7 Total)
+S-Tier (8 Total)
 
 S
 Arceus
@@ -126,14 +126,14 @@ Kyurem-White (S-; Dragon Memory)
 Mewtwo
 
 S-
+Zacian-Crowned
 Raikou
 Greninja-Ash
 Calyrex-Shadow (S-; Ghost Memory/Fairy Memory)
 
-A-Tier (32 Total)
+A-Tier (31 Total)
 
 A+
-Zacian-Crowned
 Ho-Oh
 Lilligant-Hisui
 Lunala

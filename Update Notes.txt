@@ -3,7 +3,7 @@ Pokemon Memories Update Notes
 Pokemon Memories v1.9.4
 General
 - Animations
-	- The following Moves received Modified Animations: "Aqua Step", "Blazing Blast", "Compact Stream", "Crowd Control", "Crystal Rush", "Earth Power", "Electro Strike", "Flutter Song", "Flutter Step", "Frost Step", "Frosty Glide", "Iron Run", "Malice Run", "Paddle Kick", "Pixie Run", "Prattle Rattle", "Receiving Strike", "Smash Hit", "Sludge Rush", "Snow Rush", "Spectral Ball", "Thermal Press", "Vital Dance"
+	- The following Moves received Modified Animations: "Aqua Step", "Blazing Blast", "Compact Stream", "Crowd Control", "Crystal Rush", "Earth Power", "Electro Strike", "Flutter Song", "Flutter Step", "Frost Step", "Frosty Glide", "Iron Run", "Magma Storm", "Malice Run", "Paddle Kick", "Pixie Run", "Prattle Rattle", "Receiving Strike", "Sludge Rush", "Smash Hit", "Snow Rush", "Spectral Ball", "Sweet Retreat", "Thermal Press", "Vital Dance"
 
 Formats
 - Ubers
