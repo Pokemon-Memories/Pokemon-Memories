@@ -1,9 +1,71 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v1.9.5
+General
+- Animations
+	- The following Moves have received Animations: "Strange Wave"
+
+Formats
+- Ubers
+	- Restrictions
+		- Ubers and OU
+			- Super Dark Aura Clause: Pokemon with the ability "Dark Aura" will not have access to Super Dark Aura when holding a Dark Memory
+
+Abilities
+- Tempest
+	- Water-Type Move Power-Boost: x1.5 -> x1.3
+
+Items
+- Choice Items
+	- Rejected Abilitiess Additions
+		- Tempest
+- Mirror Herb
+	- Implemented
+	- Effect: Holder's Resisted Moves Psychic-Type Moves deal x1.5 Damage
+
+Moves
+- Mystery Wave
+	- This Move's Toxic Chance has been changed into a Poison Chance
+
+Pokemon
+- Eternatus
+	- Learnset Additions
+		- Aura Sphere
+		- Dragon Tail
+		- House Cleaning
+		- Whirlwind
+- Lilligant-Hisui
+	- Learnset Additions
+		- Aromatherapy
+		- Heal Bell
+		- Memory Blast
+- Porygon
+	- Learnset Additions
+		- Dragon Tail
+		- House Cleaning
+		- Roar
+		- Sweet Retreat
+	- Learnset Removals
+		- Strange Wave
+- Sandslash-Alola
+	- Learnset Additions
+		- Memory Blast
+- Tornadus
+	- Learnset Removals
+		- Aromatic Mist
+		- Aura Sphere
+		- Tailwind
+- Zamazenta
+	- Learnset Additions
+		- House Cleaning
+		- Royal Retreat
+	- Learnset Removals
+		- Aromatic Mist
+
 Pokemon Memories v1.9.4
 General
 - Animations
-	- The following Moves received Modified Animations: "Aqua Step", "Blazing Blast", "Compact Stream", "Crowd Control", "Crystal Rush", "Earth Power", "Electro Strike", "Flutter Song", "Flutter Step", "Frost Step", "Frosty Glide", "Iron Run", "Magma Storm", "Malice Run", "Paddle Kick", "Pixie Run", "Prattle Rattle", "Receiving Strike", "Sludge Rush", "Smash Hit", "Snow Rush", "Spectral Ball", "Sweet Retreat", "Thermal Press", "Vital Dance"
+	- The following Moves have received Animations: "Aqua Step", "Blazing Blast", "Compact Stream", "Crowd Control", "Crystal Rush", "Earth Power", "Electro Strike", "Flutter Song", "Flutter Step", "Frost Step", "Frosty Glide", "Iron Run", "Magma Storm", "Malice Run", "Paddle Kick", "Pixie Run", "Prattle Rattle", "Receiving Strike", "Sludge Rush", "Smash Hit", "Snow Rush", "Spectral Ball", "Sweet Retreat", "Thermal Press", "Vital Dance"
 
 Formats
 - Ubers
@@ -266,7 +328,7 @@ Pokemon
 Pokemon Memories v1.9.2
 General
 - Animations
-	- The following Moves received Modified Animations: "Heavenly Mist", "Sacred Water"
+	- The following Moves have received Animations: "Heavenly Mist", "Sacred Water"
 - Bugfixes
 	- Corrected an error where Pokemon could no longer learn Flash Cannon
 	- Corrected an error where some Pokemon would trigger false alarms in the Validator when attempting to run their Hidden Abilities

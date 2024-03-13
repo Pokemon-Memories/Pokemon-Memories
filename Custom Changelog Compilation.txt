@@ -1442,7 +1442,6 @@ Shatter Fist
 Shatter Reign
 Shatter Shade
 Shatter Splash
-Shattered Earth
 Sludge Rush
 Sparkling Ice
 Stomping Tantrum
@@ -2155,6 +2154,7 @@ Aura Sphere
 Avalanche
 Charge Beam
 Defog
+Dragon Tail
 Earthquake
 Embargo
 Enigma Beam
@@ -2162,6 +2162,7 @@ Enigma Cannon
 Enigma Charge
 Flash Cannon
 Gastro Acid
+House Cleaning
 Moonblast
 Mystery Bind
 Mystery Drain
@@ -2172,14 +2173,15 @@ Mystery Wave
 Parabolic Charge
 Play Rough
 Recover
+Roar
 Royal Shattering
 Royal Turbulence
 Shatter Beam
 Shatter Shot
 Spark
 Stealth Rock
-Strange Wave
 Surf
+Sweet Retreat
 Teleport
 Water Gun
 Water Sport
@@ -2418,7 +2420,6 @@ Return
 Roost
 Sky Drop
 Soft-Boiled
-Substitute
 ------------------------------------------------------------------------
 Sudowoodo
 Hp: 70 -> 200 = +100
@@ -3104,7 +3105,6 @@ Return
 Roar
 Sheer Cold
 Signal Beam
-Substitute
 Surf
 
 Primal Kyogre (Anything Goes)
@@ -4401,11 +4401,11 @@ Spe: 180 -> 180 = +0
 BST: 1400 -> 1400		
 
 Arceus Electric
-Formula: -130 Hp, +35 Atk, +55 Def, +35 SpA, +55 SpD, +70 Spe
+Formula: -130 Hp, -25 Atk, +55 Def, -25 SpA, +55 SpD, +70 Spe
 Hp: 200 -> 70 = -130
-Atk: 240 -> 275 = +35
+Atk: 300 -> 275 = -25
 Def: 210 -> 265 = +55
-SpA: 240 -> 275 = +35
+SpA: 300 -> 275 = -25
 SpD: 210 -> 265 = +55
 Spe: 180 -> 250 = +70
 BST: 1400 -> 1400		
@@ -5246,9 +5246,7 @@ New Moves
 Acrobatics
 Aeroblast
 Aqua Step
-Aromatic Mist
 Astonish
-Aura Sphere
 Bleakwind Storm
 Brutal Swing
 Bubble
@@ -5261,7 +5259,6 @@ Sludge Wave
 Slush Switch
 Surf
 Swords Dance
-Tailwind
 Triple Kick
 Turbine Turn
 U-Turn
@@ -5280,7 +5277,7 @@ Spe: 161 -> 186 = +25
 BST: 1000 -> 1430
 
 Tempest
-Effect: Multiplies damage of Water-Type Attacks by x1.5, if the Pokemon doesn't have the Water Type. Sets Rain upon switching in. Transforms Tornadus into its Therian Forme if it is raining. Reverts if Rain dissappears.
+Effect: Multiplies damage of Water-Type Attacks by x1.3, if the Pokemon doesn't have the Water Type. Sets Rain upon switching in. Transforms Tornadus into its Therian Forme if it is raining. Reverts if Rain dissappears.
 --
 Thundurus   
 Hp: 79 -> 159 = +80
@@ -5567,7 +5564,6 @@ Cosmic Power
 Crowd Control
 Dazzling Gleam
 Disarming Voice
-Double Hit
 Double Hit
 Double Team
 Drain Punch
@@ -7300,7 +7296,6 @@ BST: 990 -> 1165
 New Moves
 Anchor Shot
 Armor Press
-Aromatic Mist
 Autotomize
 Body Press
 Bullet Switch
@@ -7310,16 +7305,20 @@ Dragon Breath
 Earthquake
 Ember
 Flip Kick
+Gear Grind
 Haze
+House Cleaning
 King's Shield
 Knock Off
 Rapid Spin
+Receiving Strike
 Return
 Royal Shattering
 Secret Sword
 Shield Dance
 Stone Edge
 Stealth Rock
+Sweet Retreat
 Toxic
 
 Unlearned Moves
@@ -7338,17 +7337,20 @@ Added Ability: Space Power
 New Moves
 Anchor Shot
 Aromatic Mist
+Aura Sphere
 Autotomize
 Blizzard
 Chaos Switch
 Cross Poison
 Discharge
 Dragon Breath
+Dragon Tail
 Earth Power
 Earthquake
 Ember
 Focus Energy
 Heal Block
+House Cleaning
 Icy Wind
 Imprison
 Iron Defense
@@ -7367,6 +7369,7 @@ Tailwind
 Thunder
 Teleport
 Venoshock
+Whirlwind
 
 Unlearned
 Agility
@@ -9670,7 +9673,10 @@ Spe: 105 -> 185 = +80
 BST: 480 -> 1270
 Ability: Leaf Guard -> Evergreen
 New Moves
+Aromatherapy
 Earthquake
+Heal Bell
+Memory Blast
 Flip Turn
 Leaf Switch
 Slush Switch
@@ -15115,7 +15121,7 @@ Effect: Changes all Special attacks into Physical attacks. Eliminates weaknesses
 Category: Landorus/Tornadus/Thundurus Exclusive Abilities 
 --
 Tempest  
-Effect: Multiplies damage of Water-Type Attacks by x1.5, if the Pokemon doesn't have the Water Type. Sets Rain upon switching in. Transforms Tornadus into its Therian Forme if it is raining. Reverts if Rain dissappears.
+Effect: Multiplies damage of Water-Type Attacks by x1.3, if the Pokemon doesn't have the Water Type. Sets Rain upon switching in. Transforms Tornadus into its Therian Forme if it is raining. Reverts if Rain dissappears.
 --
 Malleate  
 Effect: Transforms Thundurus depending on the type of attack used
@@ -15488,7 +15494,7 @@ Chipped Pot
 Effect: Heals holder by 1/10 max hp each turn if it is a Ghost-Type.
 --
 Choice Items
-Collective Penalty: Immediately destroyed if holder has the following abilities: Beast Boost, Bulldozer, Download, Dual Wielder, Huge Power, Illusion, Libero, Parlor Trick, Pure Power, Protean
+Collective Penalty: Immediately destroyed if holder has the following abilities: Beast Boost, Bulldozer, Download, Dual Wielder, Huge Power, Illusion, Libero, Parlor Trick, Pure Power, Protean, Tempest
 -
 Exceptions: The following Abilities will only destroy the specified Choice Items (rather than all of them)
 * Battle Bond (Choice Band; Choice Specs)
@@ -15755,12 +15761,15 @@ Effect: Automatically switches the holder out after using a Hazard-Setting Move.
 Oval Stone
 Effect: Shatter-Moves have x1.5 Base Power; Single Use.
 --
+Mirror Herb
+Effect: Pokemon's Resisted Psychic-Type Moves deal x1.5 Damage
+--
 Pinap Berry
 Effect: Switches the holder out at the end of the turn, if they successfully used Tailwind. Single Use
 --
 Prism Scale
 Effect: Raises user's SpA by 3 stage upon successfully using a Heavy-Type Move
-Affected Moves: Draco Meteor, Overheat, Zap Cannon, Fleur Cannon, Leaf Storm
+Affected Moves: Cosmic Starfall, Draco Meteor, Overheat, Zap Cannon, Fleur Cannon, Leaf Storm
 --
 Shiny Stone
 Effect: Sharply raises Victini's Atk, and SpA, and Spe, upon using V-Create. Single Use.

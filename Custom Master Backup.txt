@@ -1,3 +1,65 @@
+=== [gen6anythinggoes] Super Dark Aura (Yveltal, Dark) ===
+
+Yveltal @ Dark Memory  
+Ability: Dark Aura  
+Shiny: Yes  
+EVs: 252 HP / 252 Atk / 4 Spe  
+Adamant Nature  
+- royalobfuscation  
+- Oblivion Wing  
+- Roost  
+- Uproar  
+
+Meowscarada (F) @ Utility Umbrella  
+Ability: parlortrick  
+Shiny: Yes  
+EVs: 252 HP / 252 Spe  
+Jolly Nature  
+- Flower Trick  
+- Night Slash  
+- Stealth Rock  
+- Uproar  
+
+Raikou @ Choice Scarf  
+Ability: thunderousbeast  
+Happiness: 250  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Bolt Beak  
+- Close Combat  
+- lightningstrike  
+- slushswitch  
+
+Arceus @ Occa Berry  
+Ability: omnipotent  
+Happiness: 251  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Extreme Speed  
+- infinitevelocity  
+- Rock Wrecker  
+- divinecall  
+
+Calyrex-Shadow @ Choice Scarf  
+Ability: Power Spot  
+EVs: 88 HP / 160 SpA / 8 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psycho Boost  
+- Astral Barrage  
+- Dazzling Gleam  
+- Parting Shot  
+
+Zacian-Crowned @ Metal Coat  
+Ability: Intrepid Sword  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Sacred Sword  
+- Close Combat  
+- bulletswitch  
+- rentalcharge  
+
+
 === [gen6unlimitedmemorizeubers] Super Memory Abilities Testing ===
 
 Yveltal @ Dark Memory  
@@ -741,7 +803,7 @@ IVs: 0 Spe
 - Toxic Spikes  
 - diffusionwave  
 - royalnourishment  
-- Royal Retreat  
+- royalretreat  
 
 Arceus-Fairy @ Bright Powder  
 Ability: doubledown  
@@ -806,7 +868,7 @@ IVs: 0 Spe
 - Core Enforcer  
 - Spectral Thief  
 - royalnourishment  
-- Royal Retreat  
+- royalretreat  
 
 Xerneas (M) @ Bright Powder  
 Ability: spectralveil  
@@ -817,7 +879,7 @@ Sassy Nature
 - Nature's Madness  
 - diffusionwave  
 - royalnourishment  
-- Royal Retreat  
+- royalretreat  
 
 
 === [gen6balancedhackmons] Fairy Aura (Fairy, Poison) ===
@@ -840,7 +902,7 @@ IVs: 0 Spe
 - Origin Pulse  
 - Spectral Thief  
 - expressheal  
-- Royal Retreat  
+- royalretreat  
 
 Arceus-Fire @ Lax Incense  
 Ability: Fur Coat  
@@ -923,7 +985,7 @@ Modest Nature
 - Nature's Madness  
 - Spectral Thief  
 - Strength Sap  
-- Royal Retreat  
+- royalretreat  
 
 Kyogre-Primal @ Assault Vest  
 Ability: Fur Coat  
@@ -934,7 +996,7 @@ IVs: 0 Spe
 - Origin Pulse  
 - diffusionwave  
 - expressheal  
-- Royal Retreat  
+- royalretreat  
 
 Arceus-Fighting @ Leftovers  
 Ability: evergreen  
@@ -1171,7 +1233,7 @@ Naughty Nature
 - Shell Smash  
 
 Arceus @ Chilan Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 EVs: 252 Atk / 4 Def / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
@@ -1586,7 +1648,7 @@ Timid Nature
 - Night Daze  
 
 Arceus @ Payapa Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Shiny: Yes  
 EVs: 252 Atk / 4 Def / 252 Spe  
 Jolly Nature  
@@ -1638,7 +1700,7 @@ Naive Nature
 - Poltergeist  
 
 Arceus @ Kasib Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 EVs: 252 Atk / 4 Def / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
@@ -1898,7 +1960,7 @@ Jolly Nature
 - Dragon Dance  
 
 Arceus @ Chilan Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Shiny: Yes  
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
@@ -1926,7 +1988,7 @@ IVs: 0 Spe
 - royalpunishment  
 - Toxic  
 - royalnourishment  
-- Royal Retreat  
+- royalretreat  
 
 
 === [gen6ultraassist] Ultra Assist/Mewtwo's Hightened Mind (SpA Assist: Wigglytuff) ===
@@ -2093,7 +2155,7 @@ Jolly Nature
 - Autotomize  
 
 Arceus @ Chilan Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Shiny: Yes  
 EVs: 252 Atk / 4 Def / 252 Spe  
 Jolly Nature  
@@ -2329,7 +2391,7 @@ IVs: 0 Atk / 0 Spe
 - Aromatic Mist  
 
 Arceus @ Payapa Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Shiny: Yes  
 EVs: 252 Atk / 4 Def / 252 Spe  
 Jolly Nature  
@@ -2409,7 +2471,7 @@ IVs: 0 Spe
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Necrozma-Dawn-Wings @ Assault Vest  
 Ability: lightinversion  
@@ -2564,9 +2626,9 @@ Mewtwo @ Mewtwonite Y
 Ability: psychicpower  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- Expanding Force  
+- Psystrike  
 - infernobeam  
-- Night Daze  
+- psychofire  
 - pixierun  
 
 Vaporeon (F) @ Sitrus Berry  
@@ -3885,7 +3947,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Necrozma-Dawn-Wings @ Assault Vest  
 Ability: lightinversion  
@@ -3939,7 +4001,7 @@ Timid Nature
 - Aromatic Mist  
 
 Arceus @ Chople Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
@@ -4207,7 +4269,7 @@ IVs: 0 Atk
 - Aromatic Mist  
 
 Arceus @ Chople Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
@@ -4332,14 +4394,14 @@ Careful Nature
 - Aromatic Mist  
 
 Arceus @ Payapa Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Shiny: Yes  
 EVs: 252 HP / 4 Atk / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
 - darkestnightfall  
 - Rock Wrecker  
-- Royal Retreat  
+- royalretreat  
 
 
 === [gen6ubers] Merciless (Groudon, Fire) ===
@@ -4535,7 +4597,7 @@ Timid Nature
 - slushswitch  
 
 Arceus @ Chople Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
@@ -4806,7 +4868,7 @@ EVs: 4 Atk / 252 Def / 252 Spe
 Jolly Nature  
 - infinitevelocity  
 - royalforestation  
-- Royal Retreat  
+- royalretreat  
 - Recover  
 
 Vaporeon @ Leftovers  
@@ -4874,7 +4936,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 
 === [gen6ubers] Champion (Rayquaza, Fairy) ===
@@ -4927,7 +4989,7 @@ IVs: 0 Atk
 - Parting Shot  
 
 Arceus @ Payapa Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
@@ -5248,7 +5310,7 @@ Timid Nature
 - Aromatic Mist  
 
 Arceus @ Chople Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
@@ -5470,7 +5532,7 @@ IVs: 0 Atk
 - Thunder Wave  
 
 Arceus @ Chople Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
@@ -5567,14 +5629,14 @@ Timid Nature
 - Flip Turn  
 
 Arceus @ Payapa Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Shiny: Yes  
 EVs: 252 HP / 4 Atk / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
 - Rock Wrecker  
 - Earthquake  
-- Royal Retreat  
+- royalretreat  
 
 Celesteela @ Metal Coat  
 Ability: Filter  
@@ -5706,14 +5768,14 @@ Jolly Nature
 - Stone Edge  
 
 Arceus @ Payapa Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Shiny: Yes  
 EVs: 252 HP / 4 Atk / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
 - Earthquake  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 
 === [gen6ubers] Is It Scary? (Calyrex-Shadow, Ghost) ===
@@ -5989,7 +6051,7 @@ IVs: 0 Atk
 - Nasty Plot  
 
 Arceus @ Payapa Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -6060,7 +6122,7 @@ Naive Nature
 - fluttersong  
 
 Arceus @ Chople Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -6117,7 +6179,7 @@ Jolly Nature
 - Ice Hammer  
 - Fire Blast  
 - Stone Edge  
-- Royal Retreat  
+- royalretreat  
 
 Meowscarada (F) @ Lax Incense  
 Ability: parlortrick  
@@ -6466,7 +6528,7 @@ IVs: 0 Atk
 - Withdraw  
 
 Arceus @ Payapa Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -6674,7 +6736,7 @@ Impish Nature
 - U-turn  
 
 Arceus @ Payapa Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -7562,7 +7624,7 @@ Jolly Nature
 - Ice Hammer  
 - Earthquake  
 - Recover  
-- Royal Retreat  
+- royalretreat  
 
 Vaporeon @ Leftovers  
 Ability: utilitylock  
@@ -7860,7 +7922,7 @@ Jolly Nature
 - Extreme Speed  
 - memoryblast  
 - heavendance  
-- Royal Retreat  
+- royalretreat  
 
 Palkia @ Choice Scarf  
 Ability: dracolate  
@@ -7946,7 +8008,7 @@ Careful Nature
 === [gen6ubers] Dawn of Time (Mewtwo, Fairy) ===
 
 Arceus @ Enigma Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
@@ -8095,7 +8157,7 @@ Careful Nature
 - Aromatic Mist  
 
 Arceus @ Enigma Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
@@ -8244,7 +8306,7 @@ Impish Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 
 === [gen6ubers] Entropy (✗) ===
@@ -8292,14 +8354,14 @@ Jolly Nature
 - Roost  
 
 Arceus @ Payapa Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Shiny: Yes  
 Happiness: 251  
 EVs: 252 HP / 4 Atk / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 - heavendance  
 
 Zoroark-Hisui (M) @ Spooky Plate  
@@ -8346,14 +8408,14 @@ Hasty Nature
 - Night Daze  
 
 Arceus @ Payapa Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Shiny: Yes  
 Happiness: 251  
 EVs: 252 HP / 4 Atk / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
 - darkestnightfall  
-- Royal Retreat  
+- royalretreat  
 - heavendance  
 
 Manaphy @ Sea Incense  
@@ -8476,7 +8538,7 @@ Impish Nature
 - U-turn  
 
 Arceus @ Payapa Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Shiny: Yes  
 Happiness: 251  
 EVs: 252 HP / 4 Atk / 252 Spe  
@@ -8484,7 +8546,7 @@ Jolly Nature
 - Extreme Speed  
 - Earthquake  
 - Rock Wrecker  
-- Royal Retreat  
+- royalretreat  
 
 Deoxys-Speed @ Nomel Berry  
 Ability: inertia  
@@ -8606,7 +8668,7 @@ Jolly Nature
 - Roost  
 
 Arceus @ Chilan Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Shiny: Yes  
 Happiness: 250  
 EVs: 252 HP / 4 Atk / 252 Spe  
@@ -8614,7 +8676,7 @@ Jolly Nature
 - Extreme Speed  
 - Rock Wrecker  
 - Earthquake  
-- Royal Retreat  
+- royalretreat  
 
 Deoxys-Speed @ Nomel Berry  
 Ability: inertia  
@@ -8834,14 +8896,14 @@ Adamant Nature
 === [gen6ubers] Dominance (✗) ===
 
 Arceus @ Payapa Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Shiny: Yes  
 EVs: 252 HP / 4 Atk / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
 - Earthquake  
 - Rock Wrecker  
-- Royal Retreat  
+- royalretreat  
 
 Ho-Oh @ Sweet Apple  
 Ability: Magic Guard  
@@ -9871,7 +9933,7 @@ EVs: 4 Atk / 252 Def / 252 Spe
 Jolly Nature  
 - infinitevelocity  
 - royalforestation  
-- Royal Retreat  
+- royalretreat  
 - Recover  
 
 
@@ -10036,7 +10098,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Zoroark-Hisui (M) @ Ghost Memory  
 Ability: Tough Claws  
@@ -10080,7 +10142,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Zacian-Crowned @ Ground Memory  
 Ability: Intrepid Sword  
@@ -10124,7 +10186,7 @@ Jolly Nature
 - slushswitch  
 
 Arceus @ Passho Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Happiness: 251  
 EVs: 252 Atk / 252 Spe  
 Jolly Nature  
@@ -10229,7 +10291,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Zekrom @ Choice Scarf  
 Ability: idealist  
@@ -10378,7 +10440,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Palkia @ Choice Scarf  
 Ability: dracolate  
@@ -10550,7 +10612,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Meowscarada (F) @ Lax Incense  
 Ability: parlortrick  
@@ -10606,7 +10668,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Meloetta @ Throat Spray  
 Ability: ensemble  
@@ -11152,7 +11214,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Meloetta @ Sweet Apple  
 Ability: ensemble  
@@ -11213,7 +11275,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
@@ -11345,7 +11407,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Necrozma-Dawn-Wings @ Assault Vest  
 Ability: lightinversion  
@@ -11420,7 +11482,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 
 === [gen6ubers] Kyogre's Comeback (Mewtwo, Dark) ===
@@ -11454,7 +11516,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Darkrai @ Bright Powder  
 Ability: midnightveil  
@@ -11520,7 +11582,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Meowscarada (F) @ Lax Incense  
 Ability: parlortrick  
@@ -11607,7 +11669,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Palkia @ Choice Scarf  
 Ability: dracolate  
@@ -11662,7 +11724,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Meowscarada (F) @ Lax Incense  
 Ability: parlortrick  
@@ -11723,7 +11785,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Meowscarada (F) @ Lax Incense  
 Ability: parlortrick  
@@ -11786,7 +11848,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Meowscarada (F) @ Lax Incense  
 Ability: parlortrick  
@@ -11829,7 +11891,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Yveltal @ Zoom Lens  
 Ability: Dark Aura  
@@ -11936,7 +11998,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 
 === [gen6ubers] Deluge (Zacian-Crowned, Ground) ===
@@ -11980,7 +12042,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Calyrex-Shadow @ Choice Scarf  
 Ability: Power Spot  
@@ -12043,7 +12105,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Kyogre @ Rose Incense  
 Ability: Drizzle  
@@ -12100,7 +12162,7 @@ Modest Nature
 - Flip Turn  
 
 Arceus @ Chilan Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Happiness: 254  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -12141,7 +12203,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Zacian-Crowned @ Ground Memory  
 Ability: Intrepid Sword  
@@ -12245,7 +12307,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Necrozma-Dawn-Wings @ Assault Vest  
 Ability: lightinversion  
@@ -12316,7 +12378,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 
 === [gen6ubers] Bokutachi no Victory (Marshadow, Fighting) ===
@@ -12368,7 +12430,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Necrozma-Dawn-Wings @ Assault Vest  
 Ability: lightinversion  
@@ -12422,7 +12484,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Zeraora @ Choice Scarf  
 Ability: Volt Absorb  
@@ -12497,7 +12559,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Necrozma-Dawn-Wings @ Assault Vest  
 Ability: lightinversion  
@@ -12513,7 +12575,7 @@ Calm Nature
 === [gen6ubers] On His Throne (Lilligant, Grass) ===
 
 Arceus @ Chilan Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Happiness: 250  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -12560,7 +12622,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Kyogre @ Rose Incense  
 Ability: Drizzle  
@@ -12636,7 +12698,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 
 === [gen6ubers] Extrapolation (Mewtwo, Grass) ===
@@ -12689,7 +12751,7 @@ Careful Nature
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Mewtwo @ Grass Memory  
 Ability: psychicpower  
@@ -12722,7 +12784,7 @@ IVs: 0 Spe
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
@@ -12795,7 +12857,7 @@ IVs: 0 Spe
 - Gear Grind  
 - Thunder Wave  
 - Stealth Rock  
-- Royal Retreat  
+- royalretreat  
 
 Kyogre @ Room Service  
 Ability: Drizzle  
@@ -13718,7 +13780,7 @@ IVs: 0 Atk
 - Withdraw  
 
 Arceus @ Chilan Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Happiness: 254  
 EVs: 4 HP / 164 Atk / 88 SpD / 252 Spe  
 Jolly Nature  
@@ -14385,7 +14447,7 @@ IVs: 0 Atk
 === [gen6ubers] Omnipotent (Zekrom, Electric) ===
 
 Arceus @ Chilan Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Happiness: 253  
 EVs: 4 HP / 164 Atk / 88 SpD / 252 Spe  
 Jolly Nature  
@@ -14703,7 +14765,7 @@ IVs: 0 Spe
 - Withdraw  
 
 Arceus @ Chilan Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Happiness: 253  
 EVs: 4 HP / 164 Atk / 88 SpD / 252 Spe  
 Jolly Nature  
@@ -14876,7 +14938,7 @@ IVs: 0 Atk
 - Parting Shot  
 
 Arceus @ Chilan Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Happiness: 253  
 EVs: 4 HP / 164 Atk / 88 SpD / 252 Spe  
 Jolly Nature  
@@ -14974,7 +15036,7 @@ Careful Nature
 === [gen6ubers] Space Power (Eternatus, Dragon) ===
 
 Arceus @ Chilan Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Happiness: 253  
 EVs: 4 HP / 164 Atk / 88 SpD / 252 Spe  
 Jolly Nature  
@@ -15116,7 +15178,7 @@ IVs: 0 Spe
 - Withdraw  
 
 Arceus @ Chilan Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Happiness: 253  
 EVs: 4 HP / 164 Atk / 88 SpD / 252 Spe  
 Jolly Nature  
@@ -15279,7 +15341,7 @@ IVs: 0 Spe
 - Withdraw  
 
 Arceus @ Chilan Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Happiness: 253  
 EVs: 4 HP / 164 Atk / 88 SpD / 252 Spe  
 Jolly Nature  
@@ -15324,7 +15386,7 @@ Calm Nature
 - sweetretreat  
 
 Arceus @ Chilan Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Happiness: 253  
 EVs: 4 HP / 164 Atk / 88 SpD / 252 Spe  
 Jolly Nature  
@@ -15813,7 +15875,7 @@ IVs: 0 Atk
 - Parting Shot  
 
 Arceus @ Chilan Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Happiness: 253  
 EVs: 4 HP / 164 Atk / 88 SpD / 252 Spe  
 Jolly Nature  
@@ -16383,7 +16445,7 @@ Naive Nature
 - leafswitch  
 
 Arceus @ Shuca Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Shiny: Yes  
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
@@ -16429,7 +16491,7 @@ Hasty Nature
 - Extreme Speed  
 
 Arceus @ Shuca Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Shiny: Yes  
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
@@ -16624,7 +16686,7 @@ Jolly Nature
 - thunderspin  
 
 Arceus @ Haban Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Shiny: Yes  
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
@@ -17207,7 +17269,7 @@ Timid Nature
 === [gen6ubers] Freedom (Eternatus, Dragon) ===
 
 Arceus @ Haban Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Shiny: Yes  
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
@@ -17379,7 +17441,7 @@ Jolly Nature
 - slushswitch  
 
 Arceus @ Shuca Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 EVs: 152 HP / 104 Atk / 252 Spe  
 Jolly Nature  
 - Earthquake  
@@ -17553,14 +17615,14 @@ Timid Nature
 - slushswitch  
 
 Arceus @ Chilan Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Extreme Speed  
 - risingpower  
 - Rock Wrecker  
-- Royal Retreat  
+- royalretreat  
 
 Mewtwo @ Fire Memory  
 Ability: psychicpower  
@@ -18358,7 +18420,7 @@ IVs: 0 Atk
 
 Ho-Oh @ Sweet Apple  
 Ability: Magic Guard  
-Happiness: 253  
+Happiness: 251  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Careful Nature  
 - Sacred Fire  
@@ -18370,9 +18432,9 @@ Careful Nature
 === [gen6ubers] Unbreakable (Kyurem-White, Dragon) ===
 
 Arceus @ Passho Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Happiness: 251  
-EVs: 252 Atk / 252 Spe  
+EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - sacredwater  
 - infinitevelocity  
@@ -18381,7 +18443,7 @@ Jolly Nature
 
 Mewtwo @ Ability Shield  
 Ability: psychicpower  
-EVs: 4 HP / 252 SpA / 252 Spe  
+EVs: 40 HP / 32 Def / 184 SpA / 252 Spe  
 Timid Nature  
 - Stored Power  
 - infernobeam  
@@ -18453,9 +18515,9 @@ Jolly Nature
 - slushswitch  
 
 Arceus @ Passho Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Happiness: 251  
-EVs: 252 Atk / 252 Spe  
+EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - sacredwater  
 - infinitevelocity  
@@ -18498,7 +18560,7 @@ Timid Nature
 
 Mewtwo @ Ability Shield  
 Ability: psychicpower  
-EVs: 4 HP / 252 SpA / 252 Spe  
+EVs: 40 HP / 32 Def / 184 SpA / 252 Spe  
 Timid Nature  
 - Stored Power  
 - infernobeam  
@@ -18561,9 +18623,9 @@ Tornadus (M) @ Fairy Memory
 Ability: tempest  
 EVs: 152 Atk / 104 SpA / 252 Spe  
 Hasty Nature  
-- Water Sport  
+- Surf  
 - memoryblast  
-- Aeroblast  
+- Bleakwind Storm  
 - turbineturn  
 
 Heatran (M) @ Metal Coat  
@@ -18577,7 +18639,7 @@ Bold Nature
 - Withdraw  
 
 Arceus @ Occa Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Happiness: 251  
 EVs: 252 HP / 4 Atk / 252 Spe  
 Jolly Nature  
@@ -18607,12 +18669,13 @@ Jolly Nature
 
 Lugia @ White Herb  
 Ability: deepsea  
+Happiness: 251  
 EVs: 116 HP / 252 Def / 136 SpD / 4 Spe  
 Bold Nature  
 - calamitywing  
-- aquasoul  
+- royalturbulence  
 - Thunder Wave  
-- Royal Retreat  
+- royalretreat  
 
 
 === [gen6ubers] Mewtwo's Answer (Ho-Oh, Grass) ===
@@ -18628,16 +18691,17 @@ Timid Nature
 
 Lugia @ White Herb  
 Ability: deepsea  
+Happiness: 251  
 EVs: 116 HP / 252 Def / 136 SpD / 4 Spe  
 Bold Nature  
 - calamitywing  
 - aquasoul  
 - Thunder Wave  
-- Royal Retreat  
+- royalretreat  
 
 Ho-Oh @ Grass Memory  
 Ability: Regenerator  
-Happiness: 253  
+Happiness: 251  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Careful Nature  
 - Sacred Fire  
@@ -18666,9 +18730,9 @@ Jolly Nature
 - slushswitch  
 
 Arceus @ Passho Berry  
-Ability: Omnipotent  
+Ability: omnipotent  
 Happiness: 251  
-EVs: 252 Atk / 252 Spe  
+EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - sacredwater  
 - infinitevelocity  
@@ -18691,7 +18755,7 @@ Jolly Nature
 
 Mewtwo @ Choice Specs  
 Ability: psychicpower  
-EVs: 252 SpA / 252 Spe  
+EVs: 40 HP / 32 Def / 184 SpA / 252 Spe  
 Timid Nature  
 - Stored Power  
 - Aura Sphere  
@@ -18738,5 +18802,249 @@ IVs: 0 Atk
 - Dragon Breath  
 - Aromatic Mist  
 - Withdraw  
+
+
+=== [gen6ubers] Super Regenerator (Ho-Oh, Dragon) ★ ===
+
+Mewtwo @ Ability Shield  
+Ability: psychicpower  
+EVs: 40 HP / 32 Def / 184 SpA / 252 Spe  
+Timid Nature  
+- Stored Power  
+- infernobeam  
+- Mud Bomb  
+- psychodarts  
+
+Ho-Oh @ Dragon Memory  
+Ability: Regenerator  
+Happiness: 251  
+EVs: 252 HP / 252 Def / 4 Spe  
+Impish Nature  
+- royalturbulence  
+- Whirlwind  
+- Aromatic Mist  
+- healingfeather  
+
+Lugia @ White Herb  
+Ability: deepsea  
+Happiness: 251  
+EVs: 116 HP / 252 Def / 136 SpD / 4 Spe  
+Bold Nature  
+- calamitywing  
+- royalturbulence  
+- Thunder Wave  
+- royalretreat  
+
+Eternatus @ Black Sludge  
+Ability: spacepower  
+EVs: 252 HP / 252 Def / 4 Spe  
+Bold Nature  
+- Eternabeam  
+- Stealth Rock  
+- Aromatic Mist  
+- chaosswitch  
+
+Meowscarada (F) @ Lax Incense  
+Ability: parlortrick  
+Shiny: Yes  
+EVs: 252 HP / 252 Spe  
+Jolly Nature  
+- Flower Trick  
+- Night Slash  
+- slushswitch  
+- Uproar  
+
+Lilligant-Hisui @ Choice Scarf  
+Ability: evergreen  
+EVs: 252 HP / 4 Atk / 252 Spe  
+Jolly Nature  
+- Petal Blizzard  
+- Axe Kick  
+- Healing Wish  
+- slushswitch  
+
+
+=== [gen6ubers] Monster (Ho-Oh, Dragon) ===
+
+Arceus @ Occa Berry  
+Ability: omnipotent  
+Happiness: 251  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- infinitevelocity  
+- Rock Wrecker  
+- Extreme Speed  
+- divinecall  
+
+Ho-Oh @ Dragon Memory  
+Ability: Regenerator  
+Happiness: 251  
+EVs: 252 HP / 252 Def / 4 Spe  
+Impish Nature  
+- royalturbulence  
+- Whirlwind  
+- Aromatic Mist  
+- healingfeather  
+
+Lilligant-Hisui @ Choice Scarf  
+Ability: evergreen  
+EVs: 252 HP / 4 Atk / 252 Spe  
+Jolly Nature  
+- Petal Blizzard  
+- Axe Kick  
+- Healing Wish  
+- slushswitch  
+
+Calyrex-Shadow @ Choice Scarf  
+Ability: Power Spot  
+EVs: 88 HP / 160 SpA / 8 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psycho Boost  
+- Astral Barrage  
+- Dazzling Gleam  
+- Parting Shot  
+
+Volcanion @ Lax Incense  
+Ability: Drought  
+Happiness: 251  
+EVs: 252 HP / 252 Def / 4 SpA  
+Calm Nature  
+IVs: 0 Atk  
+- Steam Eruption  
+- Stealth Rock  
+- Aromatic Mist  
+- Withdraw  
+
+Meowscarada (F) @ Lax Incense  
+Ability: parlortrick  
+Shiny: Yes  
+EVs: 252 HP / 252 Spe  
+Jolly Nature  
+- Flower Trick  
+- Night Slash  
+- slushswitch  
+- Uproar  
+
+
+=== [gen6ubers] Mirror Herb (✗) ===
+
+Mewtwo @ Mirror Herb  
+Ability: psychicpower  
+EVs: 40 HP / 32 Def / 184 SpA / 252 Spe  
+Timid Nature  
+- Stored Power  
+- Aurora Beam  
+- psychofire  
+- psychodarts  
+
+Zacian-Crowned @ Metal Coat  
+Ability: Intrepid Sword  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Sacred Sword  
+- Close Combat  
+- bulletswitch  
+- rentalcharge  
+
+Lilligant-Hisui @ Choice Scarf  
+Ability: evergreen  
+EVs: 252 HP / 4 Atk / 252 Spe  
+Jolly Nature  
+- Petal Blizzard  
+- Axe Kick  
+- Healing Wish  
+- slushswitch  
+
+Arceus @ Occa Berry  
+Ability: omnipotent  
+Happiness: 251  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- infinitevelocity  
+- Rock Wrecker  
+- heavenlymist  
+- divinecall  
+
+Zekrom @ Light Ball  
+Ability: Teravolt  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Bolt Strike  
+- royalrampage  
+- frostyglide  
+- Zing Zap  
+
+Meowscarada (F) @ Lax Incense  
+Ability: parlortrick  
+Shiny: Yes  
+EVs: 252 HP / 252 Spe  
+Jolly Nature  
+- Flower Trick  
+- Night Slash  
+- slushswitch  
+- Uproar  
+
+
+=== [gen6ubers] Remnant (Ho-Oh, Dragon) ===
+
+Ho-Oh @ Dragon Memory  
+Ability: Regenerator  
+Happiness: 251  
+EVs: 252 HP / 252 Def / 4 Spe  
+Impish Nature  
+- royalturbulence  
+- Whirlwind  
+- Aromatic Mist  
+- healingfeather  
+
+Tornadus (M) @ Rose Incense  
+Ability: tempest  
+EVs: 252 SpA / 252 Spe  
+Hasty Nature  
+- Surf  
+- Bleakwind Storm  
+- electrostrike  
+- turbineturn  
+
+Raikou @ Choice Scarf  
+Ability: thunderousbeast  
+Happiness: 250  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Bolt Beak  
+- Close Combat  
+- lightningstrike  
+- slushswitch  
+
+Arceus @ Occa Berry  
+Ability: omnipotent  
+Happiness: 251  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Extreme Speed  
+- infinitevelocity  
+- Rock Wrecker  
+- divinecall  
+
+Calyrex-Shadow @ Choice Scarf  
+Ability: Power Spot  
+EVs: 88 HP / 160 SpA / 8 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psycho Boost  
+- Astral Barrage  
+- Dazzling Gleam  
+- Parting Shot  
+
+Zacian-Crowned @ Metal Coat  
+Ability: Intrepid Sword  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Sacred Sword  
+- Close Combat  
+- bulletswitch  
+- rentalcharge  
 
 

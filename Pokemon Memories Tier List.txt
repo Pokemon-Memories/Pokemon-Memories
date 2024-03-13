@@ -119,30 +119,33 @@ Viability Rankings
 
 S-Tier (8 Total)
 
-S
+S+
 Arceus
-Heatran
-Kyurem-White (S-; Dragon Memory)
+
+S
 Mewtwo
-Tornadus (A; Fairy Memory)
+Tornadus
+Zacian-Crowned
+Ho-Oh (A-; Dragon Memory + Regenerator)
+Heatran
 
 S-
-Zacian-Crowned
-Raikou
-Greninja-Ash
 Calyrex-Shadow (S-; Ghost Memory/Fairy Memory)
+Kyurem-White (S-; Dragon Memory)
 
 A-Tier (26 Total)
 
 A+
-Ho-Oh
+Raikou
 Lilligant-Hisui
+Meowscarada
+Greninja-Ash
 Lunala
 Lucario-Mega
-Meowscarada
 Kyogre
 
 A
+Eternatus
 Darkrai
 Deoxys-Attack
 Volcanion
@@ -151,12 +154,10 @@ Spectrier
 Kyurem-Black
 
 A-
+Zekrom
 Sandslash-Alola
 Arceus-Electric
-Dialga
-Landorus-Therian
 Arcanine-Hisui
-Carracosta
 Muk-Alola
 Gengar-Mega
 Porygon-Z (A+; Ability Shield/Ice Memory)
@@ -164,26 +165,22 @@ Lugia
 Azumarill
 Arceus-Water
 Meowth (B; Dubious Disc)
-Arceus-Ground
 Marshadow (A-; Fighting Memory)
 
 
-B-Tier (94 Total)
+B-Tier (96 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
 Amoonguss
 Arceus-Dark
 Arceus-Fire
-Arceus-Flying
-Arceus-Ghost
-Arceus-Grass
+Carracosta
 Cresselia
+Dialga
 Empoleon
 Entei
-Eternatus
 Garchomp
-Genesect
 Glastrier
 Gliscor
 Golurk
@@ -191,6 +188,7 @@ Groudon
 Hoopa
 Infernape
 Keldeo
+Landorus-Therian
 Lilligant
 Magearna
 Magearna-Original
@@ -223,13 +221,13 @@ Victreebel
 Xerneas
 Yveltal
 Zamazenta-Crowned
-Zarude
-Zekrom
-Zygarde
-Zygarde-Complete
 
 B
 Arceus-Fairy
+Arceus-Flying
+Arceus-Ghost
+Arceus-Grass
+Arceus-Ground
 Bellsprout
 Blastoise
 Blastoise-Mega
@@ -262,6 +260,7 @@ Celebi
 Darmanitan
 Darmanitan-Galar
 Decidueye
+Genesect
 Gengar
 Giratina
 Gyarados-Mega
@@ -270,6 +269,9 @@ Minun
 Rapidash-Galar
 Reshiram
 Salamence-Mega
+Zarude
+Zygarde
+Zygarde-Complete
 
 
 C-Tier (38 Total)
@@ -1770,7 +1772,7 @@ Description: Calyrex-Ice's incredible natural 180/260/200 bulk, paired with its 
 
 
 
-						     Laboratory         
+						     Laboratory           
 Purpose: The Laboratory exists to document certain EV, Moveset, and Ability Sets that can assist in optimizing a Pokemon, and increasing their potential.
 
 --------------------------
@@ -1815,6 +1817,11 @@ Explanation: This calc is only applicable for Attack-Neutral Nature Sandslash Se
 Example: 252 Atk Snowball Below Freezing Sandslash-Alola Subzero Freeze vs. 12 HP / 4 Def Mewtwo on a critical hit: 409-483 (84.5 - 99.7%) -- guaranteed 2HKO
 --
 Note: Mewtwo can run 28 HP / 4 Def to have a guaranteed chance of surviving both of the aforementioned calcs
+--
+Surviving Speed Blitzer Zacian-Crowned's Sacred Sword (with a Neutral Nature and no Damage-Boosting Item)
+EVs: 40 HP / 32 Def
+Raw Stats: 491 Hp / 414 Def
+Example: +1 252 Atk Zacian-Crowned Sacred Sword vs. 40 HP / 32 Def Mewtwo: 415-490 (84.5 - 99.7%) -- guaranteed 2HKO
 =====================================================================================================================
 						      Section B    
 						     Ultra Assist
