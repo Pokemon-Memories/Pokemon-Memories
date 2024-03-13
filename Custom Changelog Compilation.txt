@@ -5367,11 +5367,9 @@ Spe: 90 -> 175 = +65
 BST: 680 -> 1300
 Added Abilities: Idealist/Double-Layer
 New Moves
-Agility
 Aromatic Mist
 Blizzard
 Breaking Swipe
-Dragon Dance
 Dragon Energy
 Dragon Lunge
 Dragon Rush
@@ -5379,7 +5377,7 @@ Dual Wingbeat
 Earthquake
 Electro Strike
 Flying Deluge
-Frosty Glide
+Frost Slide
 Ice Punch
 Rising Voltage
 Royal Rampage
@@ -5387,9 +5385,11 @@ Shatter Bolt
 Shatter Reign
 Slush Switch
 Strange Wave
-Thunder Wave
 Tailwind
 Zing Zap
+
+Unlearned Moves
+Dragon Dance
 
 Idealist (New Ability)
 Effect: All of the Pokemon's Moves have x1.3 Base Power when at Max Hp; x1.5 Damage on Semi-Effective Moves; Pokemon's Moves lose their Secondary Effects
@@ -9639,7 +9639,7 @@ Thunder Fang
 Wild Charge
 
 Empyrean Blaze (New Ability)
-Effect: Pokemon's Rock-Type Weaknesses (excluding opposing Grass-Type and Steel-Type Moves) become resistances. Pokemon reflects all moves with increased Priority that are directed toward it, back to the opponent--including attacking moves.
+Effect: Pokemon's Rock-Type Weaknesses (excluding opposing Grass-Type and Steel-Type Moves) become resistances. Pokemon reflects all moves with increased Priority that are directed toward it, back to the opponent--including attacking moves. Pokemon's Fire-Type Moves have x1.2 Base Power if it is holding a Flame Orb
 --------------------------------------------------------------------------
 Sandslash Alola  
 Hp: 75 -> 155 = +80
@@ -9661,7 +9661,7 @@ Unlearned
 Swords Dance
 
 Below Freezing (New Ability)
-Effect: Pokemon's Ice-Type Moves have x1.3 Power
+Effect: Pokemon's Ice-Type Moves have x1.2 Base Power; x1.4 Base Power if it is holding a Snowball
 --------------------------------------------------------------------------
 Lilligant-Hisui   
 Hp: 70 -> 200 = +130
@@ -9804,6 +9804,8 @@ Ruleset
 - Arceus Clause: Arceus cannot hold a Dubious Disc*
 - Deoxys-Attack Clause: Deoxys-Attack cannot hold a Dubious Disc, or a Fighting Memory*
 - Mewtwo Clause: Mewtwo cannot hold a Fighting Memory, or a Psychic Memory.
+- Porygon-Z Clause: Porygon-Z cannot hold a Dubious Disc
+- Super Dark Aura Clause: Dark Aura cannot be upgraded into Super Dark Aura
 
 Banlist
 - Abilities
@@ -10550,6 +10552,7 @@ Psychic Wind: Threshold: +1 Spe; Attrition: +1 Spe -> __
 Psycho Rush: Threshold: +1 Spe; Attrition: +1 Spe -> __
 Quiver Dance: Threshold: +1 SpA; Attrition: +1 SpA/+2 Spe -> __/+2 Spe
 Roar: Threshold: +1 SpD; Attrition: +1 SpD -> __
+Royal Rampage: Threshold: +1 Spe; Attrition: +1 Spe -> __
 Receiving Strike: Threshold: +1 Spe; Attrition: +1 Spe -> __
 Rising Power: Threshold: +1 Atk; Attrition: +1 Atk -> __
 Rock Polish: Threshold: +2 Spe; Attrition: +2 Spe -> __
@@ -12027,6 +12030,17 @@ Category: Physical
 Priority: +0
 Contact: Yes
 Effect: Raises the Pokemon's Speed Stat by 1 Stage.
+PP: 5
+Target: Normal
+Type: Ice
+--
+Frost Slide (New Move)
+Base Power: 80
+Accuracy: 100
+Category: Physical
+Priority: +0
+Contact: Yes
+Effect: Raises the Pokemon's Speed Stat by 2 Stages, however all of the Pokemon's Stats are reset after successfully scoring 2 K.O.'s. Stats will not be subject to resetting if the Pokemon does not receive the Speed Boost from this move.
 PP: 5
 Target: Normal
 Type: Ice
@@ -14634,8 +14648,8 @@ Exceptions: Intrepid Sword; Pokemon Master
 Beast Boost
 Boost Cap: __ -> 1
 --
-Below Freezing    
-Effect: Pokemon's Ice-Type Moves have x1.3 Power
+Below Freezing     
+Effect: Pokemon's Ice-Type Moves have x1.2 Base Power; x1.4 Base Power if it is holding a Snowball
 --
 Blazing Body  
 Effect: Prevents other Pokemon from lowering this Pokemon's stat stages. Sunsteel Strike becomes Fire-Type and gains x1.5 Power (or x1.2 Power, if the Pokemon is a Fire-Type).
@@ -15277,7 +15291,7 @@ Effect: Pokemon becomes a Ghost/Water Type; Pokemon restores 1/10 Max Hp for eac
 Category: Arcanine-Hisui Exclusive Abilities
 --
 Empyrean Blaze   
-Effect: Pokemon's Rock-Type Weaknesses (excluding opposing Grass-Type and Steel-Type Moves) become resistances. Pokemon reflects all moves with increased Priority that are directed toward it, back to the opponent--including attacking moves.
+Effect: Pokemon's Rock-Type Weaknesses (excluding opposing Grass-Type and Steel-Type Moves) become resistances. Pokemon reflects all moves with increased Priority that are directed toward it, back to the opponent--including attacking moves. Pokemon's Fire-Type Moves have x1.2 Base Power if it is holding a Flame Orb
 ------------------------------------------------------------------------------
 Category: Carracosta Exclusive Abilities
 --

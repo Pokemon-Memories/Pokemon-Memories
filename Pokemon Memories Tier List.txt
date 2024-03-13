@@ -123,42 +123,41 @@ S+
 Arceus
 
 S
+Zekrom
+Zacian-Crowned
 Mewtwo
 Tornadus
-Zacian-Crowned
-Ho-Oh (A-; Dragon Memory + Regenerator)
-Heatran
+Calyrex-Shadow (S-; Ghost Memory/Fairy Memory)
 
 S-
-Calyrex-Shadow (S-; Ghost Memory/Fairy Memory)
-Kyurem-White (S-; Dragon Memory)
+Ho-Oh (A-; Dragon Memory + Regenerator)
+Lilligant-Hisui
 
-A-Tier (26 Total)
+A-Tier (25 Total)
 
 A+
-Raikou
-Lilligant-Hisui
-Meowscarada
-Greninja-Ash
 Lunala
-Lucario-Mega
-Kyogre
+Kyurem-White (S-; Dragon Memory)
+Eternatus (A; Dragon Memory + SpA-Positive Nature)
+Heatran
+Raikou
+Meowscarada
 
 A
-Eternatus
+Muk-Alola
+Greninja-Ash
+Lucario-Mega
+Kyogre
 Darkrai
 Deoxys-Attack
 Volcanion
 Necrozma-Dusk-Mane
-Spectrier
 Kyurem-Black
 
 A-
-Zekrom
 Sandslash-Alola
 Arceus-Electric
 Arcanine-Hisui
-Muk-Alola
 Gengar-Mega
 Porygon-Z (A+; Ability Shield/Ice Memory)
 Lugia
@@ -168,7 +167,7 @@ Meowth (B; Dubious Disc)
 Marshadow (A-; Fighting Memory)
 
 
-B-Tier (96 Total)
+B-Tier (97 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
@@ -205,6 +204,7 @@ Phione
 Pikachu-Original
 Rayquaza
 Shaymin-Sky
+Spectrier
 Suicune
 Sunflora
 Swampert
@@ -469,62 +469,32 @@ Arceus
 Hp: 200/Atk: 300/Def: 210/Spa: 300/Spd: 210/Spe: 180
 Common Items
 - Chilan Berry
-- Pixie Plate
+- Occa Berry
+- Passho Berry
 
 Common Memories
 - Dubious Disc (Banned to Anything Goes)
 
 Common Moves
-- Agility
-- Earthquake
+- Divine Call
 - Extreme Speed
-- Fire Blast
-- Glacial Strike
-- Heaven Dance
-- Ice Hammer
+- Heavenly Mist
 - Infinite Velocity
 - Judgment
-- Meteor Beam
-- Recover
+- Multi-Attack
 - Rock Wrecker
-- Royal Retreat
+- Sacred Water
 
 Common Overdrives
-- Critical Striker
-- Rule Breaker
+- Super Healer
 
 Preferred Abilities
-- All
+- Omnipotent
 
-Playstyle: Omnipotent's natural endowment of STAB-like properties to Arceus' non-STAB Moves, allows it to become a powerful force of nature capable of dealing significant damage to the Tier, however what truly makes Arceus special, is its ability to gain a x1.5 Power Boost on any Move that shares a Type with its held Damage-Reducing Berry, which it takes full advantage of with its Chilan Berry E-Killer sets. When boosted by Omnipotent and a held Chilan Berry, Extreme Speed is capable of inflicting massive damage to its foes, and can 2HKO opposing Mewtwo even without a boost. After using Heaven Dance, Arceus can OHKO a vast majority of the Tier with its powerful Extreme Speed, with its vast coverage being sufficient to handle the remainders. Despite it's natural bulk, Arceus does not generally want to spend too much time engaging in trivial skirmishes, as it will want to preserve its health to either land as many Extreme Speeds as possible, or survive a hit and use Heaven Dance. Arceus can use Critical Striker to increase the power of its Extreme Speed, or Rule Breaker to allow it to hit opposing Ghosts
-
-Arceus @ Chilan Berry  
-Ability: Omnipotent  
-Happiness: 254 (Rule Breaker) / 250 (Critical Striker)
-EVs: 4 HP / 164 Atk / 88 SpD / 252 Spe  
-Jolly Nature  
-- Extreme Speed  
-- Earthquake  
-- Rock Wrecker  
-- Heaven Dance
-
-Strengths
-- 4 Hp EVs and 88 SpD EVs allow it to always survive an Adrenaline Orb-Boosted Stored Power from Mewtwo
-- Remarkable Speed Tier: Generally will have one of the highest Base Speed Stats in any given match
-- One of the largest Movepools in the game
-- Bulky enough to survive a number of powerful hits that would potentially overwhelm frailer Pokemon like Mewtwo
-- Amazing versatility and power through its various Multitype Formes
-- Powerful Dubious Disc sets that were oppressive enough to demand litigation
-- Extensive Support Movepool
-- Can potentially destabilize Teams through the use of its E-Killer sets
-- Situationally capable of checking Calyrex-Shadow, and frustrating opposing Mewtwo
-
-Weaknesses
-- Susceptibility to Burns, as it generally cannot afford to slot Moves capable of dealing with it, and cannot always rely on Special Sets since it wants Extreme Speed to be as powerful as possible
-- Loses much of its effectively should it lose its Berry, as its Itemless Extreme Speed is incapable of 2HKO'ing opposing Mewtwo or dealing significant damage without it.
-- Despite possessing a stellar Speed Tier, having a Base 180 Speed, in particular, leaves it susceptible to Speed-Tying or underspeeding other dangerous threats that it could have otherwise matched well against if it was faster
+Hint: Omnipotent imparts Arceus with a x1.3 STAB Boost on all of its Move that are not its Main STAB; When it is holding a Super-Effective Damage-Reducing Berry, it gains an immunity to the Type the Berry reduces Damage for, as well as granting it another 50% Power Boost to its Moves of the same Type. Heaven Dance, and Divine Call are its primary Set-Up Moves, while Heavenly Mist and Stealth Rock can be used for Hazard Control, depending on the needs of the Team. Super Healer is generally preferred over Speed Blitzer, due to its potential to grant Arceus better mileage in the long-run--particularly with the help of its Teammates, however Speed Blitzer can still be used effectively if the Team wants to prioritize preserving its momentum.
 
 
+Overview on Dubious Arceus
 Dubious Disc
 Arceus @ Dubious Disc  
 Ability: Multitype  
@@ -552,123 +522,12 @@ Strengths
 - Unboosted Memory Blast hits harder than +2 Extreme Speed, effectively granting Arceus a perpetual +2 Boost at all times
 - Notably, certain Pokemon that were completely immune to Arceus' STABs before, such as Caly-S, get obliterated by Heaven Dance Extreme Speed
 - Virtually indestructible: Arceus' colossal bulk, paired with its complete lack of weaknesses, makes it nearly impossible to defeat in one--or even several hits
-- Can realistically get away with running Monotype Coverage, due to the manifold versatility of Memory Blast + Extreme Speed
+- Can realistically get away with running Monotype Coverage, due to the raw power of Memory Blast + Extreme Speed
 - Answers to one Dubious Disc set may be entirely useless against another; Pokemon capable of narrowly defeating offensive sets will get obliterated by Agility + Recover sets, while attempted answers to the defensive sets will crumble to "E-Killer" sets
-- For all of the aforementioned reasons: Arceus-??? operates at a power level that is far too oppressive for Standard Ubers to handle, and as a result, has been restricted to Unlimited Ultra Assist, and Anything Goes
+- For all of the aforementioned reasons: Arceus-??? operates at a power level that is far too oppressive for Standard Ubers to handle, and as a result, has been restricted to Unlimited Memorize, and Anything Goes
 
 Weaknesses
 - This Pokemon has no weaknesses
-
-Earth Plate
-Arceus-Ground @ Earth Plate  
-Ability: Multitype 
-Happiness: 251 (Super Healer) / 255 (Speed Blitzer) 
-EVs: 4 HP / 164 Atk / 88 SpD / 252 Spe  
-Jolly Nature  
-- Multi-Attack  
-- Ice Hammer  
-- Sunsteel Strike  
-- Earthen Song
-
-Strengths
-- Powerful offensive Type that allows it to nail opposing Steels and Fires
-- Capable of OHKO'ing opposing Pokemon such as Ho-Oh, on account of Judgment's Ability to hit Flying-Types
-- Limited number of resistances to its STAB, and no Type-Immunities
-- Immune to opposing Paralysis
-- Incredibly powerful Set-Up/Weather Setting Move, in Earthen Song
-
-Weaknesses
-- Lacks the explosive power and immediate pressure that Normal Arceus exerts
-- Has a number of noteworthy Weaknesses, turning it into catnip for a number of Mewtwo sets
-- Despite having no immunities, its STAB does have several Resistances which it cannot easily break through
-
-Pixie Plate
-Arceus-Fairy @ Pixie Plate  
-Ability: Multitype  
-Happiness: 251 (Super Healer)
-EVs: 4 HP / 164 SpA / 88 SpD / 252 Spe  
-Timid Nature  
-- Judgment  
-- Fire Blast  
-- Meteor Beam  
-- Recover / Agility
-
-Strengths
-- Powerful offensive and defensive Typing
-- Can easily cover for its offensive vulnerabilities with Meteor Beam
-- Being a Specially-Oriented Forme protects Arceus from the worst effects of Burns
-
-Weaknesses
-- Annihilated by Eternatus' Poison Coverage
-- Predictable coverage options
-- Limited maximum power compared to Normal Arceus
-=====================================================================================================================
-Category: D  
-=====================================================================================================================
-Dialga
-Hp: 230/Atk: 280/Def: 210/SpA: 280/SpD: 180/Spe: 160
-Common Items
-- Ability Shield
-- Chople Berry*
-- Dawn Stone*
-- Dusk Stone*
-- Sweet Apple*
-- Weakness Policy*
-
-Common Memories
-- This Pokemon prefers not to Memorize
-
-Common Moves
-Constant = Shell Smash
-- Aura Sphere
-- Breaking Swipe
-- Draco Meteor
-- Dragon Pulse
-- Earthquake
-- Fire Blast
-- Flash Cannon
-- Iron Head
-- Stealth Rock
-- Thunder Wave
-
-Common Overdrives
-- Critical Striker
-- Emergency Runner
-- Gift Collector
-- Impact Absorber
-
-Preferred Ability
-- Regenerator
-
-Playstyle: Full HP Dialga can survive an Aura Sphere or Mud Bomb from Adrenaline Orb Psychic Power Mewtwo, if it has 136 HP EVs, 176 SpD EVs, and a SpD-Boosting Nature. It can also reduce its chances of getting OHKO'd after Stealth Rock, from 37.5%--or a little over 1/3, to 25% by increasing its HP investment to 192. Despite possibly having the greatest potential set variety and item synergy in the entire game, Dialga without an Ability Shield can be brought to its knees by Muk-Alola,  which is responsible for making Dialga weaker than it would otherwise be. If Teams have a reliable way of clearing Muk from the match or bringing it into an operable range for Dialga, it can run a more Defensive Build to improve its Matchup against Mewtwo and opposing Priority users, otherwise, it should run an Ability Shield and Max Investment into whichever Attacking Stat is most important, to ensure it can take on as many threats as possible. Dialga should always run at least 140 Speed EVs to allow it to outspeed opposing Mewtwo at +1 Spe. Critical Striker improves its power, which can be especially useful on more defensive builds; Emergency Runner allows Shell Smash Dialga to escape from potential checks after having broken its Shell; Gift Collector allows Dialga to abuse the power of its various Items, such as Protector, Damage-Reducing Berries, and most notably, the Dawn Stone and Dusk Stone, and Impact Absorber allows Dialga to secure a nigh-guaranteed Shell Smash, or to potentially endure a Super-Effective Priority Move after it has already set up. 
-
-Dialga @ Ability Shield  
-Ability: Regenerator  
-Happiness: 246 (Emergency Runner)  
-EVs: 252 Atk / 116 SpA / 140 Spe  
-Naughty Nature  
-- Dragon Pulse  
-- Iron Head  
-- Earthquake  
-- Shell Smash
-
-Strengths
-- Solid Bulk
-- Massive Damage Output, once boosted
-- Multiple chances to safely interact, due to Regenerator
-- Dawn Stone +2 Draco Meteor is one of the strongest moves in the game; Dusk Stone Breaking Swipe can OHKO Ho-Oh
-- Decent coverage
-- Can viably run Mixed Sets
-- The Raw Power of its +2 STABs can allow it to potentially OHKO many of its opponents, especially when heavily offensively invested.
-
-Weaknesses
-- Middling Speed-Tier, coupled with an exploitable Steel-Typing
-- Insignificant Damage Output outside of Super-Effective hits, when unboosted
-- Its Dragon moves have halved power under Hail, effectively cutting its power in half
-- Cannot switch out for 3 turns after using Shell Smash; All boosts reset after 3 turns (Cannot escape with Shed Shell)
-- Almost unwinnable matchup against Articuno-Galar, Suicune, and Urshifu(s).
-- Easily dispatched by opposing Low Sweeps, after it has broken its shell
-- Needs to use Shell Smash to command its game-deciding Power; Exploitable
 =====================================================================================================================
 Category: E  
 =====================================================================================================================
@@ -676,92 +535,43 @@ Eternatus
 Hp: 250/Atk: 272/Def: 205/Spa: 305/Spd: 205/Spe: 163
 Common Items
 - Black Sludge
-- Prism Scale
 
 Common Memories
 - Dragon Memory
 
 Common Moves
 - Autotomize
-- Draco Meteor
 - Dragon Breath
+- Dragon Tail
 - Eternabeam
+- House Cleaning
 - Magma Storm
 - Meteor Beam
-- Recover
-- Revelation Dance
-- Shadow Ball
+- Aromatic Mist
 - Sludge Switch
-- Stealth Rock
 - Venoshock
 
 Common Overdrives
-- Emergency Runner
-- Escape Planner*
-- Impact Absorber
+- Speed Blitzer
 - Super Healer
 
 Preferred Ability
 - Space Power
 
-Playstyle: Eternatus is best used as a "tank-and-run" Defensive Support Pokemon. Eternatus' prodigious bulk, and pivotal Resistances and Immunities allow it to handle several problematic Pokemon, and even deny opposing U-Turns, however its equally disastrous set of weaknesses prevent it from staying in for too long without endangering itself. Thus, Eternatus should prioritize absorbing the hits that it needs to, and acting in anticipation of the opponent's next move, only attacking when certain that the opponent will either stay in, or switch to a wall, and Sludge Switching out, otherwise. It is not recommended to use Eternatus as a hard-wall, or Support Lead. Memory Eternatus is very different from Non-Memorized Eternatus, in that its Ability: Space Power, allows it to receive a substantial Boost in whichever Stat Eternatus has a Positive Nature for. With a combination of the Dragon Memory, and a SpA-Boosting Nature: Eternatus can survive almost any neutral hit thrown its way, while retaliating with powerful moves that are capable of 2HKO'ing--or even OHKO'ing the near-entirety of the Meta. Regular Eternatus can use Super Healer or Impact Absorber to increase its longevity, while Dragon Memory Eternatus will also want to consider Emergency Runner or Escape Planner, if it is being used to sweep with Autotomize
+Hint: Eternatus is best used as a "tank-and-run" Defensive Support Pokemon. Eternatus' prodigious bulk, and pivotal Resistances and Immunities allow it to handle several problematic Pokemon, and even deny opposing U-Turns, however its equally disastrous set of weaknesses prevent it from staying in for too long without endangering itself. Thus, Eternatus should prioritize absorbing the hits that it needs to, and acting in anticipation of the opponent's next move, only attacking when certain that the opponent will either stay in, or switch to a wall, and Sludge Switching out, otherwise. It is not recommended to use Eternatus as a hard-wall, or Support Lead. Memory Eternatus is very different from Non-Memorized Eternatus; When Memorized, Space Power allows it to receive a substantial Boost in whichever Stat Eternatus has a Positive Nature for. With a combination of the Dragon Memory, and a SpA-Boosting Nature: Eternatus can survive almost any neutral hit thrown its way, while retaliating with powerful moves that are capable of 2HKO'ing--or even OHKO'ing the near-entirety of the Meta. Regular Eternatus can use Super Healer or Impact Absorber to increase its longevity, while Dragon Memory Eternatus will also want to consider Emergency Runner or Escape Planner, if it is being used to sweep with Autotomize
 
 Eternatus @ Black Sludge  
 Ability: Space Power  
-Happiness: 251 (Super Healer)
-EVs: 252 HP / 4 SpA / 252 Spe  
-Timid Nature  
-- Venoshock
-- Sludge Switch
-- Dragon Breath
-- Recover
+Happiness: 251 (Super Healer) / 255 (Speed Blitzer)
+EVs: 252 HP / 252 Def / 4 Spe  
+Bold Nature  
+- Eternabeam / Dragon Tail / Dragon Breath
+- House Cleaning / Magma Storm / Dragon Tail
+- Aromatic Mist  
+- Chaos Switch / Sludge Switch
 
-Strengths
-- Phenomenal, nigh-unrivaled 250/205/205 Bulk, which allows it to check some Pokemon through bulk alone
-- Multiple notable resistances, including Electric, Fire, Grass, Poison, and Water
-- Extensive utility movepool; Can set Hazards, and clear them with a STAB Dragon Breath, which also intoxicates the opponent, allowing it to break down walls, while also potentially leaving the opponents vulnerable to Venoshock; Can also pivot out with Sludge Wave
-- Slightly above average Base 163 Speed, which allows it to outspeed other support Pokemon, such as Ho-Oh, or Cresselia
-- Amazing longevity, due to Black Sludge; Can potentially outpace the damage it sustains, allowing it to serve as a wall
-- Immunity to Paralysis Damage, due to Space Power
-- Decent offensive potential
-- Space Power allows its Damaging-Moves to bypass opposing Abilities
-- One of the best Prism Scale abusers in the game, due to Draco Meteor being a STAB move, and having the bulk to set up
-- Has access to Autotomize, allowing it to outspeed the entire Metagame after a single turn of setup
-- Decent Coverage; Meteor Beam hits Ho-Oh, while Shadow Ball can hit Pokemon such as Calyrex-Shadow
-- Has access to Magma Storm, which allows it to potentially pick opposing Pokemon off, whilst hitting Steel-Types and Ice-Types hard
-
-Weaknesses
-- Mewtwo; Eternatus' Poison-Typing makes it a prime target for Mewtwo, which is singlehandedly responsible for its dubious viability
-- Poor Dialga Matchup; Compounds the aforementioned issue, as Eternatus can only hit Dialga Super-Effectively via a Fist Plate or Earth Plate Revelation Dance, forcing Eternatus to sacrifice both an item and a moveslot, only to fail to OHKO it in the end, regardless.
-- The aforementioned Psychic-Type weakness also changes its matchup against Scarf Calyrex-Shadow--which would otherwise be manageable, into a 50/50.
-- All four of its weaknesses are to relatively common Types (Dragon: Dialga, Ground: Landorus-T/Dialga Coverage, Ice: Aurora Beam/Slush Switch/Landorus-T coverage, and Psychic: Mewtwo and Calyrex-Shadow), making it deceptively vulnerable
-- While Eternatus' noteworthy resistances allow it to safely switch in to certain threats, its equally notable weaknesses prevent Eternatus from actually sticking around.
-- As a consequence of the aforementioned points: Despite its extensive support movepool, Eternatus is not a very effective Support Lead, or Dedicated Support Pokemon, and is instead forced to build its sets around switching into the Pokemon it knows it can check, and switching out as soon as possible.
-- Eternatus' status as a Magnet for the most powerful Pokemon in the Tier, further hampers its usefulness, and can even make it a liability on certain Teams.
-- Despite having access to Autotomize, Eternatus often struggles to find an opportunity to use it, due to the aforementioned factors
-- Even with Autotomize, however: Neither Dynamax Cannon, nor Shadow Ball OHKO Mewtwo, and even with a Prism Scale boost, none of Eternatus' moves--including Eternabeam, can OHKO the common Dialga sets
-
-Offensive
-Eternatus @ Black Sludge  
-Ability: Space Power  
-Happiness: 246 (Emergency Runner) 
-EVs: 252 HP / 252 SpA / 4 Spe  
-Modest Nature 
-- Eternabeam  
-- Venom Drench / Venoshock 
-- Shadow Ball  
-- Autotomize
-
-Strengths
-- Its massive Bulk, paired with its Black Sludge, allows it to survive a significant number of powerful moves, including many powerful Super-Effective Moves
-- Autotomize's +4 Speed Boost allows it to outspeed nearly every Scarfer and Set-Up Pokemon, including Mons with +2 Speed
-- Can OHKO Calyrex-Shadow with Shadow Ball, and deal significant damage to Mewtwo with Eternabeam
-- Due to Autotomize resetting the Pokemon's Stats upon completing, Eternatus can safely use Eternabeam toward the end of the move's duration and reset the Defensive drops, allowing it to perform better against the opponent's next Pokemon
-
-Weaknesses
-- Outclassed by its Dragon Memory Set in nearly every way
-- Generally lacks power compared to other attackers in the Tier
-- Its Poison-Typing leaves it vulnerable to threats such as Mewtwo, or mons with Ice or Ground Coverage
+Notable Details
+- Can serve as a Soft-Check to a number of Arceus and Zacian-Crowned Sets, especially through the use of phasing
 
 Dragon Memory
 Eternatus @ Dragon Memory  
@@ -769,146 +579,21 @@ Ability: Space Power
 Happiness: 246 (Emergency Runner) / 251 (Super Healer) / 253 (Impact Absorber) / 245 (Escape Planner)
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
-- Eternabeam  
-- Venoshock  
-- Magma Storm  
-- Autotomize
+- Eternabeam / Dynamax Cannon
+- Venoshock / Magma Storm
+- Magma Storm / Earth Power / Aromatic Mist
+- Autotomize / Sludge Switch / Chaos Switch / Aromatic Mist
 
 Strengths
 - Nearly unkillable: Capable of surviving a Stored Power from Mewtwo with room to spare, without investment
 - Overwhelming moves capable of OHKO'ing or 2HKO'ing nearly everything short of a dedicated check
 - Servicable Speed, even without a Speed-Boosting Nature, allowing it to decimate even decently fast Walls that don't invest
-- Nigh Eternal Life, due to the Dragon Memory's endowment of Regenerator
+- Nigh Immortality, due to the Dragon Memory's endowment of Regenerator
 - Can potentially set up for a sweep, using Autotomize
 
 Weaknesses
 - Exploitable Speed-Tier, due to its inability to wield its SpA Boost with a Positive-Speed Nature
 - Subject to being revenge-K.O.'d by opposing Priority Users or Dedicated Checks, should it commit to Autotomize
-=====================================================================================================================
-Category: G  
-=====================================================================================================================
-Groudon
-Hp: 160/Atk: 320/Def: 280/Spa: 240/Spd: 180/Spe: 160
-Common Items
-- Full Incense*
-- Gold Bottle Cap
-- Room Service
-- White Herb*
-
-Common Memories
-- Fire Memory
-- Ground Memory*
-
-Common Moves
-- Fire Punch
-- Flame Wheel
-- Ice Punch
-- Precipice Blades
-- Rental Charge
-- Rock Polish
-- Rock Slide
-- Stone Edge
-- Swords Dance*
-- Thermal Press
-- Thunder Punch*
-
-Common Overdrives
-- Critical Striker
-- Impact Absorber
-
-Preferred Ability
-- Drought
-
-Playstyle: Since Groudon does not have the greatest defensive capabilities, it is best used during the middle of a game, after the Pokemon that preceded it either slow-pivots into it, or has fainted. It is highly advised to equip a Fire Memory on this Pokemon to mitigate some of its weaknesses and increase its sweeping prowess, however should this be unfeasible, one should instead equip it with a Gold Bottle Cap, or Full Incense. Drought will allow it to hit opposing Pokemon with its Fire-Type Moves, while Antipathy can be situationally run to punish opposing scarfers
-
-Groudon @ Gold Bottle Cap  
-Ability: Drought 
-EVs: 116 HP / 252 Atk / 140 Spe  
-Adamant Nature  
-- Precipice Blades  
-- Flame Wheel / Thermal Press / Fire Punch
-- Stone Edge / Thunder Punch
-- Rock Polish
-
-Strengths
-- Phenomenal Physical Bulk, being one of the highest in the game
-- Decent Special Bulk, granting it above average bulk overall
-- Amazing Offensive Typing
-- Instant access to Full Incense and Gold Bottle Cap
-- Powerful exploiter of Flame Wheel, especially when Memorized
-- Immunity to Light Ball's Paralysis; Allowing it to use it for Thunder Punch
-- Weather Support; Drought can enable Sun Teams, while frustrating other forms of Weather
-
-Weaknesses
-- Middling Speed Tier
-- Highly exploitable Defensive Typing, often causing it to be a defensive liability for Teams
-- Awkward Typing, given its ability; Does not synergize with the very Sun Teams it facilitates
-- Poor Synergy with Teams, in general
-- Massive Bulk is hindered by no relevant resistances
-- Because of this, its bulk mainly just serves as a vehicle to help it set up, making it predictable
-- Since Groudon is not a Fire-Type by default: Its Ability, Drought, can potentially enable the Fire-Type and Fire-Adjacent Moves of its opponents, which it will not be capable of effectively resisting.
-
-Room Service
-Groudon @ Room Service  
-Ability: Drought  
-EVs: 116 HP / 252 Atk / 140 Spe  
-Adamant Nature  
-- Precipice Blades  
-- Flame Wheel  
-- Rock Slide / Stone Edges
-- Rock Polish
-
-Strengths
-- Significantly increases the power of Precipice Blades, allowing it to OHKO Mewtwo, and deal heavy damage to Palkia
-- Insulates it against its Grass-Type Weakness, allowing it to stalemate, or even defeat stubborn Grass-Type Pokemon
-- Simultaneously restores its own Hp, whilst eroding its opponent's, via its Item, and Sandstorm's Residual Damage, respectively
-- Excellent at creating massive vulnerabilities in opposing Teams, or decimating them in the late game
-- Due to Groudon's power being tied to its Ability: It can utilize these boosts repeatedly
-- Compared to Zacian-Crowned's Intrepid Sword, or Groudon's other common Item, Gold Bottle Cap: The effects of Sandstorm consistently tend to last significantly longer compared to the former two.
-
-Weaknesses
-- Lack of Sunlight means that Groudon possesses a limited number of tools to effective manage opposing Grass-Types, with its unboosted, weather-less Fire-Type Moves being rather ineffective
-- This also worsens its Matchup against opposing Fairy-Type Pokemon, which it often relied on Flame Wheel to make progress against
-- Opposing Weather setters, such as Kyogre, can neutralize its power and potentially check it, or force it out
-- The passive damage that Sandstorm afflicts also serves as a liability to its own Teammates, worsening its overall Team synergy
-
-
-Fire Memory
-Groudon @ Fire Memory  
-Ability: Drought  
-EVs: 116 HP / 252 Atk / 140 Spe  
-Adamant Nature  
-- Precipice Blades  
-- Stone Edge  
-- Flame Wheel  
-- Rock Polish
-
-Strengths
-- Allows Groudon to properly capitalize off of its Drought Ability, significantly increasing its power
-- With a single Rock Polish, Groudon can potentially decimate Teams through the use of its Sheer Force boosted Flame Wheel
-- Changes Ice Weakness, into a Resistance, improving its Matchup against opposing Ice-Type Moves and Pokemon
-- Strengthens its auxillary moves, such as Thunder Punch, due to its Memory Ability
-
-Weaknesses
-- Does not fully ameliorate Groudon's Defensive vulnerabilities, leaving it vulnerable to many of the same threats it had before
-
-Ground Memory
-Groudon @ Ground Memory  
-Ability: Drought  
-EVs: 116 HP / 252 Atk / 140 Spe  
-Adamant Nature  
-- Precipice Blades  
-- Flame Wheel  
-- Swords Dance  
-- Rock Polish
-
-Strengths
-- Removes the need for Groudon to run Stone Edge, as its Memory Ability allows it to nail Flying-Types, regardless
-- Hits harder with Ground-Type moves, than a Full Incense set, and is more consistent than a Gold Bottle Cap set
-
-Weaknesses
-- Similar weaknesses as Base Groudon.
-
 =====================================================================================================================
 Category: K  
 =====================================================================================================================
@@ -917,31 +602,25 @@ Hp: 160/Atk: 240/Def: 180/SpA: 320/SpD: 280/Spe: 160
 Common Items
 - Choice Scarf
 - Choice Specs
-- Room Service
 - Rose Incense
 
 Common Memories
-- Grass Memory
-- Water Memory
+- Grass Memory*
+- Water Memory*
 
 Common Moves
 - Grass Knot
 - Ice Beam
-- Memory Blast
+- Memory Blast*
 - Origin Pulse
 - Tailwind
 - Thunder
 - Thunder Wave
-- Water Spout
 
 Preferred Ability
 - Drizzle
 
-Playstyle: Since health is Kyogre's most valuable resource: It is best used as a switch-in option, either from a slow-pivot user on its Team, or as a retaliatory option against vulnerable opponents, after one of its allies faint. A set of Origin Pulse, Ice Beam, Thunder Wave, and Tailwind, allows Kyogre to hit most of the Tier hard with its attacking moves, while potentially crippling most of its checks through the use of Thunder Wave. Offensively, it is not uncommon for opposing players to have various Pokemon that are vulnerable or weak to one of Kyogre's coverage options, while resisting the other. Players should therefore use discretion when deciding which attack to use, as predictions may become necessary in order to gain momentum against its potential switch-ins, if its other Teammates cannot effectively manage them. Deciding when to use Thunder Wave, or Tailwind, is another factor that players will have to consider. Against opposing Mewtwo, Palkia, Calyrex-Shadow, Dialga, and any other resists, Thunder Wave should always be used over an attacking move or Tailwind, while Tailwind is best used toward the latter stages of the match where potential offensive threats may be looming in the opponent's Party, while its Defensive Checks have likely been either weakened or destroyed. When uncertain about which move is more appropriate: Thunder Wave works better for wall-breaking Bulky Offense and Walls, while Tailwind is better for sweeping through faster attackers.
-
-Defensively If Kyogre's health is adequately maintained, it will oftentimes be capable of surviving a number of the Tier's most powerful hits, including Adrenaline Orb Mewtwo's Stored Power, Modest Palkia's Boomburst, and +1 Calyrex-Shadow's Astral Barrage. Thunder Wave and Rose Incense work well together, as it allows Kyogre to preserve its progress against problematic Pokemon, such as Palkia or Dialga, without actually having to battle them directly, while Rose Incense allows Kyogre to play more aggressively against these Pokemon, giving it more opportunities to land Paralysis.
-
-For investment: Kyogre should always either run 0 Speed EVs with a Speed-boosting Nature, or 140 Evs without one, to ensure that it can always outspeed opposing +1 Speed-Nature Mewtwo and Calyrex-Shadow with Tailwind, in the event of an emergency. Secondarily, Kyogre generally prefers to invest 252 EVs into Hp, which helps insulate it against many of the Tier's strongest moves, while also giving a chance to survive Atk-Neutral Nature, Full Incense Meowscarada's Flower Trick. The remaining EVs can be placed in whichever stat players feel is more appropriate, with Defense improving its aforementioned Matchups with Meowscarada and Physical Attackers, while Special Defense improves its Matchups against Special Attackers, respectively. Kyogre can also invest into Special Attack if it wishes, however it oftentimes will not be necessary, as Drizzle and Thunder Wave already impart Kyogre with the power to decimate its foes.
+Hint: When carrying a Rose Incense under Rain, Kyogre is able to increase its longevity to astronomical levels, especially due to its ability to force switches using Thunder Wave. Its titanic Special Bulk is also an invaluable resource for allowing it to potentially frustrate opposing Pokemon such as Mewtwo and Calyrex. Despite this, the Tier's abundance of Thunder Wave absorbers that also have good Matchups against Kyogre, forces it to play strategically and be mindful of when it switches in.
 
 Kyogre @ Rose Incense  
 Ability: Drizzle  

@@ -1,5 +1,49 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v1.9.6
+Formats
+- Ubers
+	- Restrictions
+		- Porygon-Z Clause: Porygon cannot hold a Dubious Disc
+
+Abilities
+- Below Freezing
+	- Additional Effect: Pokemon's x1.2 Ice-Type Boost becomes a x1.4 Boost if it is holding a Snowball
+- Empyrean Blaze
+	- Additional Effect: Pokemon gains a x1.2 Boost to its Fire-Type Moves if it is holding a Flame Orb
+
+Items
+- Flame Orb
+	- Power Boost: x1.5 -> x1.3
+- Light Ball
+	- Power Boost: x1.5 -> x1.3
+- Toxic Orb
+	- Power Boost: x1.5 -> x1.3
+- Snowball
+	- Power Boost: x1.5 -> x1.3
+
+Moves
+- Frost Slide
+	- Implemented
+	- Base Power: 80
+	- Accuracy: 100
+	- Category: Physical
+	- PP: 5
+	- Effect: Raises the user's Speed by 2 stages. Pokemon's Stats automatically reset after 2 K.O.'s. Stats will not be subject to resetting if the Pokemon does not receive the Speed Boost from this move. Subject to Attrition.
+	- Contact: No
+	- Type: Ice
+	- Users: Zekrom
+
+Pokemon
+- Zekrom
+	- Learnset Additions
+		- Frost Slide
+	- Unlearned Moves
+		- Agility
+		- Dragon Dance
+		- Frosty Glide
+		- Thunder Wave
+
 Pokemon Memories v1.9.5
 General
 - Animations

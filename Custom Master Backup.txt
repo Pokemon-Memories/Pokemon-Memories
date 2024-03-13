@@ -15495,7 +15495,6 @@ IVs: 0 Spe
 
 Arcanine-Hisui (M) @ Flame Orb  
 Ability: empyreanblaze  
-Happiness: 250  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Sacred Fire  
@@ -15536,7 +15535,6 @@ IVs: 0 Atk
 
 Urshifu (M) @ Ability Shield  
 Ability: Unseen Fist  
-Happiness: 250  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Wicked Blow  
@@ -15549,8 +15547,8 @@ Ability: Power of Alchemy
 Happiness: 251  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Sassy Nature  
-IVs: 0 Spe  
-- Crunch  
+IVs: 0 Atk / 0 Spe  
+- Dragon Breath  
 - Stealth Rock  
 - Milk Drink  
 - Withdraw  
@@ -18090,7 +18088,7 @@ Happiness: 250
 EVs: 4 HP / 252 Atk / 252 Spe  
 Naive Nature  
 - Bolt Beak  
-- Sonic Boom  
+- Close Combat  
 - lightningstrike  
 - slushswitch  
 
@@ -18645,7 +18643,7 @@ EVs: 252 HP / 4 Atk / 252 Spe
 Jolly Nature  
 - infinitevelocity  
 - heavenlymist  
-- Extreme Speed  
+- Rock Wrecker  
 - divinecall  
 
 Calyrex-Shadow @ Choice Scarf  
@@ -18664,7 +18662,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Sacred Sword  
 - Close Combat  
-- aquafang  
+- rentalcharge  
 - bulletswitch  
 
 Lugia @ White Herb  
@@ -18905,16 +18903,14 @@ IVs: 0 Atk
 - Dazzling Gleam  
 - Parting Shot  
 
-Volcanion @ Lax Incense  
-Ability: Drought  
-Happiness: 251  
-EVs: 252 HP / 252 Def / 4 SpA  
-Calm Nature  
-IVs: 0 Atk  
-- Steam Eruption  
-- Stealth Rock  
-- Aromatic Mist  
-- Withdraw  
+Tornadus (M) @ Rose Incense  
+Ability: tempest  
+EVs: 252 SpA / 252 Spe  
+Hasty Nature  
+- Surf  
+- Bleakwind Storm  
+- electrostrike  
+- turbineturn  
 
 Meowscarada (F) @ Lax Incense  
 Ability: parlortrick  
@@ -18934,7 +18930,7 @@ Ability: psychicpower
 EVs: 40 HP / 32 Def / 184 SpA / 252 Spe  
 Timid Nature  
 - Stored Power  
-- Aurora Beam  
+- infernobeam  
 - psychofire  
 - psychodarts  
 
@@ -18970,10 +18966,10 @@ Zekrom @ Light Ball
 Ability: Teravolt  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
-Jolly Nature  
+Adamant Nature  
 - Bolt Strike  
 - royalrampage  
-- frostyglide  
+- frostslide  
 - Zing Zap  
 
 Meowscarada (F) @ Lax Incense  
@@ -19046,5 +19042,128 @@ Jolly Nature
 - Close Combat  
 - bulletswitch  
 - rentalcharge  
+
+
+=== [gen6ubers] Shadow Flame (Tornadus, ???) ===
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 40 HP / 32 Def / 184 SpA / 252 Spe  
+Timid Nature  
+- Stored Power  
+- infernobeam  
+- shadowflame  
+- psychodarts  
+
+Arceus @ Occa Berry  
+Ability: omnipotent  
+Happiness: 251  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- infinitevelocity  
+- Rock Wrecker  
+- heavenlymist  
+- divinecall  
+
+Zekrom @ Light Ball  
+Ability: Teravolt  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Bolt Strike  
+- royalrampage  
+- frostslide  
+- Zing Zap  
+
+Tornadus (M) @ Dubious Disc  
+Ability: tempest  
+EVs: 252 SpA / 252 Spe  
+Hasty Nature  
+- Surf  
+- Bleakwind Storm  
+- memoryblast  
+- turbineturn  
+
+Zacian-Crowned @ Metal Coat  
+Ability: Intrepid Sword  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Sacred Sword  
+- Close Combat  
+- bulletswitch  
+- rentalcharge  
+
+Raikou @ Choice Scarf  
+Ability: thunderousbeast  
+Happiness: 250  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Bolt Beak  
+- Close Combat  
+- Bulldoze  
+- slushswitch  
+
+
+=== [gen6ubers] Control the Narrative (Mewtwo, Fire) ===
+
+Mewtwo @ Fire Memory  
+Ability: psychicpower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- infernobeam  
+- Aura Sphere  
+- Aurora Beam  
+- psychicfury  
+
+Zekrom @ Light Ball  
+Ability: Teravolt  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Bolt Strike  
+- royalrampage  
+- frostslide  
+- Zing Zap  
+
+Calyrex-Shadow @ Choice Scarf  
+Ability: Power Spot  
+EVs: 88 HP / 160 SpA / 8 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psycho Boost  
+- Astral Barrage  
+- Dazzling Gleam  
+- Parting Shot  
+
+Arceus @ Occa Berry  
+Ability: omnipotent  
+Shiny: Yes  
+Happiness: 251  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- infinitevelocity  
+- Rock Wrecker  
+- heavenlymist  
+- divinecall  
+
+Zacian-Crowned @ Metal Coat  
+Ability: Intrepid Sword  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Sacred Sword  
+- Close Combat  
+- bulletswitch  
+- rentalcharge  
+
+Lilligant-Hisui @ Choice Scarf  
+Ability: evergreen  
+Shiny: Yes  
+EVs: 252 HP / 4 Atk / 252 Spe  
+Jolly Nature  
+- Petal Blizzard  
+- Axe Kick  
+- Healing Wish  
+- slushswitch  
 
 
