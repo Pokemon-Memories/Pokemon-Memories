@@ -1,5 +1,367 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v1.9.7
+- General
+- Animations
+	- The following Moves have received Animations: "Frigid Blast", "Psycho Buster", "Photon Hands", "Rampage"
+	- Formatting
+		- The Pokemon in the Speed Tier Section of the Custom Changelog Compilation have now been sorted Alphabetically
+
+Formats
+- Universal
+	- Assist Clause has been removed from every playable Format, however Ultra Assist remains banned in all of the Formats that already prohibited it
+	- Legendary Pokemon are no longer required to have 3 Perfect IVs
+- Balanced Hackmons
+	- Ruleset
+		- Banlist Additions
+			- Berserk Gene
+			- Bird of Prey
+			- Chilling Neigh
+			- Grim Neigh
+			- Merciless
+			- Psychic Memory
+- Ubers
+	- Ruleset
+		- Banlist Additions
+			- Mewtwo Clause
+				- Mewtwo cannot hold a Dubious Disc
+					- Explanation: While Dubious Disc Mewtwo was probably borderline at worst in its natural state: With the combination of Mystery Deluge, Psychic Fury, Nasty Plot, and Antipathy, it could fashion itself into a threat for which there was no answer. In some respects, Mewtwo-??? possessed qualities that even Arceus-??? and Deoxys-??? lacked, which is incompatible with the current direction of the Tier.
+- Ultra Assist
+	- Ruleset
+		- Banlist Additions
+			- Omnipotent
+		- Banlist Removals
+			- Kyurem-Black
+			- Kyurem-White
+- Unlimited BH
+	- Ruleset
+		- Deoxys-Attack and Eternatus-Eternamax have been unbanned
+
+Items
+- Assist Drive
+	- No longer depletes itself after being used
+	- Additional Effect: Pokemon is immune to being Statused; Receives Adaptability Boost
+
+Mechanics
+- Memorization
+	- Memory Abilities
+		- Oversight
+			- Type-Conversion: Normal-Type Charge Moves will also become ???-Type Moves, even if their Base Power exceeds 150
+- Overdrive
+	- Power Charger
+		- Implemented
+		- Num: 244
+		- Overdrive: Automatically switches the Pokemon to a chosen ally after successfully using a Move.
+- Ultra Assist
+	- General
+		- Assist Drives no longer cause the Pokemon to be forced out or to faint, however only one can be used per Team, regardless of the Format
+		- EX Pokemon are now capable of imparting Stat Bonuses
+
+	- Arbitration
+		- Pokemon can now "force" a certain Assist Boost by placing exactly 30 IVs into a Stat. If multiple Stats have 30 IVs, the Boost that the Pokemon will receive will be determined in the following order: 1. Hp, 2. Atk, 3. Def, 4. SpA, 5. SpD, 6. Spe; Pokemon cannot receive multiple Assist Boosts
+		- Corrected an error with the non-IV (i.e. Standard Arbitration) where HP had the lowest Priority instead of the Highest. The Standard Arbitration now matches that of the IV-Modified Arbitration
+
+	- Assist Boosts
+		- Hp Boost
+			- Effect: 15% Damage Reduction (x0.85 Damage Received) -> 1/16 Passive Healing
+		- Attack Boost
+			- No longer reduce the power of Choiced Pokemon that have one of the "Beast" Abilities (Burning Beast, Thunderous Beast, Torrential Beast)
+		- Special Attack Boost
+			- No longer reduce the power of Choiced Pokemon that have one of the "Beast" Abilities (Burning Beast, Thunderous Beast, Torrential Beast)
+		- Speed Assist Boost
+			- Effect: 10% Boost to all Stats -> x1.5 Speed Stat when at Full Hp
+
+	- EX Assist Fields
+		- EX Eternatus
+			- Effect: Changes the Poison-Types Psychic-Weakness into a Neutrality -> Pokemon can no longer be hit Super-Effectively by opposing Ground-Type or Psychic-Type Moves
+		- EX Kyogre
+			- Effect: Party's Water-Type Moves have x1.2 Base Power -> Pokemon can no longer be hit Super-Effectively by opposing Electric-Type or Grass-Type Moves
+		- EX Lugia
+			- Damage Reduction: x0.63 -> x0.5
+		- EX Meowscarada
+			- Implemented
+			- Effect: Uproar has perfect accuracy for all Pokemon
+		- EX Rayquaza
+			- Effect: x0.63 Damage Taken from opposing Fairy/Electric-Type Moves -> x1.1 Power Boost if the Pokemon has any Positive Stat Boosts
+		- EX Shaymin
+			- Restrictions
+				- No longer imparts healing to Pokemon with Hope Sprout
+		- EX Yveltal
+			- Heal Blocking Effects now terminate alongside this Assist's Effects
+			- Now only activates once per Game
+		- EX Zacian
+			- Implemented
+			- Effect: Grants the Party an Immunity to opposing Dragon-Type and Poison-Type Moves
+		- EX Zamazenta
+			- Implemented
+			- Effect: Protects the Party from being forced out by the opponent
+
+
+Abilities
+- Impervious
+	- Reintroduced
+	- Effects: Imparts the Pokemon with an Immunity to a Type that corresponds to the Type of their held Super-Effective Damage-Reducing Berry
+	- Changes: This Ability's effects can now be used by all Pokemon (applies for Formats such as Balanced Hackmons)
+	- Explanation: This Ability was reintroduced in response to the possibility of Omnipotent being overwhelming within certain Formats. Having a weaker version of the Ability (which itself is simply an upgraded version of Impervious before its temporary suspension), allows Arceus to maintain the defensive utility imparted by Omnipotent, without the potentially oppressive power that accompanies it
+- Omnipotent
+	- No longer grants the Permaburst Effect
+- Water Veil
+	- Additional Effect: If a Dual-Type Pokemon has the Water-Type, its weaknesses from the non-Water Type are removed. Pokemon's Stats cannot be lowered by the opponent
+
+Moves
+- Accelerate
+	- Duration: __ -> 2 K.O.'s
+- Bounce
+	- Base Power: 100 -> 150
+- Diffusion Wave
+	- Now bounceable by Reflecting Abilities, such as Magic Bounce
+- Dynamax Cannon
+	- Now Subject to Attrition
+- Focus Blast
+	- Base Power: 155 -> 165
+- Freeze-Shock
+	- Base Power: 140 -> 180
+	- Additional Effect: Hits Opposing Water-Types Super-Effectively, and opposing Fire-Types neutrally
+	- Now Subject to Attrition
+- Heavenly Mist
+	- Now bounceable by Reflecting Abilities, such as Magic Bounce
+- House Cleaning
+	- Now bounceable by Reflecting Abilities, such as Magic Bounce
+- Ice Burn
+	- Base Power: 140 -> 180
+	- Additional Effect: Hits Opposing Steel-Types Super-Effectively, and opposing Fire-Types neutrally
+	- Now Subject to Attrition
+- Photon Hands
+	- Implemented
+		- Base Power: 80
+		- Accuracy: 100
+		- Category: Physical
+		- Contact: Tactile
+		- Effect: Hits opposing Ghost-Types Semi-Effectively; This move has a Doubled Base Power, and will lower the opponent's Defense Stat by 1 Stage, if used by a Pokemon with Psycho Force
+		- Priority: 0
+		- PP: 10
+		- Type: Fighting
+		- Users: Mewtwo
+- Psycho Blitz
+	- No longer receives a Base Power Boost when used by Mega Mewtwo X
+- Psycho Buster
+	- Implemented
+		- Base Power: 150
+		- Accuracy: 100
+		- Category: Physical
+		- Contact: No
+		- Effect: Targets the opponent's Special Defense Stat; x1.5 Base Power if used by a Pokemon with Psycho Force. This move can only be used by Mewtwo or its Mega Evolutions
+		- Priority: 0
+		- PP: 10
+		- Type: Psychic
+		- Users: Mewtwo
+- Razor Wind
+	- Base Power: 100 -> 170
+	- Additional Effect: Raises the user's Speed by 1 Stage; Subject to Attrition
+- Skull Bash
+	- Base Power: 130 -> 180
+	- Additional Effect: Raises the user's Atk by 1 Stage; Subject to Attrition
+	- Type: Normal -> Rock
+- Sprout Seed
+	- Duration: __ -> 2 K.O.'s
+- Thunder Cage
+	- Base Power: 120 -> 150
+- Thunder Wave
+	- This Move was removed from the following Pokemon's Learnsets: Mimikyu
+- Wild Charge
+	- Base Power: 120 -> 145
+	- Recoil: 1/4 -> __
+
+Pokemon
+- Arceus
+	- Ability Additions
+		- Impervious
+	- Learnset Removals
+		- Bulk Up
+		- Taunt
+- Bellsprout
+	- Learnset Additions
+		- Apple Acid
+		- Gravapple
+		- Low Kick
+		- Low Sweep
+- Bibarel
+	- Learnset Additions
+		- Aqua Jet
+		- Aromatherapy
+		- Aromatic Mist
+		- Battle Cry
+		- Extreme Speed
+		- Flip Turn
+		- House Cleaning
+		- Rock Slide
+		- Sweet Retreat
+- Blaziken
+	- Base Stats
+		- Hp: 140 -> 230
+		- Atk: 240 -> 280
+		- SpA: 240 -> 280
+		- SpD: 170 -> 150
+	- Mega Blaziken
+		- Base Stats
+			- Atk: 300 -> 335
+			- Def: 160 -> 130
+			- SpA: 300 -> 335
+			- Spe: 170 -> 180
+- Claydol
+	- Learnset Additions
+		- Dragon Breath
+		- House Cleaning
+		- Psycho Fire
+		- Shadow Flame
+- Crawdaunt
+	- Base Stats
+		- Hp: 63 -> 183
+		- Atk: 120 -> 240
+		- Def: 85 -> 225
+		- SpA: 90 -> 190
+		- SpD: 55 -> 175
+		- Spe: 55 -> 55
+	- Learnset Additions
+		- Aromatic Mist
+		- Flip Turn
+		- House Cleaning
+		- Knock Off
+		- Rapid Spin
+		- Spikes
+		- Stealth Rock
+		- Uproar
+		- Withdraw
+- Dragapult
+	- Base Stats
+		- Spe: 108 -> 186
+	- Learnset Additions
+		- Covert Switch
+		- Ember
+		- Frost Slide
+		- Rental Charge
+		- Shadow Sneak
+		- Sucker Punch
+	- Learnset Removals
+		- Quiver Dance
+		- Shift Gear
+- Emboar
+	- Learnset Additions
+		- Blazing Velocity
+		- Fire Spin
+		- Flame Switch
+		- Howl
+		- Stealth Rock
+- Eternatus
+	- Learnset Removals
+		- Tailwind
+- Giratina
+	- Learnset Additions
+		- House Cleaning
+		- Sweet Retreat
+- Heatran
+	- Learnset Additions
+		- Uproar
+- Keldeo-Resolute
+	- Base Stats
+		- SpD: 155 -> 154
+		- Spe: 180 -> 181
+- Kyurem
+	- Universal
+		- Learnset Additions
+			- Roar
+- Luxray
+	- Learnset Additions
+		- Frigid Blast
+		- Ice Spiner
+		- Rampage
+- Mantine
+	- Base Stats
+		- Hp: 165 -> 305
+		- Def: 170 -> 270
+		- SpD: 280 -> 180
+	- Learnset Additions
+		- Aqua Soul
+		- Body Press
+		- House Cleaning
+		- Iron Defense
+		- Parting Shot
+		- Sweet Retreat
+		- Withdraw
+- Mewtwo
+	- Learnset Additions
+		- Razor Wind
+- Politoed
+	- Learnset Additions
+		- Dragon Breath
+		- House Cleaning
+		- Royal Nourishment
+		- Shed Spore
+		- Sweet Retreat
+- Reshiram
+	- Learnset Removals
+		- Agility
+		- Rental Charge
+- Seismitoad
+	- Base Stats
+		- SpA: 145 -> 225
+	- Learnset Additions
+		- Earth Run
+		- Flip Turn
+		- House Cleaning
+		- Stone Edge
+		- Swords Dance
+- Tentacruel
+	- Ability: Levitate -> Regenerator
+	- Base Stats
+		- Hp: 180 -> 220
+		- Atk: 70 -> 200
+	- Learnset Additions
+		- Acid
+		- Dragon Breath
+		- House Cleaning
+		- Knock-Off
+		- Roar
+		- Royal Submersion
+		- Spikes
+		- Sweet Retreat
+		- Whirlwind
+- Unown
+	- Learnset Additions
+		- Comeuppance
+		- Healing Feather
+		- House Cleaning
+		- Memento
+		- Royal Retreat
+		- Uproar
+		- Whirlwind
+- Xerneas
+	- Learnset Additions
+		- House Cleaning
+- Zacian
+	- Universal
+		- Learnset Removals
+			- Twinkle Tackle
+	- Base Forme
+		- Added Abilities
+			- Mold Breaker
+		- Base Stats
+			- Atk: 260 -> 300
+			- SpD: 145 -> 165
+			- Spe: 170 -> 181
+- Zamazenta
+	- Base Form
+		- Added Abilities
+			- Mold Breaker
+		- Base Stats
+			- Atk: 260 -> 280
+			- Def: 235 -> 255
+			- SpA: 29 -> 38
+			- Spe: 159 -> 181
+- Zekrom
+	- Learnset Removals
+		- Agility
+
 Pokemon Memories v1.9.6
 Formats
 - Ubers

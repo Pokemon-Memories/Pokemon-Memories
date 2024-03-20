@@ -21,7 +21,7 @@ Section C
 	• Viability Rankings
 	• History of the Format
 
-(183 Total)
+(184 Total)
 						      Section A    
 						    Standard Ubers
 						      Highlights
@@ -117,34 +117,33 @@ Note: Pokemon beneath the A-Tier, are listed alphabetically; Pokemon in the lowe
 
 Viability Rankings
 
-S-Tier (8 Total)
-
-S+
-Arceus
+S-Tier (7 Total)
 
 S
-Zekrom
-Zacian-Crowned
 Mewtwo
-Tornadus
-Calyrex-Shadow (S-; Ghost Memory/Fairy Memory)
+Arceus
+Zacian-Crowned
 
 S-
-Ho-Oh (A-; Dragon Memory + Regenerator)
-Lilligant-Hisui
+Eternatus (A; Dragon Memory + SpA-Positive Nature)
+Calyrex-Shadow (S-; Ghost Memory/Fairy Memory)
+Zekrom
+Tornadus
 
-A-Tier (25 Total)
+A-Tier (27 Total)
 
 A+
+Lilligant-Hisui
+Calyrex-Ice
+Ho-Oh (A-; Dragon Memory + Regenerator)
 Lunala
-Kyurem-White (S-; Dragon Memory)
-Eternatus (A; Dragon Memory + SpA-Positive Nature)
 Heatran
-Raikou
 Meowscarada
 
 A
+Mantine
 Muk-Alola
+Raikou
 Greninja-Ash
 Lucario-Mega
 Kyogre
@@ -152,14 +151,14 @@ Darkrai
 Deoxys-Attack
 Volcanion
 Necrozma-Dusk-Mane
-Kyurem-Black
 
 A-
+Kyurem-White
+Kyurem-Black
+Victreebel
 Sandslash-Alola
 Arceus-Electric
-Arcanine-Hisui
-Gengar-Mega
-Porygon-Z (A+; Ability Shield/Ice Memory)
+Porygon-Z
 Lugia
 Azumarill
 Arceus-Water
@@ -167,11 +166,12 @@ Meowth (B; Dubious Disc)
 Marshadow (A-; Fighting Memory)
 
 
-B-Tier (97 Total)
+B-Tier (91 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
 Amoonguss
+Arcanine-Hisui
 Arceus-Dark
 Arceus-Fire
 Carracosta
@@ -180,6 +180,7 @@ Dialga
 Empoleon
 Entei
 Garchomp
+Gengar-Mega
 Glastrier
 Gliscor
 Golurk
@@ -203,11 +204,9 @@ Palkia
 Phione
 Pikachu-Original
 Rayquaza
+Porygon2
 Shaymin-Sky
 Spectrier
-Suicune
-Sunflora
-Swampert
 Tapu Bulu
 Tapu Fini
 Tapu Koko
@@ -216,9 +215,6 @@ Thundurus-Therian
 Umbreon
 Urshifu-R
 Urshifu-S
-Vaporeon
-Victreebel
-Xerneas
 Yveltal
 Zamazenta-Crowned
 
@@ -229,10 +225,6 @@ Arceus-Ghost
 Arceus-Grass
 Arceus-Ground
 Bellsprout
-Blastoise
-Blastoise-Mega
-Blissey
-Calyrex-Ice
 Corviknight
 Cryogonal
 Darmanitan-Galar-Zen
@@ -242,7 +234,6 @@ Jellicent
 Klinklang
 Landorus-Incarnate
 Ludicolo
-Magnezone
 Mesprit
 Moltres-Galar
 Pikachu-Alola
@@ -250,7 +241,12 @@ Regigigas
 Reuniclus
 Skarmory
 Solgaleo
+Suicune
+Sunflora
+Swampert
 Torterra
+Vaporeon
+Xerneas
 Zapdos-Galar
 Zoroark-Hisui
 
@@ -260,40 +256,44 @@ Celebi
 Darmanitan
 Darmanitan-Galar
 Decidueye
-Genesect
-Gengar
 Giratina
 Gyarados-Mega
 Hoopa Unbound
 Minun
 Rapidash-Galar
 Reshiram
-Salamence-Mega
 Zarude
 Zygarde
 Zygarde-Complete
 
 
-C-Tier (38 Total)
+C-Tier (45 Total)
 
 C+
 Abomasnow
 Arceus-Bug
 Arceus-Poison
 Articuno-Galar
+Blastoise
+Blastoise-Mega
+Blissey
 Charizard-Mega X
 Gardevoir
+Genesect
+Gengar
 Dragapult
 Lopunny-Mega
 Emolga
 Excadrill
 Jirachi
 Kartana
+Magnezone
 Pheromosa
 Regieleki
 Rotom-Wash
 Rotom-Fan
 Rotom-Frost
+Salamence-Mega
 Sableye-Mega
 Serperior
 Sawsbuck
@@ -321,7 +321,7 @@ Registeel
 Sableye
 
 
-D-Tier (12 Total)
+D-Tier (11 Total)
 
 D+
 Cobalion
@@ -337,7 +337,6 @@ Shaymin
 
 D-
 Chandelure
-Porygon2
 Terrakion
 Tyrantrum
 

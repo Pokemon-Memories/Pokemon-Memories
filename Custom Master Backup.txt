@@ -1,3 +1,329 @@
+=== [gen6ultraassist] Calibur (EX-Meowscarada, SpA) ===
+
+Meowscarada (F) @ assistdrive  
+Ability: parlortrick  
+Shiny: Yes  
+EVs: 252 HP / 4 Atk / 252 Spe  
+Jolly Nature  
+IVs: 30 SpA  
+- Flower Trick  
+- Night Slash  
+- slushswitch  
+- Uproar  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+Happiness: 250  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Psystrike  
+- infernobeam  
+- shadowflame  
+- Uproar  
+
+Sandslash-Alola (M) @ Snowball  
+Ability: belowfreezing  
+Shiny: Yes  
+Happiness: 250  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- subzerofreeze  
+- battlecry  
+- slushswitch  
+- Powder Snow  
+
+Lunala @ Chipped Pot  
+Ability: fullmoon  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Moongeist Beam  
+- Calm Mind  
+- Uproar  
+
+Arceus-Fire @ Flame Plate  
+Ability: Multitype  
+Happiness: 251  
+EVs: 252 HP / 252 Spe  
+Timid Nature  
+- infinitevelocity  
+- Calm Mind  
+- heavenlymist  
+- Agility  
+
+Heatran (M) @ Metal Coat  
+Ability: battlebastion  
+Happiness: 251  
+EVs: 252 HP / 152 Def / 100 SpD / 4 Spe  
+Bold Nature  
+- diffusionwave  
+- Flash Cannon  
+- Recover  
+- Uproar  
+
+
+=== [gen6ultraassist] Wishful Thinking (EX-Cresselia, SpD) ===
+
+Zacian-Crowned @ Metal Coat  
+Ability: Intrepid Sword  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Sacred Sword  
+- Close Combat  
+- bulletswitch  
+- rentalcharge  
+
+Cresselia @ assistdrive  
+Ability: Regenerator  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 252 Def / 4 SpA  
+Relaxed Nature  
+IVs: 30 SpD / 0 Spe  
+- psychofire  
+- Dragon Breath  
+- Moonlight  
+- Parting Shot  
+
+Calyrex-Shadow @ Chipped Pot  
+Ability: Power Spot  
+Happiness: 251  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Astral Barrage  
+- Nasty Plot  
+- Parting Shot  
+
+Articuno-Galar @ Sweet Apple  
+Ability: frostyveil  
+Happiness: 251  
+EVs: 252 HP / 252 Def  
+Bold Nature  
+IVs: 0 Atk  
+- Freezing Glare  
+- Whirlwind  
+- Roost  
+- Teleport  
+
+Kyurem-White @ Leftovers  
+Ability: dragonpower  
+Shiny: Yes  
+Happiness: 251  
+EVs: 4 HP / 252 Def / 252 SpA  
+Modest Nature  
+- celestialstrike  
+- Freeze-Dry  
+- Aromatic Mist  
+- slushswitch  
+
+Arceus-Fire @ Flame Plate  
+Ability: Multitype  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- infinitevelocity  
+- Calm Mind  
+- heavenlymist  
+- Agility  
+
+
+=== [gen6ultraassist] Ultra Assist is Back (EX-Xerneas, Speed) ===
+
+Celesteela @ Metal Coat  
+Ability: Filter  
+EVs: 252 HP / 124 Def / 4 SpA / 128 SpD  
+Calm Nature  
+- royalturbulence  
+- Stealth Rock  
+- Leech Seed  
+- Withdraw  
+
+Luxray (M) @ Toxic Orb  
+Ability: Guts  
+Happiness: 247  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Wild Charge  
+- rampage  
+- frigidblast  
+- slushswitch  
+
+Regigigas @ Toxic Orb  
+Ability: Guts  
+Shiny: Yes  
+Happiness: 247  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Facade  
+- Storm Throw  
+- Double Slap  
+- thermalpress  
+
+Xerneas @ assistdrive  
+Ability: Fairy Aura  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 124 Def / 132 SpD  
+Calm Nature  
+IVs: 0 Atk / 30 Spe  
+- Moonblast  
+- Will-O-Wisp  
+- Aromatherapy  
+- Aromatic Mist  
+
+Ho-Oh @ Sweet Apple  
+Ability: Magic Guard  
+Happiness: 251  
+EVs: 180 HP / 204 Atk / 124 Spe  
+Adamant Nature  
+IVs: 30 Spe  
+- Sacred Fire  
+- royalturbulence  
+- Aromatic Mist  
+- healingfeather  
+
+Arceus-Ground @ Earth Plate  
+Ability: Multitype  
+Happiness: 251  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+- Judgment  
+- Calm Mind  
+- heavenlymist  
+- Agility  
+
+
+=== [gen6anythinggoes] 原作 (Arceus, ???) ===
+
+Mewtwo-Mega-X @ Mewtwonite X  
+Ability: psychoforce  
+Happiness: 250  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- psychobuster  
+- photonhands  
+- shadowflame  
+- neuronblade  
+
+Arceus @ Dubious Disc  
+Ability: Multitype  
+Happiness: 251  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- memoryblast  
+- Extreme Speed  
+- heavenlymist  
+- heavendance  
+
+Mantine @ White Herb  
+Ability: Water Veil  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 252 Def / 4 Spe  
+Bold Nature  
+- housecleaning  
+- Toxic  
+- Roost  
+- sweetretreat  
+
+Arceus @ Occa Berry  
+Ability: omnipotent  
+Happiness: 251  
+EVs: 252 HP / 4 Atk / 252 Spe  
+Jolly Nature  
+- infinitevelocity  
+- Rock Wrecker  
+- heavenlymist  
+- royalretreat  
+
+Lilligant-Hisui @ Choice Scarf  
+Ability: evergreen  
+Shiny: Yes  
+EVs: 252 HP / 4 Atk / 252 Spe  
+Jolly Nature  
+- Petal Blizzard  
+- Axe Kick  
+- Healing Wish  
+- slushswitch  
+
+Mewtwo-Mega-Y @ Mewtwonite Y  
+Ability: psychicassault  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Psystrike  
+- Electro Ball  
+- shadowflame  
+- Low Sweep  
+
+
+=== [gen6anythinggoes] Cipher (Mewtwo, ???) ===
+
+Mewtwo @ Dubious Disc  
+Ability: antipathy  
+Happiness: 250  
+EVs: 40 HP / 32 Def / 184 SpA / 252 Spe  
+Timid Nature  
+- mysterydeluge  
+- psychicfury  
+- Nasty Plot  
+- prattlerattle  
+
+Calyrex-Shadow @ Choice Scarf  
+Ability: Power Spot  
+EVs: 88 HP / 160 SpA / 8 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psycho Boost  
+- Astral Barrage  
+- Dazzling Gleam  
+- Parting Shot  
+
+Zacian-Crowned @ Metal Coat  
+Ability: Intrepid Sword  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Sacred Sword  
+- Close Combat  
+- bulletswitch  
+- rentalcharge  
+
+Meowscarada (F) @ Lax Incense  
+Ability: parlortrick  
+Shiny: Yes  
+EVs: 252 HP / 252 Spe  
+Jolly Nature  
+- Flower Trick  
+- Night Slash  
+- slushswitch  
+- Uproar  
+
+Kyurem-White @ Leftovers  
+Ability: dragonpower  
+Shiny: Yes  
+Happiness: 251  
+EVs: 4 HP / 252 SpD / 252 Spe  
+Timid Nature  
+- celestialstrike  
+- Dragon Breath  
+- Aromatic Mist  
+- slushswitch  
+
+Mantine @ White Herb  
+Ability: Water Veil  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 252 Def / 4 Spe  
+Bold Nature  
+- housecleaning  
+- Toxic  
+- Roost  
+- sweetretreat  
+
+
 === [gen6anythinggoes] Super Dark Aura (Yveltal, Dark) ===
 
 Yveltal @ Dark Memory  
@@ -754,14 +1080,14 @@ Jolly Nature
 
 === [gen6balancedhackmons] Berserk Gene (Poison, Steel) ===
 
-Mewtwo @ Berserk Gene  
-Ability: Primordial Sea  
+Mewtwo @ Ability Shield  
+Ability: heartless  
 EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
-Jolly Nature  
+Timid Nature  
 - Psystrike  
-- Sunsteel Strike  
-- Sacred Fire  
+- psychofire  
 - Heal Order  
+- Calm Mind  
 
 Deoxys (M) @ Poison Memory  
 Ability: inertia  
@@ -802,7 +1128,7 @@ Relaxed Nature
 IVs: 0 Spe  
 - Toxic Spikes  
 - diffusionwave  
-- royalnourishment  
+- heavenlymist  
 - royalretreat  
 
 Arceus-Fairy @ Bright Powder  
@@ -811,7 +1137,7 @@ Happiness: 251
 EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
 Serious Nature  
 - Nature's Madness  
-- Stealth Rock  
+- heavenlymist  
 - Strength Sap  
 - healingfeather  
 
@@ -847,17 +1173,16 @@ IVs: 0 Atk
 - Strength Sap  
 - Gear Up  
 
-Thundurus (M) @ Life Orb  
-Ability: Triage  
-Shiny: Yes  
+Arceus-Ghost @ Choice Scarf  
+Ability: thunderousbeast  
 Happiness: 251  
 EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
-Modest Nature  
+Timid Nature  
 IVs: 0 Atk  
-- Oblivion Wing  
-- Thunder Cage  
-- Heal Order  
+- Moongeist Beam  
+- Dragon Breath  
 - Nasty Plot  
+- Heal Order  
 
 Zygarde-Complete (M) @ Dubious Disc  
 Ability: doubledown  
@@ -878,7 +1203,7 @@ EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD
 Sassy Nature  
 - Nature's Madness  
 - diffusionwave  
-- royalnourishment  
+- heavenlymist  
 - royalretreat  
 
 
@@ -900,7 +1225,7 @@ EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD
 Sassy Nature  
 IVs: 0 Spe  
 - Origin Pulse  
-- Spectral Thief  
+- diffusionwave  
 - expressheal  
 - royalretreat  
 
@@ -909,29 +1234,30 @@ Ability: Fur Coat
 EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
 Serious Nature  
 - Sacred Fire  
-- diffusionwave  
+- heavenlymist  
 - Dragon Breath  
 - Celebrate  
 
 Eternatus @ Poison Memory  
-Ability: Power of Alchemy  
+Ability: doubledown  
 Happiness: 251  
 EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
 Modest Nature  
-- Sludge Bomb  
-- infernobeam  
+- Psystrike  
+- Venoshock  
+- heavenlymist  
 - healingfeather  
-- Celebrate  
 
-Regigigas (M) @ Toxic Orb  
-Ability: Guts  
-Shiny: Yes  
+Calyrex-Shadow @ Choice Scarf  
+Ability: thunderousbeast  
+Happiness: 251  
 EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
-Jolly Nature  
-- Facade  
-- Bolt Beak  
+Timid Nature  
+IVs: 0 Atk  
+- Moongeist Beam  
+- Venoshock  
+- Nasty Plot  
 - Heal Order  
-- Shift Gear  
 
 Necrozma-Ultra (M) @ Choice Band  
 Ability: overmind  
@@ -944,16 +1270,16 @@ Jolly Nature
 - sludgeswitch  
 
 
-=== [gen6balancedhackmons] Team Medley (Ghost, Steel) ===
+=== [gen6balancedhackmons] Team Medley (???, Dark) ===
 
-Calyrex-Shadow @ Ghost Memory  
-Ability: hyperspeed  
+Arceus-Ghost @ Choice Scarf  
+Ability: thunderousbeast  
 Happiness: 251  
 EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
 - Moongeist Beam  
-- Venoshock  
+- Dragon Breath  
 - Nasty Plot  
 - Heal Order  
 
@@ -974,7 +1300,7 @@ Relaxed Nature
 IVs: 0 Spe  
 - Core Enforcer  
 - Spectral Thief  
-- royalnourishment  
+- heavenlymist  
 - healingfeather  
 
 Arceus-Fairy @ Bright Powder  
@@ -998,16 +1324,16 @@ IVs: 0 Spe
 - expressheal  
 - royalretreat  
 
-Arceus-Fighting @ Leftovers  
-Ability: evergreen  
+Arceus-Electric @ Dark Memory  
+Ability: spacepower  
 Happiness: 251  
 EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD  
-Sassy Nature  
+Rash Nature  
 IVs: 0 Spe  
-- subzerofreeze  
-- Dragon Breath  
-- royalnourishment  
-- slushswitch  
+- Fiery Wrath  
+- Bolt Beak  
+- Techno Blast  
+- Uproar  
 
 
 === [gen6unlimitedbh] Mewtwo Hackmons Testing ===
@@ -18838,7 +19164,7 @@ Ability: spacepower
 EVs: 252 HP / 252 Def / 4 Spe  
 Bold Nature  
 - Eternabeam  
-- Stealth Rock  
+- housecleaning  
 - Aromatic Mist  
 - chaosswitch  
 
@@ -19019,7 +19345,7 @@ Ability: omnipotent
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- Extreme Speed  
+- heavenlymist  
 - infinitevelocity  
 - Rock Wrecker  
 - divinecall  
@@ -19044,7 +19370,7 @@ Jolly Nature
 - rentalcharge  
 
 
-=== [gen6ubers] Shadow Flame (Tornadus, ???) ===
+=== [gen6ubers] Shadow Flame (✗) ===
 
 Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
@@ -19075,13 +19401,13 @@ Adamant Nature
 - frostslide  
 - Zing Zap  
 
-Tornadus (M) @ Dubious Disc  
+Tornadus (M) @ Rose Incense  
 Ability: tempest  
 EVs: 252 SpA / 252 Spe  
 Hasty Nature  
 - Surf  
 - Bleakwind Storm  
-- memoryblast  
+- Torment  
 - turbineturn  
 
 Zacian-Crowned @ Metal Coat  
@@ -19104,16 +19430,16 @@ Jolly Nature
 - slushswitch  
 
 
-=== [gen6ubers] Control the Narrative (Mewtwo, Fire) ===
+=== [gen6ubers] Control the Narrative (✗) ===
 
-Mewtwo @ Fire Memory  
+Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
-EVs: 4 HP / 252 SpA / 252 Spe  
+EVs: 40 HP / 32 Def / 184 SpA / 252 Spe  
 Timid Nature  
-- infernobeam  
-- Aura Sphere  
+- Stored Power  
+- shadowflame  
 - Aurora Beam  
-- psychicfury  
+- psychodarts  
 
 Zekrom @ Light Ball  
 Ability: Teravolt  
@@ -19165,5 +19491,327 @@ Jolly Nature
 - Axe Kick  
 - Healing Wish  
 - slushswitch  
+
+
+=== [gen6ubers] Shugisha (Eternatus, Dragon) ===
+
+Mewtwo @ Choice Specs  
+Ability: psychicpower  
+EVs: 40 HP / 32 Def / 184 SpA / 252 Spe  
+Timid Nature  
+- Psystrike  
+- Stored Power  
+- psychofire  
+- psychodarts  
+
+Zacian-Crowned @ Metal Coat  
+Ability: Intrepid Sword  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Sacred Sword  
+- Close Combat  
+- bulletswitch  
+- rentalcharge  
+
+Arceus @ Occa Berry  
+Ability: omnipotent  
+Happiness: 251  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- infinitevelocity  
+- Rock Wrecker  
+- heavenlymist  
+- divinecall  
+
+Lilligant-Hisui @ Choice Scarf  
+Ability: evergreen  
+EVs: 252 HP / 4 Atk / 252 Spe  
+Jolly Nature  
+- Petal Blizzard  
+- Axe Kick  
+- Healing Wish  
+- slushswitch  
+
+Calyrex-Ice @ Snowball  
+Ability: Ice Scales  
+Happiness: 251  
+EVs: 116 HP / 252 Atk / 140 Spe  
+Adamant Nature  
+- Glacial Lance  
+- royalretreat  
+- slushswitch  
+- accelerate  
+
+Eternatus @ Dragon Memory  
+Ability: spacepower  
+Happiness: 251  
+EVs: 136 SpA / 232 SpD / 140 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Dynamax Cannon  
+- Eternabeam  
+- Magma Storm  
+- Autotomize  
+
+
+=== [gen6ubers] Adjustments (Eternatus, Ice) ===
+
+Eternatus @ Ice Memory  
+Ability: spacepower  
+Happiness: 251  
+EVs: 4 HP / 252 SpA / 252 SpD  
+Modest Nature  
+- memoryblast  
+- Magma Storm  
+- Aromatic Mist  
+- sludgeswitch  
+
+Victreebel (M) @ Lax Incense  
+Ability: hopesprout  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 252 Def / 4 SpD  
+Relaxed Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Dragon Breath  
+- Recover  
+- Parting Shot  
+
+Mantine @ White Herb  
+Ability: Water Veil  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 252 Def / 4 Spe  
+Bold Nature  
+- Body Press  
+- Toxic  
+- Roost  
+- sweetretreat  
+
+Calyrex-Shadow @ Choice Scarf  
+Ability: Power Spot  
+EVs: 88 HP / 160 SpA / 8 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psycho Boost  
+- Astral Barrage  
+- Dazzling Gleam  
+- Parting Shot  
+
+Arceus @ Occa Berry  
+Ability: omnipotent  
+Happiness: 251  
+EVs: 252 HP / 4 Atk / 252 Spe  
+Jolly Nature  
+- infinitevelocity  
+- Rock Wrecker  
+- heavenlymist  
+- royalretreat  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 40 HP / 32 Def / 184 SpA / 252 Spe  
+Timid Nature  
+- Stored Power  
+- shadowflame  
+- Aurora Beam  
+- psychodarts  
+
+
+=== [gen6ubers] Not Necessarily a Mewtwo Answer (✗) ===
+
+Arceus @ Wacan Berry  
+Ability: omnipotent  
+Shiny: Yes  
+Happiness: 251  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Volt Tackle  
+- glacialstrike  
+- lightningstrike  
+- heavenlymist  
+
+Mantine @ White Herb  
+Ability: Water Veil  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 252 Def / 4 Spe  
+Bold Nature  
+- Body Press  
+- Toxic  
+- Roost  
+- sweetretreat  
+
+Zekrom @ Light Ball  
+Ability: Teravolt  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Bolt Strike  
+- royalrampage  
+- frostslide  
+- Zing Zap  
+
+Lilligant-Hisui @ Choice Scarf  
+Ability: evergreen  
+Shiny: Yes  
+EVs: 252 HP / 4 Atk / 252 Spe  
+Jolly Nature  
+- Petal Blizzard  
+- Axe Kick  
+- Healing Wish  
+- slushswitch  
+
+Tornadus (M) @ Rose Incense  
+Ability: tempest  
+EVs: 252 SpA / 252 Spe  
+Hasty Nature  
+- Surf  
+- Bleakwind Storm  
+- Torment  
+- turbineturn  
+
+Calyrex-Shadow @ Choice Scarf  
+Ability: Power Spot  
+EVs: 88 HP / 160 SpA / 8 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psycho Boost  
+- Astral Barrage  
+- Dazzling Gleam  
+- Parting Shot  
+
+
+=== [gen6ubers] Cryonetic (Kyurem-White, Ice) ===
+
+Mewtwo @ Ability Shield  
+Ability: psychicpower  
+EVs: 40 HP / 32 Def / 184 SpA / 252 Spe  
+Timid Nature  
+- Stored Power  
+- shadowflame  
+- infernobeam  
+- psychodarts  
+
+Calyrex-Shadow @ Choice Scarf  
+Ability: Power Spot  
+EVs: 88 HP / 160 SpA / 8 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psycho Boost  
+- Astral Barrage  
+- Dazzling Gleam  
+- Parting Shot  
+
+Zacian-Crowned @ Metal Coat  
+Ability: Intrepid Sword  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Sacred Sword  
+- Close Combat  
+- bulletswitch  
+- rentalcharge  
+
+Victreebel (M) @ Lax Incense  
+Ability: hopesprout  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 252 Def / 4 SpD  
+Relaxed Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Dragon Breath  
+- Recover  
+- Parting Shot  
+
+Kyurem-White @ Ice Memory  
+Ability: dragonpower  
+Shiny: Yes  
+Happiness: 251  
+EVs: 4 HP / 252 SpD / 252 Spe  
+Timid Nature  
+- celestialstrike  
+- Freeze-Dry  
+- Aromatic Mist  
+- slushswitch  
+
+Mantine @ White Herb  
+Ability: Water Veil  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 252 Def / 4 Spe  
+Bold Nature  
+- housecleaning  
+- Toxic  
+- Roost  
+- sweetretreat  
+
+
+=== [gen6ubers] Payapa Berry (Porygon, Dark) ===
+
+Reshiram @ Flame Orb  
+Ability: Turboblaze  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- Blue Flare  
+- Dragon Pulse  
+- Thunder  
+- Flame Charge  
+
+Zacian-Crowned @ Metal Coat  
+Ability: Intrepid Sword  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Sacred Sword  
+- Close Combat  
+- bulletswitch  
+- rentalcharge  
+
+Porygon-Z @ Dark Memory  
+Ability: formatdrive  
+Happiness: 250  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- enigmacharge  
+- memoryblast  
+- Parabolic Charge  
+- mysteryspeed  
+
+Victreebel (M) @ Lax Incense  
+Ability: hopesprout  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 252 Def / 4 SpD  
+Relaxed Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Dragon Breath  
+- Recover  
+- Parting Shot  
+
+Calyrex-Shadow @ Choice Scarf  
+Ability: Power Spot  
+EVs: 88 HP / 160 SpA / 8 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psycho Boost  
+- Astral Barrage  
+- Dazzling Gleam  
+- Parting Shot  
+
+Arceus @ Payapa Berry  
+Ability: omnipotent  
+Happiness: 251  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Photon Geyser  
+- Moongeist Beam  
+- infinitevelocity  
+- heavenlymist  
 
 

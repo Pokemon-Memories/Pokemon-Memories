@@ -1,6 +1,6 @@
 Offensive Stats over 300
 
-Attack (72 Total)
+Attack (73 Total)
 
 Mega Mewtwo X: 450
 Deoxys Attack: 405
@@ -19,6 +19,7 @@ Calyrex Ice: 350
 Mimikyu-Busted: 350
 Buzzwole: 339
 Ultra Necrozma: 337
+Mega Blaziken: 335
 Mewtwo: 335
 Melmetal: 333
 Mega Latios: 330
@@ -67,10 +68,10 @@ Darmanitan-Galar: 300
 Golurk: 300
 Kyurem-Black: 300
 Mega Aggron: 300
-Mega Blaziken: 300
 Mega Scizor: 300
 Regigigas: 300
 Terrakion: 300
+Zacian: 300
 Zapdos-Galar: 300
 
 Special Attack (61 Total)
@@ -87,6 +88,7 @@ Arceus Psychic: 350
 Calyrex Shadow: 350
 Mega Mewtwo X: 340
 Mewtwo: 338
+Mega Blaziken: 335
 Ultra Necrozma: 333
 Xurkitree: 333
 Tapu Lele: 330
@@ -130,7 +132,6 @@ Arceus: 300
 Darkrai: 300
 Darmanitan-Galar-Zen: 300
 Kyurem White: 300
-Mega Blaziken: 300
 Mimikyu-Busted: 300
 Moltres-Galar: 300
 Rotom Fan: 300
