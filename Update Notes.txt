@@ -1,7 +1,145 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v1.9.8
+General
+- Animations
+	- The following Moves have received modified Animations: "Glacial Strike", "Psychic Wind", "Psycho Rush"
+- Terminology
+	- Healing Feather renamed to Healing Wing
+
+Formats
+- Universal
+	- The Clause preventing Kyurem-Black/Kyurem-White from occupying the same Team has been removed, allowing multiple of these Pokemon to be used in Formats where Forme Clause or Species Clause are not in effect
+- Balanced Hackmons
+	- Corrected an oversight where Ultra Assist was not banned
+- Unlimited BH
+	- General
+		- Added a Description to the Changelog to help explain the defining characteristics of the Tier
+	- Banlist Additions
+		- Dimension Break
+
+Abilities
+- Delta Stream
+	- Additional Effect: Extreme Speed becomes a Dragon-Type Move, and has x1.5 Base Power
+- Dual Wielder
+	- Corrected an error where this Ability was unable to detect a Pokemon's Base-STAB, and would therefore fail to activate if the user was not memorized (e.g. An Electric-Type Pokemon could only activate it by memorizing into an Electric-Type. If it was not memorized, there would be no effect, and if it memorized into another Type, that Type would receive the effect, but not the Pokemon's Electric-Type Moves)
+- Mischievous
+	- Implemented
+	- Effect: Attempts to forcibly switch this Ability's user into a random Ally at the end of each Active Turn. Prevents the Pokemon from utilizing any Healing Moves
+- Psycho Force
+	- Additional Effect: Being Burned does not affect this Pokemon's Attacking Power
+	- Additional Moves with increased Base Power
+		- Psystrike: 50% Base Power Increase
+	- Additional Supercharged Moves
+		- Aerial Ace -> Sky Attack
+		- Leaf Blade -> Power Whip
+		- Thunder Punch -> Wild Charge
+- Pastel Veil
+	- Effect: Halves the damage taken from Sound-Based attacks, and Foul Play -> Halves the Power of opposing Choice-Locked Pokemon, or Pokemon with Boosts in the Stat they are attacking in
+- Progenitor
+	- Implemented
+	- Effect: Pokemon receives STAB on all of its Moves. Pokemon gains a Resistance corresponding to the Type of the Move in its first Moveslot. If the Pokemon has a fourth Move, and that Move is a Status-Move, the Pokemon's Type(s) will change to match the Type of the Move in its first Moveslot.
+- Psychosis
+	- Implemented
+	- Effect: Pokemon's Psychic-Type Moves have x1.3 Base Power
+- Space Power
+	- Now activates the Nature-Based Boosts for Eternatus-Eternamax, as well
+- Tough Claws
+	- Now boosts the Power of Tactile Moves
+
+Items
+- Room Service
+	- Corrected an oversight where ???-Type Moves were boosted by this Item
+- Soul Dew
+	- Compatible Users Additions
+		- Mew
+
+Mechanics
+- Ultra Assist
+	- EX Assist Fields
+		- EX Calyrex-Shadow
+			- Now immediately activates for Calyrex-Shadow, rather than requiring it to Switch back in
+		- EX Darkrai
+			- Now only activates once
+
+Moves
+- Psycho Buster
+	- Now becomes a Special Move if the Pokemon's SpA is higher
+	- Bypasses the Psychic-Type Resistance (but not for opposing Mega Mewtwo X)
+- Shadow Flame
+	- Now classified as a Tactile Move instead of a Contact Move
+- Shadow Rush
+	- Implemented
+	- Base Power: 100
+	- Accuracy: 100
+	- Category: Physical (Special if the Pokemon's Special Attack is higher)
+	- Contact: Tactile
+	- Effect: Raises the user's Speed by 1 stage. Subject to Attrition.
+	- PP: 5
+	- Type: ???
+	- Users: Gengar, Lunala, Mewtwo, Necrozma-Dawn-Wings, Rotom, Spectrier, Zoroark-Hisui
+
+Pokemon
+- Arceus
+	- Corrected an error where Arceus did not learn Leaf Switch, as intended
+- Articuno-Galar
+	- Learnset Additions
+		- House Cleaning
+- Azelf
+	- Abilities
+		- Pragmatic -> Psychosis
+	- Learnset Additions
+		- Aromatic Mist
+	- Learnset Removals
+		- Recover
+- Espeon
+	- Learnset Additions
+		- Aromatic Mist
+- Hoopa-Unbound
+	- Abilities
+		- Pacify -> Mischievous
+- Mew
+	- Base Stats
+		- Hp: 200 -> 230
+		- Atk: 230 -> 260
+		- SpA: 230 -> 260
+	- Learnset Additions
+		- Ember
+		- Diffusion Wave
+		- Healing Wing
+		- Lunar Dance
+		- Tailwind
+- Necrozma-Dawn-Wings
+	- Learnset Additions
+		- House Cleaning
+- Rapidash
+	- Learnset Additions
+		- Aromatic Mist
+		- Shell Smash
+	- Learnset Removals
+		- Express Heal
+- Rapidash-Galar
+	- Learnset Additions
+		- Aromatic Mist
+- Rayquaza
+	- Learnset Additions
+		- Extreme Speed
+	- Learnset Removals
+		- Swords Dance
+- Sableye
+	- Abilities
+		- Pressure -> Prankster
+	- Learnset Additions
+		- House Cleaning
+		- Tailwind
+		- Teleport
+- Vaporeon
+	- Learnset Additions
+		- Aqua Jet
+		- Aromatic Mist
+
 Pokemon Memories v1.9.7
-- General
+General
 - Animations
 	- The following Moves have received Animations: "Frigid Blast", "Psycho Buster", "Photon Hands", "Rampage"
 	- Formatting

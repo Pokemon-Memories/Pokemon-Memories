@@ -122,22 +122,23 @@ S-Tier (7 Total)
 S
 Mewtwo
 Arceus
-Zacian-Crowned
 
 S-
+Zacian-Crowned
 Eternatus (A; Dragon Memory + SpA-Positive Nature)
-Calyrex-Shadow (S-; Ghost Memory/Fairy Memory)
-Zekrom
 Tornadus
+Heatran
+Calyrex-Shadow (A+; Ghost Memory/Fairy Memory)
 
-A-Tier (27 Total)
+A-Tier (26 Total)
 
 A+
+Zekrom
+Porygon-Z (A-; Dark Memory)
 Lilligant-Hisui
 Calyrex-Ice
 Ho-Oh (A-; Dragon Memory + Regenerator)
 Lunala
-Heatran
 Meowscarada
 
 A
@@ -158,15 +159,13 @@ Kyurem-Black
 Victreebel
 Sandslash-Alola
 Arceus-Electric
-Porygon-Z
 Lugia
 Azumarill
-Arceus-Water
+Reshiram
 Meowth (B; Dubious Disc)
-Marshadow (A-; Fighting Memory)
 
 
-B-Tier (91 Total)
+B-Tier (92 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
@@ -174,6 +173,7 @@ Amoonguss
 Arcanine-Hisui
 Arceus-Dark
 Arceus-Fire
+Arceus-Water
 Carracosta
 Cresselia
 Dialga
@@ -234,6 +234,7 @@ Jellicent
 Klinklang
 Landorus-Incarnate
 Ludicolo
+Marshadow
 Mesprit
 Moltres-Galar
 Pikachu-Alola
@@ -261,7 +262,6 @@ Gyarados-Mega
 Hoopa Unbound
 Minun
 Rapidash-Galar
-Reshiram
 Zarude
 Zygarde
 Zygarde-Complete

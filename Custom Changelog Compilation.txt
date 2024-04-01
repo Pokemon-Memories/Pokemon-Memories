@@ -47,6 +47,7 @@ Section E
 			• Super Moves
 			• Superstatus Moves
 			• Beast Abilities
+			• Type-Breaking Moves
 		• Special Move Interactions
 Section F
 	• List of Affected Moves
@@ -507,6 +508,7 @@ Mega Lopunny: 			BST: 1330
 Carracosta: 			BST: 1328
 Arcanine: 			BST: 1325
 Arcanine-Hisui: 		BST: 1325
+Mew:  				BST: 1320
 Bellsprout: 			BST: 1304
 Pikachu Alola: 			BST: 1304
 Pikachu Original: 		BST: 1304
@@ -541,6 +543,7 @@ Mega Latias: 			BST: 1280
 Mega Latios: 			BST: 1280
 Mega Venusaur: 			BST: 1280
 Rapidash-Galar: 		BST: 1280
+Zoroark-Hisui: 			BST: 1275
 Celebi: 			BST: 1270
 Dusknoir: 			BST: 1270
 Ho-Oh: 				BST: 1270
@@ -549,7 +552,6 @@ Lugia: 				BST: 1270
 Zarude-Dada: 			BST: 1270
 Zarude: 			BST: 1270
 Raichu: 			BST: 1264
-Zoroark-Hisui: 			BST: 1262
 Lapras: 			BST: 1260
 Tapu Bulu: 			BST: 1260
 Tapu Fini: 			BST: 1260
@@ -569,7 +571,6 @@ Magearna Original: 		BST: 1240
 Lucario: 			BST: 1235
 Mega Altaria: 			BST: 1235
 Wailord: 			BST: 1235
-Mew:  				BST: 1230
 Zoroark: 			BST: 1230
 Mega Audino: 			BST: 1225
 Mienshao: 			BST: 1225
@@ -1442,8 +1443,9 @@ Retaliate
 Roar
 Scorching Sands
 Shadow Claw
-Shadow Punch
 Shadow Flame
+Shadow Punch
+Shadow Rush
 Shatter Fist
 Shatter Reign
 Shatter Shade
@@ -1502,11 +1504,17 @@ Hightened Mind
 Effect: Multiplies Pokemon's Spe by x1.5, if they lose their held Item; Pokemon's Atk and SpA will also be multiplied by x1.5 each, provided they do not have any boosts in each respective stat. Pokemon cannot use Status Moves. Once activated: This Ability deactivates after the Pokemon successfully K.O.'s two opponents. Pokemon K.O.'d during the turn that this Ability was activated do not count. Incapacitates if the user isn't Mewtwo.
 
 Psycho Force
-Effect: Multiplies damage of both Semi-Effective and Super-Effective Attacks by x1.5. Fairy-Type weakness is ignored, and Pokemon's moves do not make Contact. Poison Jab becomes Supercharged into Gunk Shot. Pokemon's Burst-Moves are always at Full Power. Immunity to having stats lowered under any circumstances. Certain Moves have increased Power. Incapacitates if user isn't Mewtwo.
+Effect: Multiplies damage of both Semi-Effective and Super-Effective Attacks by x1.5. Fairy-Type weakness is ignored, and Pokemon's moves do not make Contact. Supercharges certain Moves. Pokemon's Burst-Moves are always at Full Power. Immunity to having stats lowered under any circumstances. Certain Moves have increased Power. Being Burned does not affect the Pokemon's Attacking Power. Incapacitates if user isn't Mewtwo.
 Moves With Increased Power
 Psycho Buster - 50% Base Power Increase
 Psycho Rush - 165 Base Power
+Psystrike - 50% Base Power Increase
 Photon Hands - Doubled Base Power
+Supercharged Moves
+Aerial Ace -> Sky Attack
+Leaf Blade -> Power Whip
+Poison Jab -> Gunk Shot
+Thunder Punch -> Wild Charge
 --
 
 Psychic Assault
@@ -1969,11 +1977,11 @@ Ability: Run Away/Flash Fire -> Blazing Heat/Memory Armor
 New Moves
 Agility
 Aromatherapy
+Aromatic Mist
 Blazing Velocity
 Dark Pulse
 Double Kick
 Dragon Breath
-Express Heal
 Flame Switch
 Ice Fang
 Liquidation
@@ -1982,6 +1990,7 @@ Mystery Wave
 Sacred Fire
 Shatter Shade
 Shattered Earth
+Shell Smash
 Slush Switch
 Stealth Rock
 Thermal Press
@@ -2033,6 +2042,7 @@ Mystery Wave
 Ice Beam
 Nasty Plot
 Shadow Force
+Shadow Rush
 Shadow Steal
 Shatter Shade
 Sludge Rush
@@ -2357,26 +2367,31 @@ Strange Wave
 U-Turn
 ------------------------------------------------------------------------
 Mew     
-Hp: 100 -> 200 = +100
-Atk: 100 -> 230 = +130
+Hp: 100 -> 230 = +130
+Atk: 100 -> 260 = +160
 Def: 100 -> 200 = +100
-SpA: 100 -> 230 = +130
+SpA: 100 -> 260 = +160
 SpD: 100 -> 200 = +100
 Spe: 100 -> 170 = +70
-BST: 600 -> 1230
-Added Abilities: Protean
+BST: 600 -> 1320
+Added Abilities: Protean/Progenitor
 New Moves
 Aqua Fang
 Aqua Jet
 Aromatic Mist
 Body Press
 Chilling Water
+Close Combat
 Detect
+Diffusion Wave
 Dual Wingbeat
+Ember
+Healing Wing
 Heat Crash
 House Cleaning
 Ice Ball
 Liquidation
+Lunar Dance
 Mind Cleaner
 Mist Ball
 Mystery Bind
@@ -2406,6 +2421,7 @@ Shatter Shot
 Slush Switch
 Spikes
 Strange Wave
+Tailwind
 Thunder Wave
 Uproar
 Water Punch
@@ -2432,6 +2448,9 @@ Return
 Roost
 Sky Drop
 Soft-Boiled
+
+Progenitor (New Ability)
+Effect: Pokemon receives STAB on all of its Moves. Pokemon gains a Resistance corresponding to the Type of the Move in its first Moveslot. If the Pokemon has a fourth Move, and that Move is a Status-Move, the Pokemon's Type(s) will change to match the Type of the Move in its first Moveslot.
 ------------------------------------------------------------------------
 Sudowoodo
 Hp: 70 -> 200 = +100
@@ -2804,7 +2823,7 @@ Spe: 175 -> 175 = +0
 BST: 1095 -> 1130
 Abiltiy: Inner Focus -> Long Reach
 ------------------------------------------------------------------------
-Sableye
+Sableye    
 Hp: 50 -> 130 = +80
 Atk: 75 -> 125 = +50
 Def: 75 -> 285 = +210
@@ -2812,20 +2831,22 @@ SpA: 65 -> 95 = +30
 SpD: 65 -> 215 = +150
 Spe: 50 -> 50 = +0
 BST: 380 -> 900
-Ability 1: Keen Eye -> Pacify
-Ability 2: Stall -> Steadfast
+Abilities: Keen Eye/Stall -> Pacify/Regenerator
 New Moves
+Body Press
+Fake Out
+Gyro Ball
+House Cleaning
+Iron Head
+Lash Out
 Milk Drink
-Poltergeist
+Mystery Bind
 Mystery Slash
 Mystery Wave
-Mystery Bind
+Poltergeist
 Spiky Shield
-Lash Out
-Body Press
-Iron Head
-Gyro Ball
-Fake Out
+Tailwind
+Teleport
 Withdraw
 
 Unlearned
@@ -3182,6 +3203,7 @@ Counter
 Cross Poison
 Dragon Jaw
 Dragon Lunge
+Extreme Speed
 Frosty Glide
 Hurricane
 Hyper Drill
@@ -3207,6 +3229,9 @@ Venoshock
 Water Pulse
 Waterfall
 Whirlpool
+
+Unlearned Moves
+Swords Dance
 
 Mega Rayquaza (Anything Goes)
 Hp: 160 -> 160 = +0
@@ -3767,6 +3792,7 @@ Poltergeist
 Razor Leaf
 Recover
 Rising Voltage
+Shadow Rush
 Shatter Shade
 Stealth Rock
 Steel Wing
@@ -5236,6 +5262,7 @@ Rapid Spin
 Roost
 Sandsear Storm
 Shadow Ball
+Shattered Earth
 Swords Dance
 Tailwind
 Turbine Turn
@@ -6205,7 +6232,7 @@ Feather Dance
 Flame Switch
 Heal Bell
 Heal Block
-Healing Feather
+Healing Wing
 Royal Turbulence
 Shatter Reign
 Shatter Shot
@@ -6942,6 +6969,7 @@ Diffusion Wave
 Echoed Voice
 Express Heal
 Haze
+House Cleaning
 Howl
 Mind Cleaner
 Nasty Plot
@@ -6951,6 +6979,7 @@ Psycho Fire
 Recover
 Roar
 Royal Turbulence
+Shadow Rush
 Sludge Switch
 Teleport
 
@@ -7103,6 +7132,7 @@ Psycho Fire
 Purifying Water
 Rain Dance
 Shadow Flame
+Shadow Rush
 Shadow Steal
 Sludge Switch
 Spooky Revenge
@@ -7401,7 +7431,7 @@ Recover
 Solar Beam
 
 Space Power (New Ability)
-Effect: Pokemon does not receive status conditions from Flame Orb, Toxic Orb, Light Ball, or Snowball; Immunity to Paralysis Damage. Pokemon's Damage-Dealing Moves bypass the opposing Pokemon's Abilities
+Effect: Pokemon does not receive status conditions from Flame Orb, Toxic Orb, Light Ball, or Snowball; Immunity to Paralysis Damage. Pokemon's Damage-Dealing Moves bypass the opposing Pokemon's Abilities. If the Pokemon is either Memorized, or is Eternatus-Eternamax, they will receive a Boost in their Stats, depending on their Nature
 
 Eternamax Eternatus (Anything Goes)
 Hp: 250 -> 400 = +150
@@ -7548,6 +7578,7 @@ Spe: 65 -> 164 = +99
 BST: 525 -> 1052
 Added Ability: Utility Lock
 New Moves
+Aqua Jet
 Chilling Water
 Ethereal Stream
 Stealth Rock
@@ -7578,9 +7609,10 @@ Spe: 110 -> 160 = +50
 BST: 525 -> 1052
 Added Ability: Regenerator
 New Moves
-Will-O-Wisp
-Teleport
+Aromatic Mist
 Glare
+Teleport
+Will-O-Wisp
 Wish
 --
 Umbreon   
@@ -8051,9 +8083,10 @@ SpA: 125 -> 285 = +160
 SpD: 70 -> 167 = +97
 Spe: 115 -> 183 = +68
 BST: 580 -> 1290
-Added Ability: Utility Lock/Antipathy/Pragmatic
+Added Ability: Utility Lock/Antipathy/Psychosis
 New Moves
 Agility
+Aromatic Mist
 Fire Blast
 Flip Turn
 Focus Blast
@@ -8072,10 +8105,12 @@ Psychic Wind
 Psycho Boost
 Psycho Fire
 Rapid Spin
-Recover
 Slush Switch
 Swords Dance
 Thunder
+
+Psychosis (New Ability)
+Effect: Pokemon's Psychic-Type Moves have x1.3 Base Power
 ------------------------------------------------------------------------
 Feraligatr
 Hp: 85 -> 145 = +60
@@ -8854,6 +8889,7 @@ Added Ability: Frosty Veil
 New Moves
 Aeroblast
 Aurora Beam
+House Cleaning
 Psycho Fire
 Rapid Spin
 Roost
@@ -8924,6 +8960,7 @@ BST: 500 -> 1180
 Ability: Anticipation -> Luminous Power
 New Moves
 Aromatherapy
+Aromatic Mist
 Aurora Beam
 Bubble
 Close Combat
@@ -8954,7 +8991,7 @@ Unlearned
 Morning Sun
 
 Pastel Veil
-Effect: Protects Team from Poison, and cures Poisoned allies -> Halves the damage taken from Sound-Based attacks, and Foul Play.
+Effect: Protects Team from Poison, and cures Poisoned allies -> Halves the Power of opposing Choice-Locked Pokemon, or Pokemon with Boosts in the Stat they are attacking in
 ------------------------------------------------------------------------
 Mienshao
 Hp: 65 -> 235 = +170
@@ -9106,11 +9143,11 @@ Withdraw
 Zoroark Hisui   
 Hp: 55 -> 165 = +110
 Atk: 100 -> 295 = +195
-Def: 60 -> 150 = +90
+Def: 60 -> 155 = +95
 SpA: 125 -> 295 = +170
 SpD: 60 -> 180 = +120
-Spe: 110 -> 177 = +67
-BST: 600 -> 1262
+Spe: 110 -> 185 = +67
+BST: 600 -> 1275
 Added Ability: Tough Claws/Frost Aura
 New Moves
 Agility
@@ -9127,6 +9164,7 @@ Psychic Storm
 Psycho Fire
 Rapid Spin
 Shadow Flame
+Shadow Rush
 Slush Switch
 Stealth Rock
 Snow Rush
@@ -9213,7 +9251,10 @@ SpA: 270 -> 370 = +100
 SpD: 240 -> 180 = -60
 Spe: 140 -> 162 = +22
 BST: 1290 -> 1400
-Added Abilities: Beast Boost/Pacify
+Added Abilities: Beast Boost/Mischievous
+
+Mischievous (New Ability)
+Effect: Attempts to forcibly switch this Ability's user into a random Ally at the end of each Active Turn. Prevents the Pokemon from utilizing any Healing Moves
 ------------------------------------------------------------------------
 Spiritomb    
 Hp: 50 -> 180 = +130
@@ -9317,7 +9358,7 @@ Added Abilities: Shadow Tag
 All Unown Letter Variants/Forms/Formes are now playable
 New Moves
 Comeuppance
-Healing Feather
+Healing Wing
 House Cleaning
 Lunar Dance
 Memento
@@ -9640,7 +9681,7 @@ Double Team
 Nuzzle
 
 Dual Wielder (New Ability)
-Effect: Pokemon's Resisted STAB-Moves have quadrupled power; If the Pokemon is Memorized, their Memory-STAB and their Original-STAB will receive this effect; Does not override Resistances
+Effect: Pokemon's Resisted STAB-Moves have quadrupled power; When the Pokemon is Memorized, their Memory-STAB and their Original-STAB will receive this effect; Does not override Resistances
 --------------------------------------------------------------------------
 Reuniclus   
 Hp: 110 -> 190 = +80
@@ -9772,6 +9813,7 @@ SpD: 110 -> 160 = +50
 Spe: 30 -> 180 = +150
 BST: 580 -> 1200
 New Moves
+Frost Step
 House Cleaning
 Memory Blast
 Powder Snow
@@ -9810,6 +9852,7 @@ Defog
 House Cleaning
 Memory Blast
 Nightmare
+Shadow Rush
 Spectral Ball
 Substitute
 Uproar
@@ -9971,11 +10014,13 @@ Banlist
 	- Rayquaza-Mega
 
 Balanced Hackmons   
+Description: Balanced Hackmons is a Format where most of the rules are relaxed, allowing Pokemon to be pushed to their near-limits. Unlimited BH is similar to what Anything Goes is to Ubers, allowing for a larger (although not unlimited) selection of Pokemon, Moves, and Abilities to be used. For instance, Ultra Assist is banned in "Standard" BH, but is usable in Unlimited BH. Additionally, certain Pokemon, such as the Mega Mewtwo Formes, are playable.
 Ruleset
 - Assist Clause: Only one Assist Drive is allowed per Team*
 - Compound Clause: No more than two Memory Discs are allowed on a Team*
 - Memory Ability Clause: Pokemon must be Memorized to use Memory Abilities
-- Paralysis Clause Mod: Only one opposing Pokemon can be Paralyzed at any given time
+- Paralysis Clause Mod: Only one opposing Pokemon can be Paralyzed at any given time*
+- Sleep Clause: Only one opposing Pokemon can be put to Sleep at any given time
 - Stacking Clause: Teams cannot run a Memory Disc and Assist Drive concurrently*
 
 Banlist
@@ -10026,8 +10071,8 @@ Moves
 	- Substitute
 	- Tail Glow
 - Overdrives
-	- Critical Striker
-	- Rule Breaker
+	- Critical Striker*
+	- Rule Breaker*
 Pokemon
 	- Eternatus-Eternamax*
 	- Deoxys-Attack*
@@ -10444,7 +10489,7 @@ EX-Cresselia
 Effect: Opposing Super-Effective Dark-Type and Ghost-Type attacks become Resisted hits
 
 EX-Darkrai
-Effect: Opposing Pokemon become Drowsy upon successfully fainting any Pokemon on the Ally's Team
+Effect: Opposing Pokemon become Drowsy upon successfully fainting any Pokemon on the Ally's Team. Single Use
 
 EX-Eternatus
 Effect: Pokemon can no longer be hit Super-Effectively by opposing Ground-Type or Psychic-Type Moves
@@ -10676,6 +10721,7 @@ Rising Power: Threshold: +1 Atk; Attrition: +1 Atk -> __
 Rock Polish: Threshold: +2 Spe; Attrition: +2 Spe -> __
 Royal Rampage: Threshold: +1 Spe; Attrition: +1 Spe -> __
 Scale Shot: Threshold: +1 Spe; Attrition: -1 Def/+1 Spe -> __
+Shadow Rush: Threshold: +1 Spe; Attrition: +1 Spe -> __
 Shift Gear: Threshold: +1 Atk/+2 Spe; Attrition: +1 SpA/+2 Spe -> __/+2 Spe
 Skull Bash: Threshold: +1 Atk; Attrition: +1 Atk -> __
 Sludge Rush: Threshold: +1 Spe; Attrition: +1 Spe -> __
@@ -10717,6 +10763,7 @@ Increment Moves
 Description: Attacking moves that increase in power by a linear amount, depending on certain conditions
 Force Palm
 Psychic Infinity
+Psycho Buster
 Psystrike
 Punishment
 
@@ -10773,6 +10820,13 @@ Description: The Abilities belonging to the Three Legendary Beasts: Entei, Raiko
 Burning Beast
 Thunderous Beast
 Torrential Beast
+
+Type-Breaking Moves    
+Description: Moves that bypass Effectiveness-Modifying Abilities. Note that Memory Abilities, and Abilities which grant Immunities are unaffected by these Moves
+Comeuppance
+Affected Abilities: Deep Sea, Evergreen, Light Inversion, Power of Alchemy, Psycho Force, Ultra Shell, Water Veil
+Unaffected Abilities: Empyrean Blaze, Dyslexia, Full Bloom, Progenitor, Unseen Fist, Victory Star*, Weather Guard
+* Has Effectiveness-Modifying Properties as a byproduct of Memorization
 ------------------------------------------------------------------------
 Special Move Interactions
 Description: Certain moves may have special properties that are not directly connected to a particular Item or Ability
@@ -12313,7 +12367,7 @@ Head Smash
 Base Power: 150 -> 170
 Recoil: 1/2 -> 1/3
 --
-Healing Feather (New Move)
+Healing Wing (New Move)
 Base Power: __
 Accuracy: true
 Category: Status
@@ -13295,6 +13349,19 @@ Accuracy: 90
 Penalty: -2 SpA -> 1/5 Recoil
 PP: 10 -> 5
 --
+Psycho Buster (New Move)
+Base Power: 150
+Accuracy: true
+Category: Varies (Physical by default, Special if attack stat is higher)
+Priority: +0
+Contact: No
+Effect: Targets the opponent's Special Defense Stat; Base Power increases by 50 for each of the opponent's stat boosts; Hits Psychic-Types Neutrally (Mega Mewtwo X is not subject to this particular effect)
+Power Ceiling: 500 BP
+Conditions: Can only be used by Mewtwo or its Mega Evolutions
+PP: 5
+Target: Normal
+Type: Psychic
+--
 Psycho Darts (New Move)
 Base Power: 100
 Accuracy: 100
@@ -13342,10 +13409,11 @@ Type: Psychic
 Psyshock
 Base Power: 80 -> 130
 --
-Psystrike
+Psystrike   
 Base Power: 100 -> 150
 Category: Varies (Special by default, Physical if attack stat is higher)
-Effect: Base Power increases by 50 for each of the opponent's stat boosts; Hits Psychic-Types Neutrally (Does not work against Mega Mewtwo X)
+Effect: Base Power increases by 50 for each of the opponent's stat boosts; Hits Psychic-Types Neutrally (Mega Mewtwo X is not subject to this particular effect)
+Conditions: This Move can only be used by Mewtwo or its Mega Evolutions
 Power Ceiling: 500 BP
 --
 Punishment
@@ -13831,9 +13899,20 @@ Base Power: 140
 Accuracy: 100
 Category: Varies (Physical by Default; Special, if SpA is higher)
 Priority: +0
-Contact: Yes
+Contact: No
 Effect: Hits opposing Steel-Type Pokemon Super-Effectively
 PP: 10
+Target: Normal
+Type: Ghost
+--
+Shadow Rush (New Move)
+Base Power: 100
+Accuracy: 100
+Category: Physical (Special if the Pokemon's Special Attack is higher)
+Priority: +0
+Contact: Tactile
+Effect: Raises the Pokemon's Speed Stat by 1 Stage.
+PP: 5
 Target: Normal
 Type: Ghost
 --
@@ -14863,6 +14942,9 @@ Effect: Pokemon's Dragon-Type, and Ground-Type Moves have x1.2 Base Power when t
 Dragon Heart
 Effect: Halves the damage of opposing Physical Attacks when above 1/2 Max Hp.
 --
+Dual Wielder    
+Effect: Pokemon's Resisted STAB-Moves have quadrupled power; When the Pokemon is Memorized, their Memory-STAB and their Original-STAB will receive this effect; Does not override Resistances
+--
 Dyslexia
 Effect: Pokemon's Weaknesses and Resistances become inverted.
 ------------------------------------------------------------------------
@@ -15028,7 +15110,7 @@ Parental Bond
 Does not affect moves that deal set amounts of Damage.
 --
 Pastel Veil
-Effect: Protects Team from Poison, and cures Poisoned allies -> Halves the damage taken from Sound-Based attacks, and Foul Play.
+Effect: Protects Team from Poison, and cures Poisoned allies -> Halves the Power of opposing Choice-Locked Pokemon, or Pokemon with Boosts in the Stat they are attacking in.
 --
 Perfect Sword
 Effect: Multiplies the power of "Sword" moves by x1.5.
@@ -15070,6 +15152,9 @@ Additional Effect: Pokemon cannot be Paralyzed, and will be cured of Paralysis i
 --
 Propeller
 Effect: Pokemon's Flying-Type attacks have x2 power when at Max Hp.
+--
+Psychosis   
+Effect: Pokemon's Psychic-Type Moves have x1.3 Base Power
 ------------------------------------------------------------------------
 Category: Q 
 --
@@ -15240,11 +15325,17 @@ Hightened Mind
 Effect: Multiplies Pokemon's Spe by x1.5, if they lose their held Item; Pokemon's Atk and SpA will also be multiplied by x1.5 each, provided they do not have any boosts in each respective stat. Pokemon cannot use Status Moves. Once activated: This Ability deactivates after the Pokemon successfully K.O.'s two opponents. Pokemon K.O.'d during the turn that this Ability was activated do not count. Incapacitates if the user isn't Mewtwo.
 --
 Psycho Force   
-Effect: Multiplies damage of both Semi-Effective and Super-Effective Attacks by x1.5. Fairy-Type weakness is ignored, and Pokemon's moves do not make Contact. Pokemon's Burst-Moves are always at Full Power. Immunity to having stats lowered under any circumstances. Ignores Mold Breaker. Incapacitates if user isn't Mewtwo.
+Effect: Multiplies damage of both Semi-Effective and Super-Effective Attacks by x1.5. Fairy-Type weakness is ignored, and Pokemon's moves do not make Contact. Supercharges certain Moves. Pokemon's Burst-Moves are always at Full Power. Immunity to having stats lowered under any circumstances. Certain Moves have increased Power. Being Burned does not affect the Pokemon's Attacking Power. Incapacitates if user isn't Mewtwo.
 Moves With Increased Power
 Psycho Buster - 50% Base Power Increase
 Psycho Rush - 165 Base Power
+Psystrike - 50% Base Power Increase
 Photon Hands - Doubled Base Power
+Supercharged Moves
+Aerial Ace -> Sky Attack
+Leaf Blade -> Power Whip
+Poison Jab -> Gunk Shot
+Thunder Punch -> Wild Charge
 --
 Psychic Assault
 Effect: Multiplies the power of non-burst moves with a Base Power equal or lesser than 140 by x1.5. Psystrike, and Scalar-Moves receive the Power Boost, regardless of their Base Power. Multiplies User's Attack Stat by x1.5. Pokemon's Burst-Moves are always at Full Power. Immunity to having stats lowered by the opponent. Incapacitates if user isn't Mewtwo.
@@ -15348,7 +15439,7 @@ Effect: Alternates between Meloetta-Aria and Meloetta-Pirouette depending on the
 Category: Eternatus Exclusive Abilities
 --
 Space Power 
-Effect: Pokemon does not receive status conditions from Flame Orb, Toxic Orb, Light Ball, or Snowball; Immunity to Paralysis Damage. Pokemon's Damage-Dealing Moves bypass the opposing Pokemon's Abilities
+Effect: Pokemon does not receive status conditions from Flame Orb, Toxic Orb, Light Ball, or Snowball; Immunity to Paralysis Damage. Pokemon's Damage-Dealing Moves bypass the opposing Pokemon's Abilities. If the Pokemon is either Memorized, or is Eternatus-Eternamax, they will receive a Boost in their Stats, depending on their Nature
 ------------------------------------------------------------------------
 Category: Eternal Floette Exclusive Abilities
 --
@@ -15500,6 +15591,21 @@ Category: Heatran Exclusive Abilities
 --
 Battle Bastion    
 Effect: Pokemon gains immunity to opposing Ground-Type Moves, and heals 1/4 of its Max Hp when they are used against it; Prevents the opponent from using Tailwind or Trick Room while this Pokemon is active
+----------------------------------------------------------------------------------
+Category: Rayquaza Exclusive Abilities
+--
+Delta Stream           
+Additional Effect: Extreme Speed becomes a Dragon-Type Move and receives a x1.2 Base Power Boost
+-----------------------------------------------------------------------------------
+Category: Mew Exclusive Abilities
+--
+Progenitor    
+Effect: Pokemon receives STAB on all of its Moves. Pokemon gains a Resistance corresponding to the Type of the Move in its first Moveslot. If the Pokemon has a fourth Move, and that Move is a Status-Move, the Pokemon's Type(s) will change to match the Type of the Move in its first Moveslot.
+------------------------------------------------------------------------------------
+Category: Hoopa Exclusive Abilities
+--
+Mischievous     
+Effect: Attempts to forcibly switch this Ability's user into a random Ally at the end of each Active Turn. Prevents the Pokemon from utilizing any Healing Moves
 =========================================================
 Section H  
 Modified Type Interactions  
@@ -15851,7 +15957,8 @@ Effect: Multiplies the damage of Ice-Type Attacks by x1.5; Attempts to Freeze th
 --
 Soul Dew
 Stat Multiplier (SpA, and SpD, for Latios, and Latias): x1.5 -> x1.3
-Additional Effect: Multiplies the Base Power of Mesprit's, Uxie's, and Azelf's attacks by x1.3.
+Additional Effect: Multiplies the Base Power of certain Pokemons' attacks by x1.3.
+Base Power Compatible Users: Azelf, Mesprit, Mew, Uxie
 --
 Starf Berry
 Effect: Raises random stat by 2 stages
