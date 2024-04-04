@@ -117,106 +117,87 @@ Note: Pokemon beneath the A-Tier, are listed alphabetically; Pokemon in the lowe
 
 Viability Rankings
 
-S-Tier (7 Total)
+S-Tier (3 Total)
 
 S
-Mewtwo
 Arceus
+Mewtwo
 
 S-
-Zacian-Crowned
 Eternatus (A; Dragon Memory + SpA-Positive Nature)
-Tornadus
-Heatran
-Calyrex-Shadow (A+; Ghost Memory/Fairy Memory)
 
-A-Tier (26 Total)
+A-Tier (24 Total)
+The Pokemon in this Tier and the following Tiers are listed in Alphabetical Order
 
 A+
-Zekrom
-Porygon-Z (A-; Dark Memory)
+Arcanine-Hisui
+Calyrex-Shadow (A+; Ghost Memory/Fairy Memory)
+Heatran
 Lilligant-Hisui
-Calyrex-Ice
-Ho-Oh (A-; Dragon Memory + Regenerator)
-Lunala
-Meowscarada
+Porygon-Z (A-; Dark Memory)
+Sandslash-Alola
+Tornadus
+Zacian-Crowned
+Zekrom
 
 A
+Dialga
 Mantine
+Mew
 Muk-Alola
 Raikou
-Greninja-Ash
-Lucario-Mega
-Kyogre
-Darkrai
-Deoxys-Attack
-Volcanion
-Necrozma-Dusk-Mane
+Victreebel
 
 A-
-Kyurem-White
+Greninja-Ash
+Ho-Oh (B+; Dragon Memory + Regenerator)
+Kyogre
 Kyurem-Black
-Victreebel
-Sandslash-Alola
-Arceus-Electric
-Lugia
-Azumarill
+Kyurem-White
+Lucario-Mega
+Lunala
+Meowscarada
 Reshiram
-Meowth (B; Dubious Disc)
 
 
-B-Tier (92 Total)
+B-Tier (89 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
 Amoonguss
-Arcanine-Hisui
 Arceus-Dark
+Arceus-Electric
 Arceus-Fire
 Arceus-Water
-Carracosta
-Cresselia
-Dialga
-Empoleon
-Entei
-Garchomp
-Gengar-Mega
-Glastrier
-Gliscor
+Azumarill
+Calyrex-Ice
+Darkrai
+Deoxys-Attack
 Golurk
-Groudon
 Hoopa
+Hoopa Unbound
 Infernape
 Keldeo
 Landorus-Therian
-Lilligant
+Lugia
 Magearna
-Magearna-Original
 Manaphy
-Meloetta
-Meloetta-Pirouette
-Mew
 Mimikyu
 Mimikyu-Busted
 Necrozma-Dawn-Wings
+Necrozma-Dusk-Mane
 Necrozma-Ultra
 Palkia
 Phione
 Pikachu-Original
 Rayquaza
 Porygon2
-Shaymin-Sky
 Spectrier
 Tapu Bulu
 Tapu Fini
 Tapu Koko
 Thundurus
 Thundurus-Therian
-Umbreon
-Urshifu-R
-Urshifu-S
-Yveltal
-Zamazenta-Crowned
 
 B
 Arceus-Fairy
@@ -225,16 +206,17 @@ Arceus-Ghost
 Arceus-Grass
 Arceus-Ground
 Bellsprout
-Corviknight
-Cryogonal
 Darmanitan-Galar-Zen
 Deoxys-Speed
+Entei
 Giratina-Origin
+Gliscor
 Jellicent
 Klinklang
-Landorus-Incarnate
-Ludicolo
 Marshadow
+Meloetta
+Meloetta-Pirouette
+Meowth
 Mesprit
 Moltres-Galar
 Pikachu-Alola
@@ -247,27 +229,37 @@ Sunflora
 Swampert
 Torterra
 Vaporeon
+Volcanion
 Xerneas
+Yveltal
+Zamazenta-Crowned
 Zapdos-Galar
 Zoroark-Hisui
 
 B-
 Arceus-Dragon
+Carracosta
 Celebi
 Darmanitan
 Darmanitan-Galar
 Decidueye
+Gengar-Mega
 Giratina
+Groudon
 Gyarados-Mega
-Hoopa Unbound
+Magearna-Original
 Minun
+Rapidash
 Rapidash-Galar
+Umbreon
+Urshifu-R
+Urshifu-S
 Zarude
 Zygarde
 Zygarde-Complete
 
 
-C-Tier (45 Total)
+C-Tier (56 Total)
 
 C+
 Abomasnow
@@ -278,9 +270,13 @@ Blastoise
 Blastoise-Mega
 Blissey
 Charizard-Mega X
+Cresselia
+Empoleon
+Garchomp
 Gardevoir
 Genesect
 Gengar
+Glastrier
 Dragapult
 Lopunny-Mega
 Emolga
@@ -295,33 +291,41 @@ Rotom-Fan
 Rotom-Frost
 Salamence-Mega
 Sableye-Mega
-Serperior
 Sawsbuck
+Serperior
+Shaymin-Sky
 Snorlax
 Victini
 Weavile
 
 C
+Cryogonal
 Dracozolt
 Glaceon
+Landorus-Incarnate
 Leafeon
+Lilligant
 Naganadel
 Regidrago
 Starmie
 Tapu Lele
+Zamazenta
 Zapdos
 
 C-
 Arctozolt
 Articuno
+Blaziken
+Corviknight
+Ferrothorn
 Gallade
 Gallade-Mega
-Rapidash
+Ludicolo
 Registeel
 Sableye
 
 
-D-Tier (11 Total)
+D-Tier (12 Total)
 
 D+
 Cobalion
@@ -334,6 +338,7 @@ Tyranitar
 D
 Dracovish
 Shaymin
+Zacian
 
 D-
 Chandelure
@@ -341,17 +346,13 @@ Terrakion
 Tyrantrum
 
 
-Unranked (8 Total)
+Unranked (4 Total)
 
 UR
-Blaziken
-Ferrothorn
 Flareon
 Latios
 Mienshao
 Salamence
-Zacian
-Zamazenta
 
 
 						Memorization Ratings

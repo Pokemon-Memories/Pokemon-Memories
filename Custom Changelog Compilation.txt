@@ -2376,30 +2376,39 @@ Spe: 100 -> 170 = +70
 BST: 600 -> 1320
 Added Abilities: Protean/Progenitor
 New Moves
+Aeroblast
 Aqua Fang
 Aqua Jet
 Aromatic Mist
 Body Press
+Calamity Wing
 Chilling Water
 Close Combat
 Detect
 Diffusion Wave
 Dual Wingbeat
 Ember
+Frost Slide
+Frost Step
 Healing Wing
 Heat Crash
+Heavenly Mist
 House Cleaning
 Ice Ball
 Liquidation
 Lunar Dance
+Lunge
 Mind Cleaner
 Mist Ball
 Mystery Bind
 Mystery Slash
 Mystery Sphere
 Mystery Wave
+Parting Shot
+Pollen Puff
 Poltergeist
 Psychic Quake
+Psycho Boost
 Psycho Blitz
 Receiving Strike
 Rising Voltage
@@ -2414,6 +2423,7 @@ Royal Sacrifice
 Royal Shattering
 Royal Snowstorm
 Royal Submersion
+Royal Turbulence
 Royal Voltage
 Scale Shot
 Shadow Steal
@@ -2423,15 +2433,13 @@ Spikes
 Strange Wave
 Tailwind
 Thunder Wave
+Turbine Turn
 Uproar
 Water Punch
 Wave Crash
 Wave Turn
 
 Unlearned Moves
-Acrobatics
-Aerial Ace
-Air Cutter
 Amnesia
 Barrier
 Bounce
@@ -2446,11 +2454,10 @@ Power-Up Punch
 Rest
 Return
 Roost
-Sky Drop
 Soft-Boiled
 
 Progenitor (New Ability)
-Effect: Pokemon receives STAB on all of its Moves. Pokemon gains a Resistance corresponding to the Type of the Move in its first Moveslot. If the Pokemon has a fourth Move, and that Move is a Status-Move, the Pokemon's Type(s) will change to match the Type of the Move in its first Moveslot.
+Effect: Pokemon receives STAB on all of its Moves. Pokemon gains a Resistance corresponding to the Type of the Move in its first Moveslot. If the Pokemon has a Move in its second Moveslot, it will also gain a Resistance to the Type corresponding to that Move. If the Pokemon has a fourth Move, and that Move is a Status-Move, the Pokemon's Type(s) will change to match the Type of the Move in its first Moveslot.
 ------------------------------------------------------------------------
 Sudowoodo
 Hp: 70 -> 200 = +100
@@ -8267,6 +8274,7 @@ Parting Shot
 Roost
 Sweet Retreat
 Withdraw
+Yawn
 ------------------------------------------------------------------------
 Tentacruel         
 Hp: 80 -> 220 = +140
@@ -9254,7 +9262,7 @@ BST: 1290 -> 1400
 Added Abilities: Beast Boost/Mischievous
 
 Mischievous (New Ability)
-Effect: Attempts to forcibly switch this Ability's user into a random Ally at the end of each Active Turn. Prevents the Pokemon from utilizing any Healing Moves
+Effect: Attempts to forcibly switch this Ability's user into a random Ally at the end of each Active Turn. Prevents the Pokemon from utilizing any Healing Moves, or Moves that switch the user out. Pokemon's Moves that attempt to force the opponent out have halved Base Power
 ------------------------------------------------------------------------
 Spiritomb    
 Hp: 50 -> 180 = +130
@@ -9951,6 +9959,7 @@ Banlist
 - Abilities
 	- Amplifier
 	- Illusion
+	- Mischievous
 	- Plant Power
 - Items
 	- Assist Drive
@@ -11435,7 +11444,7 @@ Category: Physical
 Accuracy: 100
 Priority: 0
 Contact: No
-Effect: Doubled power if one of user's allies fainted last turn. Power will not increase, if Pokemon is holding a Choice Scarf. Ignores opponent's stat changes.
+Effect: Doubled power if one of user's allies fainted last turn. Power will not increase if Pokemon is Choice-Locked. Ignores opponent's stat changes.
 Target: Normal
 Type: Ground
 PP: 5
@@ -11546,10 +11555,10 @@ Base Power: 85 -> 135
 --
 Darkest Nightfall (New Move)
 Base Power: 180
-Category: Special
+Category: Special (Physical if the Pokemon's Atk is higher) 
 Accuracy: true
 Contact: No
-Effect: Targets the user's Def stat. Can only be used by Arceus-Dark
+Effect: Targets the opponent's Defense stat. Can only be used by Arceus-Dark
 Priority: +0
 PP: 5
 Target: Normal
@@ -11792,7 +11801,7 @@ Additional Effect: 20% chance to raise Atk per successful hit
 --
 Dynamax Cannon
 Base Power: 100 -> 150
-Secondary Effect: __ -> Raises user's SpA by 1 stage upon successfully fainting an opponent
+Secondary Effect: __ -> Raises user's SpA by 1 stage upon successfully fainting an opponent, if the Pokemon does not have any Positive Speed Stat Changes
 PP: 5 -> 15
 --
 Dynamic Punch   
@@ -12253,7 +12262,7 @@ Target: Normal
 Type: Normal
 --
 Fury Cutter
-Base Power: 40 -> 60
+Base Power: 40 -> 25
 Accuracy: 95 -> 90
 --
 Fury Swipes
@@ -12505,10 +12514,11 @@ Type: Steel
 ID: 622
 --
 Hyperspace Fury
-Base Power: 100 -> 180
+Base Power: 100 -> 150
 Secondary Effect: Lowers user's Def by 1 -> Automatically forces out the first Pokemon that receives damage from this move. Activates once per Switch-In
-Bypasses Protect
-Recoil: 1/10 Damage Inflicted
+Additional Effect: Bypasses Protect
+PP: 5 -> 5 (Static)
+Recoil: 1/8 Damage Inflicted
 --
 Hyperspace Hole
 Base Power: 80 -> 120
@@ -12747,7 +12757,7 @@ Secondary Effect: 100% Speed Lowering Chance -> __
 Priority: 0 -> +1
 --
 Lunge
-Base Power: 80 -> 140
+Base Power: 80 -> 155
 Atk Lowering Chance: 100% -> 20%
 --
 Luster Purge
@@ -13199,6 +13209,10 @@ Poison Chance: 30 -> 50
 Poison Tail
 Base Power: 50 -> 105
 --
+Pollen Puff
+Base Power: 90 -> 130
+Additional Effect: 30% Chance to lower the target's Special Defense Stat by 1
+--
 Poltergeist
 Base Power: 110 -> 90
 Accuracy: 90 -> 100
@@ -13496,7 +13510,7 @@ Category: Physical
 Accuracy: 100
 Priority: 0
 Contact: No
-Effect: Doubled power if one of user's allies fainted last turn. Power will not increase if Pokemon is holding a Choice Scarf. Ignores opponent's stat changes.
+Effect: Doubled power if one of user's allies fainted last turn. Power will not increase if Pokemon is Choice-Locked. Ignores opponent's stat changes.
 Target: Normal
 Type: Dark
 PP: 5
@@ -14090,8 +14104,8 @@ Base Power: 60 -> 100
 Effect: Doubled Power if opponent is Paralyzed
 --
 Signal Beam
-Base Power: 75 -> 130
-Confusion Chance: 10% -> 20%
+Base Power: 75 -> 140
+Confusion Chance: 10%
 --
 Silver Wind
 Base Power: 60 -> 100
@@ -14378,6 +14392,9 @@ Struggle
 Base Power: 50 -> 140
 Recoil: 1/4 Max HP -> 1/2 Max HP
 --
+Struggle Bug
+Base Power: 50 -> 100
+--
 Sucker Punch
 Base Power: 70 -> 80
 Conditions: Opponent must be actionable and make a move -> Always activates as long as the opponent does not switch out
@@ -14597,6 +14614,9 @@ PP: 5
 Target: Normal
 Type: Flying
 --
+Twineedle
+Base Power: 25 -> 65
+--
 Twinkle Tackle
 Base Power: 160
 Accuracy: 100
@@ -14810,7 +14830,7 @@ PP: 30 -> 5
 Category: X 
 --
 X-Scissor
-Base Power: 80 -> 130
+Base Power: 80 -> 150
 ------------------------------------------------------------------------
 Category: Z 
 --
@@ -15600,12 +15620,12 @@ Additional Effect: Extreme Speed becomes a Dragon-Type Move and receives a x1.2 
 Category: Mew Exclusive Abilities
 --
 Progenitor    
-Effect: Pokemon receives STAB on all of its Moves. Pokemon gains a Resistance corresponding to the Type of the Move in its first Moveslot. If the Pokemon has a fourth Move, and that Move is a Status-Move, the Pokemon's Type(s) will change to match the Type of the Move in its first Moveslot.
+Effect: Pokemon receives STAB on all of its Moves. Pokemon gains a Resistance corresponding to the Type of the Move in its first Moveslot. If the Pokemon has a Move in its second Moveslot, it will also gain a Resistance to the Type corresponding to that Move. If the Pokemon has a fourth Move, and that Move is a Status-Move, the Pokemon's Type(s) will change to match the Type of the Move in its first Moveslot.
 ------------------------------------------------------------------------------------
 Category: Hoopa Exclusive Abilities
 --
 Mischievous     
-Effect: Attempts to forcibly switch this Ability's user into a random Ally at the end of each Active Turn. Prevents the Pokemon from utilizing any Healing Moves
+Effect: Attempts to forcibly switch this Ability's user into a random Ally at the end of each Active Turn. Prevents the Pokemon from utilizing any Healing Moves, or Moves that switch the user out. Pokemon's Moves that attempt to force the opponent out have halved Base Power
 =========================================================
 Section H  
 Modified Type Interactions  

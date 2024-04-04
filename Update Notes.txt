@@ -3,13 +3,19 @@ Pokemon Memories Update Notes
 Pokemon Memories v1.9.8
 General
 - Animations
-	- The following Moves have received modified Animations: "Glacial Strike", "Psychic Wind", "Psycho Rush"
+	- The following Moves have received modified Animations: "Compensation", "Darkest Nightfall", "Glacial Strike", "Psychic Wind", "Psycho Rush", "Recompense", "Shadow Ball"
+- Memory Abilities
+	- Super Memory Abilities
+		- These Abilities can now be selected outside of Memorization (e.g. in Custom Games)
 - Terminology
 	- Healing Feather renamed to Healing Wing
 
 Formats
 - Universal
 	- The Clause preventing Kyurem-Black/Kyurem-White from occupying the same Team has been removed, allowing multiple of these Pokemon to be used in Formats where Forme Clause or Species Clause are not in effect
+- Ubers
+	- Banlist Additions
+		- Mischievous
 - Balanced Hackmons
 	- Corrected an oversight where Ultra Assist was not banned
 - Unlimited BH
@@ -25,7 +31,7 @@ Abilities
 	- Corrected an error where this Ability was unable to detect a Pokemon's Base-STAB, and would therefore fail to activate if the user was not memorized (e.g. An Electric-Type Pokemon could only activate it by memorizing into an Electric-Type. If it was not memorized, there would be no effect, and if it memorized into another Type, that Type would receive the effect, but not the Pokemon's Electric-Type Moves)
 - Mischievous
 	- Implemented
-	- Effect: Attempts to forcibly switch this Ability's user into a random Ally at the end of each Active Turn. Prevents the Pokemon from utilizing any Healing Moves
+	- Effect: Attempts to forcibly switch this Ability's user into a random Ally at the end of each Active Turn. Prevents the Pokemon from utilizing any Healing Moves, or Moves that switch the user out. Pokemon's Moves that attempt to force the opponent out have halved Base Power
 - Psycho Force
 	- Additional Effect: Being Burned does not affect this Pokemon's Attacking Power
 	- Additional Moves with increased Base Power
@@ -38,7 +44,7 @@ Abilities
 	- Effect: Halves the damage taken from Sound-Based attacks, and Foul Play -> Halves the Power of opposing Choice-Locked Pokemon, or Pokemon with Boosts in the Stat they are attacking in
 - Progenitor
 	- Implemented
-	- Effect: Pokemon receives STAB on all of its Moves. Pokemon gains a Resistance corresponding to the Type of the Move in its first Moveslot. If the Pokemon has a fourth Move, and that Move is a Status-Move, the Pokemon's Type(s) will change to match the Type of the Move in its first Moveslot.
+	- Effect: Pokemon receives STAB on all of its Moves. Pokemon gains a Resistance corresponding to the Type of the Move in its first Moveslot. If the Pokemon has a Move in its second Moveslot, it will also gain a Resistance to the Type corresponding to that Move. If the Pokemon has a fourth Move, and that Move is a Status-Move, the Pokemon's Type(s) will change to match the Type of the Move in its first Moveslot.
 - Psychosis
 	- Implemented
 	- Effect: Pokemon's Psychic-Type Moves have x1.3 Base Power
@@ -63,9 +69,27 @@ Mechanics
 			- Now only activates once
 
 Moves
+- Compensation
+	- Power will now be preventing from doubling with any Choice Lock, not just from holding a Choice Scarf
+- Darkest Nightfall
+	- Move now becomes Physical if the Pokemon's Attack Stat is higher
+- Dynamax Cannon
+	- No longer imparts a Special Attack Boost if the user has any Positive Speed Stat Changes
+- Fury Cutter
+	- Base Power: 60 -> 25
+- Hyperspace Fury
+	- Base Power: 180 -> 150
+	- Recoil: 1/10 -> 1/8
+	- PP: 5 (Maximum of 8) -> 5 (Static)
+- Lunge
+	- Base Power: 140 -> 155
+- Pollen Puff
+	- Base Power: 90 -> 130
 - Psycho Buster
 	- Now becomes a Special Move if the Pokemon's SpA is higher
 	- Bypasses the Psychic-Type Resistance (but not for opposing Mega Mewtwo X)
+- Recompense
+	- Power will now be preventing from doubling with any Choice Lock, not just from holding a Choice Scarf
 - Shadow Flame
 	- Now classified as a Tactile Move instead of a Contact Move
 - Shadow Rush
@@ -78,10 +102,20 @@ Moves
 	- PP: 5
 	- Type: ???
 	- Users: Gengar, Lunala, Mewtwo, Necrozma-Dawn-Wings, Rotom, Spectrier, Zoroark-Hisui
+- Signal Beam
+	- Base Power: 130 -> 140
+	- Additional Effect: 30% Chance to lower the target's Special Defense Stat by 1
+- Struggle Bug
+	- Base Power: 50 -> 100
+- Twineedle
+	- Base Power: 25 -> 65
+- X-Scissor
+	- Base Power: 130 -> 150
 
 Pokemon
 - Arceus
-	- Corrected an error where Arceus did not learn Leaf Switch, as intended
+	- Learnset
+		- Corrected an error where Arceus did not learn Leaf Switch, as intended
 - Articuno-Galar
 	- Learnset Additions
 		- House Cleaning
@@ -98,17 +132,36 @@ Pokemon
 - Hoopa-Unbound
 	- Abilities
 		- Pacify -> Mischievous
+- Mantine
+	- Learnset Additions
+		- Yawn
 - Mew
 	- Base Stats
 		- Hp: 200 -> 230
 		- Atk: 230 -> 260
 		- SpA: 230 -> 260
 	- Learnset Additions
-		- Ember
+		- Acrobatics
+		- Aerial Ace
+		- Aeroblast
+		- Air Cutter
+		- Calamity Wing
 		- Diffusion Wave
+		- Ember
+		- Frost Slide
+		- Frost Step
 		- Healing Wing
 		- Lunar Dance
+		- Lunge
+		- Parting Shot
+		- Pollen Puff
+		- Psycho Boost
+		- Royal Turbulence
+		- Sky Attack
+		- Sky Drop
+		- Sky Cutter
 		- Tailwind
+		- Turbine Turn
 - Necrozma-Dawn-Wings
 	- Learnset Additions
 		- House Cleaning

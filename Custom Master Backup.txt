@@ -57,7 +57,7 @@ IVs: 30 Atk
 - calamitywing  
 - heavenlymist  
 - Lunar Dance  
-- healingwings  
+- healingwing  
 
 
 === [gen6anythinggoes] Priority Spam (Vaporeon, Atk; Yveltal, Dark) ===
@@ -190,7 +190,7 @@ IVs: 30 SpA
 - Sacred Fire  
 - royalturbulence  
 - Tailwind  
-- healingwings  
+- healingwing  
 
 
 === [gen6anythinggoes] Anti-AG Mewtwo Sqaud (Xerneas, Spe; Kyurem-Black, Dragon) ===
@@ -705,7 +705,7 @@ IVs: 30 Spe
 - Sacred Fire  
 - royalturbulence  
 - Aromatic Mist  
-- healingwings  
+- healingwing  
 
 Arceus-Ground @ Earth Plate  
 Ability: Multitype  
@@ -1023,7 +1023,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Dragon Breath  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Lucario (M) @ Lucarionite  
@@ -1567,7 +1567,7 @@ IVs: 0 Spe
 - Core Enforcer  
 - Spectral Thief  
 - royalnourishment  
-- healingwings  
+- healingwing  
 
 Thundurus-Therian (M) @ Steel Memory  
 Ability: Unseen Fist  
@@ -1598,7 +1598,7 @@ Serious Nature
 - Nature's Madness  
 - heavenlymist  
 - Strength Sap  
-- healingwings  
+- healingwing  
 
 
 === [gen6balancedhackmons] Crashing Waves (Water, ???) ===
@@ -1705,7 +1705,7 @@ Modest Nature
 - Psystrike  
 - Venoshock  
 - heavenlymist  
-- healingwings  
+- healingwing  
 
 Calyrex-Shadow @ Choice Scarf  
 Ability: thunderousbeast  
@@ -1760,7 +1760,7 @@ IVs: 0 Spe
 - Core Enforcer  
 - Spectral Thief  
 - heavenlymist  
-- healingwings  
+- healingwing  
 
 Arceus-Fairy @ Bright Powder  
 Ability: Fur Coat  
@@ -2649,7 +2649,7 @@ IVs: 0 Spe
 - Sacred Fire  
 - Dragon Breath  
 - Aromatic Mist  
-- healingwingss  
+- healingwings  
 
 
 === [gen6ultraassist] Ultra Assist/The Aura is Mine (Hp Assist: Volcanion) ===
@@ -3812,7 +3812,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Calyrex-Shadow @ Choice Scarf  
@@ -3972,7 +3972,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Deoxys-Attack @ Life Orb  
@@ -4122,7 +4122,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 
@@ -4218,7 +4218,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Dragon Breath  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Porygon-Z @ Life Orb  
@@ -4346,7 +4346,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Dragon Breath  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Weavile (M) @ Choice Scarf  
@@ -4396,7 +4396,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Dragon Breath  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Porygon-Z @ Life Orb  
@@ -4465,7 +4465,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Palkia @ Choice Scarf  
@@ -4534,7 +4534,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 
@@ -4584,7 +4584,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Dragon Breath  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Mewtwo @ Adrenaline Orb  
@@ -4615,7 +4615,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Tapu Koko @ Light Ball  
@@ -4691,7 +4691,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Dragon Breath  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Suicune @ Berry Juice  
@@ -4817,7 +4817,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Dragon Breath  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Marshadow @ Life Orb  
@@ -4879,7 +4879,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Dragon Breath  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Dialga @ Sweet Apple  
@@ -4998,7 +4998,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Dragon Breath  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Kyogre @ Sea Incense  
@@ -5116,7 +5116,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Dialga @ Dawn Stone  
@@ -5174,7 +5174,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Arceus @ Payapa Berry  
@@ -5205,7 +5205,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Dragon Breath  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Mewtwo @ Adrenaline Orb  
@@ -5326,7 +5326,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Dragon Breath  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Arceus-Ground @ Earth Plate  
@@ -5404,7 +5404,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Meowscarada (F) @ Lax Incense  
@@ -5464,7 +5464,7 @@ EVs: 252 HP / 4 Atk / 252 Def
 Impish Nature  
 - Sacred Fire  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Weavile (M) @ Choice Scarf  
@@ -5591,7 +5591,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Tapu Koko @ Light Ball  
@@ -5958,7 +5958,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 
@@ -6008,7 +6008,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Eternatus @ Black Sludge  
@@ -6369,7 +6369,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Dragon Breath  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Eternatus @ Prism Scale  
@@ -6598,7 +6598,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Dragon Breath  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Palkia @ Choice Scarf  
@@ -6953,7 +6953,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Arceus-Ice @ Icicle Plate  
@@ -7031,7 +7031,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Dragon Breath  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Calyrex-Shadow @ Choice Scarf  
@@ -7457,7 +7457,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Arceus-Water @ Splash Plate  
@@ -7636,7 +7636,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Gallade @ assistdrive  
@@ -7935,7 +7935,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Vaporeon @ Leftovers  
@@ -7966,7 +7966,7 @@ EVs: 252 HP / 4 Atk / 252 Def
 Impish Nature  
 - Sacred Fire  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Meowscarada (F) @ Lax Incense  
@@ -8047,7 +8047,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Dragon Breath  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Calyrex-Shadow @ Choice Scarf  
@@ -8166,7 +8166,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Bellsprout (M) @ Toxic Orb  
@@ -8216,7 +8216,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Naive Nature  
 - Bolt Strike  
 - Nature's Madness  
-- Shattered Earth  
+- shatteredearth  
 - Volt Switch  
 
 Vaporeon @ Leftovers  
@@ -8235,7 +8235,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Necrozma-Dusk-Mane @ Light Clay  
@@ -8287,7 +8287,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Dragon Breath  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Meowscarada (F) @ Lax Incense  
@@ -8398,7 +8398,7 @@ EVs: 252 HP / 4 Atk / 252 Def
 Impish Nature  
 - Sacred Fire  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Arceus-Ice @ Icicle Plate  
@@ -8526,7 +8526,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Calyrex-Shadow @ Choice Scarf  
@@ -8586,7 +8586,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Palkia @ Choice Scarf  
@@ -8646,7 +8646,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Mewtwo @ Water Memory  
@@ -8686,7 +8686,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Meowscarada (F) @ Lax Incense  
@@ -8785,7 +8785,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 
@@ -8807,7 +8807,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Mewtwo @ Fairy Memory  
@@ -8937,7 +8937,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Arceus @ Enigma Berry  
@@ -9027,7 +9027,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 
@@ -9274,7 +9274,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Necrozma-Dusk-Mane @ Light Clay  
@@ -9392,7 +9392,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Skarmory (M) @ Choice Scarf  
@@ -9556,7 +9556,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Bolt Strike  
 - Nature's Madness  
-- Shattered Earth  
+- shatteredearth  
 - Volt Switch  
 
 Groudon @ Fire Memory  
@@ -9696,7 +9696,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Calyrex-Shadow @ Choice Scarf  
@@ -9804,7 +9804,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 
@@ -9869,7 +9869,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 
@@ -9903,7 +9903,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Skarmory (M) @ Choice Scarf  
@@ -10034,7 +10034,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Bolt Strike  
 - Nature's Madness  
-- Shattered Earth  
+- shatteredearth  
 - Volt Switch  
 
 Landorus-Therian @ Grass Memory  
@@ -10521,7 +10521,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 
@@ -10576,7 +10576,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Meowscarada (F) @ Lax Incense  
@@ -11911,7 +11911,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Bolt Strike  
 - Nature's Madness  
-- Shattered Earth  
+- shatteredearth  
 - Volt Switch  
 
 Vaporeon (F) @ Sitrus Berry  
@@ -12760,7 +12760,7 @@ Happiness: 250
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Bolt Strike  
-- Shattered Earth  
+- shatteredearth  
 - Aeroblast  
 - Volt Switch  
 
@@ -14432,7 +14432,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Palkia @ Choice Scarf  
@@ -14614,7 +14614,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Meloetta @ Throat Spray  
@@ -15106,7 +15106,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Bolt Strike  
 - Aeroblast  
-- Shattered Earth  
+- shatteredearth  
 - Volt Switch  
 
 Porygon-Z @ Ability Shield  
@@ -15127,7 +15127,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Muk-Alola (M) @ Black Sludge  
@@ -16579,7 +16579,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Dragon Breath  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Suicune @ Berry Juice  
@@ -16872,7 +16872,6 @@ IVs: 0 Atk
 
 Arcanine-Hisui (M) @ Flame Orb  
 Ability: empyreanblaze  
-Happiness: 250  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Sacred Fire  
@@ -16892,7 +16891,7 @@ Calm Nature
 
 Dialga @ Ghost Memory  
 Ability: Regenerator  
-Happiness: 253  
+Happiness: 251  
 EVs: 116 HP / 252 Atk / 140 Spe  
 Adamant Nature  
 - memoryblast  
@@ -16973,7 +16972,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Dragon Breath  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Greninja-Ash @ Choice Scarf  
@@ -17441,7 +17440,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Dragon Breath  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Lucario (M) @ Lucarionite  
@@ -18152,7 +18151,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Dragon Breath  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Kyurem-White @ Leftovers  
@@ -18327,7 +18326,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Sandslash-Alola (M) @ Snowball  
@@ -18434,7 +18433,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 
@@ -18457,7 +18456,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Dragon Breath  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Necrozma-Dusk-Mane @ Metal Coat  
@@ -18555,7 +18554,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Kyurem-White @ Leftovers  
@@ -18863,7 +18862,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Raikou @ Choice Scarf  
@@ -19207,7 +19206,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Dragon Breath  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 
@@ -19488,7 +19487,7 @@ EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature  
 - Sacred Fire  
 - Stealth Rock  
-- healingwings  
+- healingwing  
 - Aromatic Mist  
 
 Heatran (M) @ Metal Coat  
@@ -19605,7 +19604,7 @@ Impish Nature
 - royalturbulence  
 - Whirlwind  
 - Aromatic Mist  
-- healingwings  
+- healingwing  
 
 Lugia @ White Herb  
 Ability: deepsea  
@@ -19666,7 +19665,7 @@ Impish Nature
 - royalturbulence  
 - Whirlwind  
 - Aromatic Mist  
-- healingwings  
+- healingwing  
 
 Lilligant-Hisui @ Choice Scarf  
 Ability: evergreen  
@@ -19777,7 +19776,7 @@ Impish Nature
 - royalturbulence  
 - Whirlwind  
 - Aromatic Mist  
-- healingwings  
+- healingwing  
 
 Tornadus (M) @ Rose Incense  
 Ability: tempest  
@@ -20421,16 +20420,16 @@ Timid Nature
 - shadowflame  
 - psychodarts  
 
-Mew @ Soul Dew  
-Ability: progenitor  
+Mantine @ White Herb  
+Ability: Water Veil  
 Shiny: Yes  
 Happiness: 251  
-EVs: 176 HP / 252 Atk / 80 Spe  
-Jolly Nature  
-- royalinversion  
-- Close Combat  
-- royalpunishment  
-- frostyglide  
+EVs: 252 HP / 116 Def / 136 SpD / 4 Spe  
+Calm Nature  
+- housecleaning  
+- Toxic  
+- Roost  
+- sweetretreat  
 
 Arceus @ Occa Berry  
 Ability: omnipotent  
@@ -20452,11 +20451,11 @@ Timid Nature
 - covertswitch  
 
 Landorus-Therian @ Assault Vest  
-Ability: pacify  
+Ability: inveigle  
 Happiness: 253  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Careful Nature  
-- Shattered Earth  
+- shatteredearth  
 - housecleaning  
 - expressheal  
 - turbineturn  
@@ -20467,42 +20466,41 @@ Careful Nature
 Eternatus @ Dragon Memory  
 Ability: spacepower  
 Happiness: 251  
-EVs: 136 SpA / 232 SpD / 140 Spe  
+EVs: 228 HP / 136 SpA / 4 SpD / 140 Spe  
 Modest Nature  
-IVs: 0 Atk  
-- Dynamax Cannon  
+- Eternabeam  
 - Magma Storm  
 - sludgeswitch  
 - Autotomize  
 
-Rapidash (M) @ Ability Shield  
-Ability: blazingheat  
+Victreebel (M) @ Lax Incense  
+Ability: hopesprout  
 Shiny: Yes  
 Happiness: 251  
-EVs: 104 HP / 252 Atk / 140 Def / 12 Spe  
-Adamant Nature  
-- Sacred Fire  
-- Shattered Earth  
-- Wild Charge  
-- Shell Smash  
+EVs: 252 HP / 252 Def / 4 SpD  
+Relaxed Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Dragon Breath  
+- Recover  
+- Parting Shot  
 
-Hoopa-Unbound @ Choice Scarf  
-Ability: mischievous  
-Happiness: 251  
-EVs: 4 HP / 252 Atk / 252 Spe  
-Jolly Nature  
-IVs: 15 Def  
-- Hyperspace Fury  
-- Dynamic Punch  
-- Thunderbolt  
-- psychodarts  
+Calyrex-Shadow @ Choice Scarf  
+Ability: Power Spot  
+EVs: 88 HP / 160 SpA / 8 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psycho Boost  
+- Astral Barrage  
+- Dazzling Gleam  
+- Parting Shot  
 
 Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
 EVs: 40 HP / 32 Def / 184 SpA / 252 Spe  
 Timid Nature  
 - Stored Power  
-- Low Kick  
+- receivingstrike  
 - shadowflame  
 - psychodarts  
 
@@ -20526,5 +20524,196 @@ Bold Nature
 - Toxic  
 - Roost  
 - sweetretreat  
+
+
+=== [gen6ubers] Mew (Mewtwo, Ghost) ===
+
+Mew @ Ability Shield  
+Ability: progenitor  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+- Thunder Wave  
+- royalsubmersion  
+- royalretreat  
+- heavenlymist  
+
+Lilligant-Hisui @ Choice Scarf  
+Ability: evergreen  
+Shiny: Yes  
+EVs: 252 HP / 4 Atk / 252 Spe  
+Jolly Nature  
+- Petal Blizzard  
+- Axe Kick  
+- Healing Wish  
+- slushswitch  
+
+Mewtwo @ Ghost Memory  
+Ability: psychicpower  
+EVs: 40 HP / 32 Def / 184 SpA / 252 Spe  
+Naive Nature  
+- Stored Power  
+- Low Kick  
+- shadowflame  
+- psychicfury  
+
+Calyrex-Shadow @ Choice Scarf  
+Ability: Power Spot  
+EVs: 88 HP / 160 SpA / 8 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psycho Boost  
+- Astral Barrage  
+- Dazzling Gleam  
+- Parting Shot  
+
+Arceus @ Passho Berry  
+Ability: omnipotent  
+Happiness: 251  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- sacredwater  
+- glacialstrike  
+- heavenlymist  
+- royalretreat  
+
+Zacian-Crowned @ Metal Coat  
+Ability: Intrepid Sword  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Sacred Sword  
+- Close Combat  
+- bulletswitch  
+- rentalcharge  
+
+
+=== [gen6ubers] Mew, Too (Mewtwo, Fire) ===
+
+Mewtwo @ Fire Memory  
+Ability: psychicpower  
+EVs: 252 SpA / 252 Spe  
+Naive Nature  
+- infernobeam  
+- psychicstorm  
+- Low Kick  
+- psychicfury  
+
+Mew @ Leftovers  
+Ability: progenitor  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Calm Nature  
+- calamitywing  
+- Psycho Boost  
+- royalretreat  
+- heavenlymist  
+
+Sandslash-Alola (M) @ Snowball  
+Ability: belowfreezing  
+Shiny: Yes  
+Happiness: 250  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- subzerofreeze  
+- battlecry  
+- slushswitch  
+- bulletswitch  
+
+Arceus @ Passho Berry  
+Ability: omnipotent  
+Happiness: 251  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- sacredwater  
+- glacialstrike  
+- heavenlymist  
+- royalretreat  
+
+Calyrex-Shadow @ Choice Scarf  
+Ability: Power Spot  
+EVs: 88 HP / 160 SpA / 8 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psycho Boost  
+- Astral Barrage  
+- Dazzling Gleam  
+- Parting Shot  
+
+Lilligant-Hisui @ Choice Scarf  
+Ability: evergreen  
+Shiny: Yes  
+EVs: 252 HP / 4 Atk / 252 Spe  
+Jolly Nature  
+- Petal Blizzard  
+- Axe Kick  
+- Healing Wish  
+- slushswitch  
+
+
+=== [gen6ubers] Rule Breakers (Dialga, Dark) ===
+
+Arcanine-Hisui (M) @ Flame Orb  
+Ability: empyreanblaze  
+Happiness: 254  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Sacred Fire  
+- Power Gem  
+- flameswitch  
+- Agility  
+
+Dialga @ Dark Memory  
+Ability: Regenerator  
+Happiness: 251  
+EVs: 116 HP / 252 Atk / 140 Spe  
+Adamant Nature  
+- memoryblast  
+- Heat Crash  
+- sweetretreat  
+- Shell Smash  
+
+Arceus @ Passho Berry  
+Ability: omnipotent  
+Happiness: 251  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- sacredwater  
+- glacialstrike  
+- heavenlymist  
+- royalretreat  
+
+Meloetta @ Leftovers  
+Ability: Serene Grace  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+- Echoed Voice  
+- crowdcontrol  
+- Screech  
+- sweetretreat  
+
+Mantine @ White Herb  
+Ability: Water Veil  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 140 Def / 112 SpD / 4 Spe  
+Calm Nature  
+- housecleaning  
+- Toxic  
+- Roost  
+- sweetretreat  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 40 HP / 32 Def / 184 SpA / 252 Spe  
+Naive Nature  
+- Stored Power  
+- receivingstrike  
+- shadowflame  
+- psychodarts  
 
 
