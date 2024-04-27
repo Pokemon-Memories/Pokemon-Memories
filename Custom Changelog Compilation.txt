@@ -630,6 +630,7 @@ Sunflora: 			BST: 1170
 Latios: 			BST: 1170
 Latias: 			BST: 1170
 Camerupt: 			BST: 1170
+Sandslash-Alola: 		BST: 1169
 Mega Swampert: 			BST: 1165
 Zygarde (10 Percent): 		BST: 1165
 Rotom: 				BST: 1165
@@ -967,7 +968,7 @@ Unown: 180
 Zapdos: 180
 Zoroark: 180
 ===============
-Category: 170s (63 Total)
+Category: 170s (64 Total)
 --
 Raichu: 179
 Rotom-Heat: 179
@@ -1032,6 +1033,7 @@ Meloetta: 170
 Mesprit: 170
 Mew: 170
 Mienshao: 170
+Sandslash-Alola: 170
 ===============
 Category: 160s (78 Total)
 --
@@ -2374,7 +2376,7 @@ SpA: 100 -> 260 = +160
 SpD: 100 -> 200 = +100
 Spe: 100 -> 170 = +70
 BST: 600 -> 1320
-Added Abilities: Protean/Progenitor
+Added Abilities: Progenitor
 New Moves
 Aeroblast
 Aqua Fang
@@ -2408,8 +2410,10 @@ Parting Shot
 Pollen Puff
 Poltergeist
 Psychic Quake
+Psychic Storm
 Psycho Boost
 Psycho Blitz
+Psycho Fire
 Receiving Strike
 Rising Voltage
 Royal Eruption
@@ -2431,6 +2435,7 @@ Shatter Shot
 Slush Switch
 Spikes
 Strange Wave
+Sweet Retreat
 Tailwind
 Thunder Wave
 Turbine Turn
@@ -2457,7 +2462,7 @@ Roost
 Soft-Boiled
 
 Progenitor (New Ability)
-Effect: Pokemon receives STAB on all of its Moves. Pokemon gains a Resistance corresponding to the Type of the Move in its first Moveslot. If the Pokemon has a Move in its second Moveslot, it will also gain a Resistance to the Type corresponding to that Move. If the Pokemon has a fourth Move, and that Move is a Status-Move, the Pokemon's Type(s) will change to match the Type of the Move in its first Moveslot.
+Effect: Pokemon receives STAB on all of its Moves. Pokemon gains a Resistance corresponding to the Type of the Move in its first Moveslot. If the Pokemon has a Move in its second Moveslot, it will also gain a Resistance to the Type corresponding to that Move. If the Pokemon has a fourth Move, and that Move is a Status-Move, the Pokemon's Type(s) will change to match the Type of the Move in its first Moveslot. Pokemon cannot use Healing Moves if it has any Positive Stat Boosts, however pivoting moves that heal the Pokemon as a secondary effect can be used regardless.
 ------------------------------------------------------------------------
 Sudowoodo
 Hp: 70 -> 200 = +100
@@ -4025,6 +4030,7 @@ Ability: Telepathy -> Double-Layer
 Added Ability: Distortion Veil
 New Moves
 Ancient Power
+Aromatic Mist
 Autotomize
 Breaking Swipe
 Cosmic Power
@@ -4049,6 +4055,7 @@ Shadow Steal
 Shatter Night
 Shatter Shade
 Slush Switch
+Stealth Rock
 Sweet Retreat
 Swords Dance
 Tailwind
@@ -8550,10 +8557,13 @@ Bolt Strike
 Brave Bird
 Close Combat
 Earth Power
+Electro Strike
 Magnitude
 Moonblast
 Nasty Plot
+Play Rough
 Rental Charge
+Royal Turbulence
 Shatter Beam
 Shattered Earth
 Swords Dance
@@ -9159,12 +9169,16 @@ BST: 600 -> 1275
 Added Ability: Tough Claws/Frost Aura
 New Moves
 Agility
+Covert Switch
 Cross Poison
+Flip Kick
 Force Palm
+Giga Impact
 Hail
 Ice Punch
 Mystery Slash
 Mystery Sphere
+Pay Day
 Poison Jab
 Poltergeist
 Powder Snow
@@ -9762,7 +9776,6 @@ Double Kick
 Howl
 Morning Sun
 Reversal
-Thunder Fang
 Wild Charge
 
 Empyrean Blaze (New Ability)
@@ -9951,7 +9964,7 @@ Ruleset
 - Memory Clause: Only one Memory Disc is allowed per Team*
 - Arceus Clause: Arceus cannot hold a Dubious Disc*
 - Deoxys-Attack Clause: Deoxys-Attack cannot hold a Dubious Disc, or a Fighting Memory*
-- Mewtwo Clause: Mewtwo cannot hold a Fighting Memory, or a Psychic Memory.
+- Mewtwo Clause: Mewtwo cannot hold a Dark Memory, Dubious Disc, Fighting Memory, or a Psychic Memory.
 - Porygon-Z Clause: Porygon-Z cannot hold a Dubious Disc
 - Super Dark Aura Clause: Dark Aura cannot be upgraded into Super Dark Aura
 
@@ -10309,7 +10322,7 @@ Perfect Form
 Effect: Pokemon's Physical-Moves with a Base Power up to 120, have x1.5 Base Power (Priority Moves, Moves with guaranteed Crit Chances, and Super-Moves are not boosted). Physical Scalar Moves are always boosted.; Pokemon's Super-Effective Moves have x1.2 Power.
 --
 Spectral Force
-Effect: Pokemon's Ghost-Type Moves ignore the target's Type-Based immunities; Pokemon restores 1/16 of the Damage inflicted upon the opponent. Pokemon's Damaging-Moves have Mold Breaking Properties.
+Effect: Pokemon's Ghost-Type Moves ignore the target's Type-Based immunities, and hits them Semi-Effectively; Pokemon restores 1/16 of the Damage inflicted upon the opponent. Pokemon's Damaging-Moves have Mold Breaking Properties.
 --
 Strategist
 Effect: Pokemon's Psychic-Type Moves with a Base Power up to 155--or any Special Move with a Base Power up to 120 receive a x1.4 Power Boost. Special Increment and Scalar Moves are always boosted. Pokemon's Burst-Moves, Kinetic-Moves, and Priority Moves cannot be boosted by this ability. 
@@ -11043,6 +11056,9 @@ Arm Thrust
 Base Power: 15 -> 27
 Minimal Hits: 2 -> 3
 --
+Aromatherapy
+Additional Effect: Restores 1/3 of the Pokemon's Max Hp if it does not have any Positive Stat Boosts
+--
 Aromatic Mist
 Effect: Raises Ally's SpD by 1 stage -> Restores 1/2 of user's Hp if they do not have any positive Atk, SpA, or Spe boosts.
 PP: 20 -> 5
@@ -11297,7 +11313,7 @@ Additional Effect: Breaks Protect
 --
 Brutal Swing
 Base Power: 60 -> Varies
-Mechanics: Power depends on user's base special attack.
+Mechanics: Power depends on user's base Special Attack stat.
 Base Power Calculation
 Under 100 = 50 BP
 Above 100 = 70 BP
@@ -12376,6 +12392,11 @@ Head Smash
 Base Power: 150 -> 170
 Recoil: 1/2 -> 1/3
 --
+Heal Bell
+Additional Effect: Allows the user to Switch into an ally of choice
+Priority: 0 -> -3
+PP: 5 -> 4 (Static)
+--
 Healing Wing (New Move)
 Base Power: __
 Accuracy: true
@@ -12559,7 +12580,7 @@ Ice Punch
 Base Power: 75 -> 100
 --
 Ice Shard
-Base Power: 40 -> 50
+Base Power: 40 -> 70
 --
 Ice Spinner
 Base Power: 80 -> 100
@@ -12755,6 +12776,9 @@ Low Sweep
 Base Power: 65 -> 80
 Secondary Effect: 100% Speed Lowering Chance -> __
 Priority: 0 -> +1
+--
+Lunar Dance
+Additional Effect: Raises the receiver's Spe by 1 stage for 2 Turns
 --
 Lunge
 Base Power: 80 -> 155
@@ -14265,7 +14289,7 @@ Sparkling Aria
 Base Power: 90 -> 150
 --
 Sparkling Ice (New Move)
-Base Power: 80
+Base Power: 120
 Accuracy: 100
 Category: Special
 Contact: No
@@ -15620,7 +15644,7 @@ Additional Effect: Extreme Speed becomes a Dragon-Type Move and receives a x1.2 
 Category: Mew Exclusive Abilities
 --
 Progenitor    
-Effect: Pokemon receives STAB on all of its Moves. Pokemon gains a Resistance corresponding to the Type of the Move in its first Moveslot. If the Pokemon has a Move in its second Moveslot, it will also gain a Resistance to the Type corresponding to that Move. If the Pokemon has a fourth Move, and that Move is a Status-Move, the Pokemon's Type(s) will change to match the Type of the Move in its first Moveslot.
+Effect: Pokemon receives STAB on all of its Moves. Pokemon gains a Resistance corresponding to the Type of the Move in its first Moveslot. If the Pokemon has a Move in its second Moveslot, it will also gain a Resistance to the Type corresponding to that Move. If the Pokemon has a fourth Move, and that Move is a Status-Move, the Pokemon's Type(s) will change to match the Type of the Move in its first Moveslot. Pokemon cannot use Healing Moves if it has any Positive Stat Boosts, however pivoting moves that heal the Pokemon as a secondary effect can be used regardless.
 ------------------------------------------------------------------------------------
 Category: Hoopa Exclusive Abilities
 --

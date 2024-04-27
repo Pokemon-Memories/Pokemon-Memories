@@ -1,5 +1,79 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v1.9.9
+General
+- Animations
+	- The following Moves have received modified Animations: "Berserk Blaze", "Sparkling Ice"
+- Bugfixes
+	- Corrected an error where the non-Memory Form of Strategist did not work as intended
+	- Corrected an oversight in Strategist where certain moves could be boosted that were not intended to receive boosts
+
+- Mechanics
+	- Memorization
+		- Memory Abilities
+			- Spectral Force
+				- Handicap: Pokemon's Ghost-Type Attacks are now resisted by opposing Normal-Type Pokemon
+
+Formats
+- Ubers
+	- Ruleset
+		- Banlist Additions
+			- Mewtwo Clause
+				- Mewtwo cannot hold a Dark Memory
+					- Explanation: In a Meta where Teams already have to carefully select most of their Pokemon with "Standard" Mewtwo in mind, Mewtwo-Dark's access to a nigh-"inverted" Defensive Type, devastating STAB options that bypass its Base-Forme's Defensive Answers, powerful Priority to obliterate a number of threats including Base-Mewtwo itself, and one of the best Moves in the game in Uproar, turned Mewtwo-Dark into a nigh-uncounterable Pokemon that could obliterate the majority of the Base-Mewtwo-centered Tier, and force out what few obstacles remained to potentially fish for Matchups that could allow its Team to gain even more momentum. Mewtwo-Dark by itself would already be deserving of a ban-consideration, however its inverted Matchups compared to Standard Mewtwo not only makes them collectively unbeatable, but potentially leaves teams attempting to check both vulnerable to Mewtwo's Teammates, or even other Mewtwo Memory-Formes.
+
+Abilities
+- Progenitor
+	- Penalty: Pokemon can no longer use non-Pivot Healing Moves while they have any Positive Stat Boosts
+
+Items
+- Twisted Spoon
+	- Mewtwo Speed Boost: +2 -> +1
+
+Moves
+- Aromatherapy
+	- Additional Effect: Restores 1/3 of the Pokemon's Max Hp if it does not have any Positive Stat Boosts
+- Heal Bell
+	- Additional Effect: Allows the user to Switch into an ally of choice
+	- Priority: 0 -> -3
+	- PP: 5 -> 4 (Static)
+- Ice Shard
+	- Base Power: 50 -> 70
+- Lunar Dance
+	- Speed Boost: +2 -> +1
+	- Duration: 3 Turns -> 2 Turns
+	- Type: Fairy -> Psychic
+- Sparkling Ice
+	- Base Power: 80 -> 120
+
+
+Pokemon
+- Arcanine-Hisui
+	- Learnset Additions
+		- Thunder Fang
+- Giratina
+	- Learnset Additions
+		- Aromatic Mist
+		- Stealth Rock
+- Mew
+	- Ability Removals
+		- Protean
+	- Learnset Additions
+		- Psychic Storm
+		- Psycho Fire
+		- Sweet Retreat
+- Tapu Koko
+	- Learnset Additions
+		- Bolt Strike
+		- Electro Strike
+		- Play Rough
+		- Royal Turbulence
+- Zoroark-Hisui
+	- Covert Switch
+	- Flip Kick
+	- Giga Impact
+	- Pay Day
+
 Pokemon Memories v1.9.8
 General
 - Animations

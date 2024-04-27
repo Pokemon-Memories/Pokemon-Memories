@@ -1,3 +1,69 @@
+=== [gen6unlimitedmemorizeag] Testing Something (Banned Memories) ===
+
+Mewtwo @ Psychic Memory  
+Ability: psychicpower  
+Happiness: 250  
+EVs: 40 HP / 32 Def / 184 SpA / 252 Spe  
+Timid Nature  
+IVs: 30 Atk  
+- Psystrike  
+- psychofire  
+- Grass Knot  
+- psychodarts  
+
+Mewtwo @ Psychic Memory  
+Ability: psychicpower  
+EVs: 40 HP / 32 Def / 184 SpA / 252 Spe  
+Timid Nature  
+- Psystrike  
+- psychofire  
+- Grass Knot  
+- psychodarts  
+
+Deoxys-Attack @ Dubious Disc  
+Ability: heartless  
+Happiness: 250  
+EVs: 252 Atk / 28 SpA / 228 Spe  
+Naughty Nature  
+- memoryblast  
+- Rock Slide  
+- Extreme Speed  
+- Magma Storm  
+
+Deoxys-Attack @ Dubious Disc  
+Ability: heartless  
+Happiness: 250  
+EVs: 252 Atk / 28 SpA / 228 Spe  
+Naughty Nature  
+- memoryblast  
+- Rock Slide  
+- Extreme Speed  
+- Magma Storm  
+
+Mew @ Leftovers  
+Ability: progenitor  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+- calamitywing  
+- psychofire  
+- royalretreat  
+- heavenlymist  
+
+Victreebel (M) @ Lax Incense  
+Ability: hopesprout  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 252 Def / 4 SpD  
+Relaxed Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Dragon Breath  
+- Recover  
+- Parting Shot  
+
+
 === [gen6unlimitedbh] A Mess (EX-Lugia, Atk; MMX, ???; MMY, Ghost) ===
 
 Mewtwo-Mega-X @ Dubious Disc  
@@ -3762,24 +3828,22 @@ IVs: 0 Atk / 0 Spe
 - Withdraw  
 
 
-=== [gen6ubers] Pokemon Memories (Eternatus, Grass) ===
+=== [gen6ubers] Pokemon Memories (Mewtwo, Dark) ===
 
-Mewtwo @ Adrenaline Orb  
+Mewtwo @ Dark Memory  
 Ability: psychicpower  
-Happiness: 250  
-EVs: 28 HP / 4 Def / 224 SpA / 252 Spe  
+EVs: 40 HP / 32 Def / 184 SpA / 252 Spe  
 Timid Nature  
-- Stored Power  
-- Aurora Beam  
-- Mud Bomb  
-- psychodarts  
+- memoryblast  
+- infernobeam  
+- psychicfury  
+- Uproar  
 
 Necrozma-Dusk-Mane @ Metal Coat  
 Ability: Prism Armor  
-Happiness: 251  
-EVs: 252 HP / 252 Def / 4 SpD  
-Relaxed Nature  
-IVs: 0 Spe  
+Shiny: Yes  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
 - Sunsteel Strike  
 - diffusionwave  
 - Aromatic Mist  
@@ -3787,43 +3851,39 @@ IVs: 0 Spe
 
 Dialga @ Sweet Apple  
 Ability: Regenerator  
-Happiness: 250  
-EVs: 4 HP / 252 Atk / 112 Def / 140 Spe  
+EVs: 116 HP / 252 Atk / 140 Spe  
 Adamant Nature  
-- shatterreign  
-- Earthquake  
+- Breaking Swipe  
 - Heat Crash  
+- Thunder Wave  
 - Shell Smash  
 
-Eternatus @ Grass Memory  
+Eternatus @ Black Sludge  
 Ability: spacepower  
-Happiness: 251  
-EVs: 4 HP / 252 SpA / 252 Spe  
-Modest Nature  
-- Dynamax Cannon  
-- memoryblast  
-- Aromatic Mist  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+- Sludge Bomb  
 - sludgeswitch  
+- housecleaning  
+- Aromatic Mist  
 
 Ho-Oh @ Sweet Apple  
 Ability: Magic Guard  
-Happiness: 251  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Careful Nature  
 - Sacred Fire  
-- Stealth Rock  
-- healingwing  
+- Dragon Breath  
 - Aromatic Mist  
+- healingwing  
 
 Calyrex-Shadow @ Choice Scarf  
 Ability: Power Spot  
-Happiness: 254  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
 - Psycho Boost  
 - Astral Barrage  
-- Dazzling Gleam  
+- Trick  
 - Parting Shot  
 
 
@@ -3864,7 +3924,7 @@ Adamant Nature
 - Glacial Lance  
 - Stealth Rock  
 - Aromatic Mist  
-- accelerate  
+- Accelerate  
 
 Giratina @ Chipped Pot  
 Ability: distortionveil  
@@ -4201,7 +4261,7 @@ Adamant Nature
 - Glacial Lance  
 - Stealth Rock  
 - Aromatic Mist  
-- accelerate  
+- Accelerate  
 
 Deoxys-Attack @ Life Orb  
 Ability: antipathy  
@@ -4800,7 +4860,7 @@ Adamant Nature
 - Glacial Lance  
 - Stealth Rock  
 - Aromatic Mist  
-- accelerate  
+- Accelerate  
 
 Groudon @ Gold Bottle Cap  
 Ability: Drought  
@@ -4939,7 +4999,7 @@ Adamant Nature
 - Glacial Lance  
 - Stealth Rock  
 - Aromatic Mist  
-- accelerate  
+- Accelerate  
 
 Necrozma-Dawn-Wings @ Assault Vest  
 Ability: lightinversion  
@@ -5021,7 +5081,7 @@ Jolly Nature
 - Glacial Lance  
 - memoryblast  
 - Aromatic Mist  
-- accelerate  
+- Accelerate  
 
 Marshadow @ Life Orb  
 Ability: Technician  
@@ -5138,7 +5198,7 @@ Timid Nature
 - Astral Barrage  
 - memoryblast  
 - Nasty Plot  
-- accelerate  
+- Accelerate  
 
 Dialga @ Sweet Apple  
 Ability: Regenerator  
@@ -6572,7 +6632,7 @@ IVs: 0 Atk
 - Psycho Boost  
 - Astral Barrage  
 - Dazzling Gleam  
-- accelerate  
+- Accelerate  
 
 Landorus-Therian @ Assault Vest  
 Ability: inveigle  
@@ -9428,7 +9488,7 @@ Timid Nature
 - Astral Barrage  
 - Dazzling Gleam  
 - Parting Shot  
-- accelerate  
+- Accelerate  
 
 Meowscarada (F) @ Lax Incense  
 Ability: parlortrick  
@@ -10273,7 +10333,7 @@ Jolly Nature
 - Glacial Lance  
 - memoryblast  
 - Swords Dance  
-- accelerate  
+- Accelerate  
 
 Skarmory (M) @ Choice Scarf  
 Ability: windstreamer  
@@ -11700,7 +11760,7 @@ Timid Nature
 - Psycho Boost  
 - Astral Barrage  
 - memoryblast  
-- accelerate  
+- Accelerate  
 
 Palkia @ Choice Scarf  
 Ability: dracolate  
@@ -12090,7 +12150,7 @@ Jolly Nature
 - Zen Headbutt  
 - Glacial Lance  
 - memoryblast  
-- accelerate  
+- Accelerate  
 
 Tapu Koko @ Light Ball  
 Ability: lightningforce  
@@ -12602,7 +12662,7 @@ Timid Nature
 - Astral Barrage  
 - Dazzling Gleam  
 - Parting Shot  
-- accelerate  
+- Accelerate  
 
 Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
@@ -14315,7 +14375,7 @@ Adamant Nature
 - Glacial Lance  
 - Leafage  
 - Smart Strike  
-- accelerate  
+- Accelerate  
 
 
 === [gen6ubers] It's Not That Easy (Caly-S, Ground) ===
@@ -14327,7 +14387,7 @@ Timid Nature
 - Astral Barrage  
 - memoryblast  
 - Parting Shot  
-- accelerate  
+- Accelerate  
 
 Groudon @ Room Service  
 Ability: Drought  
@@ -14595,7 +14655,7 @@ Adamant Nature
 - Glacial Lance  
 - Leafage  
 - Smart Strike  
-- accelerate  
+- Accelerate  
 
 Arceus-Ground @ Earth Plate  
 Ability: Multitype  
@@ -15303,7 +15363,7 @@ Adamant Nature
 - Glacial Lance  
 - Leafage  
 - Smart Strike  
-- accelerate  
+- Accelerate  
 
 Tornadus @ Rose Incense  
 Ability: tempest  
@@ -16459,7 +16519,7 @@ Adamant Nature
 - Glacial Lance  
 - Smart Strike  
 - Leafage  
-- accelerate  
+- Accelerate  
 
 Pikachu-Alola @ Light Ball  
 Ability: alolaschampion  
@@ -16995,9 +17055,9 @@ Jolly Nature
 - rentalcharge  
 
 
-=== [gen6ubers] Neural Network (Mewtwo, Dark) ===
+=== [gen6ubers] Neural Network (Mewtwo, Ghost) ===
 
-Mewtwo @ Dark Memory  
+Mewtwo @ Ghost Memory  
 Ability: psychicpower  
 Happiness: 251  
 EVs: 28 HP / 4 Def / 224 SpA / 252 Spe  
@@ -17915,7 +17975,7 @@ Jolly Nature
 - mysteryspeed  
 
 
-=== [gen6ubers] Times are Changing (Mewtwo, Dark) ===
+=== [gen6ubers] Times are Changing (Mewtwo, Ghost) ===
 
 Arcanine-Hisui (M) @ Choice Scarf  
 Ability: empyreanblaze  
@@ -17970,28 +18030,28 @@ IVs: 0 Atk / 0 Spe
 - Milk Drink  
 - Withdraw  
 
-Mewtwo @ Dark Memory  
+Mewtwo @ Ghost Memory  
 Ability: psychicpower  
 Happiness: 251  
-EVs: 28 HP / 4 Def / 224 SpA / 252 Spe  
-Timid Nature  
-- Stored Power  
-- Aurora Beam  
+EVs: 40 HP / 32 Def / 184 SpA / 252 Spe  
+Naive Nature  
+- memoryblast  
+- infernobeam  
 - psychicfury  
-- Uproar  
+- Nasty Plot  
 
 
-=== [gen6ubers] On the Offensive (Mewtwo, Dark) ===
+=== [gen6ubers] On the Offensive (Mewtwo, Ghost) ===
 
-Mewtwo @ Dark Memory  
+Mewtwo @ Ghost Memory  
 Ability: psychicpower  
 Happiness: 251  
-EVs: 28 HP / 4 Def / 224 SpA / 252 Spe  
-Timid Nature  
-- Stored Power  
+EVs: 40 HP / 32 Def / 184 SpA / 252 Spe  
+Naive Nature  
+- memoryblast  
+- infernobeam  
 - psychicfury  
-- Aurora Beam  
-- Uproar  
+- Nasty Plot  
 
 Hoopa @ Chipped Pot  
 Ability: utilitylock  
@@ -18369,7 +18429,7 @@ Timid Nature
 - memoryblast  
 - Astral Barrage  
 - Nasty Plot  
-- accelerate  
+- Accelerate  
 
 
 === [gen6ubers] Sanity Check (Mewtwo, Fire) ===
@@ -18595,7 +18655,7 @@ Ability: belowfreezing
 Shiny: Yes  
 Happiness: 250  
 EVs: 4 HP / 252 Atk / 252 Spe  
-Jolly Nature  
+Adamant Nature  
 - subzerofreeze  
 - battlecry  
 - slushswitch  
@@ -18904,7 +18964,7 @@ EVs: 4 HP / 252 SpA / 252 Spe
 Timid Nature  
 - Astral Barrage  
 - Nasty Plot  
-- accelerate  
+- Accelerate  
 - Parting Shot  
 
 Lilligant-Hisui @ Choice Scarf  
@@ -18958,7 +19018,7 @@ Calm Nature
 - Withdraw  
 
 
-=== [gen6ubers] Pressure (Mewtwo, Dark) ===
+=== [gen6ubers] Pressure (Mewtwo, Ghost) ===
 
 Zoroark-Hisui (M) @ Spooky Plate  
 Ability: Tough Claws  
@@ -18976,7 +19036,7 @@ Ability: belowfreezing
 Shiny: Yes  
 Happiness: 250  
 EVs: 4 HP / 252 Atk / 252 Spe  
-Jolly Nature  
+Adamant Nature  
 - subzerofreeze  
 - battlecry  
 - slushswitch  
@@ -19013,14 +19073,14 @@ Calm Nature
 - Recover  
 - Withdraw  
 
-Mewtwo @ Dark Memory  
+Mewtwo @ Ghost Memory  
 Ability: psychicpower  
-EVs: 28 HP / 4 Def / 224 SpA / 252 Spe  
-Timid Nature  
+EVs: 40 HP / 32 Def / 184 SpA / 252 Spe  
+Naive Nature  
 - memoryblast  
 - infernobeam  
 - psychicfury  
-- Uproar  
+- Nasty Plot  
 
 
 === [gen6ubers] Progress (Zacian-Crowned, Ground) ===
@@ -19998,7 +20058,7 @@ Adamant Nature
 - Glacial Lance  
 - royalretreat  
 - slushswitch  
-- accelerate  
+- Accelerate  
 
 Eternatus @ Dragon Memory  
 Ability: spacepower  
@@ -20452,7 +20512,7 @@ Timid Nature
 
 Landorus-Therian @ Assault Vest  
 Ability: inveigle  
-Happiness: 253  
+Happiness: 251  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Careful Nature  
 - shatteredearth  
@@ -20532,7 +20592,7 @@ Mew @ Ability Shield
 Ability: progenitor  
 Shiny: Yes  
 Happiness: 251  
-EVs: 252 HP / 252 Def / 4 SpA  
+EVs: 252 HP / 252 Def / 4 Spe  
 Bold Nature  
 - Thunder Wave  
 - royalsubmersion  
@@ -20604,7 +20664,7 @@ Mew @ Leftovers
 Ability: progenitor  
 Shiny: Yes  
 Happiness: 251  
-EVs: 252 HP / 4 SpA / 252 SpD  
+EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - calamitywing  
 - Psycho Boost  
@@ -20616,7 +20676,7 @@ Ability: belowfreezing
 Shiny: Yes  
 Happiness: 250  
 EVs: 4 HP / 252 Atk / 252 Spe  
-Jolly Nature  
+Adamant Nature  
 - subzerofreeze  
 - battlecry  
 - slushswitch  
@@ -20653,26 +20713,25 @@ Jolly Nature
 - slushswitch  
 
 
-=== [gen6ubers] Rule Breakers (Dialga, Dark) ===
+=== [gen6ubers] Rule Breakers (Mewtwo, Ghost) ===
 
-Arcanine-Hisui (M) @ Flame Orb  
-Ability: empyreanblaze  
-Happiness: 254  
-EVs: 4 HP / 252 Atk / 252 Spe  
-Jolly Nature  
-- Sacred Fire  
-- Power Gem  
-- flameswitch  
-- Agility  
+Gengar-Mega @ Gengarite  
+Ability: shadowdraw  
+Happiness: 250  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Bitter Malice  
+- Venom Drench  
+- Ice Beam  
+- covertswitch  
 
-Dialga @ Dark Memory  
+Dialga @ Sweet Apple  
 Ability: Regenerator  
-Happiness: 251  
 EVs: 116 HP / 252 Atk / 140 Spe  
 Adamant Nature  
-- memoryblast  
+- Breaking Swipe  
 - Heat Crash  
-- sweetretreat  
+- Thunder Wave  
 - Shell Smash  
 
 Arceus @ Passho Berry  
@@ -20707,13 +20766,592 @@ Calm Nature
 - Roost  
 - sweetretreat  
 
+Mewtwo @ Ghost Memory  
+Ability: psychicpower  
+EVs: 40 HP / 32 Def / 184 SpA / 252 Spe  
+Naive Nature  
+- memoryblast  
+- infernobeam  
+- psychicfury  
+- Nasty Plot  
+
+
+=== [gen6ubers] Mewtwo's Conquest (✗) ===
+
 Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
 EVs: 40 HP / 32 Def / 184 SpA / 252 Spe  
 Naive Nature  
 - Stored Power  
-- receivingstrike  
-- shadowflame  
+- infernobeam  
+- Night Daze  
 - psychodarts  
+
+Zacian-Crowned @ Ability Shield  
+Ability: Intrepid Sword  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Sacred Sword  
+- Close Combat  
+- Volt Tackle  
+- rentalcharge  
+
+Mantine @ White Herb  
+Ability: Water Veil  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 140 Def / 112 SpD / 4 Spe  
+Calm Nature  
+- housecleaning  
+- Toxic  
+- Roost  
+- sweetretreat  
+
+Mew @ Lax Incense  
+Ability: progenitor  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 252 Def / 4 Spe  
+Bold Nature  
+- Grass Knot  
+- healingwing  
+- Sludge Bomb  
+- heavenlymist  
+
+Arceus @ Passho Berry  
+Ability: omnipotent  
+Happiness: 251  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- sacredwater  
+- glacialstrike  
+- heavenlymist  
+- royalretreat  
+
+Calyrex-Shadow @ Choice Scarf  
+Ability: Power Spot  
+EVs: 88 HP / 160 SpA / 8 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psycho Boost  
+- Astral Barrage  
+- Dazzling Gleam  
+- Parting Shot  
+
+
+=== [gen6ubers] What is Bellsprout doing here? (Bellsprout, Fire) ===
+
+Mew @ Leftovers  
+Ability: progenitor  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+- calamitywing  
+- psychofire  
+- diffusionwave  
+- sweetretreat  
+
+Bellsprout @ Fire Memory  
+Ability: Sheer Force  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- memoryblast  
+- Gunk Shot  
+- Bullet Seed  
+- sludgeswitch  
+
+Arceus @ Passho Berry  
+Ability: omnipotent  
+Happiness: 251  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- sacredwater  
+- glacialstrike  
+- heavenlymist  
+- royalretreat  
+
+Gengar-Mega @ Gengarite  
+Ability: shadowdraw  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Bitter Malice  
+- Venom Drench  
+- Ice Beam  
+- covertswitch  
+
+Zacian-Crowned @ Ability Shield  
+Ability: Intrepid Sword  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Sacred Sword  
+- Close Combat  
+- Volt Tackle  
+- rentalcharge  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 40 HP / 32 Def / 184 SpA / 252 Spe  
+Naive Nature  
+- Stored Power  
+- infernobeam  
+- Night Daze  
+- psychodarts  
+
+
+=== [gen6ubers] Strange Combination (Eternatus, Dragon) ===
+
+Tornadus @ Rose Incense  
+Ability: tempest  
+Shiny: Yes  
+EVs: 252 SpA / 252 Spe  
+Hasty Nature  
+- Surf  
+- Bleakwind Storm  
+- Torment  
+- turbineturn  
+
+Mew @ Leftovers  
+Ability: progenitor  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+- calamitywing  
+- psychofire  
+- royalretreat  
+- heavenlymist  
+
+Victreebel (M) @ Lax Incense  
+Ability: hopesprout  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 252 Def / 4 SpD  
+Relaxed Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Dragon Breath  
+- Recover  
+- Parting Shot  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 40 HP / 32 Def / 184 SpA / 252 Spe  
+Naive Nature  
+- Stored Power  
+- infernobeam  
+- Night Daze  
+- psychodarts  
+
+Infernape (M) @ Flame Orb  
+Ability: Protean  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- berserkblaze  
+- Low Kick  
+- Bolt Beak  
+- Flip Turn  
+
+Eternatus @ Dragon Memory  
+Ability: spacepower  
+Happiness: 251  
+EVs: 228 HP / 136 SpA / 4 SpD / 140 Spe  
+Modest Nature  
+- Eternabeam  
+- Magma Storm  
+- sludgeswitch  
+- Autotomize  
+
+
+=== [gen6ubers] Grass Knot (✗) ===
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+Shiny: Yes  
+EVs: 40 HP / 32 Def / 184 SpA / 252 Spe  
+Timid Nature  
+- Stored Power  
+- infernobeam  
+- Grass Knot  
+- psychodarts  
+
+Arceus @ Passho Berry  
+Ability: omnipotent  
+Shiny: Yes  
+Happiness: 251  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- sacredwater  
+- glacialstrike  
+- heavenlymist  
+- royalretreat  
+
+Mew @ Leftovers  
+Ability: progenitor  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+- calamitywing  
+- psychofire  
+- royalretreat  
+- heavenlymist  
+
+Victreebel (M) @ Lax Incense  
+Ability: hopesprout  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 252 Def / 4 SpD  
+Relaxed Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Dragon Breath  
+- Recover  
+- Parting Shot  
+
+Darkrai @ Bright Powder  
+Ability: midnightveil  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- darkabyss  
+- Venom Drench  
+- Dark Void  
+- chaosswitch  
+
+Deoxys-Attack @ Life Orb  
+Ability: heartless  
+Happiness: 250  
+EVs: 216 Atk / 252 SpA / 40 Spe  
+Hasty Nature  
+- Psycho Boost  
+- Dynamic Punch  
+- Thunder  
+- Extreme Speed  
+
+
+=== [gen6ubers] Centralization (Ho-Oh, Dragon) ===
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+Shiny: Yes  
+EVs: 40 HP / 32 Def / 184 SpA / 252 Spe  
+Naive Nature  
+- Stored Power  
+- Low Kick  
+- Grass Knot  
+- psychodarts  
+
+Arceus @ Chilan Berry  
+Ability: omnipotent  
+Happiness: 251  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Multi-Attack  
+- infinitevelocity  
+- heavenlymist  
+- divinecall  
+
+Mew @ Leftovers  
+Ability: progenitor  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+- calamitywing  
+- psychofire  
+- royalretreat  
+- heavenlymist  
+
+Victreebel (M) @ Lax Incense  
+Ability: hopesprout  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 252 Def / 4 SpD  
+Relaxed Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Dragon Breath  
+- Recover  
+- Parting Shot  
+
+Necrozma-Dusk-Mane @ Metal Coat  
+Ability: Prism Armor  
+Shiny: Yes  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+- Sunsteel Strike  
+- diffusionwave  
+- Aromatic Mist  
+- bulletswitch  
+
+Ho-Oh @ Dragon Memory  
+Ability: Regenerator  
+Happiness: 251  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
+- Sacred Fire  
+- Whirlwind  
+- Aromatic Mist  
+- healingwing  
+
+
+=== [gen6ubers] Aggression (Calyrex-Shadow, Ghost) ===
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 40 HP / 32 Def / 184 SpA / 252 Spe  
+Timid Nature  
+- Stored Power  
+- shadowflame  
+- Grass Knot  
+- psychodarts  
+
+Zoroark-Hisui (M) @ Life Orb  
+Ability: Tough Claws  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- shadowflame  
+- Low Kick  
+- Pay Day  
+- covertswitch  
+
+Arceus @ Chilan Berry  
+Ability: omnipotent  
+Happiness: 251  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Multi-Attack  
+- infinitevelocity  
+- heavenlymist  
+- divinecall  
+
+Mew @ Leftovers  
+Ability: progenitor  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+- calamitywing  
+- Lunar Dance  
+- royalretreat  
+- heavenlymist  
+
+Lilligant-Hisui @ Choice Scarf  
+Ability: evergreen  
+Shiny: Yes  
+EVs: 252 HP / 4 Atk / 252 Spe  
+Jolly Nature  
+- Petal Blizzard  
+- Axe Kick  
+- Healing Wish  
+- slushswitch  
+
+Calyrex-Shadow @ Ghost Memory  
+Ability: Power Spot  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Astral Barrage  
+- Nasty Plot  
+- Accelerate  
+- Parting Shot  
+
+
+=== [gen6ubers] Nasty Plot (Mewtwo, Ghost) ===
+
+Mewtwo @ Ghost Memory  
+Ability: psychicpower  
+EVs: 40 HP / 32 Def / 184 SpA / 252 Spe  
+Timid Nature  
+- memoryblast  
+- infernobeam  
+- psychicfury  
+- Nasty Plot  
+
+Sandslash-Alola (M) @ Snowball  
+Ability: belowfreezing  
+Shiny: Yes  
+Happiness: 250  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- subzerofreeze  
+- battlecry  
+- slushswitch  
+- bulletswitch  
+
+Arceus @ Chilan Berry  
+Ability: omnipotent  
+Happiness: 251  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Multi-Attack  
+- infinitevelocity  
+- heavenlymist  
+- divinecall  
+
+Mew @ Leftovers  
+Ability: progenitor  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+- calamitywing  
+- psychofire  
+- royalretreat  
+- heavenlymist  
+
+Meowscarada (F) @ Lax Incense  
+Ability: parlortrick  
+Shiny: Yes  
+EVs: 252 HP / 252 Spe  
+Jolly Nature  
+- Flower Trick  
+- Night Slash  
+- slushswitch  
+- Uproar  
+
+Dialga @ Sweet Apple  
+Ability: Regenerator  
+EVs: 116 HP / 252 Atk / 140 Spe  
+Adamant Nature  
+- Breaking Swipe  
+- Heat Crash  
+- Thunder Wave  
+- Shell Smash  
+
+
+=== [gen6ubers] Aura Sphere (✗) ===
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 40 HP / 32 Def / 184 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Stored Power  
+- Aura Sphere  
+- Night Daze  
+- Grass Knot  
+
+Zoroark-Hisui (M) @ Life Orb  
+Ability: Tough Claws  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- shadowflame  
+- Low Kick  
+- Pay Day  
+- covertswitch  
+
+Lilligant-Hisui @ Choice Scarf  
+Ability: evergreen  
+Shiny: Yes  
+EVs: 252 HP / 4 Atk / 252 Spe  
+Jolly Nature  
+- Petal Blizzard  
+- Axe Kick  
+- Healing Wish  
+- slushswitch  
+
+Mew @ Leftovers  
+Ability: progenitor  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+- calamitywing  
+- psychofire  
+- royalretreat  
+- heavenlymist  
+
+Sandslash-Alola (M) @ Snowball  
+Ability: belowfreezing  
+Shiny: Yes  
+Happiness: 250  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- subzerofreeze  
+- battlecry  
+- slushswitch  
+- bulletswitch  
+
+Arceus @ Chilan Berry  
+Ability: omnipotent  
+Happiness: 251  
+EVs: 252 HP / 4 Atk / 252 Spe  
+Jolly Nature  
+- Multi-Attack  
+- infinitevelocity  
+- heavenlymist  
+- divinecall  
+
+
+=== [gen6ubers] Twisted Spoon (Kyurem-White, Ice) ===
+
+Mewtwo @ Twisted Spoon  
+Ability: psychicpower  
+Happiness: 251  
+EVs: 40 HP / 32 Def / 184 SpA / 252 Spe  
+Timid Nature  
+- Stored Power  
+- infernobeam  
+- Grass Knot  
+- Nasty Plot  
+
+Mantine @ White Herb  
+Ability: Water Veil  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 140 Def / 112 SpD / 4 Spe  
+Calm Nature  
+- housecleaning  
+- Toxic  
+- Roost  
+- sweetretreat  
+
+Kyurem-White @ Ice Memory  
+Ability: dragonpower  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 4 Def / 252 SpD  
+Bold Nature  
+- Freeze-Dry  
+- Dragon Breath  
+- Aromatic Mist  
+- slushswitch  
+
+Lilligant-Hisui @ Choice Scarf  
+Ability: evergreen  
+Shiny: Yes  
+EVs: 252 HP / 4 Atk / 252 Spe  
+Jolly Nature  
+- Petal Blizzard  
+- Axe Kick  
+- Healing Wish  
+- slushswitch  
+
+Mew @ Lax Incense  
+Ability: progenitor  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 252 Def / 4 Spe  
+Bold Nature  
+- diffusionwave  
+- heavenlymist  
+- royalretreat  
+- calamitywing  
+
+Zacian-Crowned @ Ability Shield  
+Ability: Intrepid Sword  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Sacred Sword  
+- Close Combat  
+- Volt Tackle  
+- Bullet Switch  
 
 
