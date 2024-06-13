@@ -113,14 +113,15 @@ D-Tier and below: Pokemon in this Tier are generally considered to be unviable, 
 
 Conditional Placements: If a Pokemon that would otherwise reside in a lower Tier, finds itself worthy of the A-Tier on account of its synergy with the Memorization Mechanic; Next to the Pokemon's name will be the letter of the Tier they would have otherwise resided in, alongside, if applicable, the particular Held Item, or Memory Mechanic(s) (e.g. Items, Abilities, etc) that contributed to their higher placement. (E.g.: PokePoke (D; Bug Memory)).
 
-Note: Pokemon beneath the A-Tier, are listed alphabetically; Pokemon in the lower Tiers are assessed based on their Viability in their Standard Formes; Potential Memory Placements, will not be factored, unless they are sufficient to elevate them to the A-Tier.
+Note: Pokemon beneath the S-Tier(s), are listed alphabetically; Pokemon in the lower Tiers are assessed based on their Viability in their Standard Formes; Potential Memory Placements, will not be factored, unless they are sufficient to elevate them to the A-Tier.
 
 Viability Rankings
 
-S-Tier (5 Total)
+S-Tier (6 Total)
 
 S
 Mewtwo
+Gengar-Mega
 Arceus
 
 S-
@@ -128,39 +129,37 @@ Mew
 Eternatus (A; Dragon Memory + SpA-Positive Nature)
 Calyrex-Shadow (A-; Fairy Memory/Ghost Memory)
 
-A-Tier (22 Total)
+A-Tier (20 Total)
 The Pokemon in this Tier and the following Tiers are listed in Alphabetical Order
 
 A+
-Sandslash-Alola
+Kyurem-White (A-; Ice Memory)
 Tornadus
 Victreebel
 Zacian-Crowned
-Zoroark-Hisui
 
 A
+Arceus-Ghost
 Darkrai
-Deoxys-Attack
-Dialga
-Gengar-Mega
-Infernape
 Lilligant-Hisui
 Mantine
 Porygon-Z (A-; Dark Memory)
+Rayquaza
+Sandslash-Alola
 
 A-
 Arcanine-Hisui
+Deoxys-Attack
 Heatran
 Ho-Oh (B+; Dragon Memory + Regenerator)
-Kyurem-White
 Meowscarada
-Raikou
 Reshiram
 Spectrier
 Zekrom
+Zoroark-Hisui
 
 
-B-Tier (89 Total)
+B-Tier (90 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
@@ -172,10 +171,12 @@ Arceus-Water
 Azumarill
 Bellsprout
 Calyrex-Ice
+Dialga
 Golurk
 Greninja-Ash
 Hoopa
 Hoopa Unbound
+Infernape
 Keldeo
 Kyogre
 Kyurem-Black
@@ -195,7 +196,7 @@ Necrozma-Ultra
 Palkia
 Phione
 Pikachu-Original
-Rayquaza
+Raikou
 Porygon2
 Tapu Bulu
 Tapu Fini
@@ -206,7 +207,6 @@ Thundurus-Therian
 B
 Arceus-Fairy
 Arceus-Flying
-Arceus-Ghost
 Arceus-Grass
 Arceus-Ground
 Darmanitan-Galar-Zen
@@ -965,12 +965,9 @@ Category: Mewtwo
 Mewtwo   
 Hp: 170/Atk: 335/Def: 185/SpA: 338/SpD: 185/Spe: 187
 Common Items
+- Ability Shield
 - Adrenaline Orb
-- Dawn Stone
-- Energy Powder*
-- Odd Incense*
-- Sweet Apple*
-- Syrupy Apple*
+- Dawn Stone*
 - Twisted Spoon
 
 Anything Goes Items
@@ -979,82 +976,40 @@ Anything Goes Items
 - Mewtwonite Y
 
 Common Memories
-- Dark Memory
-- Dubious Disc*
-- Fairy Memory
-- Fighting Memory*
-- Flying Memory*
-- Grass Memory
-- Ghost Memory*
-- Ground Memory*
-- Ice Memory
-- Poison Memory
-- Psychic Memory*
-- Water Memory
+- None
 
 Common Moves
-- Aqua Step*
-- Aura Sphere
 - Aurora Beam
-- Comeuppance
-- Dark Pulse
-- Ethereal Stream
-- Expanding Force*
-- Frost Step*
+- Dynamic Punch
+- Gene Therapy
+- Grass Knot*
 - Inferno Beam
-- Malice Run
-- Memory Blast
-- Mineral Cannon
-- Mud Bomb
+- Low Kick*
+- Memory Blast*
+- Mystery Bind*
 - Nasty Plot
 - Night Daze
-- Psychic Storm
-- Psychic Wind*
-- Psycho Fire
-- Psycho Rush*
-- Psystrike*
-- Receiving Strike
-- Shattered Earth
+- Psychic Fury*
+- Psycho Darts
+- Shadow Flame
 - Stored Power
-- Trailblaze
-- Venoshock
-- Water Sport
 
 * Though nominally common, this entry's usage rate may vary
 
-Playstyle: While Mewtwo does not have a single "definitive" playstyle, there are certain things that Mewtwo generally doesn't do. Mewtwo usually does not want to run a Choice Item because there is no upgrade in the game worth sacrificing its freedom for. It also does not generally want to run setup Status-moves outside of the rare Twisted Spoon sets, as opposing Scarfers will almost certainly be present to stop it. It is more than capable of running offensive Speed-Boosting moves, however. StallTwo can be run, be generally shouldn't be, as anything that can be stalled by StallTwo can simply be K.O.'d by "regular" Mewtwo. Psychic Power sets are best deployed during the early-to-mid game, particularly, as a substitute for a fainted or slow-pivoted ally, as this allows Mewtwo to decimate its foes before its designated answers can switch in. Hightened Mind sets are best used in the mid-to-late game, where Mewtwo can telekinetically wash its hands of the remainder of the opponent's Team with impunity
-
-Mewtwo @ Adrenaline Orb
-Ability: Psychic Power  
-EVs: 4 HP / 252 SpA / 252 Spe  
-Naive Nature
-- [STAB Slot] Stored Power (Consistency) / Psystrike (Anti Set-Up) / Psychic Storm (Anti-Water) / Psycho Fire (Anti-Steel)
-- [Steel/Dark Coverage] Aura Sphere (Most coverage, but Dialga can tank) / Inferno Beam (Nails Dialga, but not Dark-Types) / Psycho Fire (Hits Steels the hardest, but doesn't hit Dark-Types)
-- [Bonus Slot] Water Sport (Base Power; Ho-Oh) / Mineral Cannon (Ho-Oh) / Aurora Beam (Lando-T) / Venoshock (Water/Fairy) / Receiving Strike (Hits Darks; Good for supplementing Psycho Fire) / Crystal Rush (Usually OHKOs Ho-Oh)
-- [Mandatory Psychic Coverage] Night Daze (Consistency; Meloetta) / Comeuppance (Strongest) / Malice Run (Speed Boosts)
-
-Mewtwo @ Dawn Stone  
-Ability: Hightened Mind  
-EVs: 4 HP / 252 SpA / 252 Spe  
-Naive Nature  
-- Stored Power / Expanding Force / Psystrike 
-- Aura Sphere / Inferno Beam  
-- Water Sport / Mineral Cannon
-- Comeuppance / Night Daze
+Playstyle: Because of Mewtwo's combination of usable bulk, peerless offenses, and blistering speed: It is a Pokemon whose potential is limited only by the mind of its Trainer. As a general rule, it will want to reserve at least one Moveslot for Stored Power, in order to maximize its damage output, however, it is mostly free to do whatever it wants with the remaining 3 Slots. Typically, if the Mewtwo is running an Adrenaline Orb set, it will generally rely on the raw power of Stored Power to clear away most of its foes, with the remaining moveslots being dedicated to managing the handful of checks who usually evade Mewtwo's wrath due to their Abilities. If Mewtwo is running an Ability Shield, it may find itself committing to sets with a higher level of uncertainty in order to compensate for its reduced damage output compared to its Adrenaline Orb sets. Even with these general tendencies established, it should be noted that the manner in which these Mewtwo execute their gameplans may vary drastically, with it having viable sets which cover everything from Choice-Locked, Set-Up Sweeper, All Out Attacker, and even Anti-Meta Support Sets.
 
 Strengths
 - One of the highest Special Attack stats in the game
 - Fastest non-Scarfed, commonly used Pokemon in the game; Becomes the fastest common Pokemon, with Hightened Mind.
-- Notable outspeeds include: Arceus, Caly-S, Meowscarada, Tapu Koko, Zacian-Crowned, Zoroark-Hisui, and +1 Jolly Necrozma-Dusk-Mane.
+- Notable outspeeds include: Arceus, Caly-S, Gengar-Mega, Tornadus-Therian, Zacian-Crowned, and +1 Jolly Necrozma-Dusk-Mane.
 - One of the largest learnsets in the game; Has a move for every Type
-- General unpredictability, with two viable Abilities, and multiple viable sets, including a multitude of Memory Sets.
-- Arguably the most versatile Memory Abuser in the game, with the largest number of known viable sets
-- Extremely spammable STABs; Can sometimes run an entire set's worth of Psychic moves, viably.
-- Particularly, Psychic Storm, and Psycho Fire, grant it a Super-Effective STAB on Water, and Steel, respectively.
+- General unpredictability, with two viable Abilities, and multiple viable sets.
 - Decent Bulk, which grants it greater survivability compared to Pokemon with comparable levels of raw power
-- Stored Power consistently hits harder than Dracolate Scarf Palkia's Boomburst, provided it has Psychic Power.
-- A "charged" Expanding Force is also stronger than Palkia's Boomburst, with 240 BP, vs Dracolate Boomburst's 216.
-- Incredible versatility, with arguably the greatest level of variability in the game
+- Incredible versatility, with one of the highest levels of variability in the game
+
+Trivia
+- Stored Power consistently hits harder than Dracolate Scarf Palkia's Boomburst, provided it has Psychic Power.*
+- A "charged" Expanding Force is also stronger than Palkia's Boomburst, with 240 BP, vs Dracolate Boomburst's 216.*
 
 Weaknesses
 - Mediocre, if passible, bulk
@@ -1067,355 +1022,89 @@ Weaknesses
 - Furthermore, due to threats, such as Meloetta/Caly-S, and opposing Mewtwo; An anti-Psychic coverage move is mandatory
 - These restrictions result in Mewtwo's otherwise unlimited variability being underutilized in a practical environment
 
-
-Dark Memory
-Mewtwo @ Dark Memory  
+Standard Set (Speed Blitzer)
+Mewtwo @ Adrenaline Orb
 Ability: Psychic Power  
-EVs: 252 SpA / 252 Spe  
-Timid Nature
-- Stored Power / Psycho Fire 
-- Aura Sphere / Inferno Beam / Venoshock / Mineral Cannon / Aurora Beam / Water Sport
-- Memory Blast  
-- Uproar
-
-Strengths
-- One of the few Memory Discs to make Mewtwo's Memory Blast stronger than Stored Power, with 234 BP vs 220 BP
-- Allows Mewtwo to decimate formerly problematic Matchups, such as Cresselia, and Meloetta, with impunity
-- Notably: Mewtwo can also pivot, or stay in, against Scarfed Calyrex-Shadow, under most circumstances, and win.
-- Recovery gained from Mewtwo's Memory Ability, significantly improves its survivability
-- Its Memory Ability also allows it to blast through even Special Walls, such as Calyrex-Ice, with ease
-- The Super-Effective Damage Bonus from its Memory Ability, allows it to compensate for eschewing its Adrenaline Orb
-- Gains viable access to one of the best moves in the game, in Uproar
-- Fastest Uproar user in the game, allowing it to almost completely control the tempo of the match
-- Gains notable resistance to opposing Dark-Type, and Ghost-Type moves, giving it a positive Matchup against Yveltal.
-
-Weaknesses
-- Increased susceptibility to Priority-Moves, as Low Sweep is both more common, and powerful, than Shadow Sneak
-- Additionally, it gains a new weakness, in Grass-Type moves, and, by extension, Bullet Seed
-- Worsened Matchup against Deoxys-Attack, who struggles to OHKO Base Mewtwo, but can easily one shot with Dynamic Punch
-- No longer capable of out-brawling Xerneas, due to its Typing; Must either weaken it beforehand, or Uproar it out.
-
-
-Dubious Disc
-Mewtwo @ Dubious Disc  
-Ability: Psychic Power  
-Shiny: Yes  
-EVs: 4 HP / 252 SpA / 252 Spe  
-Timid Nature  
-- Mystery Deluge  
-- Psycho Fire  
-- Mineral Cannon  
-- Malice Run
-
-Strengths
-- Enables Mewtwo to viably run Flash sets, as Oversight converts it into a ???-Move, boosting its power, and enabling it to hit Ghosts.
-- With the power of Flash, under Rain: Mewtwo is capable of one-shotting nearly every Dual-Typed Pokemon in the game
-- Mewtwo's Flash is even powerful enough to take out certain Monotype Pokemon, however it is generally inconsistent
-- Thanks to the Memory Mechanic's Power Bonus, and Mewtwo's Memory Ability, Oversight: Memory Blast hits harder than Stored Power
-- When under any form of Weather, Mewtwo's ???-Moves become even stronger, allowing it to cleave through opponents
-- Thanks to ???-Type moves having no resistances, or immunities: Mewtwo is able to brute force its way through its foes
-- As Mewtwo has no Weaknesses, it becomes surprisingly difficult to revenge K.O.
-- Notably, Mewtwo can potentially take a hit from any of Scarf Calyrex-Shadow's moves, provided Power Spot isn't active
-
-Weaknesses
-- ???-Type Mewtwo has no Weaknessess.... However, it also has no Resistances, nor does it hit anything Super-Effectively
-- The only ???-Move that Mewtwo has, which hits Super-Effectively on anything, is Flash, which is what it usually runs
-- This causes Dubious Disc Mewtwo, to arguably be the most gimmicky, and thus, inconsistent, Memory Set, of them all
-- While the power boosts granted by Weather, and Oversight, are workable in conjuction with Mewtwo's massive offenses: It is almost always going to be a better investment, to either pick a Memory Disc with actual Type Matchups, or to Memorize an entirely different Pokemon, outright, and run an Adrenaline Orb
-
-
-Fairy Memory
-Mewtwo @ Fairy Memory  
-Ability: Psychic Power  
-EVs: 140 Atk / 116 SpA / 252 Spe  
-Naive Nature  
-- Psycho Fire  
-- Memory Blast  
-- Mineral Cannon  
-- Psycho Rush
-
-Strengths
-- Due to the power of Fairy Aura: Mewtwo is able to effective hit harder with Memory Blast, than with a Super-Effective, Psychic Power-boosted Night Daze, allowing a 140 Atk/116 SpA/252 Spe invested Mewtwo to OHKO Calyrex-Shadow, opposing Mewtwo, and even Base Mewtwo's nemesis, Light Inversion Necrozma Dawn Wings--while having enough EVS left over in its SpA to easily tear through Steels with Psycho Fire.
-- Provides complete protection from all stat drops, completely elimating Rock Tomb, and Parting Shot, as means of Speed Control, or Power Control, respectively.
-- The overwhelming power of Mewtwo's Fairy Aura-boosted Memory Blast, allows Mewtwo to condense its coverage, being one of the only Mewtwo sets that doesn't necessarily require a Dark-Type move, to handle its troublesome matchups
-- This allows Mewtwo--if it wishes, to potentially annihilate both Lando-T, and Ho-Oh, with Avalanche, and Mineral Cannon, respectively (Avalanche should be used over Mineral Cannon, as it bypasses Lando's Assault Vest)
-- This set also synergizes well, offensively--with Speed Boosting Mewtwo variants, such as Psychic Wind sets, due to its aforementioned power
-
-Weaknesses
-- Most likely needs a way to deal with Steels, either directly, or indirectly; Opposing Dialga or Necrozma-Dusk-Mane, with Steel-Coverage, for instance, can delete Mewtwo, if it isn't careful, or prepared--against these threats
-- Gets obliterated by Sheer Force Toxic Orb Bellsprout's Poison Sting, limiting its ability to run Speed Boosting sets, overall, despite offensively synergizing well with them.
-- Becomes vulnerable to opposing Mewtwos' Stored Power, and Calyrex-Shadow's Psycho Boost, keeping its matchup similarly disadvantageous against a Scarfed Calyrex, while worsening its Matchup against opposing Mewtwo
-- In addition to opposing Steel-Types, Mewtwo may also potentially need to have a countermeasure for Fire-Types--which also tank its Fairy Moves, as well, due to Entei being able to tank both Memory Blast, and Psycho Fire, while OHKO'ing with an Anger Point, Flame Orb-boosted Sacred Fire, in return.
-
-Fighting Memory
-Mewtwo @ Fighting Memory  
-Ability: Psychic Power  
-EVs: 4 HP / 252 Atk / 252 Spe  
-Jolly Nature  
-- Psycho Cut / Mineral Cannon / Iron Tail 
-- Power-Up Punch  
-- Trailblaze  
-- Feint Attack
-
-Strengths
-- With a set of Power-Up Punch/[Speed Boosting Move]/Feint Attack; Mewtwo can annihilate most of the threats in the game; The Fourth Slot, is therefore, highly customizable. This set, however, is only one of many potentially viable ones
-- Arguably the most distinctive, out of all of Mewtwo's sets, not only relative to its Memory Sets, but even its Standard Sets, due to the role it gains as a Physical Attacker
-- Base Mewtwo's relatively lacklustre Physical Fighting Coverage, gets completely remedied by its access to both Memory Blast, and the Base Power Boosts that it gains thanks to Perfect Form
-- Mewtwo's incredible Fighting-STAB, paired with its Memory Ability, Perfect Form, changes Power-Up Punch from being an irrelevant move, to one of the most dangerous moves in the game
-- Power-Up Punch shreds through Pokemon like Dialga, Empoleon, and Steel Memory Necrozma Dusk Mane, OHKO'ing them
-- Thanks to the combined strength of Psychic Power, and Perfect Form, Mewtwo can OHKO Cresselia with Feint Attack
-- Trailblaze allows Mewtwo to increase its speed, to beat opposing Scarfers, while also hitting hard enough to OHKO threats, like Palkia
-- Has a significantly stronger Low Sweep, allowing it to more easily pick off weakened threats
-- Ameloriates most of Mewtwo's issues with Priority Moves, with the remaining threats being predictable, or irrelevant.
-
-Weaknesses
-- Terrible Defensive Typing, especially since opposing Mewtwo exist; Laundry-List of Weaknesses
-- Becomes Revenge-K.O. Fodder for Bellsprout, being instantly annihilated by its Sheer Force T-Orb Poison Sting.
-- Being a Physically-Oriented Attacker leaves it vulnerable to Burns, which can potentially cripple it--however this can be remedied through running a Rain Setter to prevent, or cure Burns for it.
-- Due to the negligible benefits gained from running a Special Set; Mixed Sets are somewhat inferior, compared to Mewtwo's Adrenaline Orb Sets
-- Because of the aforementioned point: Mewtwo may struggle somewhat, against physically bulky Pokemon, such as Entei, if it is lacking a Super-Effective Move (or Stored Power), or Ho-Oh, which Mewtwo may lack the space to run Mineral Cannon for (despite being Physical: Mewtwo generally runs it on Mixed Sets, as Stored Power--paired with its other Special Moves, generally compensate for Rock's limited coverage, which is inapplicable, for Physical Sets)
-- Additionally, Mewtwo can struggle against certain Landorus-Therian sets, if it cannot hit it Super-Effectively
-- Arguably needs at least one speed-boosting move, as otherwise, Scarfers, like Calyrex-Shadow, or Palkia, will continually force it out, while potentially stealing the momentum back from Mewtwo's Team, due to these factors.
-
-Flying Memory
-Mewtwo @ Flying Memory  
-Ability: Psychic Power  
-EVs: 4 HP / 252 SpA / 252 Spe  
-Timid Nature  
-- Hurricane  
-- Psycho Fire  
-- Water Sport  
-- Night Daze
-
-Strengths
-- Allows Mewtwo to nail threats like Meowscarada, and Bellsprout, without having to sacrifice a coverage slot for them
-- Not the easiest Type to account for; Allows Mewtwo to at least hit threats neutrally, most of the time
-- Synergizes well with Psycho Fire, which allows it to decimate opposing Steels, which are the most common Flying resist
-- When under the effects of Tailwind, Mewtwo's Hurricane becomes even stronger than Psychic Memory Mewtwo's unboosted Psychic Storm, and Psycho Fire, having an effective Base Power of 405, over their 403.
-- The aforementioned points make Flying Memory Mewtwo an excellent Tailwind Sweeper, with almost nothing surviving it
-
-Weaknesses
-- Despite Flying being an elusive Type, it is resisted by a substantial number of Types, many of which it is weak to. Mewtwo can generally cover opposing Rock-Types with Water Sport, but generally wants to run Psycho Fire for Steels, in order to ensure it can OHKO opposing Dialga, Zacian-Crowned, and Steel Memory Necrozma-Dusk-Mane. This leaves Mewtwo vulnerable to opposing Ice-Types, however, and it is especially weak against Ice-Memorized Pokemon.
-- Without Tailwind active, Mewtwo's effective power is significantly lower, having only an effective 270 BP off of Hurricane, which is weaker than Adrenaline Orb Mewtwo's effective 396 BP from Stored Power. Since Flying Memory Mewtwo cannot, itself, hold an Adrenaline Orb, this means that, Flying-Type moves notwithstanding, Flying Memory Mewtwo is universally inferior to both Adrenaline Orb Mewtwo, and even Hightened Mind Mewtwo sets; Without being part of a larger Tailwind set, Flying Memory Mewtwo is a wasted use of Memorization, both for Mewtwo, and the Team as a whole.
-
-Ghost Memory
-Mewtwo @ Ghost Memory  
-Ability: Psychic Power  
-EVs: 252 SpA / 4 SpD / 252 Spe  
-Timid Nature  
-- Shadow Flame / Poltergeist  
-- Aura Sphere / Energy Ball / Aurora Beam / Venoshock
-- Mineral Cannon / Venoshock / Aura Sphere / Solar Beam 
-- Frost Step / Malice Run / Aqua Step / Psychic Wind / Psycho Rush
-
-Strengths
-- Thanks to its Ghost-STAB, and the Memory Mechanic's power bonus: Poltergeist's power rivals that of Stored Power's.
-- In addition to the incredible power it provides: Poltergeist significantly boosts the effectiveness of Mixed Sets.
-- No longer has to worry about Normal-Types such as Meloetta, absorbing its Ghost Coverage, as it can now hit them
-- Significantly improves Mewtwo's longevity, due to its Memory Ability's noteworthy healing properties
-- Allows Mewtwo to serve as a potential switch-in, and answer, to non-Dubious Disc E-Killer Arceus sets
-- Grants an immunity to Fighting-Type moves, and a resistance to Steel-Type moves, shielding Mewtwo completely from Fighting-Type Priority, whilst significantly weakening opposing Bullet Punches.
-- Arguably the Type with the best Matchups against Priority, as most are either neutral hits, or absorbed, with Shadow Sneak being easily handled via Teammates, or even a healthy Mewtwo, under some circumstances.
-- Altogether: These Type-Matchup changes, give Mewtwo a genuine defensive niche, in the Metagame
-
-Weaknesses
-- With the exception of certain Priority Moves: Mewtwo's general vulnerabilities, such as, to Scarfers, and Shadow Sneak--remain unchanged, leaving it susceptible to many of the same answers as Base Mewtwo
-- Loses a noticeable amount of power--Ghost-Type moves, notwithstanding--due to forgoing Adrenaline Orb, which becomes apparent against certain Pokemon, such as Empoleon, and Bulky Dialga sets--if it isn't running Psycho Fire
-- Because of these factors, while the Ghost Memory synergizes well with Mewtwo: It is fully capable of functioning, and fulfilling a nearly identical role, without it, thus, making this a potentially sub-optimal use of Memorization.
-
-Grass Memory
-Mewtwo @ Grass Memory  
-Ability: Psychic Power  
-EVs: 140 Atk / 116 SpA / 252 Spe  
-Naive Nature  
-- Memory Blast  
-- Inferno Beam  
-- Water Sport / Stored Power / Aurora Beam / Blizzard / Mineral Cannon / Power Gem
-- Malice Run / Frost Step / Aqua Step / Psychic Wind / Psycho Rush / Recover
-
-Strengths
-- Gains several useful resistances, particularly against Electric, Fairy, Grass, Steel, and Water, as well as a neutrality to Dark, notably allowing it to: potentially switch into Tapu Koko and Fairyceus in a pinch; Defeat a speed boosted Meowscarada; Use Zacian-Crowned and Groundcian as potential setup-fodder; Perform better against opposing Necrozma Dusk Mane, and potentially check--or even counter opposing Water-Type Pokemon.
-- Improves its Matchup against certain Pokemon, such as Scarf or Sea Incense Kyogre, and Scarf Palkia, as it forces switch-in 50/50s that will result in their inexorable defeat, should they fail to scout Mewtwo's Memory Disc, or otherwise overextend with a Water-Type Move
-- Gains a Stealth Rock resistance, allowing it to increase its longevity
-- Changes its losing Matchup against Calyrex-Shadow into a semi-advantageous one; Capable of setting up a speed boost on any Scarfrex set--including Modest sets, provided it is near or at Full Hp. In particular, Modest Psycho Boost Scarfex only has an 18.8% chance of OHKO'ing an uninvested Mewtwo after receiving Stealth Rock damage
-- Automatically siphons Hp from opposing Water-Type Pokemon, allowing it to simultaneously improve its survivability, and passively weaken its adversaries
-- Allows it to pick off potentially problematic threats, such as Vaporeon, Palkia, and Manaphy, which could otherwise endure at least one hit under most circumstances.
-- Its Status Immunity allows it to potentially use disruptors such as Vaporeon and Klinklang as Recover/Set-Up Fodder
-
-Weaknesses
-- Dubious defensive typing: Exchanges the immediate concern of Calyrex-Shadow, for a laundary list of other Weaknesses, the most notable being Fire and Ice.
-- Sustains significant damage from opposing Kyurem-Black Ice Shards, and gets erased by Bellsprout's Poison Sting
-- 4MSS: Mewtwo needs Memory Blast to justify this set, however it also needs Inferno Beam or Psycho Fire to ensure that Dialga and opposing Steels cannot stop it. If it elects to run a speed boosting Move to avoid getting quashed by Scarfers, it will only be left with one Moveslot to cover its remaining adversaries. Mineral Cannon destroys Ho-Oh and Flying-Types, but leaves it vulnerable to a healthy Entei, while Water Sport destroys both Ho-Oh and Entei, but leaves it vulnerable to Birds. Even if Mewtwo manages to deal with the aforementioned threats: Without a Psychic Move, it will get walled and obliterated by opposing Poison-Type Pokemon. Stored Power can be run as a remedy to this, as well as to grant it another powerful STAB move, however it will still lose against a healthy Ho-Oh
-
-Ground Memory
-Mewtwo @ Ground Memory  
-Ability: Psychic Power  
-EVs: 4 Atk / 252 SpA / 252 Spe  
+Happiness: 255
+EVs: 40 HP / 32 Def / 184 SpA / 252 Spe  
 Naive Nature  
 - Stored Power  
-- Memory Blast  
-- Venoshock / Aura Sphere / Aurora Beam / Mineral Cannon  
-- Poltergeist / Night Daze / Taunt / Malice Run
+- Inferno Beam / Aurora Beam
+- Night Daze / Grass Knot / Shadow Flame / Thunder Snare
+- Psycho Darts
 
-Strengths
-- Enables Mewtwo to nail Ho-Oh, without having to run Mineral Cannon, which effectively only hits Ho-Oh
-- Thanks to the power of Memory Blast, and Ground-Type STAB, Mewtwo can obliterate Ho-Oh, Eternatus, Empoleon, Necrozma-Dusk-Mane, Zekrom, Dialga, and Entei, with a single move slot.
-- Loses its weakness to priority Ghost-Type moves
-- Grants it the ability to situationally beat certain Zekrom sets, after it has set up, including Electric Memory Zekrom
+Details
+- 40 HP EVs and 32 Def EVs allow a Full Health Mewtwo to survive a Speed-Boosted Sacred Sword from +1 Zacian-Crowned, provided it is running a Neutral Nature, and does not have any Damage-Boosting Items
+- These EVs also allow Full Health Mewtwo to survive a Critical Striker Subzero Freeze from Below Freezing Snowball Sandslash-Alola, with a little bit of room to spare
+- Stored Power allows Mewtwo to obliterate most foes who do not resist it, while Inferno Beam allows Mewtwo to shred past most Steel-Type and Dragon-Type Pokemon
+- Aurora Beam can also be run over Inferno Beam to hit certain Flying-Type Pokemon, such as Tornadus
+- Night Daze allows Mewtwo to beat opposing Meloetta, who may otherwise be capable of countering it, while Shadow Flame allows Mewtwo to defeat opposing Mewtwo and Zacian-Crowned with a single slot. If checking these Pokemon is not a concern, Mewtwo can also run Grass Knot or Thunder Snare to improve its Matchup against Water-Type Psychic-Resistant Mew, although this won't be very effective against other Mew sets, such as Fire-Type Mew.
+- Since this Mewtwo has no reliable way to break past certain Mew sets on its own, it generally will not want to run Critical Striker, since it will usually either be powerful enough to defeat foes without it, or may end up wasting its Overdrive on Pokemon that won't fall to it, or could have simply been defeated at a later point had the Mewtwo been more patient
+- For this reason, Speed Blitzer is generally preferred, as it can allow Mewtwo to defeat Pokemon that would otherwise be capable of severely damaging it, or even OHKO'ing it, such as opposing Mewtwo, certain Choice-Locked Pokemon, other Speed Blitzers, or some Set-Up Pokemon, such as Divine Call Arceus
 
-Weaknesses
-- Gains neutrality to Fighting-Type Priority, making it still somewhat vulnerable to threats like Marshadow
-- While it loses its Weaknesses to Ghost-Type Priority, it is replaced by three new weaknesses to Grass, and Ice, and most concerningly--Water -Type Priority, which makes Urshifu Rapid Strike, and Keldeo, into potential checks
-- Ground Memory's aforementioned Memory Blast coverage, can be be approximated by an Adrenaline Orb set of Stored Power, Aura Sphere, Mineral Cannon, and a Dark-Type Move, as this set will hit, and OHKO all of the aforementioned Pokemon, with the exception of Empoleon, Necrozma-Dusk-Mane, and significantly invested Dialga sets. Meanwhile, another Pokemon could be given the Ground Memory, as they likely need it more.
-- This problem becomes exacerbated by the high demand placed upon Mewtwo, to handle the other top attackers in the tier, such as Calyrex-Shadow; Mewtwo will want to run Dark Coverage to support its Team, however this creates significant overlap with Base Mewtwo's Adrenaline Orb sets
-- Mewtwo must also be extra wary of opposing Calyrex-Ice, which can tank most of Mewtwo's attacks, and OHKO in return. This only reinforces the need to run an additional Dark-Type move, however, with a set of Stored Power, Memory Blast, and Night Daze, this only leaves one free slot left. Mewtwo gains one free move slot, in exchange for using the Team's only Memory Slot.
 
-Ice Memory
-Mewtwo @ Ice Memory  
+Ability Shield (Speed Blitzer)
+Mewtwo @ Ability Shield  
 Ability: Psychic Power  
-EVs: 4 HP / 252 SpA / 252 Spe  
+Happiness: 255
+EVs: 124 Atk / 132 SpA / 252 Spe  
+Hasty Nature  
+IVs: 0 Def  
+- Stored Power  
+- Dynamic Punch  
+- Shadow Flame  
+- Psycho Darts
+
+Details
+- Ability Shield allows Mewtwo to potentially punch massive holes into opposing threats who normally rely on their abilities to mitigate the power of its Psychic-Type Moves.
+- With the minimum EVs, and a Defense-Lowering Nature, Mewtwo is able to produce a powerful Dynamic Punch that is able to shred through Pokemon that the move is strong against, allowing it to compensate for its reduced damage output
+- Psycho Darts is a powerful tool that allows Mewtwo to pick off weakened threats, or to potentially guarantee an advantageous outcome against certain opponents
+- Shadow Flame allows Mewtwo to hit both Ghost-Weak Pokemon, and opposing Steel-Type Pokemon, Super-Effectively. It can also be swapped out with Night Daze, if needed, however the expansive coverage of this move generally makes it the superior option
+- Speed Blitzer can allow Mewtwo to not only force a victory against opposing Mewtwo without Speed Blitzer, but can also allow it to defeat certain speed-boosted or Scarfed, or Speed Blitzer Pokemon, if it predicts correctly
+
+Nasty Plot (Super Healer)
+Mewtwo @ Twisted Spoon  
+Ability: Psychic Power  
+Happiness: 251  
+EVs: 40 HP / 32 Def / 184 SpA / 252 Spe  
 Timid Nature  
-- Psycho Fire  
-- Memory Blast  
-- Venoshock / Recover 
+- Stored Power  
+- Inferno Beam / Shadow Flame / Aura Sphere / Dragon Flame / Psycho Fire
+- Grass Knot / Night Daze / Shadow Flame / Thunder Snare
+- Nasty Plot
+
+Details
+- After a Nasty Plot Boost, Mewtwo is generally able to deal significant damage to most of the Tier, with even notable resists such as Psychic-Resistant Mew or Meloetta being hit hard by its devastating Stored Power
+- Furthermore, the Speed Boost granted by Twisted Spoon allows Mewtwo to outspeed all but the fastest Pokemon, with most of them having to combine a Choice-Scarf with Speed Blitzer to move ahead of it
+- Since Stored Power alone is enough to clear away most threats, Mewtwo will generally want to reserve its remaining slots for the few Pokemon that are capable of resisting it
+- Inferno Beam, Psycho Fire, Aura Sphere, and Dragon Flame are all decent options for hitting opposing Steel-Type Pokemon hard, with each move covering a different spread of Type-Matchups
+- Grass Knot and Thunder Snare can be useful options for hitting Pokemon such as Water-Type Psychic-Resistant Mew, or other Bulky Water-Type Pokemon, while Night Daze can help Mewtwo manage opposing Meloetta
+- Mewtwo's Nasty Plot can continue to terrorize the Meta even after Twisted Spoon has been used, and can potentially be leveraged as a means of winning the game if it is used strategically
+- Due to the explosive nature of most interactions involving Mewtwo, setting up a Nasty Plot is generally a risky endeavor, as if will often rely on either predicting a switch, or switching in--on the same turn, against a Pokemon incapable of forcing it out.
+- Because of the high probability of eithe needed to take a hit, or eat a Status Condition to activate this Set, Mewtwo will generally want to run Super Healer as its Overdrive, since it allows it to continue fighting for the longest possible amount of turns
+
+
+Anti-Meta (Critical Striker)
+Mewtwo @ Adrenaline Orb  
+Ability: Psychic Power  
+Happiness: 250  
+EVs: 40 HP / 32 Def / 184 SpA / 252 Spe  
+Timid Nature  
+- Stored Power  
+- Mystery Bind  
+- Gene Therapy  
 - Night Daze
 
-Strengths
-- Enables Mewtwo to serve as a potential Kyogre and Palkia check, potentially denying Teams their only Mewtwo answer
-- Bulkier Special Defense, in general, allowing it to even take hits and respond, against mons like Scarfed Caly-S
-- Allows Mewtwo to blast through even the bulkiest Inveigle Landorus-T sets, due to its overwhelming power
-- Annihilates Ground-Types, and Dragon-Types, in general, due to Memory Blast being its best Ice Move
-- Gains a number of useful resistances, including Flying, Ice, Water, and Normal
-- This allows Mewtwo to potentially answer opposing Dragon Dance Rayquaza, and enables it to revenge kill E-Killer Arceus.
-- Due to its amazing Defensive Utility: Mewtwo can viably run Recover on this set, to significantly increase its longevity
-- Whereas most natural Ice-Types, are either slow, or frail: Mewtwo's solid stat distribution, combined with its limitless coverage, makes it one of the best Ice-Types in the game.
-
-Weaknesses
-- Steepest drop in Power: Ice Coverage is debatably necessary to justify the slot, however this demand, paired with the lack of Adrenaline Orb's Power Boost, potentially forces Mewtwo to drastically revamp its moveset, to function optimally
-- Psychic Storm is needed to ensure Mewtwo can properly check Kyogre, Palkia, and other Water-Types, however, the relatively average Base Power of this move, paired the absence of an Adrenaline Orb to boost its power, significantly limits Mewtwo's damage output, overall. This is partially compensated for, through Memory Blast, but only partially.
-- In addition to the aforementioned points: Mewtwo will likely need Recover to manage these threats, and offset its lack of immediate power, which would restrict its free coverage, to one move
-- Due to this, Mewtwo particularly struggles against Steel-Types; Neither Aura Sphere, nor Psycho Fire, OHKO Empoleon, while Empoleon can OHKO in return, and neither moves do anything to Necrozma-Dusk-Mane; Running coverage for potential Necrozma, in turn, leaves Mewtwo countered by Empoleon, and even if it ran moves for both, Calyrex-Ice would still wall it. The same problem applies, if Mewtwo runs Mineral Cannon, or Poltergeist/Night Daze, for Calyrex-Ice.
-- Lastly, similarly to the Dark Memory: Mewtwo gains a weakness to Fighting Priority, which, in turn, opens the door for dangerous Pokemon with dubious Matchups against Base Mewtwo, such as Marshadow, and Gallade, to become confident Revenge-Killers.
-- All of these factors result in Ice Memory Mewtwo having a greater dependence on the overall Team's collective strength, rather than its own indiviudal power, to bring out its full capabilities
-
-Poison Memory
-Mewtwo @ Poison Memory  
-Ability: Psychic Power  
-EVs: 4 HP / 252 SpA / 252 Spe  
-Timid Nature  
-- Stored Power / Psycho Fire
-- Venoshock / Memory Blast 
-- Inferno Beam / Aura Sphere / Mineral Cannon
-- Dark Pulse / Malice Run / Recover
-
-Strengths
-- Due to its Memory Ability's effect of raising both stats by 1 stage, upon switching in: Mewtwo is significantly bulkier.
-- Imparts a number of useful resistances, including Electric, Fairy, and Fire
-- Together, this makes Mewtwo into a decent Zekrom, Xerneas, and Entei contingency check
-- As Mewtwo is no longer burdened by its middling Defenses, it can afford to run moves, such as Recover, and can even experiment with set-up, or Team Support moves
-- Due to all of the aforementioned factors: Mewtwo can obliterate opposing Vaporeon, Fairyceus, and Xerneas, while gaining the ability to potentially 1v1, and OHKO, Scarf Palkia
-
-Weaknesses
-- Poetically, for all of the useful resistances Mewtwo has gained: It is now weak to Psychic-Type moves, placing it at an even greater disadvantage against opposing Mewtwo, and Scarfed Calyrex-Shadow, neither of which care about Mewtwo's stat boosts, while forcing Mewtwo to either use a slot to run coverage for them, or eschew coverage, in favor of repeatedly switching out, once they enter the field, sacrificing your momentum.
-- Due to the abundance of powerful Steel-Type Pokemon, such as Dialga, Necrozma-Dusk-Mane, and Klinklang: It is necessary for Mewtwo to run an additional coverage option to manage these threats. Additionally, Mewtwo also needs to run Psychic-Coverage to avoid getting OHKO'd by Calyrex-Shadow, however it cannot reliably employ Malice Run to this end, as it also needs to accomodate opposing Mewtwo, which are unfazed by it. When considering its compulsory STAB-Move, it is left with only one free moveslot
-
-Psychic Memory
-Mewtwo @ Psychic Memory  
-Ability: Psychic Power  
-EVs: 4 HP / 252 SpA / 252 Spe  
-Timid Nature  
-- Psycho Fire / Psychic Storm / Psystrike
-- Aura Sphere / Inferno Beam
-- Psycho Darts / Mineral Cannon
-- Nasty Plot / Psychic Wind
-
-Strengths
-- Boosts the power of Mewtwo's Offensive Utility moves, such as Psychic Storm, and Psychic Wind, to the point where they are comparable in Base Power to an itemless Mewtwo's Stored Power
-- With a combination of Nasty Plot and Psycho Darts, Mewtwo can run a "Psycho-Killer" set that can potentially sweep the opposing Team
-- The boost to Psychic Wind, in particular, allows Mewtwo to use it on a weakened opponent, to faint it, and potentially initiate a sweep 
-- This improves Mewtwo's utility, somewhat, as it allows it to compress its coverage, without having to run moves that would ordinarily fall below the Meta's Power-Standard.
-- Boosts the power of Mewtwo's Priority Move, Psycho Darts, as well as its strongest Physical Psychic-Type Move, Psycho Blitz, on account of the STAB-stacking Bonus, that same-Type Memory Discs impart
-- Mewtwo's Comeuppance also receives a noticeable power increase, allowing it to easily dispense of threats like Lunala, and Necrozma-Dawn-Wings, provided they are not Memorized into a non-Psychic Type.
-
-Weaknesses
-- While Psychic Wind and Psycho-Killer sets can be devastating when executed properly, without these particular sets, the Disc loses much of its effectiveness
-- This is the only Memory Disc with an actual penalty, particularly to Mewtwo's Burst Moves, meaning that, unlike with many other Pokemon, Mewtwo cannot simply use its same-Type Memory Disc as a direct upgrade for its vanilla sets.
-
-Water Memory
-Mewtwo @ Water Memory  
-Ability: Psychic Power  
-EVs: 4 HP / 252 SpA / 252 Spe / (Physical: 4 HP / 252 Atk / 252 Spe)
-Timid Nature / (Physical: Jolly / Naive)
-- Stored Power / Psycho Fire 
-- Water Sport / Memory Blast / Wave Crash
-- Inferno Beam / Aura Sphere / Aqua Leap
-- Frost Step / Malice Run / Night Daze / Aqua Rise
-
-Strengths
-- Aqua-Killer: With the combined power of Aqua Leap, and Aqua Rise, Mewtwo can increase its damage output to near unmanageable levels, enabling it to OHKO Cresselia with a 252 Atk Wave Crash, deal massive damage to its resists, and even OHKO opposing uninvested Calyrex-Shadow with Aqua Jet, after Stealth Rock Damage
-- Significantly increases the power of Mewtwo's Water-Type moves, to the point where Hydro Pump can be used as a possible substitute for Stored Power, and can one-shot Ho-Oh, and Entei.
-- Grants Mewtwo a spammable STAB, and improves its Matchup against certain threats, like Landorus-T
-- Compliments Mewtwo's Stored Power, granting Mewtwo the ability to "dual-wield", and hit opponents with, effectively, two distinct Stored Powers, that each have entirely separate Type-Matchups
-- Additionally, Mewtwo also receives a Power Bonus to its Ethereal Stream, which allows it to nail both Dialga, and Ho-Oh, without having to run Psycho Fire or Aura Sphere, and Mineral Cannon, respectively. It also hits Specially Defensive Assault Vest Lando-T hard, and OHKOs Entei, and every Zygarde Forme.
-- Synergizes well with Rain Teams, on account of its Typing, and access to powerful Rain-Boosted Moves, such as its Water-Type Moves, Psychic Storm, and Flash.
-- Fares notably better against standard Water-Type Checks, such as Suicune, Empoleon, Eternatus, and Calyrex-Ice, due to its massive selection of coverage moves, including Psychic Storm, Venoshock, Psycho Fire, Night Daze, and Mineral Cannon
-- Loses its weakness to Ghost-Type Priority.
-
-Weaknesses
-- Swaps Fighting, and Ghost Priority weaknesses, for Grass, and Poison ones, the latter of which can be significantly boosted in power, via a Toxic Orb
-- Is similar enough to Mewtwo, outside of its Aqua-Killer set, that it be suboptimal to run this Memory, without it. Using it, however, makes Mewtwo more predictable, and easier for opponents to deal with.
-- Difficulty in finding a definitive niche, as the Meta generally already prepares for Water-Type moves, in consideration of Kyogre, who is arguably a significantly better Water-Type Pokemon
-- Water Memory Mewtwo does not reliably check Kyogre, as it lacks the additional Special Defense boost, that its counterpart, Ice Memory, has, and additionally is weak to Electric-Type moves, allowing Sea Incense Kyogre to potentially beat it down
-- Mewtwo gains a number of weaknesses, such as to Grass, Electric, Poison, and Lustrous Stream, while gaining nothing that it couldn't already do, in return.
+Details
+- Stored Power deals tremendous damage to the Tier, oftentimes even through resists. Most Pokemon that do not immediately get OHKO'd, will usually fall within K.O. range from a single round of Rocks, or the slightest chip
+- Mystery Bind is a powerful Prediction-Tool that Mewtwo can use to corrode the health and PP of opposing Ability-Walls
+- Gene Therapy turns Status-Walls from calamitous Matchups, to welcome ones, as Mewtwo can reduce them to being Set-Up Fodder
+- Night Daze allows Mewtwo to obliterate other Mewtwo, as well as Pokemon that may attempt to wall Mewtwo through means of their own Psychic-Typing
+- Critical Striker is an extraordinarily powerful tool, allowing Mewtwo to potentially blast through resists, or even OHKO certain neutral Pokemon that may have otherwise been outside of Stored Power's K.O. range
+- This set's nigh-reactionary nature theoretically makes it more reliant on auxiliary Team Support, compared to standard Adrenaline Orb or Ability Shield sets, however, as Mewtwo tends to be nearly unbeatable against Pokemon that are not specifically being used to check it, optimizing itself to remove those checks can sometimes cause this set to become more oppressive compared to its counterparts. It should, nonetheless, be used with due caution.
 
 
-
-						Mewtwo Microanalysis
-
-Adrenaline Orb
-Mechanics: Boosts the power of Mewtwo's moves
-Usage Tips: Best for All-Out Attacking sets, as it is a strictly offensive Item; Likely Mewtwo's best offensive Item
-Pros: Grants a Power Boost comparable to that of a Life Orb, without the Recoil
-Cons: Doesn't provide Mewtwo with a means of raises its Speed, often forcing it to rely on Psychic Wind, to do so; Provides no direct Defensive Utility.
-
-Berserk Gene
-Mechanics: Mewtwo is perpetually burned, however its Atk is Raised by 2 stages upon switching in.
-Usage Tips: Rain cures all burns, and prevents burns from happening; Mewtwo's Rain-Boosted Water-Moves are capable of dispatching most of the threats that would ordinarily require Dark-Type Moves, such as opposing Mewtwo, Calyrex-Shadow, and Meloetta.
-Pros: Extremely high reward if used properly; Enables Mewtwo to use its more obscure Physical Moves, without having to Memorize
-Cons: Requires significant Team Support and setup to execute properly; Without it, Mewtwo becomes effectively itemless
-
-Dawn Stone
-Mechanics: Pokemon's first successful Special-Move has x1.5 Power; Single Use..
-Usage Tips: Best paired with Hightened Mind; Abstain from using Mewtwo until Teams are sufficiently weakened, then unleash its full power (ideally on a wall) when the time is right.
-Pros: With Dawn Stone's Boost: Aura Sphere, and Water Sport, can potentially OHKO Dialga, and Ho-Oh, respectively. Excellent means of manually triggering Mewtwo's Hightened Mind ability.
-Cons: Only good for a Single Use, and can thus be exploited, if the opponent predicts it.
-
-Energy Powder
-Mechanics: Raises Pokemon's Speed by 1 stage upon successfully landing a Super-Effective Move
-Usage Tips: Best used in the Mid to Late Game phase to ensure Mewtwo's Sweep goes unimpeded; Utility will ultimately prove more important than raw power, as Mewtwo will struggle to OHKO foes, such as Bulky Dialga, due to lacking its Adrenaline Orb. Thus, Psycho Fire may be a superior investment, over moves such as Stored Power, and Aura Sphere, as it condenses their roles. A Dark-Type move should also be run, to handle opposing Mewtwo, Meloetta, Cresselia, and Calyrexs. The other slots, however, are customizable.
-Pros: Enables Mewtwo to potentially increase its Speed, without relying on weak Moves, such as Psychic Wind
-Cons: Sacrifices the power of Adrenaline Orb, and only activates once. If Mewtwo fails to sweep, and is forced to switch out, it will be left Itemless
-
-Odd Incense
-Mechanics: Doubles the Base-Power of Psychic-Type moves, if the Pokemon is at or below 1/4 Max HP
-Usage: Run Psystrike/Stored Power, Psycho Fire/Aura Sphere/Mud Bomb/Night Daze/Water Sport, Psycho Darts, and Nasty Plot.
-Pros: Easily the set with the highest overall Damage Output; Allows it to beat opposing priority with its own; Doesn't depend on coverage as a primary means to deal game-deciding Damage; Can potentially sweep Teams.
-
-Cons: Requires extensive knowledge on the Metagame, so as to know what will proc, and what will just be unnecessary Damage, that potentially causes other moves that would have procced, to simply K.O. Mewtwo, instead; Most limited coverage out of all of Mewtwo's sets; Mewtwo needs Psycho Darts to justify this set's use over another, more consistent one, yet it also needs Psystrike, to improve its Matchup against Meloetta, Cresselia, and both Calyrexs, (Stored Power can potentially one shot the first three, but will fail to OHKO Calyrex-Ice). This leaves one final slot to handle the rest of Odd Incense Mewtwo's Bad MUs, such as Yveltal, Empoleon, Darkrai, and most concerning of all, Muk-Alola, which tanks both Psystrike and Psycho Darts, and generally gives this set a hard time.
-
-Sweet Apple
-Mechanics: Heals Pokemon by a certain amount, upon switching out
-Usage Tips: Allows Mewtwo to fearlessly brawl with Pokemon that otherwise might not always be OHKO'd by Mewtwo, but cannot OHKO it, in return, such as Cresselia, Gliscor-Ice, and Muk-Alola; Keeps Mewtwo healthy, which is relevant in certain Matchups, such as Timid Scarf Palkia, which threatens Mewtwo, but does not usually OHKO it, outright.
-Pros: Significantly improves Mewtwo's longevity; Enables Mewtwo to play more aggressively, and wear down bad Matchups
-Cons: Sacrifices the Power Boost of Adrenaline Orb, which in turn may force it into using redundant, or otherwise riskier moves to achieve the desired damage output.
-
-Twisted Spoon
-Mechanics: Raises Mewtwo's Spe by 2 stages upon using a Status-Move; Resets all stats after successfully causing two Pokemon to faint via an attacking move. Single Use.
-Usage Tips: Hits through Protect for 1/2 Damage; Best used with Nasty Plot; Good for crippling opposing Teams in the Mid to Late game; Keeps Twisted Spoon's Native x1.2 Psychic-Move boost
-Pros: Enables Mewtwo to overcome Scarfers, whilst allowing it to use Nasty Plot without sacrificing its momentum
-Cons: Significantly narrower intrinsic Power Boost compared to Adrenaline Orb; Decentivizes switching, as doing so after activating the Item would waste it; Mewtwo becomes itemless after depleting its Twisted Spoon, or switching out after it has been activated
-
-
+=======================================================================================================================
 
 						    Quick Sets
 
@@ -1449,6 +1138,7 @@ Jolly Nature
 Description: Calyrex-Ice's incredible natural 180/260/200 bulk, paired with its ability, Ice Scales, allows Calyrex-Ice to endure hits from even the Meta's strongest, while still having enough HP to retaliate, and stay on the field. Unfortunately, Calyrex-Ice was held back by its Psychic/Ice Typing, which among other things, left it vulnerable to powerful moves like Mewtwo's Comeuppance, Mineral Cannon, or Night Daze, Ho-Oh's and Entei's Sacred Fire, or Arceus' Rock Wrecker. Fortunately, the Electric Memory not only amelioriates these issues, but provides it with an offensive typing that has been gaining a notable amount of traction against opposing Tailwind Teams: The Electric Type. Thanks to its Base 350 Attack, Calyrex-Ice is able to OHKO anything from Vaporeon, to Yveltal, and even Skarmory, with its powerful Memory Blast, while still maintaining enough power compared to its Snowball sets, to keep its Glacial Lance OHKOs against the Pokemon it hits Super-Effectively, such as Eternatus, Yveltal, or Landorus-Therian. Electric Calyrex-Ice works best under Tailwind, so Skarmory and Yveltal tend to pair well with it. Whenever possible, use Glacial Lance to secure K.O.'s if Calyrex-Ice's Attack does not have at least one positive stage boost, as Glacial Lance will raise its Attack by 1 stage, if it doesn't already have at least +1 in its Attack.
 
 
+=======================================================================================================================
 
 
 						     Laboratory           
@@ -1502,7 +1192,8 @@ EVs: 40 HP / 32 Def
 Raw Stats: 491 Hp / 414 Def
 Example: +1 252 Atk Zacian-Crowned Sacred Sword vs. 40 HP / 32 Def Mewtwo: 415-490 (84.5 - 99.7%) -- guaranteed 2HKO
 =====================================================================================================================
-						      Section B    
+						      Section B*    
+* Disclaimer: This Section is outdated, and may not reflect the current state of the Meta
 						     Ultra Assist
 Description: "Ultra Assist" is one of the new Mechanics introduced in Pokemon Memories that allows a Pokemon with an Assist Drive to become the "Anchor" for their Team, Fainting upon switching in to provide various benefits to their Teammates. In keeping with the concept that all Pokemon are unique and special in their own way; The effects of each Ultra Assist depends on the Anchor's Species, Stats, and Typing, with the highest raw stat ("Dominant"/"Primary") Stat receiving the highest boost, while ("Recessive"/"Secondary") Stats receive a smaller one. Additionally, any opposing Moves corresponding to the Anchor's own Type(s) will deal reduced damage to the Anchor's Team, allowing for players to insulate themselves from otherwise problematic opponents. Finally, certain Pokemon--known as EX Pokemon--sacrifice the ability to grant stat boosts in exchange for the power to grant the Team unique properties with varying effects.
 

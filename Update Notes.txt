@@ -1,5 +1,217 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v2.0.0
+General
+- Animations
+	- The following Moves have received modified Animations: "Alluring Voice", "Dragon Flame", "Gallant Blade", "Parting Gift", "Shadow Volley", "Snow Prism", "Thunder Snare"
+- The following moves have been corrected to receive a power boost when used by Meloetta: "Chatter", "Clanging Scales", "Snarl", "Snore"
+- Clear Body-Related Abilities
+	- Abilities or Items with Stat-Dropping effects that bypassed the Memory Version of Fairy Aura (Such as Flower Shield, Chilling Neigh, Grim Neigh, etc) now bypass the effects of all "Clear Body" Abilities, including the Base, Non-Memory Variants
+- Miscellaneous
+	- Psycho Buster has been renamed to Photon Buster
+
+Mechanics
+- Memorization
+	- Super Memorization
+		- Super Fairy Aura
+			- Additional Effect: Immune to Passive Damage
+			- Passive Healing Restoration: 1/10 -> 1/8
+				- Duration: 4 -> 8
+					- Note: Despite intending for this effect to last for 10 Turns, it only lasted for 4 Turns due to an oversight. The current number of Turns has now been modified to reflect these corrections, and balancing adjustments
+
+
+Formats
+- Balanced Hackmons
+	- Ruleset (Note: These changes apply to both BH and Unlimited BH by default; Those marked by "*" only apply to BH)
+		- Banlist Additions
+			- Dual Wielder
+			- Gene Therapy*
+			- Parting Gift*
+			- Utility Lock*
+		- Clause Additions
+			- Primal Groudon Clause*
+				- Primal Groudon can only be accessed by a Groudon holding a Red Orb
+					- Explanation: With solid defenses, a good typing, and a Base Attack Stat that reaches into the 400s, Primal Groudon's ability to exert tremendous pressure upon the Tier was virtually rivaled by none. Whether it was capitalizing off of its terrifying Desolate Land, running troublesome support sets, or, worse yet, utilizing its access to Memorization to become nigh-uncounterable: This Pokemon's offensive answers were oppressively limited, and its defensive answers, non-existent. The particular set that ultimately influenced this decision, however, was its Water Memory + Primordial Sea / Sacred Fire + Sacred Water set, which perfectly exploited the already concerning power of each of these particular moves, to create an uncounterable combination that warped the very foundation of the Tier.
+
+
+
+Abilities
+- Gallant
+	- Implemented
+	- Effect: Raises the Pokemon's Defense by 1 Stage, and multiplies the Base Power of the Pokemon's moves by x1.3 if it has any positive stat boosts
+- Hightened Mind
+	- Additional Effect: Pokemon gains the Permaburst Effect while this Ability is active
+- Inertia
+	- Additional Effect: Ignores the Priority Boosts granted from the opponent's Triage (although the Power Penalty from Triage will still remain in effect)
+- Malleate
+	- Additional Effect: Pokemon's Resisted Electric-Type Attacks deal doubled damage
+- Shadow Eater
+	- Effect: Any opponent that attacks this Pokemon will have its Stat Changes reset, and sustain 1/4 of the Damage they inflict, if they have any positive boosts
+- Shadow Draw
+	- Additional Effect: Pokemon reflects all increased Priority Moves when at Max Hp; Pokemon restores 1/5 of its Max Hp upon switching out
+
+
+Items
+- Lure Ball
+	- Effect: Rayquaza's Speed is raised by 1 Stage, if it has more than 1/2 of its Max Hp when Switching In. Pokemon's Speed drops by 1 stage after successfully landing an attack. This Speed-Dropping Effects ignores Clear Abilities. Multi-Use.
+	- Attrition: +1
+
+
+Moves
+- Alluring Voice
+	- Base Power: 80 -> 130
+	- Effect: Confuses Opponent who raised their stats during the Turn -> Targets the opponent's Defense Stat, and heals the user by 1/8 of their Max Hp after each use.
+	- Users: Manaphy, Meloetta, Mew, Phione, Primarina, Skeledirge
+- Astral Nauts
+	- Implemented
+	- Base Power: ((Target's Max Hp / 4) + 10)
+		- Minimum Base Power: 80
+		- Maximum Base Power: 250
+	- Accuracy: 100
+	- Category: Special
+	- Contact: Yes
+	- Effect: Power scales in proportion to the target's HP Stat.
+	- PP: 20
+	- Type: ???
+	- Users: Azelf, Mesprit, Mewtwo, Mew, Uxie
+- Dragon Flame
+	- Implemented
+	- Base Power: 150
+	- Accuracy: 100
+	- Category: Special
+	- Contact: No
+	- Effect: Hits opposing Steel-Types Super-Effectively.
+	- PP: 5
+	- Type: Dragon
+	- Users: Arceus, Giratina, Mewtwo
+- Entrainment
+	- Updated the Changelog Entry to make the added exceptions more apparent
+- Gallant Blade
+	- Implemented
+	- Base Power: 160
+	- Accuracy: 100
+	- Category: Physical
+	- Contact: Tactile
+	- Effect: Hits opposing Water-Type Pokemon Super-Effectively, and Psychic-Type Pokemon neutrally.
+	- PP: 5
+	- Type: ???
+	- Users: Gallade
+- Gene Therapy
+	- Implemented
+	- Base Power: __
+	- Accuracy: __
+	- Category: Status
+	- Contact: __
+	- Effect: Restores 1/2 of the User's Max Hp. If the User has any Status Conditions, it will attempt to transfer the status condition to the opponent; The User will be cured of its status conditions regardless of whether the Status Condition was transferred. If the user had a Status Condition when this move was used, it will receive a +1 Boost to its highest Attacking Stat, if the Stat does not have any Positive Boosts
+	- Reflected by Magic Bounce: Yes
+	- PP: 5
+	- Type: Psychic
+	- Users: Mewtwo
+- Ice Twister
+	- Implemented
+	- Base Power: ((Target's Max Hp / 4) + 10)
+		- Minimum Base Power: 80
+		- Maximum Base Power: 250
+	- Accuracy: 100
+	- Category: Special
+	- Contact: Yes
+	- Effect: Power scales in proportion to the target's HP Stat.
+	- PP: 20
+	- Type: ???
+	- Users: Darkrai, Kyurem, Mewtwo, Mew
+- Parting Gift
+	- Implemented
+	- Base Power: __
+	- Accuracy: __
+	- Category: Status
+	- Contact: __
+	- Effect: Switches the user out, and attempts to set a layer of Toxic Spikes on the opponent's side
+	- Reflected by Magic Bounce: Yes
+	- PP: 5
+	- Type: Poison
+	- Users: Gengar
+- Scorching Sands
+	- Category: Physical -> Varies (Physical by Default; Special if Pokemon's Special Attack stat is higher)
+	- Additional Effect: Hits opposing Fairy-Type Pokemon neutrally
+	- New Users: Garchomp, Groudon, Landorus, Swampert
+- Shadow Volley
+	- Implemented
+	- Base Power: 75
+	- Accuracy: 100
+	- Category: Special
+	- Defensive Category: Physical
+	- Contact: __
+	- Multi-Hits: 2
+	- Effect: Targets the opponent's Physical Defense, and hits 2 Times. Each hit has a 10% Chance to lower the target's Special Defense by 1 Stage
+	- PP: 5
+	- Type: ???
+	- Users: Gengar
+- Thunder Snare
+	- Implemented
+	- Base Power: ((Target's Max Hp / 4) + 10)
+		- Minimum Base Power: 80
+		- Maximum Base Power: 250
+	- Accuracy: 100
+	- Category: Special
+	- Contact: Yes
+	- Effect: Power scales in proportion to the target's HP Stat.
+	- PP: 20
+	- Type: ???
+	- Users: Mewtwo, Mew, Thundurus
+- Torch Song
+	- Implemented
+	- Base Power: 80 -> 130
+	- Attrition Point: +1
+
+
+Pokemon
+- Gallade
+	- Learnset Additions
+		- Celebrate
+		- Flip Kick
+		- Gallant Blade
+		- Psycho Rush
+		- Sweet Retreat
+	- Gallade-Mega
+		- Ability: Long Reach -> Gallant
+- Gengar
+	- Learnset Additions
+		- Aromatic Mist
+		- Parting Gift
+		- Shadow Volley
+		- Toxic Spikes
+- Mewtwo
+	- Learnset Additions
+		- Magma Storm
+		- Surf
+- Raikou
+	- Learnset Additions
+		- Frigid Blast
+- Skeledirge
+	- Implemented
+	- Base Stats
+		- Hp: 104 -> 224
+		- Atk: 75 -> 175
+		- Def: 100 -> 250
+		- SpA: 110 -> 210
+		- SpD: 75 -> 185
+		- Spe: 66 -> 136
+		- BST: 530 -> 1180
+	- Learnset Additions
+		- Crowd Control
+		- House Cleaning
+		- Magma Storm
+		- Memory Blast
+		- Parting Shot
+		- Strength Sap
+		- Sweet Retreat
+- Thundurus
+	- Learnset Additions
+		- Autotomize
+		- Battle Cry
+		- Low Sweep
+
+
 Pokemon Memories v1.9.9
 General
 - Animations
