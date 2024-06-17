@@ -21,7 +21,7 @@ Section C
 	• Viability Rankings
 	• History of the Format
 
-(184 Total)
+(186 Total)
 						      Section A    
 						    Standard Ubers
 						      Highlights
@@ -34,29 +34,31 @@ Description: Certain Pokemon are given "Highlights", which will be posted here. 
 					              [ Psychic ]
 			    	(Hp: 170/Atk: 335/Def: 185/SpA: 338/SpD: 185/Spe: 187) BST: 1400
 					 Psychic Power/Hightened Mind/Antipathy
- 				[Dark Memory/Fairy Memory/Poison Memory/Psychic Memory]
+ 				 [Dark Memory/Dubious Disc/Fairy Memory/Psychic Memory]
 
 
 Description: Between its peerless offenses, blistering speed, and its perfectly distributed defenses; Mewtwo is an unparalleled force of mass destruction in this Meta. Whereas most Pokemon are biased toward specific sets, which serve as the primary cause for their exalted viability; Mewtwo is able to continuously adapt its sets on the fly, allowing it to always keep its opponents guessing. Its perfectly placed stats leave it with no major vulnerabilites, and its access to a nearly unlimited movepool, encompassing every Type in the game, makes it nigh uncounterable. Simply figuring out the opposing Mewtwo's set, is itself, a daunting task, and actually managing to successfully defeat it, is something that will usually only be possible after a very long struggle between both sides. Mewtwo's combination of attributes make it a force to be reckoned with, and when paired with its dangerous unpredictability, powerful teammates, signature items, and phenomenal abilities; This Genetic Masterpiece proves itself to be a powerful Pokemon that is second to none. We dreamed of creating the most powerful Pokemon, and we succeeded.
 
 
 
+							  Mew
+					              [ Psychic ]
+			    	(Hp: 230/Atk: 260/Def: 200/SpA: 260/SpD: 200/Spe: 170) BST: 1320
+					 	 Synchronize/Progenitor
+ 					        [No Preferred Memories]
+
+Description: Mew's fantastic defenses, solid speed, and nearly unlimited movepool, all make it a rather impressive Pokemon at first glance, however what truly sets Mew apart, is its access to Progenitor, which allows Mew to resist the Types corresponding to the Moves in its first two Moveslots. Ordinarily, Mew will remain as a Psychic-Type Pokemon, however if the move in the Fourth Moveslot is a Status Move, Mew's Type will change to match the Type of the Move in its First Moveslot. Thanks to these properties, Mew is able to continuously redefine itself to handle nearly any foe in a manner almost reminiscent of Mewtwo, with Mew's Support capabilities mirroring those of Mewtwo's offensive ones. With access to Diffusion Wave, Calamity Wing, Healing Wing, Royal Retreat, a number of Hazard-Clearing Moves, and most of all, Heavenly Mist--allows Mew to compress a number of crucial functions into a single Team Slot, while remaining dynamic enough through its malleable Typing, to avoid being built around and exploited to the same degree that its other Meta Staple peers are susceptible to. In addition to the aforementioned benefits, Progenitor also provides Mew with the rare ability to ignore the Effective-Modifying properties of opposing Moves, as a move which corresponds to Mew's selected resistances, will always be resisted, even if the move would generally ignore these properties, or hit Super-Effectively under normal circumstances. This property grants Mew the ability to defensively answer certain Meta-Threats that would otherwise be nigh-unmangeable, otherwise. If Mewtwo can do anything that the player wants it to do, Mew can be whatever the player desires it to be. For this reason, Mew's level of importance and power is among the absolute highest in the Meta, rivaling--and perhaps even surpassing, that of its Clone's.
+
+
 							Arceus
 					               [Normal]
 			    	(Hp: 200/Atk: 300/Def: 210/SpA: 300/SpD: 210/Spe: 180) BST: 1400
 						 Multitype/Omnipotent
-					        [Dubious Disc/Up-Grade]
+					            [Dubious Disc]
 
 
-Description: While Mewtwo uses its 1400 BST to emphasize Offense; Arceus optimizes its Base Stat Distribution to ensure it can be as versatile and efficient as possible. With Omnipotent as its Ability and a Chilan Berry equipped, Arceus is easily capable of shredding through the majority of its foes through its Normal-Type Moves alone. Never one to be outdone, however, also possesses an special ability which Mewtwo can only imitate: An additional x1.3 STAB Boost to all of its Non-STAB Moves, which can gain an additional x1.5 Power Boost if Arceus is carrying the right Damage-Reducing Berry that corresponds to the Type of move it wishes to use. Finally, Omnipotent will also grant Arceus an immunity corresponding to the Type of the Damage-Reducing Berry, allowing it to potentially use its Berry Slot defensively to suffocate opposing threats with more limited movepools. Arceus is easily one of the most powerful Pokemon, and if one is not sufficiently prepared for the Original One's Presence, its powerful Heaven Dance sets will send its foes to Heaven.
+Description: While Mewtwo uses its 1400 BST to emphasize Offense; Arceus optimizes its Base Stat Distribution to ensure it can be as versatile and efficient as possible. With Omnipotent as its Ability and a Chilan Berry equipped, Arceus is easily capable of shredding through the majority of its foes through its Normal-Type Moves alone. Never one to be outdone, however: Arceus also possesses a special ability which Mewtwo can only dream of: An additional x1.3 STAB Boost to all of its Non-STAB Moves, which can gain an additional x1.5 Power Boost if Arceus is carrying the right Damage-Reducing Berry that corresponds to the Type of move it wishes to use. Finally, Omnipotent will also grant Arceus an immunity corresponding to the Type of the Damage-Reducing Berry, allowing it to potentially use its Berry Slot defensively to suffocate opposing threats with more limited movepools. Arceus is easily one of the most powerful Pokemon, and if one is not sufficiently prepared for the Original One's Presence, its powerful Heaven Dance sets will send its foes to Heaven.
 
-
-							Kyogre
-						       [ Water ]
-			    (Hp: 160/Atk: 240/Def: 180/SpA: 320/SpD: 280/Spe: 160) BST: 1340
-					           Drizzle/Antipathy
-
-Description: Kyogre's well-balanced stats, fantastic Water-Typing, and peerless Ability, in Drizzle, allows it to fulfill a number of important roles within its Team. Its powerful Rain-Boosted Offenses allow it to punch massive holes in the opposing Team, while its Defensive Capabilities provide it with the power to even potentially survive hits from opposing Mewtwo and Calyrex. Despite its number of viable checks already being limited: Kyogre's access to the powerful Thunder Wave gives it the ability to face even the very Pokemon that were designed to oppose it, and potentially overcome them if played correctly, while Tailwind provides the powerful King of the Sea with a means of finishing off Teams that were weakened by the ferocious power of the devastating Rainfall that it and its allies deluged their enemies with. Kyogre may be a fundamentally simple Pokemon, however it is precisely this simplicity that gives it the power to consistently terrorize even the strongest of Teams. Before going outside, one should always caution to pack an Umbrella, lest this powerful force of nature submerge you beneath the power of the Sea.
 
 
 						     Calyrex-Shadow
@@ -66,37 +68,8 @@ Description: Kyogre's well-balanced stats, fantastic Water-Typing, and peerless 
 					       [Ghost Memory/Fairy Memory]
 
 
-Description: In addition to having a dangerous Psychic/Ghost Type-Combination; Calyrex-Shadow also possesses an incredible Speed Stat, and one of the highest Special Attack stats in the game. Because of the incredible power it possesses, particularly through its devastating Astral Barrage, and Psycho Boost, Calyrex often doesn't even need to hold a damage-boosting Item to deal massive amounts of damage, and is easily capable of applying immense pressure on opposing Teams through its sheer presence alone. With its massive Speed Stat, Calyrex is capable of outspeeding almost every viable Pokemon in the game, and with a Choice Scarf in its possession, it is capable of even leaving foes like Mewtwo in the dust. In keeping with its Ghost-Typing, Calyrex has a few more tricks up its sleeves; With its Elemental Stones, Calyrex-Shadow can change the Type of its Hyper Beam, to potentially allow it to shred through foes that it would otherwise struggle to break, while its limited, yet potent--Memorization skills, allow it to augment either its coverage, or power, to the point where even the sturdiest Teams can find themselves brought to kneel before this High King. Calyrex-Shadow may not excel in unpredictability, but across all of its sets, it is surprisingly versatile, and those who leave themselves vulnerable to its powerful offensive onslaughts, will find themselves left with a Team full of Ghost-Types.
+Description: While relatively inconspicuous on its own: When Memorized into a Ghost-Type, Calyrex-Shadow blooms into one of the most dangerous and powerful Pokemon in the entire Tier. Power Spot's Memorization Boost, paired with its stratospheric Special Attack--which surpasses even Mewtwo's, allows it OHKO or 2HKO most of the Tier, while its blistering Speed Stat grants it the ability to outspeed the majority of the Tier. Furthermore, while several powerful Pokemon with similar properties exist in the Tier, Calyrex-Shadow manages to distinguish itself from them through its fantastic Ghost-Typing, and above-average Defenses, which allows it to consistently switch in to Support Pokemon to turn them into its own personal fodder. Calyrex-Shadow may not be particularly oppressive on its own, but when it and its Memory Disc are battling As One, the outlook for its foes may be quite grim.
 
-
-						      Meowscarada
-						      [Grass/Dark]
-			    	(Hp: 166/Atk: 270/Def: 150/SpA: 261/SpD: 170/Spe: 181) BST: 1198
-						  Parlor Trick/Protean
-
-Description: A Support Pokemon at heart: Meowscarada's incredible Speed allows it to perform its Tricks on almost any Pokemon. Thanks to its incredible Grass/Dark Type Combination, alongside its ability, Parlor Trick, Meowscarada is not only able to check opposing Calyrex-Shadow and Kyogre, but can even potentially tank a Fully Invested Adamant Sunsteel Strike from a +2 Atk Steel Memory Necrozma Dusk Mane. In addition to its Defensive Support capabilities; Meowscarada is also a fantastic Offensive Support Pokemon, being able to boost its speed with Trailblaze, or deal heavy damage to threats like Landorus-Therian, or opposing Meowscarada, through Slush Switch, respectively. Best of all, however, is its signature move, Flower Trick, which allows Meowscarada to change a Pokemon's Type, and lower both of their Defenses, while directly reducing the opponent's damage output for the Turn; A set of properties that Meowscarada is able to exploit, to weaken walls for itself or allies, endure otherwise fatal hits, or even cripple Pokemon that relied on Elemental Orbs as their primary source of power, such as Tapu Koko, or Entei. Meowscarada is one of the best disruptors in the game, and no matter what Team one goes up against, it will almost always find a way to support its Teammates. Foes should take care not to underestimate this Trickster, lest they soon discover that the Joke is on them.
-
-
-
-							A-Tier
-
-						       Meloetta
-						   [Normal/Psychic]
-			    	(Hp: 170/Atk: 108/Def: 177/SpA: 288/SpD: 288/Spe: 170) BST: 1201
-					    Serene Grace/Ensemble/Amplifier
-
-
-Description: Ever the Songstress: This Musical Pokemon's love for its craft is evident through its ability to hit 50% harder with any Sound-Move as a result of its Special Mechanic. This, paired with its favorite Item, Throat Spray, allows this seemingly delicate Pokemon to become a rather ferocious threat once it sets up with Flutter Song or Flutter Dance. With its resonant Hyper Voice, Meloetta can melt even the coldest of hearts--and health bars, while those Pokemon with wills too powerful to be overcome by the Mythical Pokemon's magnificent Melodies--such as Mewtwo and Calyrex-Shadow, find themselves getting shouted out of the Audience--as well as the opponent's Party, through Screech. Meloetta's final move of choice places its artistic range on full display, as it gracefully switches to its nimble Pirouette Forme to deliver a devastating Storm Throw through the power of its Signature Ability: Ensemble. One may be tempted to stop and marvel at the offensive capabilities of this charming Pokemon, however the show does not end there. Ever intrepid: Meloetta's Normal-Typing allows it to remain completely unfazed by the vitriol of opposing Ghosts. Yes, even the noble King, Calyrex-Shadow, great as it is, finds itself powerless before the influence of this Musical Queen, and even its great Spectral Powers cannot quash the Song in its Heart. Meloetta does have one weakness, however: It has a tendency to be rather domineering, especially when it is on stage. If one wishes to share the stage with Meloetta, they best come before it as an ally, as any dissenters or opponents will be swept away.
-
-
-							Dialga
-						    [Steel/Dragon]
-			        (Hp: 230/Atk: 280/Def: 210/SpA: 280/SpD: 180/Spe: 160) BST: 1340
-					     Antipathy/Telepathy/Regenerator
-			  [Dark Memory/Dubious Disc/Fairy Memory/Fire Memory/Ice Memory/Rock Memory]
-
-
-Description: Dialga's massive defensive stats, stratospheric offenses, and excellent Type-Combination already make it a force to be reckoned with, however what truly sets it apart from the rest of its peers is access to one of the best Abilities, and one of the best moves in the game--in Regenerator and Shell Smash respectively. Thanks to these two powerful resources, Dialga is capable of fulfilling a multitude of roles, from bulky tank, dedicated offense, hazard support, or even various hybrids of these sets--all while maintaining its Ability to perform excellently during games, and even potentially sweep through the opponent's Team. Dialga's ability to run nearly any kind of set--including frightening mixed sets, while synergizing with nearly every viable Item in the Tier--is unrivaled, and it is easily the most customizable Pokemon in the entire game. When building a Team, it is vital that players prepare an answer for this Master of Time, lest they find their ephemeral existence ground to dust.
 
 
 
@@ -117,49 +90,50 @@ Note: Pokemon beneath the S-Tier(s), are listed alphabetically; Pokemon in the l
 
 Viability Rankings
 
-S-Tier (6 Total)
+S-Tier (5 Total)
+
+S+
+Arceus
 
 S
 Mewtwo
-Gengar-Mega
-Arceus
+Mew
 
 S-
-Mew
-Eternatus (A; Dragon Memory + SpA-Positive Nature)
+Tornadus
 Calyrex-Shadow (A-; Fairy Memory/Ghost Memory)
 
 A-Tier (20 Total)
 The Pokemon in this Tier and the following Tiers are listed in Alphabetical Order
 
 A+
-Kyurem-White (A-; Ice Memory)
-Tornadus
-Victreebel
+Eternatus (A; Dragon Memory + SpA-Positive Nature)
+Gengar-Mega
+Kyurem-White (A-; Dragon Memory)
+Phione
+Rayquaza
 Zacian-Crowned
 
 A
-Arceus-Ghost
-Darkrai
-Lilligant-Hisui
-Mantine
+Dondozo
 Porygon-Z (A-; Dark Memory)
-Rayquaza
 Sandslash-Alola
+Skeledirge
+Tapu Koko
 
 A-
-Arcanine-Hisui
+Arceus-Ghost
+Darkrai
 Deoxys-Attack
 Heatran
-Ho-Oh (B+; Dragon Memory + Regenerator)
+Lilligant-Hisui
+Mantine
 Meowscarada
-Reshiram
-Spectrier
+Victreebel
 Zekrom
-Zoroark-Hisui
 
 
-B-Tier (90 Total)
+B-Tier (93 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
@@ -169,11 +143,11 @@ Arceus-Electric
 Arceus-Fire
 Arceus-Water
 Azumarill
-Bellsprout
-Calyrex-Ice
 Dialga
+Giratina
 Golurk
 Greninja-Ash
+Ho-Oh
 Hoopa
 Hoopa Unbound
 Infernape
@@ -194,21 +168,25 @@ Necrozma-Dawn-Wings
 Necrozma-Dusk-Mane
 Necrozma-Ultra
 Palkia
-Phione
 Pikachu-Original
-Raikou
 Porygon2
+Raikou
+Reshiram
+Spectrier
 Tapu Bulu
 Tapu Fini
-Tapu Koko
 Thundurus
 Thundurus-Therian
+Yveltal
 
 B
+Arcanine-Hisui
 Arceus-Fairy
 Arceus-Flying
 Arceus-Grass
 Arceus-Ground
+Bellsprout
+Calyrex-Ice
 Darmanitan-Galar-Zen
 Deoxys-Speed
 Entei
@@ -233,7 +211,6 @@ Torterra
 Vaporeon
 Volcanion
 Xerneas
-Yveltal
 Zamazenta-Crowned
 Zapdos-Galar
 
@@ -244,7 +221,6 @@ Celebi
 Darmanitan
 Darmanitan-Galar
 Decidueye
-Giratina
 Groudon
 Gyarados-Mega
 Magearna-Original
@@ -257,6 +233,7 @@ Urshifu-S
 Zarude
 Zygarde
 Zygarde-Complete
+Zoroark-Hisui
 
 
 C-Tier (56 Total)
@@ -1191,6 +1168,21 @@ Surviving Speed Blitzer Zacian-Crowned's Sacred Sword (with a Neutral Nature and
 EVs: 40 HP / 32 Def
 Raw Stats: 491 Hp / 414 Def
 Example: +1 252 Atk Zacian-Crowned Sacred Sword vs. 40 HP / 32 Def Mewtwo: 415-490 (84.5 - 99.7%) -- guaranteed 2HKO
+--
+Surviving Speed Blitzer Tornadus-Therian' Surf (without a neutral SpA Nature)
+Optimal EVs
+EVs: 112 HP / 20 SpD
+Raw Stats: 509 Hp / 411 SpD
+Total EVs: 132 EVs
+
+Alternate EVs
+EVs: 136 HP
+Raw Stats: 515 Hp
+Total EVs: 136 EVs
+
+Explanation: Although Mewtwo already has a >50% chance to survive a Surf from Tornadus even without any particular investment, providing Mewtwo with the Optimal EVs listed above, allows it to always survive a hit from it, provided it is at Full HP. Mewtwo can also survive by investing 136 EVs into HP alone, however this demands an additional 4 EVs from Mewtwo, which could be invested elsewhere.
+
+Example: 252 SpA Tornadus-Therian Surf vs. 136 HP / 0 SpD Mewtwo in Rain: 436-514 (84.6 - 99.8%) -- guaranteed 2HKO
 =====================================================================================================================
 						      Section B*    
 * Disclaimer: This Section is outdated, and may not reflect the current state of the Meta

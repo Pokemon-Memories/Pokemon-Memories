@@ -1,9 +1,155 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v2.0.1
+General
+- Animations
+	- The following Moves have received Animations: "Aqua Jet", "Aqua Punch", "Bubble Spin", "Dragon Jaw", "Healing Plea"
+	- The followig Moves have received modified Animations: "Ice Twister"
+- Miscellaneous
+	- Water Punch renamed to Aqua Punch
+
+Formats
+- Limited Ubers
+	- Banlist Removals
+		- Shield Dance
+- Ubers
+	- Banlist Removals
+		- Shield Dance
+- Ultra Assist
+	- Banlist Removals
+
+Abilities
+- Lightning Force
+	- Neutralized Resistances: Dragon/Rock -> Fire
+- Power Spot
+	- Ghost-Type Boost when Memorized: x1.3 -> x1.2
+- Sea King
+	- Implemented
+	- Effect: Pokemon ignores the opponent's Stat Changes; Pokemon's Stats cannot be lowered by the opponent; Pokemon will always resist opposing Water-Type and Flying-Type Moves if Rain is active. Pokemon restores 1/8 of its Max Hp upon switching out
+	- Memory Effect: Pokemon restores 1/10 of its Max Hp at the end of each Turn
+- Shadow Eater
+	- Additional Effect: The opponent will deal 1/2 their usual damage if they have any Positive Boosts in any Stat, including non-Attacking Stats, such as Speed (This effect does not work against Mewtwo's Abilities). Pokemon restores 1/4 of its Max Hp upon switching out
+
+Items
+- Sweet Apple
+	- Health Restoration: 1/5 -> 1/4
+
+Moves
+- Bubble Spin
+	- Implemented
+	- Base Power: 90
+	- Accuracy: 100
+	- Category: Status
+	- Contact: __
+	- Effect: Hits opposing Memorized Pokemon Super-Effectively; Resets the user's Stats upon successfully connecting
+	- Priority: 1
+	- PP: 5
+	- Type: Water
+	- Users: Phione
+- Earth Run
+	- Category: Special -> Varies (Special by Default; Physical if Attack is higher)
+- Ensnarement
+	- Implemented
+	- Base Power: ((Target's Max Hp / 4) + 10)
+		- Minimum Base Power: 80
+		- Maximum Base Power: 250
+	- Accuracy: 100
+	- Category: Special
+	- Contact: Yes
+	- Effect: Power scales in proportion to the target's HP Stat.
+	- PP: 20
+	- Type: ???
+	- Users: Floette, Floette-Eternal, Gardevoir, Meloetta, Mewtwo, Mimikyu, Sylveon, Tapu Bulu, Tapu Fini, Tapu Koko, Tapu Lele, Xerneas
+- Healing Plea
+	- Implemented
+	- Base Power: __
+	- Accuracy: __
+	- Category: Status
+	- Contact: __
+	- Effect: Pokemon restores its Health. The amount restored decreases with each use
+		- Attrition (By Use): 50%, 40%, 30%, 20%
+	- PP: 5
+	- Type: Water
+	- Users: Dondozo
+- Psychic Order
+	- Implemented
+	- Base Power: __
+	- Accuracy: __
+	- Category: Status
+	- Contact: __
+	- Effect: Pokemon restores health equal to 1/4 of its Special Attack at the end of the Turn, and continues to heal 1/16 of its health for the next 3 Turns
+	- Priority: 0
+	- PP: 5
+	- Type: Psychic
+	- Users: Mewtwo
+- Rising Power
+	- Restrictions: This move will only raise the Pokemon's Attack once per switch in, even if the Pokemon is beneath the Move's Attrition point. Attack Stat drops by 1 stage upon successfully causing two opponents to faint (Bypases Clear-Abilities)
+
+Pokemon
+- Dondozo
+	- Implemented
+	- Ability Replacements
+		- Unaware -> Stamina
+		- Water Veil -> Sea King
+	- Base Stats
+		- Hp: 150 -> 300
+		- Atk: 100 -> 240
+		- Def: 115 -> 235
+		- SpA: 65 -> 185
+		- SpD: 65 -> 205
+		- Spe: 35 -> 105
+		- BST: 530 -> 1270
+	- Learnset Additions
+		- Dragon Tail
+		- Flip Turn
+		- Healing Plea
+		- House Cleaning
+		- Memory Blast
+		- Parting Shot
+		- Roar
+		- Royal Submersion
+		- Sweet Retreat
+		- Yawn
+- Manaphy
+	- Base Stats
+		- Spe: 140 -> 160
+	- Learnset Additions
+		- Aromatic Mist
+- Mantine
+	- Learnset Additions
+		- Roar
+		- Whirlwind
+- Mew
+	- Learnset Additions
+		- Aromatherapy
+		- Jungle Healing
+		- Leech Seed
+- Phione
+	- Base Stats
+		- Spe: 176 -> 183
+	- Learnset Additions
+		- Ethereal Stream
+		- Aqua Spin
+- Rayquaza
+	- Learnset Additions
+		- Dragon Flame
+- Sableye
+	- Learnset Additions
+		- Aqua Ring
+		- Dragon Tail
+		- Roar
+		- Uproar
+- Tornadus
+	- Learnset Removals
+		- Grass Knot
+		- Sludge Bomb
+		- Sludge Wave
+		- Volt Tackle
+
 Pokemon Memories v2.0.0
 General
 - Animations
-	- The following Moves have received modified Animations: "Alluring Voice", "Dragon Flame", "Gallant Blade", "Parting Gift", "Shadow Volley", "Snow Prism", "Thunder Snare"
+	- The following Moves have received Animations: "Alluring Voice", "Dragon Flame", "Gallant Blade", "Gene Therapy", "Parting Gift", "Shadow Volley", "Snow Prism", "Thunder Snare"
 - The following moves have been corrected to receive a power boost when used by Meloetta: "Chatter", "Clanging Scales", "Snarl", "Snore"
 - Clear Body-Related Abilities
 	- Abilities or Items with Stat-Dropping effects that bypassed the Memory Version of Fairy Aura (Such as Flower Shield, Chilling Neigh, Grim Neigh, etc) now bypass the effects of all "Clear Body" Abilities, including the Base, Non-Memory Variants
@@ -189,6 +335,8 @@ Pokemon
 		- Frigid Blast
 - Skeledirge
 	- Implemented
+	- Added Abiliies
+		- Shadow Eater
 	- Base Stats
 		- Hp: 104 -> 224
 		- Atk: 75 -> 175
