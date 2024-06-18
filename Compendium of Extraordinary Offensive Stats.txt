@@ -1,54 +1,61 @@
 Offensive Stats over 300
 
-Attack (73 Total)
+Attack (79 Total)
 
-Mega Mewtwo X: 450
-Deoxys Attack: 405
-Mega Rayquaza: 400
-Primal Groudon: 400
-Thundurus Therian: 385
+Mewtwo-Mega-X: 450
+Deoxys-Attack: 405
+Suicune-Shadow*: 402
+Groudon-Primal: 400
+Rayquaza-Mega: 400
+Lucario-Shadow*: 385
+Thundurus-Therian: 385
 Kartana: 381
 Leafeon: 380
-Mega Gallade: 370
-Mega Garchomp: 370
-Mega Tyranitar: 364
-Hoopa Unbound: 358
-Mega Charizard X: 353
-Arceus Fighting: 350
-Calyrex Ice: 350
+Gallade-Mega: 370
+Garchomp-Mega: 370
+Tyranitar-Mega: 364
+Hoopa-Unbound: 358
+Charizard-Mega-X: 353
+Arceus-Fighting: 350
+Azumarill-Shadow*: 350
+Calyrex-Ice: 350
 Mimikyu-Busted: 350
 Buzzwole: 339
-Ultra Necrozma: 337
-Mega Blaziken: 335
+Necrozma-Ultra: 337
+Blaziken-Mega: 335
 Mewtwo: 335
+Mewtwo-Shadow*: 335
 Melmetal: 333
-Mega Latios: 330
+Latios-Mega: 330
 Solgaleo: 327
 Deoxys: 320
+Entei-Shadow*: 320
 Gallade: 320
 Groudon: 320
 Rayquaza: 320
 Slaking: 320
 Entei: 320
-Zacian Crowned: 320
+Zacian-Crowned: 320
 Zarude-Dada: 320
 Zekrom: 320
-Mega Lopunny: 316
+Darkrai-Shadow*: 316
+Lopunny-Mega: 316
 Arcanine-Hisui: 315
 Bellsprout: 315
 Glastrier: 315
-Mega Diancie: 315
+Diancie-Mega: 315
 Rampardos: 315
+Victreebel-Shadow*: 314
 Keldeo Resolute: 310
 Torterra: 309
-Mega Lucario: 308
+Lucario-Mega: 308
 Decidueye: 307
-Necrozma Dusk Mane: 307
+Necrozma-Dusk-Mane: 307
 Pikachu-Original: 307
 Pikachu-Sinnoh: 307
+Aerodactyl-Mega: 305
 Genesect: 305
 Incineroar: 305
-Mega Aerodactyl: 305
 Mienshao: 305
 Tyrantrum: 301
 Arceus-Bug: 300
@@ -67,54 +74,62 @@ Arceus: 300
 Darmanitan-Galar: 300
 Golurk: 300
 Kyurem-Black: 300
-Mega Aggron: 300
-Mega Scizor: 300
+Aggron-Mega: 300
+Scizor-Mega: 300
 Regigigas: 300
+Regigigas-Shadow*: 300
 Terrakion: 300
 Zacian: 300
 Zapdos-Galar: 300
 
-Special Attack (61 Total)
+Special Attack (69 Total)
 
-Mega Mewtwo Y: 450
-Deoxys Attack: 405
-Mega Rayquaza: 400
-Primal Kyogre: 400
+Mega-Mewtwo-Y: 450
+Mewtwo-Shadow*: 428
+Dialga-Shadow*: 420
+Deoxys-Attack: 405
+Kyogre-Primal: 400
+Rayquaza-Mega: 400
 Thundurus: 385
-Mega Gengar: 380
-Hoopa Unbound: 370
-Mega Charizard Y: 359
-Arceus Psychic: 350
-Calyrex Shadow: 350
-Mega Mewtwo X: 340
+Rapidash-Shadow*: 383
+Gengar-Mega: 380
+Hoopa-Unbound: 370
+Charizard-Mega-Y: 359
+Arceus-Psychic: 350
+Calyrex-Shadow: 350
+Sunflora-Shadow*: 350
+Mewtwo-Mega-X: 340
+Palkia-Shadow*: 340
 Mewtwo: 338
-Mega Blaziken: 335
-Ultra Necrozma: 333
+Blaziken-Mega: 335
+Necrozma-Ultra: 333
 Xurkitree: 333
+Lucario-Shadow*: 330
 Tapu Lele: 330
 Lunala: 327
-Mega Camerupt: 325
+Camerupt-Mega: 325
 Arceus-Ghost: 320
 Deoxys: 320
+Gardevoir-Mega: 320
 Kyogre: 320
-Mega Gardevoir: 320
 Rayquaza: 320
 Reshiram: 320
 Bellsprout: 315
+Diancie-Mega: 315
 Spectrier: 315
-Mega Diancie: 315
-Keldeo Resolute: 310
+Victreebel-Shadow*: 314
+Keldeo-Resolute: 310
 Naganadel: 307
-Necrozma Dawn Wings: 307
+Necrozma-Dawn-Wings: 307
 Pikachu-Original: 307
 Pikachu-Sinnoh: 307
-Mega Lopunny: 306
+Lopunny-Mega: 306
 Primarina: 306
-Eternal Floette: 305
+Floette-Eternal: 305
 Eternatus: 305
+Eternatus-Eternamax: 305
 Genesect: 305
-Mega Gengar: 305
-Mega Lucario: 303
+Lucario-Mega: 303
 Arceus-Bug: 300
 Arceus-Dark: 300
 Arceus-Dragon: 300
@@ -131,11 +146,11 @@ Arceus-Water: 300
 Arceus: 300
 Darkrai: 300
 Darmanitan-Galar-Zen: 300
-Kyurem White: 300
+Kyurem-White: 300
 Mimikyu-Busted: 300
 Moltres-Galar: 300
-Rotom Fan: 300
-Rotom Heat: 300
+Rotom-Fan: 300
+Rotom-Heat: 300
 Urshifu-Rapid-Strike: 300
 Urshifu-Single-Strike: 300
 

@@ -27,6 +27,10 @@ Section C
 	• Special Mechanic: Ultra Assist
 		• Mechanics
 		• EX-Assists
+	• Special Mechanic: Shadow Forme
+		• Mechanics
+		• Shadow Pokemon
+		• Shadow Moves
 	• Additional Mechanics
 		• Mega Evolution
 Section D
@@ -43,12 +47,14 @@ Section E
 			• Attrition
 		• Limited Distribution Moves/Universally Unlearned Moves
 		• New Terminology
-			• Burst Moves
-			• Kinetic Moves
-			• Super Moves
-			• Superstatus Moves
-			• Beast Abilities
-			• Type-Breaking Moves
+			• Moves
+				• Burst Moves
+				• Kinetic Moves
+				• Super Moves
+				• Superstatus Moves
+				• Type-Breaking Moves
+			• Abilities
+				• Beast Abilities
 		• Special Move Interactions
 Section F
 	• List of Affected Moves
@@ -1495,7 +1501,7 @@ Def: 185 -> 205 = +20
 SpA: 338 -> 340 = +2
 SpD: 185 -> 205 = +20
 Spe: 187 -> 210 = +23
-BST: 1340 -> 1580
+BST: 1400 -> 1580
 New Ability: Steadfast -> Psycho Force
 Special Moves
 Vanishing Strike
@@ -1508,11 +1514,13 @@ Def: 185 -> 165 = -20
 SpA: 338 -> 450 = +112
 SpD: 185 -> 340 = +155
 Spe: 187 -> 210 = +23
-BST: 1340 -> 1580
+BST: 1400 -> 1580
 New Ability: Insomnia -> Psychic Assault
 Special Moves
 Psychic Infinity
 
+
+Abilities
 Psychic Power
 Effect: Multiplies damage of Super-Effective Attacks by x1.3; Pokemon's Moves have x1.1 Base Power, if they are holding a Choice Item. Pokemon's Burst-Moves are always at Full Power. Immunity to Abilities that lower the Pokemon's stats when the opponent switches in. Incapacitates if user isn't Mewtwo.
 
@@ -2723,6 +2731,7 @@ New Moves
 Aqua Fang
 Aqua Jet
 Aqua Soul
+Close Combat
 Ethereal Stream
 Express Heal
 Flip Turn
@@ -3665,6 +3674,7 @@ Dark Pulse
 Dragon Dance
 Dynamic Punch
 Flame Charge
+Flip Kick
 Leaf Blade
 Light Screen
 Mystery Wave
@@ -4159,16 +4169,21 @@ Added Ability: Midnight Veil
 New Moves
 Aromatic Mist
 Aura Sphere
+Avalanche
 Baneful Bunker
 Chaos Switch
+Close Combat
 Comeuppance
 Cosmic Starfall
 Dark Abyss
+Dynamic Punch
+Earthquake
 Explosion
 Ice Twister
 Inferno Beam
 Knock Off
 Malice Run
+Mineral Cannon
 Mind Cleaner
 Moonlight
 Mystery Bind
@@ -10186,6 +10201,7 @@ Ruleset
 - Memory Ability Clause: Pokemon must be Memorized to use Memory Abilities
 - Paralysis Clause Mod: Only one opposing Pokemon can be Paralyzed at any given time*
 - Primal Groudon Clause: Primal Groudon can only be accessed through a Groudon holding a Red Orb
+- Shadow Ability Clause: Pokemon must be in their Shadow Formes to use Shadow Abilities
 - Sleep Clause: Only one opposing Pokemon can be put to Sleep at any given time
 - Stacking Clause: Teams cannot run a Memory Disc and Assist Drive concurrently*
 
@@ -10655,7 +10671,7 @@ SpA: 30% Special Attack Boost / 10% Atk
 SpD: 40% Special Defense Boost / 10% Def
 Spe: 50% Speed Boost when at Full Health
 
-EX Assists
+EX-Assists
 EX Calyrex-Shadow
 Effect: Normal-Type and Psychic-Type Pokemon become Ghost-Type Pokemon
 
@@ -10706,6 +10722,230 @@ Effect: Grants the Party an Immunity to opposing Dragon-Type and Poison-Type Mov
 
 EX-Zamazenta
 Effect: Protects Pokemon in the Party from being forced out by the opponent. Opposing Moves that attempt to force members in the Party out will restore 1/4 of their Max Hp
+==============================================================================================================
+Special Mechanics: Shadow Forme   
+--
+New Item: Strange Ball
+Effect: Allows certain Pokemon to transform into Shadow Pokemon, which increases their Power, at the cost of survivability
+
+Mechanics
+All Shadow Pokemon will have their Type Changed to be their First-Type + the Ghost-Type, and will receive what is called a "Shadow State". Pokemon with this effect receive an additional 20% Power Boost, at the cost of losing 1/10 of their Max Hp at the end of each Turn.
+
+Penalty: Pokemon under the Shadow State will be unable to restore their Health, even with the use of an Overdrive
+
+Restrictions: Only one Shadow Submersion can be used per game. If another Pokemon with a Strange Ball switches in after a Shadow Submersion has already Transformed, the Item will have no effect
+
+Compatible Pokemon
+Azumarill
+Darkrai
+Dialga
+Entei
+Lucario
+Palkia
+Mewtwo
+Rapidash
+Regigigas
+Suicune
+Sunflora
+Victreebel
+Total: 12
+
+Universally Learned Moves
+Shadow Cannon
+Shadow Blast
+Shadow Switch
+
+Shadow Pokemon     
+Azumarill Shadow     
+Type: Water/Ghost
+Hp: 170 -> 170 = +0
+Atk: 200 -> 350 = +150
+Def: 170 -> 140 = -30
+SpA: 130 -> 130 = +0
+SpD: 180 -> 150 = -30
+Spe: 175 -> 185 = +10
+BST: 1025 -> 1125
+Speed Shadow
+Effect: Pokemon's Moves hit with an additional x1.3 Power if it attacks first, or the opponent switches out before it attacks.
+Users: Azumarill
+
+Darkrai Shadow   
+Type: Dark/Ghost   
+Hp: 150 -> 150 = +0
+Atk: 186 -> 316 = +130
+Def: 173 -> 123 = -50
+SpA: 300 -> 320 = +20
+SpD: 190 -> 200 = +10
+Spe: 185 -> 175 = -10
+BST: 1184 -> 1284
+Night Shadow
+Effect: Attempts to trap the opposing Pokemon. Pokemon's Status Moves have perfect accuracy. Does not trap other Pokemon that share this ability
+Users: Darkrai
+
+Dialga Shadow   
+Type: Steel/Ghost  
+Hp: 230 -> 230 = +0
+Atk: 280 -> 200 = -80
+Def: 210 -> 310 = +100
+SpA: 280 -> 420 = +120
+SpD: 180 -> 120 = -60
+Spe: 160 -> 160 = +0
+BST: 1340 -> 1440
+Time Shadow
+Effect: Pokemon restores 1/2 of its Max Hp if it ends the turn while at or below 1/10 of its Max Hp. Pokemon cannot use Armor Smash or Shell Smash
+Users: Dialga
+
+Entei Shadow   
+Type: Fire/Ghost
+Hp: 180 -> 180 = +0
+Atk: 320 -> 320 = +0
+Def: 320 -> 270 = -50
+SpA: 137 -> 187 = +50
+SpD: 170 -> 270 = +100
+Spe: 173 -> 173 = +0
+BST: 1300 -> 1400
+Flaming Shadow
+Effect: Pokemon's Moves will always be Critical Hits if it has any Positive Stat Boosts
+Users: Entei
+
+Lucario Shadow  
+Type: Fighting/Ghost  
+Hp: 140 -> 140 = +0
+Atk: 285 -> 385 = +100
+Def: 179 -> 129 = -50
+SpA: 280 -> 330 = +50
+SpD: 180 -> 180 = +0
+Spe: 171 -> 171 = +0
+BST: 1235 -> 1335
+Aura Shadow
+Effect: Pokemon's Fighting-Type Moves have their Priority increased by 1, and can hit Ghost-Type Pokemon neutrally
+Users: Lucario
+
+Mewtwo Shadow    
+Type: Psychic/Ghost 
+Hp: 170 -> 170 = +0
+Atk: 335 -> 335 = +0
+Def: 185 -> 225 = +40
+SpA: 338 -> 428 = +90
+SpD: 185 -> 155 = -30
+Spe: 187 -> 187 = +0
+BST: 1400 -> 1500
+Legend Shadow
+Effect: Pokemon Moves will always target the Defensive Category corresponding to the opponent's lowest Stat. Pokemon's Scalar-Moves will always have 180 BP
+Users: Mewtwo
+
+Palkia Shadow    
+Type: Water/Ghost
+Hp: 230 -> 230 = +0
+Atk: 280 -> 280 = +0
+Def: 190 -> 170 = -20
+SpA: 280 -> 340 = +60
+SpD: 200 -> 250 = +50
+Spe: 160 -> 170 = +10
+BST: 1340 -> 1440
+Space Shadow
+Effect: Pokemon's Dragon-Type moves will always hit Super-Effectively. If the opponent has multiple Type(s), each of those Types will be hit Super-Effectively
+Users: Palkia
+
+Rapidash Shadow    
+Type: Fire/Ghost
+Hp: 200 -> 200 = +0
+Atk: 250 -> 250 = +0
+Def: 190 -> 170 = -20
+SpA: 243 -> 383 = +140
+SpD: 220 -> 190 = -30
+Spe: 176 -> 186 = +100
+BST: 1289 -> 1389
+Glowing Shadow
+Effect: Pokemon's Fire-Type Moves hit opposing Water-Type Pokemon Super-Effectively, and its Ghost-Type Moves bypass Type-Based Immunities
+Users: Rapidash
+
+Regigigas Shadow    
+Type: Normal/Ghost
+Hp: 230 -> 230 = +0
+Atk: 300 -> 300 = +0
+Def: 205 -> 155 = -50
+SpA: 8 -> 8 = +0
+SpD: 175 -> 325 = +150
+Spe: 162 -> 162 = +0
+BST: 1080 -> 1180
+Titan Shadow
+Effect: Pokemon's Speed Stat is raised by 1 stage upon falling to or below 1/2 of its Max Hp. Pokemon's Normal-Type Moves ignore opposing Type-Based Immunities. Pokemon's Speed Stat can only be raised once per Switch-In
+Users: Regigigas
+
+Suicune Shadow    
+Type: Water/Ghost
+Hp: 170 -> 170 = +0
+Atk: 242 -> 402 = +160
+Def: 235 -> 193 = -42
+SpA: 280 -> 280 = +0
+SpD: 200 -> 170 = -30
+Spe: 173 -> 185 = +12
+BST: 1300 -> 1400
+Swift Shadow
+Effect: Pokemon's Special Attacks have their Priority increased by 1.
+Users: Suicune
+
+Sunflora Shadow     
+Type: Grass/Ghost
+Hp: 205 -> 205 = +0
+Atk: 130 -> 280 = +150
+Def: 150 -> 100 = -50
+SpA: 250 -> 350 = +100
+SpD: 300 -> 140 = -160
+Spe: 135 -> 195 = +60
+BST: 1170 -> 1270
+Floral Shadow
+Effect: Opposing moves that attempt to switch the Pokemon out will be reflected back to the opponent
+Users: Sunflora
+
+Victreebel Shadow     
+Type: Grass/Ghost
+Hp: 200 -> 200 = +0
+Atk: 254 -> 314 = +60
+Def: 245 -> 205 = -40
+SpA: 254 -> 314 = +60
+SpD: 185 -> 185 = +0
+Spe: 162 -> 182 = +20
+BST: 1300 -> 1400
+Mirror Shadow
+Effect: Opposing Fire-Type and Flying-Type Moves are reflected back to the opponent. Pokemon's Moves hits its Resistances Super-Effectively
+Users: Victreebel  
+
+Shadow Moves  
+Note: The following moves can only be used by Pokemon with the Shadow State  
+Shadow Burst   
+Base Power: 150
+Accuracy: 100
+Category: Physical (Special, if Pokemon's SpA is higher)
+Contact: No
+Effect: Move Category depends on Pokemon's highest attacking Stat; Pokemon must have the Shadow State to use this move.
+Priority: +0
+PP: 10
+Target: Normal
+Type: Ghost
+--
+Shadow Cannon   
+Base Power: 240
+Accuracy: 100
+Category: Physical (Special, if Pokemon's SpA is higher)
+Contact: No
+Effect: Hits opposing Normal-Type Pokemon for Half-Effectiveness. Pokemon loses 1/2 of its Max Hp after use. Once used, this Move disappears from the Pokemon's Moveset
+Priority: +0
+PP: 5
+Target: Normal
+Type: Ghost
+-- 
+Shadow Switch   
+Base Power: 80
+Accuracy: 100
+Category: Physical (Special, if Pokemon's SpA is higher)
+Contact: No
+Effect: Switches the Pokemon out.
+Priority: +0
+PP: 5
+Target: Normal
+Type: Ghost
 ==============================================================================================================
 Additional Mechanics
 --
@@ -10923,6 +11163,8 @@ Thunder Wave
 Uproar
 ------------------------------------------------------------------------
 New Terminology     
+Moves
+
 Burst Moves   
 Description: Powerful Attacking moves that have their power reduced under certain conditions
 
@@ -10975,13 +11217,16 @@ Weather Ball
 
 Scalar Moves    
 Description: Moves with Dynamic Base Power values
+Astral Nauts
 Dynamic Punch
 Electro Ball
 Grass Knot
 Gyro Ball
 Heat Crash
+Ice Twister
 Low Kick
 Strange Wave
+Thunder Snare
 
 Super Moves   
 Description: Attacking moves that hit most or all Types Super-Effectively
@@ -10993,18 +11238,29 @@ Description: Moves that behave like Status Moves, but are not classified as such
 Express Heal
 Royal Retreat
 
-Beast Abilities          
-Description: The Abilities belonging to the Three Legendary Beasts: Entei, Raikou, and Suicune
-Burning Beast
-Thunderous Beast
-Torrential Beast
-
 Type-Breaking Moves    
 Description: Moves that bypass Effectiveness-Modifying Abilities. Note that Memory Abilities, and Abilities which grant Immunities are unaffected by these Moves
 Comeuppance
 Affected Abilities: Deep Sea, Evergreen, Light Inversion, Power of Alchemy, Psycho Force, Ultra Shell, Water Veil
 Unaffected Abilities: Empyrean Blaze, Dyslexia, Full Bloom, Progenitor, Unseen Fist, Victory Star*, Weather Guard
 * Has Effectiveness-Modifying Properties as a byproduct of Memorization
+-------------------------------
+Abilities
+
+Beast Abilities          
+Description: The Abilities belonging to the Three Legendary Beasts: Entei, Raikou, and Suicune
+Burning Beast
+Thunderous Beast
+Torrential Beast
+
+Breaker Abilities
+Description: Abilities that bypass opposing Abilities. Trapping Abilities will not work against Pokemon with these Abilities
+Format Drive
+Dragon Power
+Mold Breaker
+Space Power
+Teravolt
+Turboblaze
 ------------------------------------------------------------------------
 Special Move Interactions
 Description: Certain moves may have special properties that are not directly connected to a particular Item or Ability

@@ -1,5 +1,242 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v2.0.2
+General
+- Aliases
+	- The following Aliases have been added
+		- Standard Pokemon
+			- Lucario: "luca"
+			- Rapidash: "rapid"
+			- Regigigas: "gigas", "regi"
+			- Sunflora: "sunflo", "flora"
+			- Victreebel: "victory", "victree"
+		- Shadow Pokemon
+			- Azumarill-Shadow: "azumarillshadow", "azumarills", "azushadow", "azus"
+			- Darkrai-Shadow: "darkraishadow", "darkrais"
+			- Dialga-Shadow: "dialgashadow", "dialgas", "diashadow", "dias"
+			- Entei-Shadow: "enteishadow", "enteis"
+			- Lucario-Shadow: "lucarioshadow", "lucarios", "lucashadow", "lucas"
+			- Mewtwo-Shadow: "mewtwoshadow", "mewtwos", "mew2shadow", "mew2s"
+			- Palkia-Shadow: "palkiashadow", "palkias"
+			- Rapidash-Shadow: "rapidashshadow", "rapidashs", "rapidshadow", "rapids"
+			- Regigigas-Shadow: "regigigasshadow", "regigigass", "regishadow", "regis", "gigasshadow", "gigass"
+			- Suicune-Shadow: "suicuneshadow", "suicunes", "suishadow", "suis"
+			- Sunflora-Shadow: "sunflorashadow", "sunfloras", "sunfloshadow", "sunflos", "florashadow", "floras"
+			- Victreebel-Shadow: "victreebelshadow", "victreebels", "victreeshadow", "victrees", "victories"
+
+Mechanics
+- Trapping Abilities
+	- No longer effective against Pokemon with Breaking (i.e. Mold Breaking) Abilities. This mechanic change applies to Memory Abilities as well
+
+- Shadow Submersion
+	- Implemented
+	- Description: Certain Pokemon are able to transform into Shadow Pokemon by holding a Strange Ball. Shadow Pokemon possess more offensively biased stats compared to their Standard Counterparts. Additionally, Shadow Pokemon are placed under the Shadow State. While in this state, the Base Power of their moves will be increased by an additional 20%, however they will be unable to heal, even from Overdrives
+	- Limitations: Only one Shadow Submersion can be used per game
+	- Compatible Pokemon: Azumarill, Darkrai, Dialga, Entei, Lucario, Palkia, Mewtwo, Rapidash, Regigigas, Suicune, Sunflora, Victreebel
+
+Shadow Pokemon
+- Azumarill-Shadow
+	- Type: Water/Ghost
+	- Base Stats
+		- Hp: 170 -> 170 = +0
+		- Atk: 200 -> 350 = +150
+		- Def: 170 -> 140 = -30
+		- SpA: 130 -> 130 = +0
+		- SpD: 180 -> 150 = -30
+		- Spe: 175 -> 185 = +10
+		- BST: 1025 -> 1125
+		- Ability: Speed Shadow
+		- Effect: Pokemon's Moves hit with an additional x1.3 Power if it attacks first, or the opponent switches out before it attacks.
+- Darkrai-Shadow
+	- Type: Dark/Ghost
+	- Base Stats
+		- Hp: 150 -> 150 = +0
+		- Atk: 186 -> 316 = +130
+		- Def: 173 -> 123 = -50
+		- SpA: 300 -> 320 = +20
+		- SpD: 190 -> 200 = +10
+		- Spe: 185 -> 175 = -10
+		- BST: 1184 -> 1284
+		- Ability: Night Shadow
+		- Effect: Attempts to trap the opposing Pokemon. Pokemon's Status Moves have perfect accuracy. Does not trap other Pokemon that share this ability
+- Dialga-Shadow
+	- Type: Steel/Ghost
+	- Base Stats
+		- Hp: 230 -> 230 = +0
+		- Atk: 280 -> 200 = -80
+		- Def: 210 -> 310 = +100
+		- SpA: 280 -> 420 = +120
+		- SpD: 180 -> 120 = -60
+		- Spe: 160 -> 160 = +0
+		- BST: 1340 -> 1440
+		- Ability: Time Shadow
+		- Effect: Pokemon restores 1/2 of its Max Hp if it ends the turn while at or below 1/10 of its Max Hp. Pokemon cannot use Armor Smash or Shell Smash
+- Entei-Shadow
+	- Type: Fire/Ghost
+	- Base Stats
+		- Hp: 180 -> 180 = +0
+		- Atk: 320 -> 320 = +0
+		- Def: 320 -> 270 = -50
+		- SpA: 137 -> 187 = +50
+		- SpD: 170 -> 270 = +100
+		- Spe: 173 -> 173 = +0
+		- BST: 1300 -> 1400
+		- Ability: Flaming Shadow
+		- Effect: Pokemon's Moves will always be Critical Hits if it has any Positive Stat Boosts
+- Lucario-Shadow
+	- Type: Fighting/Ghost
+	- Base Stats
+		- Hp: 140 -> 140 = +0
+		- Atk: 285 -> 385 = +100
+		- Def: 179 -> 129 = -50
+		- SpA: 280 -> 330 = +50
+		- SpD: 180 -> 180 = +0
+		- Spe: 171 -> 171 = +0
+		- BST: 1235 -> 1335
+		- Ability: Aura Shadow
+		- Effect: Pokemon's Fighting-Type Moves have their Priority increased by 1, and can hit Ghost-Type Pokemon neutrally
+- Mewtwo-Shadow
+	- Type: Psychic/Ghost
+	- Base Stats
+		- Hp: 170 -> 170 = +0
+		- Atk: 335 -> 335 = +0
+		- Def: 185 -> 225 = +40
+		- SpA: 338 -> 428 = +90
+		- SpD: 185 -> 155 = -30
+		- Spe: 187 -> 187 = +0
+		- BST: 1400 -> 1500
+		- Ability: Legend Shadow
+		- Effect: Pokemon Moves will always target the Defensive Category corresponding to the opponent's lowest Stat. Pokemon's Scalar-Moves will always have 180 BP
+- Palkia-Shadow
+	- Type: Water/Ghost
+	- Base Stats
+		- Hp: 230 -> 230 = +0
+		- Atk: 280 -> 280 = +0
+		- Def: 190 -> 170 = -20
+		- SpA: 280 -> 340 = +60
+		- SpD: 200 -> 250 = +50
+		- Spe: 160 -> 170 = +10
+		- BST: 1340 -> 1440
+		- Ability: Space Shadow
+		- Effect: Pokemon's Dragon-Type moves will always hit Super-Effectively. If the opponent has multiple Type(s), each of those Types will be hit Super-Effectively
+- Rapidash-Shadow
+	- Type: Fire/Ghost
+	- Base Stats
+		- Hp: 200 -> 200 = +0
+		- Atk: 250 -> 250 = +0
+		- Def: 190 -> 170 = -20
+		- SpA: 243 -> 383 = +140
+		- SpD: 220 -> 190 = -30
+		- Spe: 176 -> 186 = +10
+		- BST: 1289 -> 1389
+		- Ability: Glowing Shadow
+		- Effect: Pokemon's Fire-Type Moves hit opposing Water-Type Pokemon Super-Effectively, and its Ghost-Type Moves bypass Type-Based Immunities
+- Regigigas-Shadow
+	- Type: Normal/Ghost
+	- Base Stats
+		- Hp: 230 -> 230 = +0
+		- Atk: 300 -> 300 = +0
+		- Def: 205 -> 155 = -50
+		- SpA: 8 -> 8 = +0
+		- SpD: 175 -> 325 = +150
+		- Spe: 162 -> 162 = +0
+		- BST: 1080 -> 1180
+		- Ability: Titan Shadow
+		- Effect: Pokemon's Speed Stat is raised by 1 stage upon falling to or below 1/2 of its Max Hp. Pokemon's Normal-Type Moves ignore opposing Type-Based Immunities. Pokemon's Speed Stat can only be raised once per Switch-In
+- Suicune-Shadow
+	- Type: Water/Ghost
+	- Base Stats
+		- Hp: 170 -> 170 = +0
+		- Atk: 242 -> 402 = +160
+		- Def: 235 -> 193 = -42
+		- SpA: 280 -> 280 = +0
+		- SpD: 200 -> 170 = -30
+		- Spe: 173 -> 185 = +12
+		- BST: 1300 -> 1400
+		- Ability: Swift Shadow
+		- Effect: Pokemon's Special Attacks have their Priority increased by 1.
+- Sunflora-Shadow
+	- Type: Grass/Ghost
+	- Base Stats
+		- Hp: 205 -> 205 = +0
+		- Atk: 130 -> 280 = +150
+		- Def: 150 -> 100 = -50
+		- SpA: 250 -> 350 = +100
+		- SpD: 300 -> 140 = -160
+		- Spe: 135 -> 195 = +60
+		- BST: 1170 -> 1270
+		- Ability: Floral Shadow
+		- Effect: Opposing moves that attempt to switch the Pokemon out will be reflected back to the opponent
+- Victreebel-Shadow
+	- Type: Grass/Ghost
+	- Base Stats
+		- Hp: 200 -> 200 = +0
+		- Atk: 254 -> 314 = +60
+		- Def: 245 -> 205 = -40
+		- SpA: 254 -> 314 = +60
+		- SpD: 185 -> 185 = +0
+		- Spe: 162 -> 182 = +20
+		- BST: 1300 -> 1400
+		- Ability: Mirror Shadow
+		- Effect: Opposing Fire-Type and Flying-Type Moves are reflected back to the opponent. Pokemon's Moves hits its Resistances Super-Effectively
+
+Shadow Moves
+Description: All Pokemon that have access to Shadow Formes are capable of learning these moves, however they can only be used by a Pokemon under the Shadow State
+- Shadow Cannon
+	- Implemented
+	- Base Power: 240
+	- Accuracy: 100
+	- Category: Physical (Special, if the Pokemon's Special Attack is higher)
+	- Contact: __
+	- Effect: Hits opposing Normal-Type Pokemon for Half-Effectiveness. Pokemon loses 1/2 of its Max Hp after use. Once used, this Move disappears from the Pokemon's Moveset
+	- Priority: 0
+	- PP: 5
+	- Type: Ghost
+
+- Shadow Burst
+	- Implemented
+	- Base Power: 150
+	- Accuracy: 100
+	- Category: Physical (Special, if the Pokemon's Special Attack is higher)
+	- Contact: __
+	- Effect: Move Category depends on Pokemon's highest attacking Stat; Pokemon must have the Shadow State to use this move.
+	- Priority: 0
+	- PP: 10
+	- Type: Ghost
+
+- Shadow Switch
+	- Implemented
+	- Base Power: 80
+	- Accuracy: 100
+	- Category: Physical (Special, if the Pokemon's Special Attack is higher)
+	- Contact: __
+	- Effect: Switches the Pokemon out.
+	- Priority: 0
+	- PP: 5
+	- Type: Ghost
+
+Formats
+- Balanced Hackmons
+	- Shadow Ability Clause
+		- Pokemon cannot use Shadow Abilities outside of their Shadow Formes
+		- Also applies to Unlimited BH
+
+Moves
+- Flip Kick
+	- Now hits Ghost-Type Pokemon Semi-Effectively
+
+Pokemon
+- Darkrai
+	- Learnset Additions
+		- Avalanche
+		- Close Combat
+		- Dynamic Punch
+		- Earthquake
+		- Mineral Cannon
+- Lucario
+	- Learnset Additions
+		- Flip Kick
+
 Pokemon Memories v2.0.1
 General
 - Animations

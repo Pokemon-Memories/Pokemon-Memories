@@ -90,27 +90,27 @@ Note: Pokemon beneath the S-Tier(s), are listed alphabetically; Pokemon in the l
 
 Viability Rankings
 
-S-Tier (5 Total)
+S-Tier (6 Total)
 
 S+
 Arceus
 
 S
 Mewtwo
+Phione
 Mew
 
 S-
 Tornadus
 Calyrex-Shadow (A-; Fairy Memory/Ghost Memory)
+Eternatus (A; Dragon Memory + SpA-Positive Nature)
 
 A-Tier (20 Total)
 The Pokemon in this Tier and the following Tiers are listed in Alphabetical Order
 
 A+
-Eternatus (A; Dragon Memory + SpA-Positive Nature)
 Gengar-Mega
 Kyurem-White (A-; Dragon Memory)
-Phione
 Rayquaza
 Zacian-Crowned
 
