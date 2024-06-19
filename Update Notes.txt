@@ -27,10 +27,74 @@ General
 Mechanics
 - Trapping Abilities
 	- No longer effective against Pokemon with Breaking (i.e. Mold Breaking) Abilities. This mechanic change applies to Memory Abilities as well
+- Miscellaneous
+	- Corrected an error where Rayquaza with a Lure Ball could potentially raise its Speed through certain exploits
 
+Formats
+- Balanced Hackmons
+	- Shadow Ability Clause
+		- Pokemon cannot use Shadow Abilities outside of their Shadow Formes
+		- Also applies to Unlimited BH
+
+Abilities
+- Dragon Power
+	- Now correctly labeled as a Mold-Breaking Ability, and as such, receives the accompanying benefits, such as ignoring Trapping Abilities, and receiving an Ability Shield Boost
+
+Items
+- Ability Shield
+	- This Item will not bypass the following Abilities
+		- Progenitor
+			- Mewtwo will still be able to ignore this Ability
+		- Sea King
+			- Only blocks Ability Shield if the user is Memorized
+
+Moves
+- Bind
+	- Base Power: 15 -> 90
+	- PP: 20 -> 10
+- Clamp
+	- Base Power: 35 -> 95
+	- PP: 15 -> 10
+- Flip Kick
+	- Now hits Ghost-Type Pokemon Semi-Effectively
+- Infestation
+	- Base Power: 20 -> 80
+	- PP: 20 -> 10
+- Sand Tomb
+	- Base Power: 35 -> 105
+	- PP: 15 -> 10
+- Whirlpool
+	- PP: 15 -> 10
+- Wrap
+	- Base Power: 15 -> 105
+	- PP: 20 -> 10
+
+Pokemon
+- Darkrai
+	- Learnset Additions
+		- Avalanche
+		- Close Combat
+		- Dynamic Punch
+		- Earthquake
+		- Mineral Cannon
+	- Learnset Removals
+		- Tailwind
+- Dondozo
+	- Learnset Additions
+		- Whirlpool
+		- Wrap
+- Lucario
+	- Learnset Additions
+		- Flip Kick
+- Mew
+	- Learnset Additions
+		- Giga Drain
+
+
+Special Mechanics
 - Shadow Submersion
 	- Implemented
-	- Description: Certain Pokemon are able to transform into Shadow Pokemon by holding a Strange Ball. Shadow Pokemon possess more offensively biased stats compared to their Standard Counterparts. Additionally, Shadow Pokemon are placed under the Shadow State. While in this state, the Base Power of their moves will be increased by an additional 20%, however they will be unable to heal, even from Overdrives
+	- Description: Certain Pokemon are able to transform into Shadow Pokemon by holding a Strange Ball. Shadow Pokemon possess more offensively biased stats compared to their Standard Counterparts. Additionally, Shadow Pokemon are placed under the Shadow State. While in this state, the Base Power of their moves will be increased by an additional 20%, however they will lose 1/20 of their Max Hp at the end of each Turn, and will be unable to heal, even from Overdrives
 	- Limitations: Only one Shadow Submersion can be used per game
 	- Compatible Pokemon: Azumarill, Darkrai, Dialga, Entei, Lucario, Palkia, Mewtwo, Rapidash, Regigigas, Suicune, Sunflora, Victreebel
 
@@ -58,7 +122,7 @@ Shadow Pokemon
 		- Spe: 185 -> 175 = -10
 		- BST: 1184 -> 1284
 		- Ability: Night Shadow
-		- Effect: Attempts to trap the opposing Pokemon. Pokemon's Status Moves have perfect accuracy. Does not trap other Pokemon that share this ability
+		- Effect: When this Ability activates (Upon switching in, having it swapped to another Pokemon, etc), it attempts to trap the opposing Pokemon for two active Turns. This Ability can only trap opposing Pokemon twice per game. Opposing Pokemon with this Ability will not be trapped, however this Ability will still count as having activated. Pokemon's Status Moves have perfect accuracy. Pokemon cannot raise its own Speed Stat.
 - Dialga-Shadow
 	- Type: Steel/Ghost
 	- Base Stats
@@ -215,27 +279,6 @@ Description: All Pokemon that have access to Shadow Formes are capable of learni
 	- PP: 5
 	- Type: Ghost
 
-Formats
-- Balanced Hackmons
-	- Shadow Ability Clause
-		- Pokemon cannot use Shadow Abilities outside of their Shadow Formes
-		- Also applies to Unlimited BH
-
-Moves
-- Flip Kick
-	- Now hits Ghost-Type Pokemon Semi-Effectively
-
-Pokemon
-- Darkrai
-	- Learnset Additions
-		- Avalanche
-		- Close Combat
-		- Dynamic Punch
-		- Earthquake
-		- Mineral Cannon
-- Lucario
-	- Learnset Additions
-		- Flip Kick
 
 Pokemon Memories v2.0.1
 General

@@ -21,7 +21,7 @@ Section C
 	• Viability Rankings
 	• History of the Format
 
-(186 Total)
+(188 Total)
 						      Section A    
 						    Standard Ubers
 						      Highlights
@@ -88,30 +88,31 @@ Conditional Placements: If a Pokemon that would otherwise reside in a lower Tier
 
 Note: Pokemon beneath the S-Tier(s), are listed alphabetically; Pokemon in the lower Tiers are assessed based on their Viability in their Standard Formes; Potential Memory Placements, will not be factored, unless they are sufficient to elevate them to the A-Tier.
 
+Current Tiered Shadow Pokemon: Azumarill-Shadow, Darkrai-Shadow
+
 Viability Rankings
 
-S-Tier (6 Total)
-
-S+
-Arceus
+S-Tier (5 Total)
 
 S
 Mewtwo
-Phione
-Mew
+Arceus
 
 S-
-Tornadus
 Calyrex-Shadow (A-; Fairy Memory/Ghost Memory)
 Eternatus (A; Dragon Memory + SpA-Positive Nature)
+Mew
 
-A-Tier (20 Total)
+A-Tier (21 Total)
 The Pokemon in this Tier and the following Tiers are listed in Alphabetical Order
 
 A+
+Darkrai-Shadow
 Gengar-Mega
 Kyurem-White (A-; Dragon Memory)
+Phione
 Rayquaza
+Tornadus
 Zacian-Crowned
 
 A
@@ -133,7 +134,7 @@ Victreebel
 Zekrom
 
 
-B-Tier (93 Total)
+B-Tier (94 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
@@ -142,6 +143,7 @@ Arceus-Dark
 Arceus-Electric
 Arceus-Fire
 Arceus-Water
+Azumarill-Shadow
 Azumarill
 Dialga
 Giratina

@@ -2422,6 +2422,7 @@ Dual Wingbeat
 Ember
 Frost Slide
 Frost Step
+Giga Drain
 Healing Wing
 Heat Crash
 Heavenly Mist
@@ -2485,7 +2486,6 @@ Charge Beam
 Defense Curl
 Drain Punch
 Fly
-Giga Drain
 Heat Wave
 Iron Defense
 Power-Up Punch
@@ -4200,7 +4200,6 @@ Slush Switch
 Spacial Rend
 Sparkling Ice
 Swift
-Tailwind
 Twister
 Venom Drench
 Venoshock
@@ -10041,6 +10040,8 @@ Parting Shot
 Roar
 Royal Submersion
 Sweet Retreat
+Whirlpool
+Wrap
 Yawn
 
 Sea King (New Ability)
@@ -10729,7 +10730,7 @@ New Item: Strange Ball
 Effect: Allows certain Pokemon to transform into Shadow Pokemon, which increases their Power, at the cost of survivability
 
 Mechanics
-All Shadow Pokemon will have their Type Changed to be their First-Type + the Ghost-Type, and will receive what is called a "Shadow State". Pokemon with this effect receive an additional 20% Power Boost, at the cost of losing 1/10 of their Max Hp at the end of each Turn.
+All Shadow Pokemon will have their Type Changed to be their First-Type + the Ghost-Type, and will receive what is called a "Shadow State". Pokemon with this effect receive an additional 20% Power Boost, at the cost of losing 1/20 of their Max Hp at the end of each Turn.
 
 Penalty: Pokemon under the Shadow State will be unable to restore their Health, even with the use of an Overdrive
 
@@ -10779,7 +10780,7 @@ SpD: 190 -> 200 = +10
 Spe: 185 -> 175 = -10
 BST: 1184 -> 1284
 Night Shadow
-Effect: Attempts to trap the opposing Pokemon. Pokemon's Status Moves have perfect accuracy. Does not trap other Pokemon that share this ability
+Effect: When this Ability activates (Upon switching in, having it swapped to another Pokemon, etc), it attempts to trap the opposing Pokemon for two active Turns. This Ability can only trap opposing Pokemon twice per game. Opposing Pokemon with this Ability will not be trapped, however this Ability will still count as having activated. Pokemon's Status Moves have perfect accuracy. Pokemon cannot raise its own Speed Stat.
 Users: Darkrai
 
 Dialga Shadow   
@@ -11633,6 +11634,10 @@ PP: 5
 Target: Normal
 Type: Fire
 --
+Bind
+Base Power: 15 -> 90
+PP: 20 -> 10
+--
 Bite
 Base Power: 60 -> 80
 --
@@ -11873,6 +11878,10 @@ Base Power: 60 -> 100
 Added Effect: Raises user's Attack by 1 stage.
 Priority: -6
 PP: 10 -> 5
+--
+Clamp
+Base Power: 35 -> 95
+PP: 15 -> 10
 --
 Clanging Scales
 Base Power: 110 -> 160
@@ -13124,6 +13133,10 @@ Effect: Hits opposing Dragon-Type Pokemon Super-Effectively; Power is not reduce
 PP: 5
 Target: Normal
 Type: Fire
+--
+Infestation
+Base Power: 20 -> 80
+PP: 20 -> 10
 --
 Infinite Velocity (New Move)
 Base Power: 180
@@ -14385,6 +14398,10 @@ Category: Special -> Varies (Special by Default; Physical if Attack Stat is high
 Effect: 30% Burn chance -> 50% chance to partially trap the opponent
 Additional Effect: x1.5 Base Power under Sunlight or Sandstorm
 --
+Sand Tomb
+Base Power: 35 -> 105
+PP: 15 -> 10
+--
 Scald
 Base Power: 80 -> 100
 Hits Ice-Types neutrally
@@ -15351,7 +15368,7 @@ Sandstorm Type: Rock -> Ground
 --
 Whirlpool
 Base Power: 35 -> 120
-PP: 15 -> 5
+PP: 15 -> 10
 --
 Whirlwind
 PP: 20 -> 5 (Static)
@@ -15389,6 +15406,9 @@ PP: 15 -> 5
 --
 Work Up
 PP: 30 -> 5
+--
+Wrap
+Base Power: 15 -> 105
 ------------------------------------------------------------------------
 Category: X 
 --
@@ -16320,11 +16340,13 @@ Standard Items
 --
 Category: Items   
 --
-Ability Shield  
+Ability Shield    
 Effect: Pokemon's Damaging-Moves gain Mold-Breaking Properties. Holder's Moves receive a x1.2 Base Power Boost, if they have a Mold Breaking Ability.
-Conditions: This Item does not bypass the following Abilities: Utility Lock
-Recognized Mold-Breaking Abilities: Format Drive, Mold Breaker, Space Power, Teravolt, Turboblaze
-Ineffective Against: Utility Lock
+Conditions: This Item does not bypass the following Abilities: Progenitor*, Sea King*, Utility Lock
+Recognized Mold-Breaking Abilities: Dragon Power, Format Drive, Mold Breaker, Space Power, Teravolt, Turboblaze
+Ineffective Against: Progenitor*, Sea King*, Utility Lock
+* Sea King only blocks Ability Shield when the user is Memorized
+* Progenitor will not block an opposing Mewtwo with an Ability Shield
 --
 Adamant Orb
 Additional Effect: Item cannot be removed from Dialga.
