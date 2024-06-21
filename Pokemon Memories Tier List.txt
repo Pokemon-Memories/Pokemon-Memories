@@ -92,7 +92,7 @@ Current Tiered Shadow Pokemon: Azumarill-Shadow, Darkrai-Shadow, Dialga-Shadow, 
 
 Viability Rankings
 
-S-Tier (8 Total)
+S-Tier (7 Total)
 
 S
 Mewtwo
@@ -102,11 +102,10 @@ Arceus
 Mew
 Eternatus (A; Dragon Memory + SpA-Positive Nature)
 Mewtwo-Shadow*
-Raikou
 Calyrex-Shadow (A-; Ghost Memory)
 Dondozo
 
-A-Tier (25 Total)
+A-Tier (24 Total)
 The Pokemon in this Tier and the following Tiers are listed in Alphabetical Order
 
 A+
@@ -114,17 +113,19 @@ Darkrai-Shadow*
 Gengar-Mega
 Kyurem-White (A-; Dragon Memory)
 Palkia-Shadow*
+Raikou
 Rapidash-Shadow*
 Rayquaza
-Sunflora-Shadow*
+Victreebel-Shadow*
 
 A
 Dialga-Shadow*
+Lilligant
 Phione
 Porygon-Z (A-; Dark Memory)
-Regigigas-Shadow*
 Skeledirge
 Suicune-Shadow*
+Sunflora-Shadow*
 Tapu Koko
 Zacian-Crowned
 
@@ -132,16 +133,14 @@ A-
 Arceus-Ghost
 Darkrai
 Dialga
-Lilligant-Hisui
-Mantine
 Meowscarada
+Regigigas-Shadow*
 Sandslash-Alola
 Tornadus
-Victreebel-Shadow*
 Zekrom
 
 
-B-Tier (95 Total)
+B-Tier (96 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
@@ -167,12 +166,13 @@ Kyogre
 Klinklang
 Kyurem-Black
 Landorus-Therian
-Lilligant
+Lilligant-Hisui
 Lucario-Mega
 Lugia
 Lunala
 Magearna
 Manaphy
+Mantine
 Meloetta
 Mimikyu
 Mimikyu-Busted
