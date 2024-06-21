@@ -10,6 +10,7 @@ Rayquaza-Mega: 400
 Lucario-Shadow*: 385
 Thundurus-Therian: 385
 Kartana: 381
+Entei-Shadow*: 380
 Leafeon: 380
 Gallade-Mega: 370
 Garchomp-Mega: 370
@@ -29,7 +30,6 @@ Melmetal: 333
 Latios-Mega: 330
 Solgaleo: 327
 Deoxys: 320
-Entei-Shadow*: 320
 Gallade: 320
 Groudon: 320
 Rayquaza: 320

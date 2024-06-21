@@ -1,5 +1,80 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v2.0.3
+Mechanics
+- Shadow Pokemon
+	- Healing Wing, Healing Wish, Lunar Dance, Psychic Order, Shed Spore, and Wish will no longer heal Pokemon that are under the Shadow State
+
+Abilities
+- Bountiful
+	- Implemented
+	- Effect: All Semi-Effective attacks, and Priority Moves against the user deal x0.5 damage. Pokemon's Grass-Type loses its Poison-Type weakness; Pokemon's Grass-Type loses its Flying Weaknesses; Sets Bountiful Field for 4 Turns upon successfully landing a damaging move, or a move that switches the user out
+- Evergreen
+	- Corrected an oversight where all of the Pokemon's Moves--not just Damaging Moves, could activate this Ability
+
+Statuses
+- Bountiful Field
+	- Effect: Pokemon can only be damaged by opposing Damaging Moves
+		- Duration: 4 Turns
+
+Moves
+- Brutal Swing
+	- Power is now scaled dynamically (Pokemon's Raw SpA before Modifiers / 5)
+		- Minimum Base Power: 80
+		- Maximum Base Power: 200
+	- Now counts as a Scalar Move
+Pokemon
+- Dialga
+	- Learnset Additions
+		- Agility
+- Entei
+	- Learnset Additions
+		- Flame Charge
+		- Receiving Strike
+		- Shadow Rush
+- Jellicent
+	- Learnset Additions
+		- Sweet Retreat
+- Lilligant
+	- Abilities
+		- Flower Shield/Power Drive -> Bountiful
+	- Base Stats
+		- Hp: 212 -> 222
+		- Def: 155 -> 185
+		- SpA: 223 -> 253
+	- Learnset Additions
+		- Aurora Beam
+		- Encore
+		- House Cleaning
+		- Knock Off
+		- Taunt
+		- Whirlwind
+- Rayquaza
+	- Learnset Removals
+		- Tailwind
+- Vaporeon
+	- Learnset Additions
+		- Imprison
+		- Slush Switch
+		- Sweet Retreat
+
+Shadow Pokemon
+- Shadow Entei
+	- Base Stats
+		- Atk: 320 -> 380
+		- Def: 270 -> 210
+		- SpA: 187 -> 177
+		- Spe: 173 -> 183
+- Shadow Mewtwo
+	- Legend Shadow
+		- Additional Effect: Pokemon's Attacking Moves will always use the Pokemon's highest attacking stat
+- Shadow Palkia
+	- Space Shadow
+		- Restriction: If the opposing Pokemon has multiple Types, the damage inflicted will be halved (i.e. x2 Damage for Pokemon with one or two Types; x3 for Pokemon that gain a third Type, etc)
+- Shadow Victreebel
+	- Mirror Shadow
+		- Now has Mold-Breaking Properties
+
 Pokemon Memories v2.0.2
 General
 - Aliases

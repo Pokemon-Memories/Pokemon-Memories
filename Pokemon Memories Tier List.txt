@@ -21,7 +21,7 @@ Section C
 	• Viability Rankings
 	• History of the Format
 
-(188 Total)
+(195 Total)
 						      Section A    
 						    Standard Ubers
 						      Highlights
@@ -88,53 +88,60 @@ Conditional Placements: If a Pokemon that would otherwise reside in a lower Tier
 
 Note: Pokemon beneath the S-Tier(s), are listed alphabetically; Pokemon in the lower Tiers are assessed based on their Viability in their Standard Formes; Potential Memory Placements, will not be factored, unless they are sufficient to elevate them to the A-Tier.
 
-Current Tiered Shadow Pokemon: Azumarill-Shadow, Darkrai-Shadow
+Current Tiered Shadow Pokemon: Azumarill-Shadow, Darkrai-Shadow, Dialga-Shadow, Entei-Shadow, Lucario-Shadow, Mewtwo-Shadow, Palkia-Shadow, Rapidash-Shadow, Regigigas-Shadow, Suicune-Shadow, Sunflora-Shadow, Victreebel-Shadow
 
 Viability Rankings
 
-S-Tier (5 Total)
+S-Tier (8 Total)
 
 S
 Mewtwo
-Arceus
 
 S-
-Calyrex-Shadow (A-; Fairy Memory/Ghost Memory)
-Eternatus (A; Dragon Memory + SpA-Positive Nature)
+Arceus
 Mew
+Eternatus (A; Dragon Memory + SpA-Positive Nature)
+Mewtwo-Shadow*
+Raikou
+Calyrex-Shadow (A-; Ghost Memory)
+Dondozo
 
-A-Tier (21 Total)
+A-Tier (25 Total)
 The Pokemon in this Tier and the following Tiers are listed in Alphabetical Order
 
 A+
-Darkrai-Shadow
+Darkrai-Shadow*
 Gengar-Mega
 Kyurem-White (A-; Dragon Memory)
-Phione
+Palkia-Shadow*
+Rapidash-Shadow*
 Rayquaza
-Tornadus
-Zacian-Crowned
+Sunflora-Shadow*
 
 A
-Dondozo
+Dialga-Shadow*
+Phione
 Porygon-Z (A-; Dark Memory)
-Sandslash-Alola
+Regigigas-Shadow*
 Skeledirge
+Suicune-Shadow*
 Tapu Koko
+Zacian-Crowned
 
 A-
 Arceus-Ghost
 Darkrai
-Deoxys-Attack
-Heatran
+Dialga
 Lilligant-Hisui
 Mantine
 Meowscarada
-Victreebel
+Sandslash-Alola
+Tornadus
+Victreebel-Shadow*
 Zekrom
 
 
-B-Tier (94 Total)
+B-Tier (95 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
@@ -143,20 +150,24 @@ Arceus-Dark
 Arceus-Electric
 Arceus-Fire
 Arceus-Water
-Azumarill-Shadow
+Azumarill-Shadow*
 Azumarill
-Dialga
+Deoxys-Attack
+Entei-Shadow*
 Giratina
 Golurk
 Greninja-Ash
+Heatran
 Ho-Oh
 Hoopa
 Hoopa Unbound
 Infernape
 Keldeo
 Kyogre
+Klinklang
 Kyurem-Black
 Landorus-Therian
+Lilligant
 Lucario-Mega
 Lugia
 Lunala
@@ -172,13 +183,14 @@ Necrozma-Ultra
 Palkia
 Pikachu-Original
 Porygon2
-Raikou
 Reshiram
 Spectrier
 Tapu Bulu
 Tapu Fini
 Thundurus
 Thundurus-Therian
+Vaporeon
+Victreebel
 Yveltal
 
 B
@@ -195,7 +207,7 @@ Entei
 Giratina-Origin
 Gliscor
 Jellicent
-Klinklang
+Lucario-Shadow*
 Marshadow
 Meloetta-Pirouette
 Meowth
@@ -210,7 +222,6 @@ Suicune
 Sunflora
 Swampert
 Torterra
-Vaporeon
 Volcanion
 Xerneas
 Zamazenta-Crowned
@@ -238,7 +249,7 @@ Zygarde-Complete
 Zoroark-Hisui
 
 
-C-Tier (56 Total)
+C-Tier (55 Total)
 
 C+
 Abomasnow
@@ -283,7 +294,6 @@ Dracozolt
 Glaceon
 Landorus-Incarnate
 Leafeon
-Lilligant
 Naganadel
 Regidrago
 Starmie
@@ -947,6 +957,7 @@ Common Items
 - Ability Shield
 - Adrenaline Orb
 - Dawn Stone*
+- Strange Ball*
 - Twisted Spoon
 
 Anything Goes Items
@@ -955,7 +966,7 @@ Anything Goes Items
 - Mewtwonite Y
 
 Common Memories
-- None
+- Fire Memory
 
 Common Moves
 - Aurora Beam

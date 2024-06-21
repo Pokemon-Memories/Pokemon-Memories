@@ -27,7 +27,7 @@ Section C
 	• Special Mechanic: Ultra Assist
 		• Mechanics
 		• EX-Assists
-	• Special Mechanic: Shadow Forme
+	• Special Mechanic: Shadow Transformation
 		• Mechanics
 		• Shadow Pokemon
 		• Shadow Moves
@@ -62,7 +62,8 @@ Section G
 	• Ability Changelog
 	• Pokemon Exclusive Ability List
 Section H
-	• Modified Type Interactions  
+	• Modified Type Interactions
+	• Typechart
 Section I
 	• Comprehensive Item Encyclopedia
 		• Debug Items
@@ -2705,14 +2706,14 @@ Aromatic Mist
 Body Press
 Dragon Breath
 Earthquake
+Flame Charge
 Flame Switch
 Fire Spin
+Receiving Strike
 Royal Retreat
+Shadow Rush
 Spikes
 Withdraw
-
-Unlearned
-Flame Charge
 
 Burning Beast (New Ability)
 Effect: Pokemon's Defensive Stats are Multiplied by x1.5 if it is holding a Choice Item
@@ -3294,6 +3295,7 @@ Whirlpool
 
 Unlearned Moves
 Swords Dance
+Tailwind
 
 Mega Rayquaza (Anything Goes)
 Hp: 160 -> 160 = +0
@@ -3960,6 +3962,7 @@ BST: 680 -> 1340
 Ability: Pressure -> Antipathy
 Added Ability: Regenerator
 New Moves
+Agility
 Armor Smash
 Body Slam
 Breaking Swipe
@@ -4767,25 +4770,29 @@ Water Gun
 Wish
 ------------------------------------------------------------------------
 Lilligant   
-Hp: 70 -> 212 = +132
+Hp: 70 -> 222 = +142
 Atk: 60 -> 220 = +140
-Def: 75 -> 155 = +80
-SpA: 110 -> 223 = +93
+Def: 75 -> 185 = +110
+SpA: 110 -> 253 = +123
 SpD: 75 -> 200 = +115
 Spe: 90 -> 170 = +80
-BST: 480 -> 1160
-Ability 2: Own Tempo/Leaf Guard -> Flower Shield/Power Drive
+BST: 480 -> 1230
+Ability 2: Own Tempo/Leaf Guard -> Bountiful
 New Moves
 Agility
 Apple Acid
 Aromatic Mist
+Aurora Beam
 Bubble
 Chloroblast
 Earth Power
+Encore
 Feather Dance
 Grass Whistle
+House Cleaning
 Hurricane
 Iron Head
+Knock Off
 Leaf Switch
 Leech Life
 Low Sweep
@@ -4805,15 +4812,17 @@ Stealth Rock
 Strange Wave
 Superpower
 Sweet Retreat
+Taunt
 Teeter Dance
 Trailblaze
 Water Pulse
+Whirlwind
 
 Unlearned
 Synthesis
 
-Flower Shield
-Effect: All Semi-Effective attacks, and Priority Moves against the user deal x0.5 damage
+Bountiful
+Effect: All Semi-Effective attacks, and Priority Moves against the user deal x0.5 damage. Pokemon's Grass-Type loses its Poison-Type weakness; Pokemon's Grass-Type loses its Flying Weaknesses; Sets Bountiful Field for 4 Turns upon successfully landing a damaging move, or a move that switches the user out
 ------------------------------------------------------------------------
 Maractus
 Hp: 75 -> 155 = +80
@@ -6796,6 +6805,7 @@ Spe: 50 -> 175 = +125
 BST: 420 -> 1025
 New Moves
 Draining Kiss
+Dynamic Punch
 Flip Turn
 House Cleaning
 Liquidation
@@ -7670,23 +7680,26 @@ Spe: 65 -> 164 = +99
 BST: 525 -> 1052
 Added Ability: Utility Lock
 New Moves
+Anchor Shot
 Aqua Jet
 Chilling Water
-Ethereal Stream
-Stealth Rock
-Night Shade
-Anchor Shot
 Dragon Breath
-Quiver Dance
-Perish Song
+Ethereal Stream
 Fairy Wind
 Flip Turn
-Rapid Spin
+Imprison
 Milk Drink
-Withdraw
+Night Shade
+Perish Song
+Quiver Dance
+Rapid Spin
+Slush Switch
 Spikes
-Uproar
+Stealth Rock
+Sweet Retreat
 Taunt
+Uproar
+Withdraw
 
 Unlearned
 Celebrate
@@ -9727,6 +9740,7 @@ Knock Off
 Recover
 Royal Submersion
 Stealth Rock
+Sweet Retreat
 Wish
 Withdraw
 ------------------------------------------------------------------------
@@ -10496,6 +10510,9 @@ Effect: Pokemon's Psychic-Type Moves with a Base Power up to 155--or any Special
 Memory-Interactive Abilities   
 Description: List of Special Abilities, or Special Properties on Abilities, that activate when the Pokemon is Memorized.
 -
+Bountiful
+Memory Effect: Raises the Pokemon's Def and SpD by 1 stage each upon switching in. This effect lasts for the first 2 Active Turns, after which, the boosts will disappear; Pokemon restores 1/16 Max Hp at the end of each turn, if it has 1/2 Max Hp or more
+--
 Compact Armor
 Effect: (Memory Ability only): 30% Power Bonus granted to Steel-Type moves, will only be active if the Pokemon does not have any positive stat boosts, in the stat they are attacking in. This condition does not apply to Pokemon that naturally have Compact Armor as their Ability
 --
@@ -10510,9 +10527,6 @@ Effect: 30% Power Bonus granted to Bug-Type moves, will only be active if the Po
 --
 Fairy Aura
 Effect: (Memory Ability only): 30% Power Bonus granted to Fairy-Type moves, will only be active if the Pokemon does not have any positive stat boosts in the stat they are attacking in. This condition does not apply to Pokemon that naturally have Fairy Aura as their Ability
---
-Flower Shield
-Memory Effect: Raises the Pokemon's Def and SpD by 1 stage each upon switching in. This effect lasts for the first 2 Active Turns, after which, the boosts will disappear; Pokemon restores 1/16 Max Hp at the end of each turn, if it has 1/2 Max Hp or more
 --
 Lightning Force
 Memory Effect: Pokemon's Electric-Type Moves have x1.3 Base Power. Has no effect if the Pokemon has Memorized into an Electric-Type
@@ -10724,7 +10738,7 @@ Effect: Grants the Party an Immunity to opposing Dragon-Type and Poison-Type Mov
 EX-Zamazenta
 Effect: Protects Pokemon in the Party from being forced out by the opponent. Opposing Moves that attempt to force members in the Party out will restore 1/4 of their Max Hp
 ==============================================================================================================
-Special Mechanics: Shadow Forme   
+Special Mechanics: Shadow Transformation   
 --
 New Item: Strange Ball
 Effect: Allows certain Pokemon to transform into Shadow Pokemon, which increases their Power, at the cost of survivability
@@ -10735,6 +10749,8 @@ All Shadow Pokemon will have their Type Changed to be their First-Type + the Gho
 Penalty: Pokemon under the Shadow State will be unable to restore their Health, even with the use of an Overdrive
 
 Restrictions: Only one Shadow Submersion can be used per game. If another Pokemon with a Strange Ball switches in after a Shadow Submersion has already Transformed, the Item will have no effect
+
+Note: Healing Wing, Healing Wish, Lunar Dance, Psychic Order, Shed Spore, and Wish will not be effective on Shadow Pokemon under the Shadow State (i.e. they will still heal Shadow Pokemon if they are used outside of a Shadow Transformation, such as in a Custom Game, but will have no effect on Pokemon that transform through the use of a Strange Ball)
 
 Compatible Pokemon
 Azumarill
@@ -10799,11 +10815,11 @@ Users: Dialga
 Entei Shadow   
 Type: Fire/Ghost
 Hp: 180 -> 180 = +0
-Atk: 320 -> 320 = +0
-Def: 320 -> 270 = -50
-SpA: 137 -> 187 = +50
+Atk: 320 -> 380 = +60
+Def: 320 -> 210 = -110
+SpA: 137 -> 177 = +40
 SpD: 170 -> 270 = +100
-Spe: 173 -> 173 = +0
+Spe: 173 -> 183 = +10
 BST: 1300 -> 1400
 Flaming Shadow
 Effect: Pokemon's Moves will always be Critical Hits if it has any Positive Stat Boosts
@@ -10832,7 +10848,7 @@ SpD: 185 -> 155 = -30
 Spe: 187 -> 187 = +0
 BST: 1400 -> 1500
 Legend Shadow
-Effect: Pokemon Moves will always target the Defensive Category corresponding to the opponent's lowest Stat. Pokemon's Scalar-Moves will always have 180 BP
+Effect: The Pokemon's Moves will always use its highest attacking stat, and attempt to target the opponent's lowest Defensive Stat. Pokemon's Scalar-Moves will always have 180 BP
 Users: Mewtwo
 
 Palkia Shadow    
@@ -10845,7 +10861,7 @@ SpD: 200 -> 250 = +50
 Spe: 160 -> 170 = +10
 BST: 1340 -> 1440
 Space Shadow
-Effect: Pokemon's Dragon-Type moves will always hit Super-Effectively. If the opponent has multiple Type(s), each of those Types will be hit Super-Effectively
+Effect: Pokemon's Dragon-Type moves will always hit Super-Effectively. If the opposing Pokemon has multiple Types, the damage inflicted will be halved (i.e. x2 Damage for Pokemon with one or two Types; x3 for Pokemon that gain a third Type, etc)
 Users: Palkia
 
 Rapidash Shadow    
@@ -10855,7 +10871,7 @@ Atk: 250 -> 250 = +0
 Def: 190 -> 170 = -20
 SpA: 243 -> 383 = +140
 SpD: 220 -> 190 = -30
-Spe: 176 -> 186 = +100
+Spe: 176 -> 186 = +10
 BST: 1289 -> 1389
 Glowing Shadow
 Effect: Pokemon's Fire-Type Moves hit opposing Water-Type Pokemon Super-Effectively, and its Ghost-Type Moves bypass Type-Based Immunities
@@ -10910,7 +10926,7 @@ SpD: 185 -> 185 = +0
 Spe: 162 -> 182 = +20
 BST: 1300 -> 1400
 Mirror Shadow
-Effect: Opposing Fire-Type and Flying-Type Moves are reflected back to the opponent. Pokemon's Moves hits its Resistances Super-Effectively
+Effect: Opposing Fire-Type and Flying-Type Moves are reflected back to the opponent. Pokemon's Moves hits its Resistances Super-Effectively. Has Mold-Breaking Properites
 Users: Victreebel  
 
 Shadow Moves  
@@ -11219,6 +11235,7 @@ Weather Ball
 Scalar Moves    
 Description: Moves with Dynamic Base Power values
 Astral Nauts
+Brutal Swing
 Dynamic Punch
 Electro Ball
 Grass Knot
@@ -11245,6 +11262,13 @@ Comeuppance
 Affected Abilities: Deep Sea, Evergreen, Light Inversion, Power of Alchemy, Psycho Force, Ultra Shell, Water Veil
 Unaffected Abilities: Empyrean Blaze, Dyslexia, Full Bloom, Progenitor, Unseen Fist, Victory Star*, Weather Guard
 * Has Effectiveness-Modifying Properties as a byproduct of Memorization
+
+Mirror Move (Move)
+Additional Exceptions
+Memory Moves*
+Shadow Moves*
+Accelerate
+Aqua Charge
 -------------------------------
 Abilities
 
@@ -11258,6 +11282,7 @@ Breaker Abilities
 Description: Abilities that bypass opposing Abilities. Trapping Abilities will not work against Pokemon with these Abilities
 Format Drive
 Dragon Power
+Mirror Shadow
 Mold Breaker
 Space Power
 Teravolt
@@ -11756,16 +11781,9 @@ Base Power: 75 -> 95
 Additional Effect: Breaks Protect
 --
 Brutal Swing
-Base Power: 60 -> Varies
-Mechanics: Power depends on user's base Special Attack stat.
-Base Power Calculation
-Under 100 = 50 BP
-Above 100 = 70 BP
-Above 150 = 90 BP
-Above 200 = 110 BP
-Above 250 = 120 BP
-Above 300 = 135 BP
-Above 340 = 150 BP
+Base Power Calculation: __ -> ((User's Raw SpA before modifiers) / 5)
+Minimum Power: 80 BP
+Maximum Power: 200 BP
 --
 Bubble
 Base Power: 40 -> 120
@@ -12919,7 +12937,7 @@ PP: 10
 Priority: 0
 Target: Normal
 --
-Heat Crash   
+Heat Crash     
 Base Power Calculation: __ -> ((User's Raw Atk before modifiers) / 5)
 Minimum Power: 80 BP
 Maximum Power: 200 BP
@@ -15564,9 +15582,6 @@ Effect: Opposing Fire-Type, and Steel-Type moves deal x0.67 Damage; Pokemon cann
 Flaming Shield
 Effect: Opposing neutral Physical Attacks deal x0.67 damage; Does not protect against Physical Moves targeting the Pokemon's Special Defense stat.
 --
-Flower Shield
-Effect: All Semi-Effective attacks, and Priority Moves against the user deal x0.5 damage
---
 Fluffy
 Fire vulnurability removed
 --
@@ -16165,10 +16180,15 @@ Mechanics by Active Turns
 4 Turns: x1.65
 5 Turns+: x1.8
 -------------------------------------------------------------------------------
-Category: Lilligant-Hisui Exclusive Abilities
+Category: Lilligant Exclusive Abilities
+--
+Bountiful
+Effect: All Semi-Effective attacks, and Priority Moves against the user deal x0.5 damage. Pokemon's Grass-Type loses its Poison-Type weakness; Pokemon's Grass-Type loses its Flying Weaknesses; Sets Bountiful Field for 4 Turns upon successfully landing a damaging move, or a move that switches the user out
+Users: Lilligant
 --
 Evergreen    
 Effect: Pokemon's Fighting-Type Moves hit Poison-Types and Fairy-Types neutrally, and its Grass-Type Moves hit Memorized Pokemon Super-Effectively. Opposing Pokemon will receive half of the Damage that they inflict on this Pokemon, if they attacked it with a Priority Move. Pokemon's Grass-Type loses its Poison-Type weakness; Pokemon loses its Fighting-Type Weaknesses; Sets Evergreen Field for 4 Turns upon successfully landing a damaging move
+Users: Lilligant-Hisui
 --------------------------------------------------------------------------------
 Category: Decidueye Exclusive Abilities
 --
@@ -16227,7 +16247,7 @@ Effect: Pokemon ignores the opponent's Stat Changes; Pokemon's Stats cannot be l
 Section H  
 Modified Type Interactions  
 ---------------------------------------------------------
-Type Chart/Typechart
+Type Chart/Typechart     
 Note: The Entries under each Type go by Damage Received (Defensive Matchups), thus, (e.g. "Fire Damage: x0.5") would signify that a Pokemon of the designated Type resists opposing Fire-Type Moves
 Bug (Type) 
 Ghost Damage: x1 -> x0
