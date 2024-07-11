@@ -1,5 +1,491 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v2.0.4
+General
+- Animations
+	- The following Moves have received Animations: Folder Switch, Psychic Quake, Ravenous Wrath, Spectral Wave, Temper Flare, Toaster Bomb, Trick Retreat
+	- The following Moves have received modified Animations: Mineral Cannon
+- Miscellaneous
+	- Dragon Flame renamed to Dragon Fire
+	- Thunder Snare renamed to Thunder Spin
+
+
+Mechanics
+- Category-Based Damage Reducing Abilities
+	- These Abilities will now reduce the power of moves from another Category that target the Defensive Category that these abilities reduce damage in (e.g. Compact Armor can now reduce the power of Psystrike and Darkest Nightfall)
+- Special Coverage Moves
+	- All Moves that have Special Type-Matchups (e.g. Freeze-Dry) will now bypass opposing Effectiveness-Modifying Defensive Options, including Abilities, Memory Abilities, and EX-Assists
+		- Exceptions: Flying Press, and Special Coverage Moves that hit with halved effectiveness (such as moves that bypass immunities to deal resisted damage) are not subject to this change
+- Statuses
+	- Paralysis
+		- Rain Damage: 1/4 -> 1/8
+- Typechart
+	- Ghost-Type
+		- Defensive
+			- Steel
+				- Resisted -> Neutral
+	- Rock-Type
+		- Defensive
+			- Burn Status: __ -> Immune
+- Memorization
+	- Memory Abilities
+		- Exterminator
+			- Resisted Hit Damage Multiplier: x1.5 -> x1.3
+	- Super Memorization
+		- Super Memory Abilities
+			- Super Fairy Aura
+				- Corrected an oversight where Pokemon with this Ability were not immune to Passive Damage, as intended
+				- Corrected an oversight where this Ability would heal its Team for longer than intended
+- Ultra Assist
+	- Miscellaneous
+		- The Assist Drive no longer reveals which Assist Boost the Team is using (e.g. Atk, SpA; etc.)
+
+
+
+Formats
+- Ubers
+	- Banlist Additions
+		- Calyrex-Shadow Clause
+			- Calyrex-Shadow cannot hold a Ghost Memory
+				- Explanation: During the earliest stages of development, "Ghostrex" managed to remain "manageable" due to a combination of a faster paced Meta, and a greater prevalance of Tailwind blockers, which prevented it from snowballing games. A significant deal of time has passed from the days of said early Meta, however, and with the wane of "vanilla" Calyrex-Shadow (and with it, its various STAB Absorbers) and Utility Lockers, alongside the introduction of Overdrives--which had not yet existed back then, Calyrex-Shadow-Ghost has mutated into a Pokemon that has restrictive Defensive Counterplay, and no reliable Offensive answers, either, on account of the looming threat of a potentially game-deciding Speed Blitzer. Although it is not more powerful than the Mega Mewtwos, and might debatably even fall below Psychic Memory Mewtwo, it nonetheless manages to constrict the already overworked Teambuilder in a manner that makes it even more oppressive
+	- Banlist Removals
+		- Arceus Clause
+- Ultra Assist
+	- Banlist Removals
+		- Abilities
+			- Drizzle
+			- Tempest
+		- Items
+			- Sea Incense
+		- Moves
+			- Royal Submersion
+
+
+
+Abilities
+- Aura Break
+	- Additional Effect: Has Mold-Breaking Properties
+- Culinary
+	- Implemented
+	- Effect: If the Pokemon is holding a Berry Juice, it will always survive with at least 1 HP if hit by an attacking move while at or above 1/2 of its Max HP; Pokemon restores 1/2 of its Max HP upon triggering this effect. Item is consumed after use
+- Idealist
+	- Additional Effect: Pokemon are immune to Life Orb Damage
+	- Resisted Move Damage Multiplier: x1.5 -> x1.2
+- Multitype
+	- Additional Effects: Opposing Resisted Hits deal halved Damage; Pokemon restores 1/3 of its HP upon switching out, if it is holding a Plate or a Memory Disc
+- Mystic Guard
+	- Implemented
+	- Effect: Pokemon loses its Psychic-Type Weaknesses
+- Power Construct
+	- Now fully restores the Pokemon's Health
+- Power Drive
+	- Effect: Pokemon's Super-Effective Moves deal x1.2 Damage -> Pokemon's Offenses are boosted by x1.3 if it is holding a Choice Band or Choice Specs
+- Realist
+	- Additional Effect: Pokemon are immune to Life Orb Damage
+- Shadow Eater
+	- This Ability will now be effective against Mewtwo and its Abilities
+- Spectral Veil
+	- Passive Healing: 1/16 -> 1/10
+- Warm Embrace
+	- Effect: If a Dual-Type Pokemon has the Fire-Type, its weaknesses from the non-Fire Type are removed. Pokemon is unaffected by opposing entry Hazards
+
+
+
+Items
+- Enigma Plate
+	- Reintroduced, and now usable in Standard Formats
+	- Effect: Changes Arceus into a ???-Type -> Changes Arceus into Arceus-???
+- Gold Bottle Cap
+	- Additional Effect: Now Boosts the Pokemon's Special Attack Stat if it is the highest offensive Stat
+- Never-Melt Ice
+	- Additional Effect: Ice-Type Pokemon become immune to Stealth Rock and Spikes; Halves the damage taken by Paralysis under Rain
+- Park Ball
+	- Implemented
+		- Effect: Allows Zygarde to automatically transform into Zygarde-Complete if it has Power Construct as its Ability
+- Sea Incense
+	- K.O. Deactivation Threshold
+		- After causing one Pokemon to faint -> After causing two Pokemon to faint
+	- Ultra Assist
+		- No longer prevented from activating while Assist Fields are active
+- Utility Umbrella
+	- Status Damage Protection: Paralysis -> All Major Status Conditions
+
+
+
+Moves
+- Assurance
+	- Accuracy: 80 -> 100
+- Blazing Blast
+	- Accuracy: 70 -> 100
+	- Effect: Hits opposing Fairy-Type Pokemon Super-Effectively -> Ignores changes to the Target's Defensive Stats, and resets the opposing Pokemon's Stat Changes. Power is not reduced in Sunlight
+	- Additional Effect: 20% Burn Chance
+- Diffusion Wave
+	- Corrected an error where this move would not bypass Physical Damage-Reducing Abilities when it changes into a Physical Move
+- Dimension Break
+	- Base Power: 200 -> 210
+	- Secondary Effect: 30% Freeze Chance -> ___
+	- Restrictions: Can only be used by Arceus-??? and Missingno
+- Earthen Song
+	- Penalty: Upon successfully causing two Pokemon to faint, the user's Speed Stat drops by 2 stages, and it cannot raise its Speed using this move again
+- Folder Switch
+	- Implemented
+	- Base Power: 85
+	- Accuracy: 100
+	- Category: Varies (Physical by Default; Special if the Pokemon's Special Attack Stat is higher)
+	- Contact: __
+	- Effect: 30% chance to flinch; Switches the user out
+	- Priority: 0
+	- PP: 5
+	- Type: ???
+	- Users: Arceus, Keldeo, Meloetta, Mew, Porygon, Unown, Zacian, Zamazenta
+- Force Palm
+	- Base Power: 80 -> 100
+- Gene Therapy
+	- Reflected by Magic Bounce: Yes -> No
+- Ice Spinner
+	- Additional Effect: Raises the Pokemon's Speed by 1 if it has the Ice-Type.
+	- Attrition Point: __ -> +1 Spe
+- Pixie Switch
+	- Implemented
+	- Base Power: 85
+	- Accuracy: 100
+	- Category: Varies (Special by Default; Physical if the Pokemon's Special Attack Stat is higher)
+	- Contact: __
+	- Effect: 30% chance to lower the target's Special Attack by 1 stage; Switches the user out
+	- Priority: 0
+	- PP: 5
+	- Type: Fairy
+	- Users: Altaria, Arceus, Azumarill, Diancie, Floette, Floette-Eternal, Gardevoir, Jigglypuff, Magearna, Mawile, Meloetta, Mew, Mimikyu, Tapu Bulu, Tapu Fini, Tapu Lele, Tapu Koko, Togekiss, Zacian
+- Psychic Order
+	- Passive Healing: 1/16 -> 1/10
+- Psycho Drain
+	- Health Restoration: 1/3 -> 3/4
+- Ravenous Wrath
+	- Implemented
+	- Base Power: 110
+	- Accuracy: 100
+	- Category: Special
+	- Contact: __
+	- Burst: Yes
+	- Effect: Power doubles if the Pokemon's Health is equal or above half of its Max HP.
+	- Priority: 0
+	- PP: 5
+	- Type: Dragon
+	- Users: Arceus, Dragalge, Flygon, Giratina, Kyurem, Latias, Latios, Mewtwo
+- Royal Snowstorm
+	- Category: Physical -> Varies (Physical by Default; Special if the Pokemon's SpA is higher)
+- Sacred Speed
+	- Implemented
+	- Base Power: __
+	- Accuracy: __
+	- Category: Status
+	- Contact: __
+	- Effect: Sharply raises the Pokemon's Speed. Upon successfully causing two Pokemon to faint, the user's Speed Stat drops by 2 stages, and it cannot raise its Speed using this move again
+	- Priority: 0
+	- PP: 30
+	- Type: Flying
+	- Users: Arceus
+- Sacred Water
+	- No longer hits opposing Ice-Type Pokemon neutrally
+- Shadow Volley
+	- Corrected an error where this move could not bypass Special Damage-Reducing Abilities
+- Smash Hit
+	- Base Power: 100 -> 140
+- Solar Beam
+	- Base Power: 160 -> 170
+	- Recoil: 1/10 -> 1/8
+- Solar Blade
+	- Base Power: 160 -> 170
+	- Recoil: 1/5 -> 1/8
+- Spectral Wave
+	- Implemented
+	- Base Power: 80
+	- Accuracy: __
+	- Category: Special
+	- Contact: __
+	- Bounceable: Yes
+	- Effect: Forces the opposing Pokemon out; The Pokemon switching in receives damage in proportion to their Defensive Matchup against the Ghost-Type (Pokemon's Max HP * Defensive Multiplier / 8)
+	- Priority: -1
+	- PP: 4 (Static)
+	- Type: Ghost
+	- Users: Mismagius
+- Thermal Press
+	- Mechanics
+		- Base Power now increases to 150 when Sunlight or Sandstorm are active
+- Thousands Arrows
+	- No longer forced to hit neutrally if the opponent is a Flying-Type
+- Thousand Waves
+	- Base Power: 120 -> 110
+	- Now properly labeled as a Burst Move
+- Toaster Bomb
+	- Implemented
+	- Base Power: 100
+	- Accuracy: 100
+	- Category: Special
+	- Contact: __
+	- Effect: Usually goes first
+	- Priority: 1
+	- PP: 5
+	- Type: Fire
+	- Users: Moltres
+- Trick Retreat
+	- Implemented
+	- Base Power: __
+	- Accuracy: 100
+	- Category: Status
+	- Contact: __
+	- Bounceable: Yes
+	- Effect: Attempts to set Leech Seed on the opposing Pokemon. Switches the user out
+	- Priority: 0
+	- PP: 4 (Static)
+	- Type: Ghost
+	- Users: Mismagius
+
+Weather
+- Rain
+	- Additional Effect: Pokemon have the Base Power of their moves reduced by x0.67 when attacking Grass-Type Pokemon.
+		- Applies to: Rain, Heavy Rain
+- Sandstorm
+	- Special Defense Boost to Rock-Type Pokemon has been reinstated
+	
+
+Pokemon
+- Arceus
+	- Mechanics
+		- Divine Call and Heaven Dance can now be used by all Arceus Formes
+	- Arceus-???
+		- Implemented
+		- Mechanics
+			- Transforms in-battle if Arceus is holding an Enigma Plate
+		- Base Stats
+			- Hp: 200 -> 300
+			- Atk: 300 -> 200
+	- Learnset Additions
+		- Bulk Up
+		- Dimension Break
+		- Flare Blitz
+		- Sacred Speed
+	- Learnset Removals
+		- Agility
+- Articuno
+	- Added Ability
+		- Snow Warning
+	- Learnset Additions
+		- Stealth Rock
+		- House Cleaning
+		- Sweet Retreat
+		- Wish
+- Beartic
+	- Abilities
+		- Snow Cloak -> Slush Rush
+		- Snow Warning -> Culinary
+	- Base Stats
+		- Hp: 135 -> 175
+		- Atk: 235 -> 255
+	- Learnset Additions
+		- House Cleaning
+		- Parting Shot
+		- Recycle
+		- Shell Smash
+		- Stealth Rock
+		- Sweet Retreat
+- Bellsprout
+	- Learnset Additions
+		- Leech Seed
+- Calyrex-Ice
+	- Learnset Additions
+		- High Horsepower
+	- Learnset Removals
+		- Growth
+		- Swords Dance
+- Celebi
+	- Abilities
+		- Antipathy -> Mystic Guard
+	- Learnset Additions
+		- House Cleaning
+		- Sweet Retreat
+- Cryongonal
+	- Learnset Additions
+		- Freeze-Dry
+		- Nasty Plot
+		- Power Gem
+	- Learnset Removals
+		- Toxic
+- Deoxys
+	- Base Forme
+		- Added Abilities
+			- No Guard
+- Fennekin Line
+	- Universal
+		- Learnset Additions
+			- Aromatic Mist
+			- Dynamic Punch
+			- Focus Blast
+			- Inferno Beam
+			- Nasty Plot
+			- Parting Shot
+			- Psychic Light
+			- Psychic Storm
+			- Psychic Wind
+			- Psycho Fire
+			- Sweet Retreat
+			- Torch Song
+	- Delphox
+		- Ability: Sheer Force -> Warm Embrace
+		- Base Stats
+			- Hp: 149 -> 189
+			- Def: 187 -> 207
+			- SpD: 204 -> 254
+			- Spe: 157 -> 167
+- Groudon
+	- Learnset Additions
+		- Aromatic Mist
+		- Sweet Retreat
+		- Mineral Cannon
+- Keldeo
+	- Learnset Additions
+		- Aqua Step
+- Kyogre
+	- Learnset Additions
+		- Withdraw
+	- Learnset Removals
+		- Ancient Power
+- Lucario
+	- Learnset Additions
+		- Receiving Strike
+- Mamoswine
+	- Base Stats
+		- Hp: 157 -> 207
+		- SpA: 70 -> 190
+		- SpD: 100 -> 150
+	- Learnset Additions
+		- Ice Spinner
+		- Parting Shot
+		- Rapid Spin
+		- Roar
+		- Shore Up
+		- Slush Switch
+		- Strange Wave
+		- Strength Sap
+- Meloetta
+	- Learnset Additions
+		- Psycho Darts
+- Mew
+	- Learnset Additions
+		- Leaf Switch
+- Mismagius
+	- Implemented
+	- Base Stats
+		- Hp: 60 -> 160 = +100
+		- Atk: 60 -> 220 = +120
+		- Def: 60 -> 300 = +240
+		- SpA: 105 -> 265 = +160
+		- SpD: 105 -> 185 = +80
+		- Spe: 105 -> 175 = +70
+		- BST: 495 -> 1305
+	- Learnset Additions
+		- Ember
+		- Ensnarement
+		- House Cleaning
+		- Leech Seed
+		- Mystery Bind
+		- Parting Shot
+		- Shadow Volley
+		- Shatter Shade
+		- Spectral Wave
+		- Trick Retreat
+- Moltres
+	- Base Stats
+		- Hp: 172 -> 183
+		- Atk: 231 -> 201
+		- Spe: 166 -> 185
+	- Learnset Additions
+		- Flame Switch
+		- Toaster Bomb
+- Porygon
+	- Learnset Additions
+		- Battle Cry
+		- Dynamic Punch
+		- Earth Power
+- Regice
+	- Base Stats
+		- SpD: 230 -> 330
+	- Learnset Additions
+		- Agility
+		- Aromatic Mist
+		- House Cleaning
+		- Leech Seed
+		- Meteor Beam
+		- Power Gem
+		- Roar
+		- Royal Retreat
+- Regirock
+	- Abilities
+		- Power Drive -> Reckless
+	- Base Stats
+		- Def: 250 -> 350
+	- Learnset Additions
+		- Bullet Switch
+		- Dragon Breath
+		- House Cleaning
+		- Howl
+		- Leech Seed
+		- Mineral Cannon
+		- Stealth Rock
+		- Roar
+		- Temper Flare
+- Registeel
+	- Base Stats
+		- Atk: 221 -> 271
+		- Def: 255 -> 275
+		- SpA: 101 -> 110
+		- SpD: 255 -> 275
+- Shaymin
+	- Learnset Additions
+		- Sweet Retreat
+		- Wish
+- Xerneas
+	- Added Abilities
+		- Mold Breaker
+- Yveltal
+	- Added Abilities
+		- Mold Breaker
+	- Learnset Additions
+		- Aromatic Mist
+		- Heart Sap
+		- Howl
+		- Strength Sap
+	- Learnset Removals
+		- Essence Crusher
+		- Roost
+		- Royal Shattering
+- Zygarde Formes
+	- Universal
+		- Learnset Additions
+			- Aromatic Mist
+			- Regal Exit
+			- Wish
+	- Zygarde (10 Percent)
+		- Ability: Core Power -> Power Construct
+		- Base Stats
+			- Atk: 245 -> 275
+			- SpA: 245 -> 275
+			- Spe: 175 -> 195
+	- Zygarde (50 Percent)
+		- Base Stats
+			- HP: 208 -> 268
+- Zapdos
+	- Learnset Additions
+		- Slush Switch
+- Zekrom
+	- Learnset Additions
+		- Battle Cry
+
+Shadow Pokemon
+- Shadow Dialga
+	- Time Shadow
+		- The Single-Use Limit has now been removed
+
 Pokemon Memories v2.0.3
 Mechanics
 - Shadow Pokemon

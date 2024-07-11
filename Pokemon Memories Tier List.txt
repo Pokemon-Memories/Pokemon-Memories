@@ -21,7 +21,7 @@ Section C
 	• Viability Rankings
 	• History of the Format
 
-(195 Total)
+(203 Total)
 						      Section A    
 						    Standard Ubers
 						      Highlights
@@ -34,7 +34,7 @@ Description: Certain Pokemon are given "Highlights", which will be posted here. 
 					              [ Psychic ]
 			    	(Hp: 170/Atk: 335/Def: 185/SpA: 338/SpD: 185/Spe: 187) BST: 1400
 					 Psychic Power/Hightened Mind/Antipathy
- 				 [Dark Memory/Dubious Disc/Fairy Memory/Psychic Memory]
+ 			      [Dark Memory/Dragon Memory/Dubious Disc/Fire Memory/Psychic Memory]
 
 
 Description: Between its peerless offenses, blistering speed, and its perfectly distributed defenses; Mewtwo is an unparalleled force of mass destruction in this Meta. Whereas most Pokemon are biased toward specific sets, which serve as the primary cause for their exalted viability; Mewtwo is able to continuously adapt its sets on the fly, allowing it to always keep its opponents guessing. Its perfectly placed stats leave it with no major vulnerabilites, and its access to a nearly unlimited movepool, encompassing every Type in the game, makes it nigh uncounterable. Simply figuring out the opposing Mewtwo's set, is itself, a daunting task, and actually managing to successfully defeat it, is something that will usually only be possible after a very long struggle between both sides. Mewtwo's combination of attributes make it a force to be reckoned with, and when paired with its dangerous unpredictability, powerful teammates, signature items, and phenomenal abilities; This Genetic Masterpiece proves itself to be a powerful Pokemon that is second to none. We dreamed of creating the most powerful Pokemon, and we succeeded.
@@ -92,80 +92,81 @@ Current Tiered Shadow Pokemon: Azumarill-Shadow, Darkrai-Shadow, Dialga-Shadow, 
 
 Viability Rankings
 
-S-Tier (7 Total)
+S-Tier (6 Total)
 
 S
 Mewtwo
+Suicune-Shadow*
+Mewtwo-Shadow*
 
 S-
-Arceus
-Mew
+Arceus-???
+Arceus-Dark
+Zygarde 10% (B+; Fairy Memory)
 Eternatus (A; Dragon Memory + SpA-Positive Nature)
-Mewtwo-Shadow*
-Calyrex-Shadow (A-; Ghost Memory)
-Dondozo
 
-A-Tier (24 Total)
+A-Tier (25 Total)
 The Pokemon in this Tier and the following Tiers are listed in Alphabetical Order
 
 A+
-Darkrai-Shadow*
-Gengar-Mega
-Kyurem-White (A-; Dragon Memory)
-Palkia-Shadow*
-Raikou
-Rapidash-Shadow*
-Rayquaza
-Victreebel-Shadow*
+Arceus
+Dialga-Shadow*
+Ho-Oh (B+; Dragon Memory + Regenerator)
+Lucario-Shadow*
+Mew
 
 A
-Dialga-Shadow*
-Lilligant
-Phione
-Porygon-Z (A-; Dark Memory)
-Skeledirge
-Suicune-Shadow*
-Sunflora-Shadow*
-Tapu Koko
-Zacian-Crowned
+Articuno
+Gengar-Mega
+Kyurem-White
+Mamoswine
+Moltres
+Victreebel-Shadow*
+Xerneas (B; Dragon Memory + Memory Armor)
 
 A-
-Arceus-Ghost
-Darkrai
+Arceus-Ice
+Calyrex-Ice
+Darkrai-Shadow*
+Delphox
 Dialga
-Meowscarada
-Regigigas-Shadow*
-Sandslash-Alola
+Dondozo
+Greninja-Ash
+Kyogre
+Meloetta
+Meloetta-Pirouette (B-; Ensemble Auxiliary Attacker)
+Mismagius
+Rayquaza
 Tornadus
-Zekrom
 
 
-B-Tier (96 Total)
+B-Tier (103 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
 Amoonguss
-Arceus-Dark
 Arceus-Electric
 Arceus-Fire
+Arceus-Ghost
+Arceus-Steel
 Arceus-Water
 Azumarill-Shadow*
 Azumarill
+Calyrex-Shadow
+Darkrai
 Deoxys-Attack
 Entei-Shadow*
 Giratina
 Golurk
-Greninja-Ash
 Heatran
-Ho-Oh
 Hoopa
 Hoopa Unbound
 Infernape
 Keldeo
-Kyogre
 Klinklang
 Kyurem-Black
 Landorus-Therian
+Lilligant
 Lilligant-Hisui
 Lucario-Mega
 Lugia
@@ -173,25 +174,34 @@ Lunala
 Magearna
 Manaphy
 Mantine
-Meloetta
+Meowscarada
 Mimikyu
 Mimikyu-Busted
 Muk-Alola
-Necrozma-Dawn-Wings
-Necrozma-Dusk-Mane
 Necrozma-Ultra
 Palkia
+Palkia-Shadow*
+Phione
 Pikachu-Original
 Porygon2
+Porygon-Z
+Rapidash-Shadow*
+Regigigas-Shadow*
+Raikou
 Reshiram
+Sandslash-Alola
+Skeledirge
 Spectrier
-Tapu Bulu
+Sunflora-Shadow*
 Tapu Fini
+Tapu Koko
 Thundurus
 Thundurus-Therian
 Vaporeon
 Victreebel
 Yveltal
+Zacian-Crowned
+Zekrom
 
 B
 Arcanine-Hisui
@@ -200,19 +210,18 @@ Arceus-Flying
 Arceus-Grass
 Arceus-Ground
 Bellsprout
-Calyrex-Ice
 Darmanitan-Galar-Zen
 Deoxys-Speed
 Entei
 Giratina-Origin
 Gliscor
 Jellicent
-Lucario-Shadow*
 Marshadow
-Meloetta-Pirouette
 Meowth
 Mesprit
 Moltres-Galar
+Necrozma-Dawn-Wings
+Necrozma-Dusk-Mane
 Pikachu-Alola
 Regigigas
 Reuniclus
@@ -223,7 +232,6 @@ Sunflora
 Swampert
 Torterra
 Volcanion
-Xerneas
 Zamazenta-Crowned
 Zapdos-Galar
 
@@ -235,21 +243,17 @@ Darmanitan
 Darmanitan-Galar
 Decidueye
 Groudon
-Gyarados-Mega
-Magearna-Original
 Minun
 Rapidash
 Rapidash-Galar
-Umbreon
 Urshifu-R
 Urshifu-S
-Zarude
 Zygarde
 Zygarde-Complete
 Zoroark-Hisui
 
 
-C-Tier (55 Total)
+C-Tier (61 Total)
 
 C+
 Abomasnow
@@ -264,11 +268,13 @@ Cresselia
 Empoleon
 Garchomp
 Gardevoir
+Gyarados-Mega
 Genesect
 Gengar
 Glastrier
 Dragapult
 Lopunny-Mega
+Magearna-Original
 Emolga
 Excadrill
 Jirachi
@@ -283,10 +289,13 @@ Salamence-Mega
 Sableye-Mega
 Sawsbuck
 Serperior
+Shaymin
 Shaymin-Sky
 Snorlax
+Umbreon
 Victini
 Weavile
+Zarude
 
 C
 Cryogonal
@@ -297,13 +306,13 @@ Leafeon
 Naganadel
 Regidrago
 Starmie
+Tapu Bulu
 Tapu Lele
 Zamazenta
 Zapdos
 
 C-
 Arctozolt
-Articuno
 Blaziken
 Corviknight
 Ferrothorn
@@ -314,7 +323,7 @@ Registeel
 Sableye
 
 
-D-Tier (12 Total)
+D-Tier (11 Total)
 
 D+
 Cobalion
@@ -326,7 +335,6 @@ Tyranitar
 
 D
 Dracovish
-Shaymin
 Zacian
 
 D-
@@ -956,9 +964,12 @@ Hp: 170/Atk: 335/Def: 185/SpA: 338/SpD: 185/Spe: 187
 Common Items
 - Ability Shield
 - Adrenaline Orb
+- Choice Specs
 - Dawn Stone*
-- Strange Ball*
-- Twisted Spoon
+- Flame Orb*
+- Strange Ball
+- Toxic Orb*
+- Twisted Spoon*
 
 Anything Goes Items
 - Berserk Gene
@@ -966,32 +977,37 @@ Anything Goes Items
 - Mewtwonite Y
 
 Common Memories
+- Dark Memory (AG)
+- Dragon Memory
 - Fire Memory
+- Psychic Memory (AG)
 
 Common Moves
 - Aurora Beam
 - Dynamic Punch
+- Ethereal Stream*
 - Gene Therapy
 - Grass Knot*
 - Inferno Beam
 - Low Kick*
 - Memory Blast*
-- Mystery Bind*
+- Mud Bomb*
 - Nasty Plot
 - Night Daze
 - Psychic Fury*
 - Psycho Darts
 - Shadow Flame
 - Stored Power
+- Taunt*
 
 * Though nominally common, this entry's usage rate may vary
 
-Playstyle: Because of Mewtwo's combination of usable bulk, peerless offenses, and blistering speed: It is a Pokemon whose potential is limited only by the mind of its Trainer. As a general rule, it will want to reserve at least one Moveslot for Stored Power, in order to maximize its damage output, however, it is mostly free to do whatever it wants with the remaining 3 Slots. Typically, if the Mewtwo is running an Adrenaline Orb set, it will generally rely on the raw power of Stored Power to clear away most of its foes, with the remaining moveslots being dedicated to managing the handful of checks who usually evade Mewtwo's wrath due to their Abilities. If Mewtwo is running an Ability Shield, it may find itself committing to sets with a higher level of uncertainty in order to compensate for its reduced damage output compared to its Adrenaline Orb sets. Even with these general tendencies established, it should be noted that the manner in which these Mewtwo execute their gameplans may vary drastically, with it having viable sets which cover everything from Choice-Locked, Set-Up Sweeper, All Out Attacker, and even Anti-Meta Support Sets.
+Playstyle: Because of Mewtwo's combination of usable bulk, peerless offenses, and blistering speed: It is a Pokemon whose potential is limited only by the mind of its Trainer. As a general rule, it will want to reserve at least one Moveslot for Stored Power, in order to maximize its damage output, however, it is mostly free to do whatever it wants with the remaining 3 Slots. Typically, if the Mewtwo is running an Adrenaline Orb set, it will generally rely on the raw power of Stored Power to clear away most of its foes, with the remaining moveslots being dedicated to managing the handful of checks who usually evade Mewtwo's wrath due to their Typing or Abilities. If Mewtwo is running an Ability Shield, it may find itself committing to sets with a higher level of uncertainty in order to compensate for its reduced damage output compared to its Adrenaline Orb sets. Even with these general tendencies established, it should be noted that the manner in which these Mewtwo execute their gameplans may vary drastically, with it having viable sets which cover everything from Choice-Locked, Status-Spreader, Set-Up Sweeper, All Out Attacker, and even Anti-Meta Support Sets.
 
 Strengths
 - One of the highest Special Attack stats in the game
 - Fastest non-Scarfed, commonly used Pokemon in the game; Becomes the fastest common Pokemon, with Hightened Mind.
-- Notable outspeeds include: Arceus, Caly-S, Gengar-Mega, Tornadus-Therian, Zacian-Crowned, and +1 Jolly Necrozma-Dusk-Mane.
+- Notable outspeeds include: Arceus, Caly-S, Gengar-Mega, Tornadus-Therian, Zacian-Crowned, +1 Jolly Necrozma-Dusk-Mane, and most Shadow Pokemon.
 - One of the largest learnsets in the game; Has a move for every Type
 - General unpredictability, with two viable Abilities, and multiple viable sets.
 - Decent Bulk, which grants it greater survivability compared to Pokemon with comparable levels of raw power
@@ -1143,6 +1159,15 @@ EVs: 4 HP / 88 SpD
 Raw Stats: 542 Hp / 478 SpD
 Explanation: With 4 HP EVs, and 88 SpD EVs, Arceus is guaranteed to survive at least one Adrenaline Orb Stored Power from a Special-Neutral Nature Mewtwo
 Example: 252 SpA Adrenaline Orb Mewtwo Stored Power vs. 4 HP / 88 SpD Arceus: 459-541 (84.6 - 99.8%) -- guaranteed 2HKO
+--
+Arceus-???
+Maximizing the chances to survive Critical Striker Adrenaline Orb Mewtwo's Stored Power
+EVs: 124 HP / 132 SpD
+Raw Stats: 772 Hp / 489 SpD
+Explanation: Although Arceus could theoretically invest more into its Stats to guarantee that it survives, Mysteryceus generally wants to run 252 EVs and a Speed Positive Nature in order to ensure it can outspeed the Metagame and set up safely. Notably, the Mewtwo is not running full investment into its Offenses. In this example, Mewtwo is running the 40 HP / 32 Def set, which it uses to increase its bulk, and avoid certain OHKOs from Pokemon such as Speed Blitzer Zacian-Crowned. With Full Investment into its offenses, Mewtwo's chances increase, but remain firmly below 25%
+Examples
+	- Critical Striker 184 SpA Adrenaline Orb Mewtwo Stored Power vs. 124 HP / 132 SpD Arceus-???: 658-775 (85.2 - 100.3%) -- 6.3% chance to OHKO
+	- Critical Striker 252 SpA Adrenaline Orb Mewtwo Stored Power vs. 124 HP / 132 SpD Arceus-???: 672-792 (87 - 102.5%) -- 18.8% chance to OHKO
 --------------------------
 Calyrex-Shadow
 --
@@ -1196,6 +1221,29 @@ Total EVs: 136 EVs
 Explanation: Although Mewtwo already has a >50% chance to survive a Surf from Tornadus even without any particular investment, providing Mewtwo with the Optimal EVs listed above, allows it to always survive a hit from it, provided it is at Full HP. Mewtwo can also survive by investing 136 EVs into HP alone, however this demands an additional 4 EVs from Mewtwo, which could be invested elsewhere.
 
 Example: 252 SpA Tornadus-Therian Surf vs. 136 HP / 0 SpD Mewtwo in Rain: 436-514 (84.6 - 99.8%) -- guaranteed 2HKO
+---------------------------------
+Zygarde-10-Percent
+--
+Surviving Critical Striker Mewtwo's Psycho Darts
+Optimal EVs
+EVs: 96 HP / 160 SpD
+Raw Stats: 485 Hp / 366 SpD
+Total EVs: 248 EVs
+
+Explanation: In order for Zygarde-10-Percent to justify its place on Teams, it necessarily must run the required amount of EVs to outspeed Mewtwo, the minimum of which, are 192 EVs with a Speed Positive Nature. This leaves Zygarde with 316 EVs left to work with, which can be used to allow a Zygarde at Full Health to always survive in the aforementioned scenario. Since the remaining 60 EVs do not significantly contribute anything of value to Zygarde's Matchup against Mewtwo, it is recommended that they be invested into whichever offensive stat it is using, to bolster its power
+
+Example: 252 SpA Critical Striker Adrenaline Orb Mewtwo Psycho Darts vs. 96 HP / 160 SpD Zygarde (10 Percent): 409-483 (84.3 - 99.5%) -- guaranteed 2HKO
+---------------------------------
+Strange Wave
+--
+Optimal Special Attack and Base Power
+First
+Special Attack: 414 SpA
+Base Power: 236 BP
+
+Alternate
+Special Attack: 411
+Base Power: 239
 =====================================================================================================================
 						      Section B*    
 * Disclaimer: This Section is outdated, and may not reflect the current state of the Meta
