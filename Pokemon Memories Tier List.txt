@@ -21,7 +21,7 @@ Section C
 	• Viability Rankings
 	• History of the Format
 
-(203 Total)
+(205 Total)
 						      Section A    
 						    Standard Ubers
 						      Highlights
@@ -34,7 +34,7 @@ Description: Certain Pokemon are given "Highlights", which will be posted here. 
 					              [ Psychic ]
 			    	(Hp: 170/Atk: 335/Def: 185/SpA: 338/SpD: 185/Spe: 187) BST: 1400
 					 Psychic Power/Hightened Mind/Antipathy
- 			      [Dark Memory/Dragon Memory/Dubious Disc/Fire Memory/Psychic Memory]
+ 				 [Dark Memory/Fairy Memory/Psychic Memory/Rock Memory]
 
 
 Description: Between its peerless offenses, blistering speed, and its perfectly distributed defenses; Mewtwo is an unparalleled force of mass destruction in this Meta. Whereas most Pokemon are biased toward specific sets, which serve as the primary cause for their exalted viability; Mewtwo is able to continuously adapt its sets on the fly, allowing it to always keep its opponents guessing. Its perfectly placed stats leave it with no major vulnerabilites, and its access to a nearly unlimited movepool, encompassing every Type in the game, makes it nigh uncounterable. Simply figuring out the opposing Mewtwo's set, is itself, a daunting task, and actually managing to successfully defeat it, is something that will usually only be possible after a very long struggle between both sides. Mewtwo's combination of attributes make it a force to be reckoned with, and when paired with its dangerous unpredictability, powerful teammates, signature items, and phenomenal abilities; This Genetic Masterpiece proves itself to be a powerful Pokemon that is second to none. We dreamed of creating the most powerful Pokemon, and we succeeded.
@@ -95,28 +95,31 @@ Viability Rankings
 S-Tier (6 Total)
 
 S
-Mewtwo
-Suicune-Shadow*
+Mewtwo (S-; Memorized)
 Mewtwo-Shadow*
+Arceus-???
+Groudon
 
 S-
-Arceus-???
 Arceus-Dark
-Zygarde 10% (B+; Fairy Memory)
-Eternatus (A; Dragon Memory + SpA-Positive Nature)
+Suicune-Shadow*
 
-A-Tier (25 Total)
+A-Tier (27 Total)
 The Pokemon in this Tier and the following Tiers are listed in Alphabetical Order
 
 A+
 Arceus
-Dialga-Shadow*
+Articuno
+Eternatus (B; Dragon Memory + SpA-Positive Nature)
 Ho-Oh (B+; Dragon Memory + Regenerator)
 Lucario-Shadow*
 Mew
+Phione
+Zygarde 10% (B+; Fairy Memory)
 
 A
-Articuno
+Arceus-Grass
+Dialga-Shadow*
 Gengar-Mega
 Kyurem-White
 Mamoswine
@@ -126,21 +129,19 @@ Xerneas (B; Dragon Memory + Memory Armor)
 
 A-
 Arceus-Ice
-Calyrex-Ice
 Darkrai-Shadow*
-Delphox
-Dialga
+Deoxys
 Dondozo
 Greninja-Ash
 Kyogre
 Meloetta
-Meloetta-Pirouette (B-; Ensemble Auxiliary Attacker)
+Meowscarada
 Mismagius
 Rayquaza
 Tornadus
 
 
-B-Tier (103 Total)
+B-Tier (104 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
@@ -152,9 +153,12 @@ Arceus-Steel
 Arceus-Water
 Azumarill-Shadow*
 Azumarill
+Calyrex-Ice
 Calyrex-Shadow
 Darkrai
+Delphox
 Deoxys-Attack
+Dialga
 Entei-Shadow*
 Giratina
 Golurk
@@ -174,14 +178,12 @@ Lunala
 Magearna
 Manaphy
 Mantine
-Meowscarada
 Mimikyu
 Mimikyu-Busted
 Muk-Alola
 Necrozma-Ultra
 Palkia
 Palkia-Shadow*
-Phione
 Pikachu-Original
 Porygon2
 Porygon-Z
@@ -207,7 +209,6 @@ B
 Arcanine-Hisui
 Arceus-Fairy
 Arceus-Flying
-Arceus-Grass
 Arceus-Ground
 Bellsprout
 Darmanitan-Galar-Zen
@@ -217,6 +218,7 @@ Giratina-Origin
 Gliscor
 Jellicent
 Marshadow
+Meloetta-Pirouette
 Meowth
 Mesprit
 Moltres-Galar
@@ -225,6 +227,7 @@ Necrozma-Dusk-Mane
 Pikachu-Alola
 Regigigas
 Reuniclus
+Scovillain
 Skarmory
 Solgaleo
 Suicune
@@ -242,7 +245,6 @@ Celebi
 Darmanitan
 Darmanitan-Galar
 Decidueye
-Groudon
 Minun
 Rapidash
 Rapidash-Galar

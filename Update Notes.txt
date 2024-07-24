@@ -1,5 +1,251 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v2.0.5
+General
+- Animations
+	- The following Moves have received Animations: Arctic Freeze, Breaking Waves, Land Eater, Land Mass, Prism Strike, Psycho Blitz
+
+
+Mechanics
+- Memorization
+	- Memory Abilities
+		- Infinite Voltage
+			- Additional Effect: Pokemon's Stats cannot be lowered by its own Electric-Type Moves
+		- Super Memory Abilities
+			- Super Regenerator: No longer restores the Health of Shadow Pokemon
+- Typechart
+	- Fairy
+		- Defensive
+			- Ground
+				- Resisted -> Neutral
+	- Fire
+		- Defensive
+			- Electric
+				- Resisted -> Neutral
+	- Grass
+
+		- Defensive
+			- Dark
+				- Neutral -> Resisted
+- Ultra Assist
+	- Assist Boosts
+		- Defense
+			- Primary Stat
+				- 40% Boost -> 70% Boost
+		- Special Defense
+			- Primary Stat
+				- 40% Boost -> 70% Boost
+	- EX Assists
+		- EX Darkrai
+			- Corrected an oversight where this Assist would cause the game to crash
+
+
+Formats
+- Ubers
+	- Banlist Removals
+		- Moody Clause has been removed
+			- Due to the balancing adjustments that Moody has received, it was determined that it no longer met the Criteria to be restricted, as it was
+
+Abilities
+- Mutation
+	- Implemented
+	- Effect: Pokemon's Psychic-Type Moves have an additional x1.3 Base Power. Pokemon's Stats cannot be lowered as a result of its own Psychic-Type Moves; Pokemon's Moves have Perfect Accuracy.
+- Psychic Assault
+	- Base Power Boost Threshold: 140 and below -> 150 and below
+	- Additional Effect: Pokemon's first successful move has an additional x1.3 Base Power. Pokemon receives STAB on its Fairy-Type Moves
+- Psycho Force
+	- Additional Effect: The first successful move used against this Pokemon has its Damage Reduced by 30%
+		- As Mega Mewtwo X is a Psychic/Fighting Type Pokemon, this change causes it to resist most opposing Psychic-Type Attacks. If Mega Mewtwo X has its Type changed to one that would normally be weak to opposing Psychic-Type Moves, it will instead, be hit neutrally
+	- Supercharged Moves
+		- Additions
+			- Sharpen -> Swords Dance
+
+
+Items
+- Clover Sweet
+	- Effect: Changes Moody to provide 2 single-stage boosts to one or more stats, instead of a two-stage boost to a single stat
+- Wave Incense
+	- Additional Effect: Additional x1.2 Base Power Boost to Water-Type Moves when under Rain -> Water-Type and Ice-Type Pokemon restore 1/10 of their Max Hp at the end of each Turn
+
+
+Moves
+- Arctic Freeze
+	- Implemented
+	- Base Power: 120
+	- Accuracy: 100
+	- Category: Special
+	- Contact: __
+	- Effect: Forces the opponent out, and attempts to set Hail; User restores 1/5 of their Max Hp upon each use; Hits opposing Water-Type Pokemon neutrally. Raises the Pokemon's Special Attack by 1 Stage
+	- Attrition Point: +2
+	- Priority: -1
+	- PP: 10
+	- Type: Ice
+	- Users: Articuno
+- Bullet Seed
+	- Additional Effect: 10% Chance to lower the opponent's Defense by 1 Stage
+- Cosmic Starfall
+	- Base Power: 180 -> 200
+- Dazzling Gleam
+	- Base Power: 110 -> 120
+- Draco Meteor
+	- Base Power: 180 -> 200
+- Fleur Cannon
+	- Base Power: 180 -> 200
+- Land Eater
+	- Implemented
+	- Base Power: __
+	- Accuracy: 100
+	- Category: Physical
+	- Contact: __
+	- Effect: Deals damage equal to 1/4 of the opposing Pokemon's Max Hp; Pokemon restores half of the Damage Inflicted. If Sandstorm is active, Pokemon restores twice as much damage as was inflicted. Partially Traps the opponent; Ignores the Ground-Type's Immunities
+	- Priority: 0
+	- PP: 5
+	- Type: Ground
+	- Users: Groudon
+- Land Mass
+	- Implemented
+	- Base Power: 100
+	- Accuracy: 100
+	- Category: Physical
+	- Contact: __
+	- Effect: Doubled Base Power if the Pokemon is at or above 1/2 Max Hp; Hits Flying-Types Half-Effectively
+	- Priority: 0
+	- PP: 10
+	- Target: All Adjacent Foes
+	- Type: Ground
+	- Users: Excadrill, Groudon, Landorus, Swampert
+- Leaf Storm
+	- Base Power: 180 -> 200
+- Memory Blast
+	- Corected an oversight where the Special Animations would play when the Pokemon's offensive stats were equal, despite the Move still being Physical
+- Moonblast
+	- Base Power: 135 -> 142
+- Nature's Voice
+	- Expires After: 3 Turns -> Successfully causing two Opposing Pokemon to faint
+- Overheat
+	- Base Power: 180 -> 200
+- Prism Strike
+	- Implemented
+	- Base Power: 150
+	- Accuracy: 100
+	- Category: Varies (Special by Default; Physical if the Pokemon's Attack Stat is higher)
+	- Contact: __
+	- Effect: Base Power increases by 50 for each of the opponent's stat boosts; Hits Fire-Types Neutrally
+	- Power Ceiling: 500 BP
+	- Conditions: Can only be used by Mewtwo
+	- Priority: 0
+	- PP: 10
+	- Target: All Adjacent Foes
+	- Type: Fairy
+	- Users: Mewtwo
+- Psychic Wave
+	- Implemented
+	- Base Power: __
+	- Accuracy: 100
+	- Category: Varies (Special by Default; Physical if the Pokemon's Attack Stat is higher)
+	- Contact: __
+	- Effect: Deals damage equal to 30% of the user's highest Attacking Stat. The Damage dealt factors external changes to the Pokemon's attacking Stats into its Damage Calculation. Pokemon restores damage equal to 1/2 of the Damage Inflicted to the opponent.
+	- Priority: 0
+	- PP: 5
+	- Target: All Adjacent Foes
+	- Type: Psychic
+	- Users: Mewtwo
+- Psycho Blitz
+	- Base Power: 170 -> 160
+	- Secondary Effect: Lowers the Pokemon's Defenses by 1 stage each -> Raises the Pokemon's Attack Stat by 1 Stage upon successfully causing an opposing Pokemon to faint
+		- Attrition Point: __ -> +1
+- Spicy Extract
+	- Base Power: __ -> 140
+	- Category: Status -> Varies (Special by Default; Physical if the Pokemon's Attack Stat is higher)
+	- Effect: Raises the target's Atk by 2 stages, and lowers their Def by 2 stages -> 100% Chance to Burn the opponent. Ignores Sand
+- Vanishing Strike
+	- Base Power: 220 -> 200
+- Zap Cannon
+	- Base Power: 180 -> 200
+
+Pokemon
+- Chansey
+	- Learnset Additions
+		- Sweet Retreat
+- Deoxys
+	- Base Forme
+		- Ability
+			- No Guard -> Mutation
+- Excadrill
+	- Ability
+		- Double-Layer -> Adaptability
+	- Learnset Additions
+		- Bullet Switch
+- Bellsprout
+	- Learnset Additions
+		- Scorching Sands
+- Groudon
+	- Learnset Additions
+		- Ember
+		- Royal Retreat
+	- Learnset Removals
+		- Sweet Retreat
+- Jigglypuff
+	- Mechanics
+		- No longer incompatible with Eviolite
+- Keldeo
+	- Resolute
+		- Base Stats
+			- Def: 135 -> 140
+			- SpD: 154 -> 151
+			- Spe: 181 -> 184
+- Mewtwo
+	- Learnset Additions
+		- Moonblast
+		- Parabolic Charge
+		- Sharpen
+- Mew
+	- Learnset Additions
+		- Spectral Wave
+		- Trick Retreat
+- Scovillain
+	- Implemented
+	- Abilities
+		- Insomnia -> Sand Rush
+	- Base Stats
+		- Hp: 65 -> 165
+		- Atk: 108 -> 308
+		- Def: 65 -> 165
+		- SpA: 108 -> 308
+		- SpD: 165 -> 308
+		- Spe: 65 -> 165
+		- BST: 75 -> 175
+	- Learnset Additions
+		- Apple Acid
+		- Close Combat
+		- Earth Power
+		- Earthquake
+		- Eruption
+		- Flame Charge
+		- Flame Switch
+		- Flare Blitz
+		- Grav Apple
+		- Heat Crash
+		- High Jump Kick
+		- Leaf Switch
+		- Parting Shot
+		- Power Whip
+		- Shell Smash
+		- Toaster Bomb
+- Toxapex
+	- Learnset Additions
+		- Dragon Breath
+		- House Cleaning
+		- Parting Gift
+		- Whirlwind
+
+Shadow Pokemon
+- Suicune-Shadow
+	- Base Stats
+		- Def: 193 -> 196
+		- Spe: 185 -> 182
+
+
 Pokemon Memories v2.0.4
 General
 - Animations
