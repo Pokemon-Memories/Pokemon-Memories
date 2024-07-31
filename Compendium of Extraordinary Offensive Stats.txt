@@ -1,6 +1,6 @@
 Offensive Stats over 300
 
-Attack (79 Total)
+Attack (80 Total)
 
 Mewtwo-Mega-X: 450
 Deoxys-Attack: 405
@@ -49,6 +49,7 @@ Victreebel-Shadow*: 314
 Keldeo Resolute: 310
 Torterra: 309
 Lucario-Mega: 308
+Scovillain: 308
 Decidueye: 307
 Necrozma-Dusk-Mane: 307
 Pikachu-Original: 307
@@ -82,7 +83,7 @@ Terrakion: 300
 Zacian: 300
 Zapdos-Galar: 300
 
-Special Attack (69 Total)
+Special Attack (70 Total)
 
 Mega-Mewtwo-Y: 450
 Mewtwo-Shadow*: 428
@@ -119,6 +120,7 @@ Diancie-Mega: 315
 Spectrier: 315
 Victreebel-Shadow*: 314
 Keldeo-Resolute: 310
+Scovillain: 308
 Naganadel: 307
 Necrozma-Dawn-Wings: 307
 Pikachu-Original: 307

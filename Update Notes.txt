@@ -3,7 +3,8 @@ Pokemon Memories Update Notes
 Pokemon Memories v2.0.5
 General
 - Animations
-	- The following Moves have received Animations: Arctic Freeze, Breaking Waves, Land Eater, Land Mass, Prism Strike, Psycho Blitz
+	- The following Moves have received Animations: Arctic Freeze, Breaking Waves, Land Eater, Land Mass, Mystery Barrage, Prism Strike, Psycho Blitz, Vicious Vine
+	- The following Moves have  received modified Animations: Crystal Rush, Flip Kick, Mystery Deluge
 
 
 Mechanics
@@ -11,6 +12,8 @@ Mechanics
 	- Memory Abilities
 		- Infinite Voltage
 			- Additional Effect: Pokemon's Stats cannot be lowered by its own Electric-Type Moves
+		- Perfect Form
+			- Additional Effect: Automatically boosts the power of Photon Buster, Prism Strike, and Psystrike, provided that they are Physical Moves
 		- Super Memory Abilities
 			- Super Regenerator: No longer restores the Health of Shadow Pokemon
 - Typechart
@@ -41,12 +44,22 @@ Mechanics
 
 
 Formats
+- Balanced Hackmons
+	- Banlist Additions
+		- Keen Eye
+			- Does not apply to Unlimited BH
 - Ubers
+	- Banlist Additions
+		- Porygon Clause
+			- Porygon cannot hold a Dubious Disc
+				- Mystery Barrage and Mystery Deluge pushed Porygon's power back over the threshold for the Tier, forcing the Clause to be reimplemented
 	- Banlist Removals
 		- Moody Clause has been removed
 			- Due to the balancing adjustments that Moody has received, it was determined that it no longer met the Criteria to be restricted, as it was
 
 Abilities
+- Effervescent
+	- Effect: Pokemon's Fighting-Type and Normal-Type Moves have an additional x1.3 Base Power. Pokemon's Super-Effective Moves deal an additional x1.3 Damage. Pokemon's Fighting-Type Moves and Normal-Type Moves ignore the opposing Pokemon's Type-Based Immunities
 - Mutation
 	- Implemented
 	- Effect: Pokemon's Psychic-Type Moves have an additional x1.3 Base Power. Pokemon's Stats cannot be lowered as a result of its own Psychic-Type Moves; Pokemon's Moves have Perfect Accuracy.
@@ -54,16 +67,31 @@ Abilities
 	- Base Power Boost Threshold: 140 and below -> 150 and below
 	- Additional Effect: Pokemon's first successful move has an additional x1.3 Base Power. Pokemon receives STAB on its Fairy-Type Moves
 - Psycho Force
-	- Additional Effect: The first successful move used against this Pokemon has its Damage Reduced by 30%
+	- Additional Effect: The first successful move used against this Pokemon has its Damage Reduced by 50%
 		- As Mega Mewtwo X is a Psychic/Fighting Type Pokemon, this change causes it to resist most opposing Psychic-Type Attacks. If Mega Mewtwo X has its Type changed to one that would normally be weak to opposing Psychic-Type Moves, it will instead, be hit neutrally
 	- Supercharged Moves
 		- Additions
 			- Sharpen -> Swords Dance
+- Pure Power
+	- Affected Stat: Special Attack -> Attack
+
+Abilities
+- Psycho Force
+	- Supercharged Moves
+		- Photon Hands Multiplier: x2 -> x1.5
+- Sand Eater
+	- Additional Restrictions: Pokemon's Grass-Type Moves will no longer be boosted under Sand if they already either ignore Sand, or are boosted by it
 
 
 Items
 - Clover Sweet
+	- Implemented
 	- Effect: Changes Moody to provide 2 single-stage boosts to one or more stats, instead of a two-stage boost to a single stat
+- Love Sweet
+	- Implemented
+	- Effect: Restores 3/4 of the Pokemon's Max Hp upon being removed. This effect will activate regardless of how it is removed.
+- Utility Umbrella
+	- Additional Effect: Pokemon's Moves ignore the effects of Weather; Moves that directly interact with Weather are not affected by this Item.
 - Wave Incense
 	- Additional Effect: Additional x1.2 Base Power Boost to Water-Type Moves when under Rain -> Water-Type and Ice-Type Pokemon restore 1/10 of their Max Hp at the end of each Turn
 
@@ -81,16 +109,52 @@ Moves
 	- PP: 10
 	- Type: Ice
 	- Users: Articuno
+- Bubble Spin
+	 - Additional Effect: Category changes to Physical if the Pokemon's Attack Stat is higher
 - Bullet Seed
 	- Additional Effect: 10% Chance to lower the opponent's Defense by 1 Stage
 - Cosmic Starfall
 	- Base Power: 180 -> 200
+- Darkest Nightfall
+	- Base Power: 180 -> 160
 - Dazzling Gleam
 	- Base Power: 110 -> 120
+- Dimension Break
+	- Base Power: 210 -> 190
+- Double-Edge
+	- Base Power: 150 -> 170
+	- Recoil: __ -> 33%
+	- PP: 5 -> 15
 - Draco Meteor
 	- Base Power: 180 -> 200
+- Explosion
+	- Base Power: 320 -> 280
+- Flare Blitz
+	- Base Power: 160 -> 170
+	- Penalty: User's Defense and Special Defense drop by 1 stage each -> 33% Recoil
 - Fleur Cannon
 	- Base Power: 180 -> 200
+- Glacial Sign
+	- Implemented
+	- Base Power: __
+	- Accuracy: __
+	- Category: Status
+	- Contact: __
+	- Effect: Raises user's Attack and Speed by 1 stage each, and induces the Fatigue Effect. The Pokemon's Boosted Stats are dropped after causing two opposing Pokemon to faint.
+	- Priority: 0
+	- PP: 5
+	- Type: Ice
+	- Users: Calyrex-Ice
+- Horn Leech
+	- Base Power: 90 -> 120
+- Howl
+	- Added Penalty: Pokemon loses the boosts gained from this move after successfully causing two opposing Pokemon to faint via an Attacking Move
+- Hyper Beam
+	- Base Power: 170 -> 190
+- Infinite Velocity
+	- Base Power: 180 -> 165
+- Judgment
+	- Base Power: 180 -> 160
 - Land Eater
 	- Implemented
 	- Base Power: __
@@ -114,16 +178,37 @@ Moves
 	- Target: All Adjacent Foes
 	- Type: Ground
 	- Users: Excadrill, Groudon, Landorus, Swampert
+- Land's Wrath
+	- Base Power: 180 -> 150
 - Leaf Storm
 	- Base Power: 180 -> 200
 - Memory Blast
 	- Corected an oversight where the Special Animations would play when the Pokemon's offensive stats were equal, despite the Move still being Physical
 - Moonblast
 	- Base Power: 135 -> 142
+- Multi-Attack
+	- Base Power: 180 -> 160
+- Mystery Barrage
+	- Implemented
+	- Base Power: 110
+	- Accuracy: 100
+	- Category: Physical
+	- Contact: __
+	- Effect: Doubled Base Power if the Pokemon has 1/2 of its Max Hp, or more
+	- Priority: 0
+	- PP: 10
+	- Target: Normal
+	- Type: ???
+	- Users: Keldeo, Kyurem, Mewtwo, Porygon, Thundurus
+- Mystery Deluge
+	- Base Power is no longer reduced when used by Pokemon with Oversight
+	- Added Users: Porygon
 - Nature's Voice
 	- Expires After: 3 Turns -> Successfully causing two Opposing Pokemon to faint
 - Overheat
 	- Base Power: 180 -> 200
+- Photon Hands
+	- Base Power: 80 -> 120
 - Prism Strike
 	- Implemented
 	- Base Power: 150
@@ -138,6 +223,9 @@ Moves
 	- Target: All Adjacent Foes
 	- Type: Fairy
 	- Users: Mewtwo
+- Psychic Order
+	- Additional Effect: If the Pokemon is holding a Star Sweet, and is able to switch out, it will automatically restore its Health by 1/4 of its Special Attack Stat before Switching Out; The opponent will also receive this effect, as before
+	- Health Restoration: Corrected an oversight where the user would only heal by 1/10th of their Special Attack, instead of 1/4
 - Psychic Wave
 	- Implemented
 	- Base Power: __
@@ -151,22 +239,96 @@ Moves
 	- Type: Psychic
 	- Users: Mewtwo
 - Psycho Blitz
-	- Base Power: 170 -> 160
-	- Secondary Effect: Lowers the Pokemon's Defenses by 1 stage each -> Raises the Pokemon's Attack Stat by 1 Stage upon successfully causing an opposing Pokemon to faint
-		- Attrition Point: __ -> +1
+	- Base Power: 170 -> 220
+	- Secondary Effect: Lowers the Pokemon's Defenses by 1 stage each -> Pokemon receives Recoil Damage equal to 1/5 of the Damage Inflicted to the opponent
+- Revelation Dance
+	- Additional Effect: Category changes to Physical if the Pokemon's Attack Stat is higher
+- Self-Destruct
+	- Base Power: 280 -> 240
+- Shadow Sign
+	- Implemented
+	- Base Power: __
+	- Accuracy: __
+	- Category: Status
+	- Contact: __
+	- Effect: Raises user's Special Attack and Speed by 1 stage each, and induces the Fatigue Effect. The Pokemon's Boosted Stats are dropped after causing two opposing Pokemon to faint.
+	- Priority: 0
+	- PP: 5
+	- Type: Ghost
+	- Users: Calyrex-Shadow
 - Spicy Extract
 	- Base Power: __ -> 140
 	- Category: Status -> Varies (Special by Default; Physical if the Pokemon's Attack Stat is higher)
 	- Effect: Raises the target's Atk by 2 stages, and lowers their Def by 2 stages -> 100% Chance to Burn the opponent. Ignores Sand
+- Techno Blast
+	- Base Power: 160 -> 140
+	- Additional Effect: Category changes to Physical if the Pokemon's Attack Stat is higher
+- Thunderous Kick
+	- Additional Effect: Base Power increases to 240 when Rain is active (Not related to the additional x1.3 Base Power Boost that this move receives if the opponent fainted last Turn)
 - Vanishing Strike
 	- Base Power: 220 -> 200
+- Vicious Vine
+	- Implemented
+	- Base Power: 60
+	- Accuracy: 70
+	- Category: Varies (Special by Default; Physical if the Pokemon's Attack Stat is higher)
+	- Contact: __
+	- Increment: Yes
+	- Effect: Quadrupled Base Power when Rain is active
+	- Priority: 0
+	- PP: 5
+	- Type: Grass
+	- Users: Abomasnow, Amoonguss, Cacturne, Leafeon, Lilligant, Maractus, Mewtwo, Mew, Shaymin, Sunflora, Trevenant, Virizion
 - Zap Cannon
 	- Base Power: 180 -> 200
 
 Pokemon
+- Azelf
+	- Learnset Additions
+		- Mystical Power
+- Bellsprout
+	- Learnset Additions
+		- Scorching Sands
+- Calyrex
+	- Calyrex-Ice
+		- Learnset Additions
+			- Close Combat
+			- Neuron Blade
+			- Psycho Blitz
+			- Royal Snowstorm
+			- Trick Retreat
+	- Calyrex-Shadow
+		- Base Stats
+			- Atk: 270 -> 265
+			- Spe: 180 -> 185
+		- Learnset Additions
+			- Astral Nauts
+			- Energy Ball
+			- Focus Blast
+			- Bullet Seed
+			- Giga Drain
+			- Grass Knot
+			- Leaf Storm
+			- Leech Seed
+			- Magical Leaf
+			- Rental Charge
+			- Revelation Dance
+			- Seed Bomb
+			- Shadow Volley
+			- Solar Beam
+			- Solar Blade
 - Chansey
 	- Learnset Additions
 		- Sweet Retreat
+- Cobalion
+	- Abilities
+		- Corrected an oversight where Cobalion did not receive Speed Boost, as intended
+	- Base Stats
+		- Hp: 162 -> 182
+		- Atk: 250 -> 270
+	- Learnset Additions
+		- Gear Grind
+		- Shift Gear
 - Deoxys
 	- Base Forme
 		- Ability
@@ -176,9 +338,18 @@ Pokemon
 		- Double-Layer -> Adaptability
 	- Learnset Additions
 		- Bullet Switch
-- Bellsprout
+- Genesect
+	- Abilities
+		- Reckless -> Steadfast
 	- Learnset Additions
-		- Scorching Sands
+		- Aromatic Mist
+		- Revelation Dance
+		- Royal Retreat
+	- Learnset Removals
+		- Recover
+- Glastrier
+	- Learnset Additions
+		- Close Combat
 - Groudon
 	- Learnset Additions
 		- Ember
@@ -194,11 +365,29 @@ Pokemon
 			- Def: 135 -> 140
 			- SpD: 154 -> 151
 			- Spe: 181 -> 184
+- Kyurem
+	- Learnset Addition
+		- Howl
+- Lilligant
+	- Base Stats
+		- Hp: 222 -> 242
+- Lopunny
+	- Learnset Additions
+		- Extreme Speed
+		- Flip Kick
+	- Lopunny-Mega
+		- Ability: Scrappy -> Effervescent
+- Mesprit
+	- Learnset Additions
+		- Mystical Power
 - Mewtwo
 	- Learnset Additions
+		- Knock Off
 		- Moonblast
 		- Parabolic Charge
+		- Royal Submersion
 		- Sharpen
+		- Surf
 - Mew
 	- Learnset Additions
 		- Spectral Wave
@@ -232,12 +421,57 @@ Pokemon
 		- Power Whip
 		- Shell Smash
 		- Toaster Bomb
+- Shaymin
+	- Universal
+		- Learnset Additions
+			- Royal Turbulence
+			- Sky Attack
+	- Base Forme
+		- Base Stats
+			- Hp: 215 -> 245
+	- Sky Forme
+		- Base Stats
+			- Hp: 209 -> 239
+- Terrakion
+	- Base Stats
+		- SpD: 125 -> 165
+	- Learnset Additions
+		- Extreme Speed
+		- Flip Kick
+		- Rock Throw
+- Torterra
+	- Learnset Additions
+		- Gunk Shot
+		- Heat Crash
+		- Land Eater
+		- Sweet Retreat
 - Toxapex
 	- Learnset Additions
 		- Dragon Breath
 		- House Cleaning
 		- Parting Gift
 		- Whirlwind
+- Trevenant
+	- Learnset Additions
+		- Dragon Breath
+		- House Cleaning
+		- Spectral Wave
+		- Trick Retreat
+- Uxie
+	- Learnset Additions
+		- Mystical Power
+- Vaporeon
+	- Learnset Additions
+		- Aromatherapy
+		- House Cleaning
+- Virizion
+	- Base Stats
+		- Hp: 232 -> 252
+		- Def: 191 -> 211
+	- Learnset Additions
+		- Aromatherapy
+		- House Cleaning
+		- Sweet Retreat
 
 Shadow Pokemon
 - Suicune-Shadow
