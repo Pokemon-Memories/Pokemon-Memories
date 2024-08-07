@@ -21,7 +21,7 @@ Section C
 	• Viability Rankings
 	• History of the Format
 
-(206 Total)
+(207 Total)
 						      Section A    
 						    Standard Ubers
 						      Highlights
@@ -92,13 +92,16 @@ Current Tiered Shadow Pokemon: Azumarill-Shadow, Darkrai-Shadow, Dialga-Shadow, 
 
 Viability Rankings
 
-S-Tier (3 Total)
+S-Tier (6 Total)
 
-S
-Mewtwo (S-; Memorized)
-Mewtwo-Shadow*
+S+
+Mewtwo
 
 S-
+Phione
+Moltres (A+; Fire Memory)
+Lilligant
+Mewtwo-Shadow*
 Arceus
 
 A-Tier (30 Total)
@@ -106,24 +109,24 @@ The Pokemon in this Tier and the following Tiers are listed in Alphabetical Orde
 
 A+
 Arceus-???
+Arceus-Fire
 Arceus-Grass
 Articuno
 Calyrex-Shadow
 Eternatus (B; Dragon Memory + SpA-Positive Nature)
-Moltres
-Phione
-Suicune-Shadow*
 
 A
-Arceus-Dark
+Entei-Shadow*
 Groudon
 Ho-Oh (B+; Dragon Memory + Regenerator)
-Kyurem-White
-Mamoswine
 Mew
+Rapidash-Shadow*
 Victreebel-Shadow*
+Suicune-Shadow*
+Zacian-Crowned
 
 A-
+Arceus-Dark
 Arceus-Ice
 Azumarill-Shadow*
 Cobalion
@@ -131,13 +134,11 @@ Darkrai-Shadow*
 Dialga-Shadow*
 Deoxys
 Dondozo
-Kyogre
 Lucario-Shadow*
 Meloetta
-Meowscarada
 Porygon-Z
 Rayquaza
-Xerneas (B; Dragon Memory + Memory Armor)
+Xerneas (B; Dragon Memory + Memory Armor / Fairy Memory + Fairy Aura)
 Zygarde 10% (B+; Fairy Memory)
 
 
@@ -147,7 +148,6 @@ Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetical
 B+
 Amoonguss
 Arceus-Electric
-Arceus-Fire
 Arceus-Ghost
 Arceus-Steel
 Arceus-Water
@@ -157,7 +157,6 @@ Darkrai
 Delphox
 Deoxys-Attack
 Dialga
-Entei-Shadow*
 Gengar-Mega
 Giratina
 Golurk
@@ -167,16 +166,19 @@ Hoopa Unbound
 Infernape
 Keldeo
 Klinklang
+Kyogre
 Kyurem-Black
+Kyurem-White
 Landorus-Therian
-Lilligant
 Lilligant-Hisui
 Lucario-Mega
 Lugia
 Lunala
 Magearna
+Mamoswine
 Manaphy
 Mantine
+Meowscarada
 Mimikyu
 Mimikyu-Busted
 Mismagius
@@ -186,7 +188,6 @@ Palkia
 Palkia-Shadow*
 Pikachu-Original
 Porygon2
-Rapidash-Shadow*
 Regigigas-Shadow*
 Raikou
 Reshiram
@@ -202,8 +203,8 @@ Tornadus
 Toxapex
 Vaporeon
 Victreebel
+Virizion
 Yveltal
-Zacian-Crowned
 Zekrom
 
 B
@@ -964,6 +965,13 @@ Category: Mewtwo
 
 Mewtwo   
 Hp: 170/Atk: 335/Def: 185/SpA: 338/SpD: 185/Spe: 187
+Mewtwo-Mega-X
+Hp: 170/Atk: 450/Def: 205/SpA: 340/SpD: 205/Spe: 210
+Mewtwo-Mega-Y
+Hp: 170/Atk: 245/Def: 165/SpA: 450/SpD: 340/Spe: 210
+Mewtwo-Shadow
+Hp: 170/Atk: 335/Def: 225/SpA: 428/SpD: 155/Spe: 187
+
 Common Items
 - Ability Shield
 - Adrenaline Orb
@@ -1062,6 +1070,34 @@ Details
 - Unlike its Speed Blitzer sets, however, Critical Striker Mewtwo remains vulnerable to the opposing forms of Speed Control in the Tier, and notably, becomes vulnerable to losing the Speed-Tie with opposing Mewtwo, as even an Overdrive-Boosted Psycho Darts will generally be unable to defeat an opposing Mewtwo
 
 
+Shadow Mewtwo (Critical Striker / Health Hoarder / Speed Blitzer)
+Mewtwo @ Strange Ball  
+Ability: Psychic Power  
+Happiness: 250 / 243 / 255 
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Shatter Shade / Astral Nauts / Shadow Volley / Shadow Flame
+- Meteor Beam / Shadow Switch / Shadow Volley / Shadow Flame
+- Dynamic Punch  
+- Psycho Darts / Neuron Blade
+
+Forme Details
+- By using a Strange Ball, Mewtwo can transform into Shadow Mewtwo. While in this state, Mewtwo notably gains access to an increased Defense and Special Attack Stat, an added Ghost-Typing, and the ability "Legend Shadow", which uses the attacker's highest attacking stat, and the opponent's lowest defensive stat to calculate damage.
+- Despite the significant increase to its raw power, the loss of the Permaburst Effect imparted by Psychic Power removes one of its Base Forme's greatest strengths, in consistent access to some of the strongest moves in the game
+- Because of this, Mewtwo-Shadow is closer to a sidegrade to Mewtwo, than a strict upgrade
+Set Details
+- While Mewtwo-Shadow can theoretically nearly every move that Mewtwo can, it generally prefers to prioritize the exploitation of its STAB-options in order to maximize its efficiency and avoid any potential overlap with Base Mewtwo
+- Astral Nauts' Legend Shadow-induced 180 BP can be used to grant Mewtwo-Shadow a close approximation to Stored Power, which can be useful for breaking through opponents, and notably, consistently dealing over 90% to most defensively uninvested Arceus-Formes
+- Shadow Flame grants Mewtwo the ability to command a powerful STAB-Option while also obliterating opposing Steel-Type Pokemon, while Shadow Volley exchanges Mewtwo's Type-Coverage for Category-Coverage and a slight power increase, notably being able to hit Pokemon through abilities that reduce the power of Special Moves, which Legend Shadow is not capable of accomplishing alone (under normal circumstances)
+- Alternatively, Shatter Shade can be used to allow Mewtwo to break through Pokemon that mitigate the power of effectiveness of Ghost-Type moves through their Abilities, however the power drop will be noticeable, increasing the strain of running this Forme over its Base Forme on its Team.
+- Meteor Beam can be used to hit opposing Ice-Types and Fire-Types--such as Articuno or Arceus-Fire--hard, whilst potentially being able to pick off weakened foes due to Legend Shadow's damage optimization.
+- Dynamic Punch is arguably the most indispensible coverage move, as it allows it to hit the greatest possible number of potential defensive answers hard, dealing massive damage to Arceus-Dark and Steel-Types, whilst also hitting other Pokemon that its Base Forme struggles against--such as Meloetta and Yveltal for significant neutral damage
+- Psycho Darts is arguably the move that has received the greatest direct upgrade for Mewtwo-Shadow, as it is strictly superior in nearly every way compared to its Base-Forme's counterpart, going from a powerful but situational insurance device, to a devastating attacking move capable of clearing even relatively healthy opponents away, particularly when boosted by Critical Striker.
+- Mewtwo can forgo Astral Nauts to run another coverage move (such as Meteor Beam), if it is confident in its ability to navigate around the potential answers to its Ghost-Type Moves, or can choose to run Shadow Switch over its other Ghost-Type Moves to strike a balance between damage output and utility (e.g. Shadow Flame/Meteor Beam/Dynamic Punch/Psycho Darts or Astral Nauts/Shadow Switch/Dynamic Punch/Psycho Darts)
+- Mewtwo can also run Health Hoarder as its overdrive to potentially extend its longevity, however this method should be approached with caution, as Mewtwo will lose its Overdrive prematurely if it is forced out
+- It is not recommended to run Shadow Cannon on Mewtwo-Shadow, as most of the threats that it would struggle to break through on its own are also likely to be capable of withstanding this move's power (such as Flower Sweet/Grass Memory Lilligant, irrespective of the Weather), and the loss of its health and its moveslot outweigh the limited benefits gained from this move, especially as Mewtwo is capable of accessing similar levels of strength through safer or more useful moves, with Critical Striker
+
+
 Star Sweet Psychic Order Passer (Speed Blitzer / Critical Striker / Trash Disposer)
 Mewtwo @ Star Sweet  
 Ability: Psychic Power / Hightened Mind
@@ -1069,17 +1105,17 @@ Happiness: 255 / 250 / 248
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Stored Power  
-- Shadow Flame  
+- Night Daze / Shadow Flame / Aura Sphere / Grass Knot / Ensnarement / Signal Beam
 - Psychic Order  
-- Psycho Darts
+- Psycho Darts / Aura Sphere / Grass Knot / Ensnarement / Signal Beam
 
 Details
 - Due to Psychic Order counting as a "Charity-Move", Mewtwo is able to pair this move with a Star Sweet to gain access to a fast-pivoting option that is capable of healing both itself, and its allies
 - While Psychic Order is a powerful Support Move in a vacuum, Mewtwo's subpar bulk makes this set one of the hardest to use effectively
 - Since Psychic Order does not have negative Priority, Mewtwo will generally want to surround itself with decently powerful, bulky allies, in order to ensure that its Switch-Ins are capable of surviving the hits meant for it, while maintaining the power to stay in against the opponents before them, if needed
 - Stored Power is mandatory on this set, as it loss of Adrenaline Orb's Power and Ability Shield's utility means that it will need to output as much damage as it can in order to justify its place in the "Mewtwo-Slot".
-- Using Mewtwo's third moveslot to check itself instead of other threats is also recommended, as Mewtwo can simply use Psychic Order to heal itself and switch to an ally against these Pokemon, if needed, while the same strategy is not very effective against opposing Mewtwo
-- While the last moveslot can theroetically be used for anything, Mewtwo will generally want to run Psycho Darts even here, as the utility of being able to outspeed other Priority Pokemon generally outweighs the value gained by adding another Status or Coverage Move
+- Reserving a moveslot to check opposing Psychic-Types--such as Mewtwo or Meloetta, is also recommended, as a Mewtwo that is unable to effectively K.O. itself will nearly always be inferior to even the worst set that can 
+- The best choice for the final Moveslot depends on the particular needs of the Mewtwo Set and accompanying Team in question. Psycho Darts provides an Anti-Offensive Utility option against weakened opponents and opposing Priority Attackers, while Aura Sphere allows it to hit Payapa Berry Omnipotent Arceus and Arceus-Dark. Grass Knot, Ensnarement, and Signal Beam can also be used to hit Arceus-Dark alongside other Pokemon, with Signal Beam notably covering Arceus-Dark and Mewtwo in a single slot, however none of these moves will leave a significant dent on Payapa Berry Arceus, and the loss of Priority will notably impact Mewtwo's overall offensive potential, leaving it vulnerable against opposing Shadow Ball Suicune-Shadow, Bubble Spin Phione, or Toaster Bomb Moltres.
 - Unlike most of Mewtwo's other sets, since its "Psypassing" Sets place a greater emphasis on utility over Coverage or Power, Mewtwo is able to support both Psychic Power and Hightened Mind for its Ability Slot. If Mewtwo is running Psychic Power, it should choose Speed Blitzer or Critical Striker for its Overdrive to grant it Speed Control or a surprise Breaking option, respectively, while a Hightened Mind/Trash Disposer set allows Mewtwo to potentially set up for a surprise Sweep in the late game, once the utility of Psypassing is no longer needed
 
 
@@ -1090,7 +1126,7 @@ Happiness: 250
 EVs: 4 HP / 252 SpA / 252 Spe  
 Hasty Nature  
 - Stored Power  
-- Aura Sphere  
+- Aura Sphere / Signal Beam
 - Psycho Blitz  
 - Psycho Darts
 
@@ -1161,12 +1197,12 @@ Happiness: 251
 EVs: 40 HP / 32 Def / 184 SpA / 252 Spe  
 Timid Nature  
 - Stored Power  
-- Inferno Beam / Shadow Flame / Meteor Beam / Aura Sphere / Dragon Fire / Psycho Fire
-- Grass Knot / Night Daze / Shadow Flame / Thunder Snare
+- Inferno Beam / Shadow Flame / Psycho Darts / Meteor Beam / Aura Sphere / Dragon Fire / Psycho Fire
+- Grass Knot / Night Daze / Psycho Darts / Shadow Flame / Thunder Snare
 - Nasty Plot
 
 Details
-- After a Nasty Plot Boost, Mewtwo is generally able to deal significant damage to most of the Tier, with even notable resists such as Psychic-Resistant Mew or Meloetta being hit hard by its devastating Stored Power
+- After a Nasty Plot Boost, Mewtwo is generally able to deal significant damage to the majority of the Tier, with even notable resists such as Psychic-Resistant Mew or Meloetta being hit hard by its devastating Stored Power
 - Furthermore, the Speed Boost granted by Twisted Spoon allows Mewtwo to outspeed all but the fastest Pokemon, with most of them having to combine a Choice-Scarf with Speed Blitzer to move ahead of it
 - Since Stored Power alone is enough to clear away most threats, Mewtwo will generally want to reserve its remaining slots for the few Pokemon that are capable of resisting it
 - Inferno Beam, Psycho Fire, Aura Sphere, and Dragon Fire are all decent options for hitting opposing Steel-Type Pokemon hard, with each move covering a different spread of Type-Matchups
@@ -1194,8 +1230,6 @@ Details
 - Night Daze allows Mewtwo to obliterate other Mewtwo, as well as Pokemon that may attempt to wall Mewtwo through means of their own Psychic-Typing
 - Critical Striker is an extraordinarily powerful tool, allowing Mewtwo to potentially blast through resists, or even OHKO certain neutral Pokemon that may have otherwise been outside of Stored Power's K.O. range
 - This set's nigh-reactionary nature theoretically makes it more reliant on auxiliary Team Support, compared to standard Adrenaline Orb or Ability Shield sets, however, as Mewtwo tends to be nearly unbeatable against Pokemon that are not specifically being used to check it, optimizing itself to remove those checks can sometimes cause this set to become more oppressive compared to its counterparts. It should, nonetheless, be used with due caution.
-
-
 =======================================================================================================================
 
 						    Quick Sets

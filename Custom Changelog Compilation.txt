@@ -490,6 +490,7 @@ Primal Kyogre: 			BST: 1500
 Sunshine Cherrim:		BST: 1500
 =============================================
 1400s
+Mega Abomasnow: 		BST: 1450
 Tornadus Therian: 		BST: 1430
 Mewtwo: 			BST: 1400
 Arceus: 			BST: 1400
@@ -501,7 +502,6 @@ Giratina Origin:		BST: 1400
 Hoopa-Unbound: 			BST: 1400
 Kyurem Black: 			BST: 1400
 Kyurem White: 			BST: 1400
-Mega Abomasnow: 		BST: 1400
 Ultra Necrozma: 		BST: 1400
 Zygarde Complete: 		BST: 1400
 =============================================
@@ -528,6 +528,7 @@ Arcanine-Hisui: 		BST: 1325
 Mew:  				BST: 1320
 Shaymin-Sky: 			BST: 1313
 Mismagius: 			BST: 1305
+Abomasnow: 			BST: 1304
 Bellsprout: 			BST: 1304
 Pikachu Alola: 			BST: 1304
 Pikachu Original: 		BST: 1304
@@ -579,7 +580,6 @@ Tapu Bulu: 			BST: 1260
 Tapu Fini: 			BST: 1260
 Tapu Koko: 			BST: 1260
 Tapu Lele: 			BST: 1260
-Abomasnow: 			BST: 1254
 Melmetal: 			BST: 1252
 Swanna: 			BST: 1250
 Infernape: 			BST: 1249
@@ -945,7 +945,6 @@ Sawsbuck-Autumn: 184
 Sawsbuck-Summer: 184
 Sawsbuck-Winter: 184
 Zoroark-Hisui: 184
-Entei-Shadow*: 183
 Infernape: 183
 Lopunny-Mega: 183
 Marshadow: 183
@@ -988,11 +987,13 @@ Arceus-Steel: 180
 Arceus-Water: 180
 Arceus: 180
 Blaziken-Mega: 180
+Entei-Shadow*: 180
 Glastrier: 180
 Keldeo-Ordinary: 180
 Meloetta-Pirouette: 180
 Minior: 180
 Moltres-Galar: 180
+Palkia-Shadow*: 180
 Pikachu-Alola: 180
 Rotom-Fan: 180
 Spectrier: 180
@@ -1000,7 +1001,7 @@ Unown: 180
 Zapdos: 180
 Zoroark: 180
 ===============
-Category: 170s (67 Total)
+Category: 170s (66 Total)
 --
 Raichu: 179
 Rotom-Heat: 179
@@ -1067,7 +1068,6 @@ Meloetta: 170
 Mesprit: 170
 Mew: 170
 Mienshao: 170
-Palkia-Shadow*: 170
 Sandslash-Alola: 170
 ===============
 Category: 160s (82 Total)
@@ -2049,16 +2049,17 @@ Double Kick
 Dragon Breath
 Flame Switch
 Ice Fang
+Inferno Beam
 Liquidation
 Milk Drink
 Mystery Wave
 Sacred Fire
 Shatter Shade
 Shattered Earth
-Shell Smash
 Slush Switch
 Stealth Rock
 Thermal Press
+Toaster Bomb
 Uproar
 Water Gun
 
@@ -6065,7 +6066,7 @@ BST: 534 -> 1140
 Added Ability: Warm Embrace
 
 Warm Embrace (New Ability)
-Effect: If a Dual-Type Pokemon has the Fire-Type, its weaknesses from the non-Fire Type are removed. Pokemon is unaffected by opposing entry Hazards
+Effect: Pokemon receives x0.75 Damage from opposing Super-Effective Moves. Pokemon is unaffected by opposing entry Hazards
 --
 Greninja  
 Hp: 72 -> 135 = +63
@@ -7639,13 +7640,16 @@ Agility
 Aqua Fang
 Bullet Switch
 Fire Fang
+Flare Blitz
 Folder Switch
+Ice Spinner
 Meteor Mash
 Pixie Switch
 Rental Charge
 Smart Strike
 Twinkle Tackle
 Volt Tackle
+Wave Crash
 
 Unlearned Moves
 Quick Attack
@@ -9383,35 +9387,40 @@ Power-Up Punch
 Flame Charge
 ------------------------------------------------------------------------
 Abomasnow   
-Hp: 90 -> 200 = +110
+Hp: 90 -> 250 = +160
 Atk: 92 -> 262 = +170
 Def: 75 -> 205 = +130
 SpA: 92 -> 262 = +170
 SpD: 85 -> 185 = +100
 Spe: 60 -> 140 = +80
-BST: 494 -> 1254
+BST: 494 -> 1304
 Added Ability: Ice Coat
 New Moves
 Aurora Beam
+Aurora Veil
 Giga Drain
 Grass Hammer
+House Cleaning
 Ice Ball
 Ice Hammer
+Leech Seed
 Power Whip
-Roost
+Recover
 Royal Snowstorm
 Slush Switch
 Stealth Rock
+Strength Sap
+Sweet Retreat
 Vicious Vine
 
 Mega Abomasnow   
-Hp: 200 -> 200 = +0
+Hp: 250 -> 250 = +0
 Atk: 262 -> 285 = +25
 Def: 205 -> 255 = +50
 SpA: 262 -> 285 = +25
 SpD: 185 -> 235 = +50
 Spe: 140 -> 140 = +0
-BST: 1354 -> 1400
+BST: 1304 -> 1450
 
 Ice Coat (New Ability)
 Effect: Opposing Fire-Type attacks deal 1/4 damage; x1.5 Def and SpD if Hail is Active
@@ -10171,6 +10180,7 @@ New Moves
 Aromatherapy
 Earthquake
 Heal Bell
+Ice Spinner
 Memory Blast
 Flip Turn
 Leaf Switch
@@ -10443,7 +10453,7 @@ Ruleset
 - Memory Clause: Only one Memory Disc is allowed per Team*
 - Calyrex-Shadow Clause: Calyrex-Shadow cannot hold a Ghost Memory*
 - Deoxys-Attack Clause: Deoxys-Attack cannot hold a Dubious Disc, or a Fighting Memory*
-- Mewtwo Clause: Mewtwo cannot hold a Dark Memory, Dubious Disc, Fighting Memory, or a Psychic Memory.
+- Mewtwo Clause: Mewtwo cannot hold a Dark Memory, Dubious Disc, or a Psychic Memory.
 - Porygon-Z Clause: Porygon-Z cannot hold a Dubious Disc.
 - Super Dark Aura Clause: Dark Aura cannot be upgraded into Super Dark Aura
 
@@ -10597,9 +10607,13 @@ Mechanics
 Every Pokemon has the option to Overdrive. When a Pokemon uses the Overdrive Mechanic, they receive a Special Effect depending on their Happiness Stat
 
 List of Overdrives     
+Health Hoarder
+Effect: Pokemon is only able to be damaged by Attacking Moves for the next 5 Turns
+Range: 243 and below
+
 Power Charger
 Effect: Allows the Pokemon to immediately use a Charge Move of their choice. Power Herb will not activate while this Overdrive is active
-Range: 244 and below
+Range: 244
                 
 Escape Planner
 Effect: Automatically switches the Pokemon to a chosen ally after successfully using a Move.
@@ -11110,7 +11124,7 @@ SpD: 180 -> 120 = -60
 Spe: 160 -> 160 = +0
 BST: 1340 -> 1440
 Time Shadow
-Effect: Pokemon restores 1/2 of its Max Hp if it ends the turn while at or below 1/10 of its Max Hp. Pokemon cannot use Armor Smash or Shell Smash
+Effect: Pokemon restores 60% of its Max Hp if it ends the turn while at or below 1/10 of its Max Hp. Opposing Priority Moves have their Base Power halved against this Pokemon; Suppresses the effects of Weather. Pokemon cannot use Armor Smash or Shell Smash
 Users: Dialga
 
 Entei Shadow   
@@ -11118,12 +11132,12 @@ Type: Fire/Ghost
 Hp: 180 -> 180 = +0
 Atk: 320 -> 380 = +60
 Def: 320 -> 210 = -110
-SpA: 137 -> 177 = +40
+SpA: 137 -> 180 = +43
 SpD: 170 -> 270 = +100
-Spe: 173 -> 183 = +10
+Spe: 173 -> 180 = +3
 BST: 1300 -> 1400
 Flaming Shadow
-Effect: Pokemon's Moves will always be Critical Hits if it has any Positive Stat Boosts
+Effect: Pokemon's Lowest Attacking Stat is raised by 1 stage upon switching in. Pokemon's Moves will always be Critical Hits if it has any Positive Stat Boosts
 Users: Entei
 
 Lucario Shadow  
@@ -11149,20 +11163,20 @@ SpD: 185 -> 155 = -30
 Spe: 187 -> 187 = +0
 BST: 1400 -> 1500
 Legend Shadow
-Effect: The Pokemon's Moves will always use its highest attacking stat, and attempt to target the opponent's lowest Defensive Stat. Pokemon's Scalar-Moves will always have 180 BP
+Effect: The Pokemon's Moves will always use its highest attacking stat, and attempt to target the opponent's lowest Defensive Stat. Pokemon's Increment Moves have their Base Power multiplied by x1.3. Pokemon's Scalar-Moves will always have 180 BP
 Users: Mewtwo
 
 Palkia Shadow    
 Type: Water/Ghost
 Hp: 230 -> 230 = +0
-Atk: 280 -> 280 = +0
-Def: 190 -> 170 = -20
+Atk: 280 -> 320 = +40
+Def: 190 -> 120 = -70
 SpA: 280 -> 340 = +60
 SpD: 200 -> 250 = +50
-Spe: 160 -> 170 = +10
+Spe: 160 -> 180 = +20
 BST: 1340 -> 1440
 Space Shadow
-Effect: Pokemon's Dragon-Type moves will always hit Super-Effectively. If the opposing Pokemon has multiple Types, the damage inflicted will be halved (i.e. x2 Damage for Pokemon with one or two Types; x3 for Pokemon that gain a third Type, etc)
+Effect: Pokemon's Dragon-Type Moves receive a STAB Bonus. Pokemon's Dragon-Type moves will always hit Super-Effectively. If the opposing Pokemon has multiple Types, the damage inflicted will be halved (i.e. x2 Damage for Pokemon with one or two Types; x3 for Pokemon that gain a third Type, etc)
 Users: Palkia
 
 Rapidash Shadow    
@@ -11175,7 +11189,7 @@ SpD: 220 -> 190 = -30
 Spe: 176 -> 186 = +10
 BST: 1289 -> 1389
 Glowing Shadow
-Effect: Pokemon's Fire-Type Moves hit opposing Water-Type Pokemon Super-Effectively, and its Ghost-Type Moves bypass Type-Based Immunities
+Effect: Pokemon's Fire-Type Moves hit opposing Water-Type Pokemon Super-Effectively, and its Ghost-Type Moves bypass Type-Based Immunities. Pokemon's Water-Type Weaknesses are ignored
 Users: Rapidash
 
 Regigigas Shadow    
@@ -11188,7 +11202,7 @@ SpD: 175 -> 325 = +150
 Spe: 162 -> 162 = +0
 BST: 1080 -> 1180
 Titan Shadow
-Effect: Pokemon's Speed Stat is raised by 1 stage upon falling to or below 1/2 of its Max Hp. Pokemon's Normal-Type Moves ignore opposing Type-Based Immunities. Pokemon's Speed Stat can only be raised once per Switch-In
+Effect: Pokemon's Speed Stat is raised by 1 stage upon falling to or below 1/2 of its Max Hp. When at or below 1/4 of its Max HP, the Pokemon's Attack Stat is raised by 1 stage. Pokemon's Normal-Type Moves ignore opposing Type-Based Immunities. Pokemon's Speed Stat and Attack Stat can only be raised once per Switch-In
 Users: Regigigas
 
 Suicune Shadow    
@@ -13467,7 +13481,7 @@ Base Power: 40 -> 70
 --
 Ice Spinner
 Base Power: 80 -> 100
-Effect: Clears Terrain -> Clears Hazards, and raises the Pokemon's Speed by 1 if it has the Ice-Type
+Effect: Clears Terrain -> Clears Hazards, and raises the Pokemon's Speed by 1 Stage
 --
 Ice Twister (New Move)
 Base Power: Dynamic Power ((Target's Max HP / 4) + 10)
@@ -13533,7 +13547,8 @@ Base Power: 165
 Category: Special (Physical if Atk stat is higher)
 Accuracy: true
 Contact: No
-Effect: Hits Dragon-Types and Fire-Types neutrally. Can only be used by Arceus-Fire
+Effect: Hits Dragon-Types and Fire-Types neutrally. Move ignores the effects of Rain if when used by Arceus-Fire.
+Restrictions: Can only be used by Arceus-Fire
 Priority: +0
 PP: 5
 Target: Normal
@@ -14313,7 +14328,7 @@ Base Power: __
 Accuracy: __
 Category: Status
 Contact: __
-Effect: Pokemon restores health equal to 1/4 of its Special Attack at the end of the Turn, and continues to heal 1/10 of its health for the next 3 Turns. If the Pokemon is holding a Star Sweet, and has at least one other active Pokemon in its Party, the user will restore its Health before Switching Out, and the recipient of this effect will also have their Health restored upon switching in
+Effect: Pokemon restores health equal to 1/3 of its Special Attack at the end of the Turn, and continues to heal 1/8 of its health for the next 3 Turns. If the Pokemon is holding a Star Sweet, and has at least one other active Pokemon in its Party, the user will restore its Health before Switching Out, and the recipient of this effect will also have their Health restored upon switching in
 Priority: 0
 PP: 5
 Target: Self
@@ -14864,7 +14879,7 @@ Breaks Protect
 Type: ???
 --
 Sacred Water (New Move)
-Base Power: 180
+Base Power: 160
 Accuracy: 100
 Category: Physical
 Contact: No
@@ -15817,12 +15832,11 @@ Damage Multiplier on Poisoned targets: x2 -> x1.5
 PP: 10 -> 5
 --
 Vicious Vine (New Move)
-Base Power: 60
+Base Power: 80
 Accuracy: 70
 Category: Varies (Special by Default; Physical if the Pokemon's Attack Stat is higher)
 Contact: __
-Increment: Yes
-Effect: Quadrupled Base Power when Rain is active
+Effect: Tripled Base Power when Rain is active
 Priority: +0
 PP: 5
 Target: Normal
@@ -16107,6 +16121,11 @@ Status: Implemented
 --
 Effervescent   
 Effect: Pokemon's Fighting-Type and Normal-Type Moves have an additional x1.3 Base Power. Pokemon's Super-Effective Moves deal an additional x1.3 Damage. Pokemon's Fighting-Type Moves and Normal-Type Moves ignore the opposing Pokemon's Type-Based Immunities
+--
+Equalizer    
+Effect: Opposing Pokemon's Offenses are reduced when attacking. The user's restored Health equal to 1/8 of the opponent's combined Offensive Stats at the end of each Turn
+Offensive Multiplier: (1000 / (Pokemon's Current Attacking Stat * 2))
+Health Restoration Formula: (Opponent's Current Attack + Opponent's Current Special Attack) / 8
 ------------------------------------------------------------------------
 Category: F 
 --
@@ -16464,7 +16483,7 @@ Additional Effect: Ignores Mold Breaker
 Category: W 
 --
 Warm Embrace   
-Effect: If a Dual-Type Pokemon has the Fire-Type, its weaknesses from the non-Fire Type are removed. Pokemon is unaffected by opposing entry Hazards
+Effect: Pokemon receives x0.75 Damage from opposing Super-Effective Moves. Pokemon is unaffected by opposing entry Hazards
 --
 Water Trap
 Effect: Prevents opposing Water-Type Pokemon from escaping.
@@ -16827,7 +16846,6 @@ Ghost (Type)
 Trapping Immunity
 --
 Grass (Type) 
-Dark Damage: x1 -> x0.5
 Fairy Damage: x1 -> x0.5
 Rock Damage: x1 -> x0.5
 Steel Damage: x1 -> x0.5

@@ -1,5 +1,116 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v2.0.6
+General
+- Bugfixes
+	- Corrected an oversight where Pokemon with Dragon Power would receive damage from Stealth Rock if they were Memorized into a Type that resisted it
+
+Mechanics
+- Overdrives
+	- Health Hoarder
+		- Implemented
+		- Effect: Pokemon is only able to be damaged by Attacking Moves for the next 5 Turns
+		- Range: 243 and below
+- Typechart
+	- Grass
+		- Defensive
+			- Dark
+				- Resisted -> Neutral
+
+Formats
+- Ubers
+	- Banlist Removals
+		- Mewtwo Clause
+			- Mewtwo can now hold a Fighting Memory again
+
+Abilities
+- Equalizer
+	- Implemented
+	- Effect: Opposing Pokemon's Offenses are reduced when attacking. The user's restored Health equal to 1/8 of the opponent's combined Offensive Stats at the end of each Turn
+		- Offensive Multiplier: (1000 / (Pokemon's Current Attacking Stat * 2))
+		- Health Restoration Formula: (Opponent's Current Attack + Opponent's Current Special Attack) / 8
+	- Note: This Ability does not currently belong to a particular Pokemon, and is currently intended to be used as a means of balancing Balanced Hackmons and Unlimited BH
+- Warm Embrace
+	- Effect: Nullifies the weaknesses of a Dual Fire-Type Pokemon's Secondary Typing -> Pokemon receives x0.75 Damage from opposing Super-Effective Moves. 
+
+Moves
+- Ice Spinner
+	- Speed Boost Eligibility: Ice-Type Pokemon -> All Pokemon
+- Infinite Velocity
+	- Additional Effect: Move ignores the effects of Rain when used by Arceus-Fire
+- Psychic Order
+	- Initial Health Restoration: 1/4 of the user's Special Attack -> 1/3 of the user's Special Attack
+	- Residiual Healing: 1/10 Max Hp -> 1/8 Max Hp
+- Sacred Water
+	- Base Power: 180 -> 160
+- Scale Shot
+	- Base Power: 60 -> 65
+- Vicious Vine
+	- Base Power: 60 -> 80
+	- Rain-Boost Multiplier: x4 -> x3
+	- Properties: No longer classified as an Increment Move
+
+Pokemon
+- Abomasnow
+	- Base Stats
+		- Hp: 200 -> 250
+	- Learnset Additions
+		- Aurora Veil
+		- House Cleaning
+		- Leech Seed
+		- Recover
+		- Strength Sap
+		- Sweet Retreat
+	- Learnset Removals
+		- Roost
+- Rapidash
+	- Learnset Additions
+		- Inferno Beam
+		- Toaster Bomb
+	- Learnset Removals
+		- Shell Smash
+- Zacian
+	- Learnset Additions
+		- Flare Blitz
+		- Ice Spinner
+		- Wave Crash
+
+
+Shadow Pokemon
+- Dialga-Shadow
+	- Ability
+		- Time Shadow
+			- Health Restoration: 50% Max Hp -> 60% Max Hp
+			- Additional Effect: Neutralizes the effects of Weather, and halves the Base Power of all opposing Super-Effective Priority Moves
+- Entei-Shadow
+	- Ability
+		- Flaming Shadow
+			- Additional Effect: Pokemon's Lowest Attacking Stat is raised by 1 stage upon switching in
+	- Base Stats
+		- SpA: 177 -> 180
+		- Spe: 183 -> 180
+- Mewtwo-Shadow
+	- Ability
+		- Legend Shadow
+			- Additional Effect: Pokemon's Increment Moves have their Base Power multiplied by x1.3.
+- Palkia-Shadow
+	- Ability
+		- Space Shadow
+			- Additional Effect: Pokemon's Dragon-Type Moves receive a STAB Bonus
+	- Base Stats
+		- Atk: 280 -> 320
+		- Def: 170 -> 120
+		- Spe: 170 -> 180
+- Rapidash-Shadow
+	- Ability
+		- Glowing Shadow
+			- Additional Effect: Pokemon's Water-Type Weaknesses are ignored.
+- Regigigas-Shadow
+	- Ability
+		- Titan Shadow
+			- Additional Effect: Pokemon's Attack Stat is raised by 1 stage when at 1/4 of its Max Hp or less
+
+
 Pokemon Memories v2.0.5
 General
 - Animations
@@ -26,7 +137,6 @@ Mechanics
 			- Electric
 				- Resisted -> Neutral
 	- Grass
-
 		- Defensive
 			- Dark
 				- Neutral -> Resisted
