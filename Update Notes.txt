@@ -1,5 +1,221 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v2.0.7
+General
+- Animations
+	- The following Moves have received Animations: Fatal Flame, Steam Conversion
+- Miscellaneous
+	- Corrected an error in the Changelog and Update Notes that incorrectly stated that Arctic Freeze attempts to set Hail
+	- Adjusted the Flavor Text for Bountiful's "Bountiful Field"
+
+
+Abilities
+- Breaking Point
+	- Implemented
+	- Effect: Pokemon's Highest Offensive Stat is sharply raised upon reaching 1/3 or less of its Max HP
+- Deep Sea
+	- Additional Effect: Pokemon receives the minimum amount of damage from Stealth Rock
+- Pokemon Master
+	- Non-Electric-Type Move Power Boost: x1.2 -> x1.5
+
+
+Moves
+- Day's Feast
+	- Base Power: 125 -> 135
+	- Def Boost Chance: 10% -> 20%
+	- Properties: Now counts as a "Bite" Move
+- Diamond Storm
+	- Defense Boost: +1 -> +2
+- Fatal Flame
+	- Implemented
+	- Base Power: 100
+	- Accuracy: 100
+	- Category: Physical
+	- Contact: __
+	- Effect: Forces the opponent out; Raises the Ho-Oh's Attack by 1 Stages
+	- Attrition Point: +2
+	- Priority: -2
+	- PP: 5 (Static)
+	- Type: Fire
+	- Users: Ho-Oh
+- Star Sweet
+	- Prohibited Moves
+		- The following moves are no longer prohibited
+			- Aromatherapy
+- Steam Conversion
+	- Implemented
+	- Base Power: __
+	- Accuracy: __
+	- Category: Status
+	- Contact: __
+	- Effect: Heals the Pokemon by a Weather Dependent Amount (1/8 Max Hp with Hail or Sand; 1/4 Max Hp with any other Weather, or no Weather; 1/2 Max Hp when Rain or Sun is active) and switches the Pokemon out.
+	- Priority: -5
+	- PP: 5 (Static)
+	- Type: Water
+	- Users: Volcanion
+- Tornado Turn
+	- Implemented
+	- Base Power: 95
+	- Accuracy: __
+	- Category: Varies (Physical by Default; Special if the Pokemon's Special Attack Stat is higher)
+	- Contact: __
+	- Effect: Restores 1/4 of the Pokemon's Max HP, and switches the Pokemon out.
+	- Priority: 0
+	- PP: 5
+	- Type: Flying
+	- Users: Lugia
+
+
+Pokemon
+- Arcanine-Hisui
+	- Learnset Additions
+		- Howl
+- Ho-Oh
+	- Learnset Additions
+		- Fatal Flame
+		- Royal Retreat
+- Lugia
+	- Learnset Additions
+		- House Cleaning
+		- Heavenly Mist
+		- Tornado Turn
+- Lunala
+	- Learnset Additions
+		- Aromatherapy
+		- Wish
+- Mewtwo
+	- Learnset Additions
+		- Royal Obfuscation
+- Necrozma
+	- Dusk-Mane
+		- Learnset Additions
+			- Gear Grind
+			- Heat Crash
+			- Royal Retreat
+	- Dawn-Wings
+		- Learset Additions
+			- Inferno Beam
+			- Psycho Blitz
+			- Royal Retreat
+- Pikachu
+	- General
+		- Learnset Additions
+			- Aromatic Mist
+			- Battle Cry
+			- Defog
+			- House Cleaning
+			- Icicle Crash
+			- Memento
+			- Sweet Retreat
+			- Wish
+			- Yawn
+		- Pikachu-Alola
+			- Base Stats
+				- Atk: 282 -> 284
+				- SpA: 282 -> 284
+				- Spe: 180 -> 182
+		- Pikachu-Belle
+			- Base Stats
+				- Hp: 107 -> 207
+				- Atk: 2 -> 272
+				- Def: 190 -> 220
+				- SpA: 190 -> 70
+				- SpD: 250 -> 180
+				- Spe: 125 -> 155
+			- Status
+				- Unplayable -> Playable
+		- Pikachu-Original
+			- Base Stats
+				- Spe: 175 -> 181
+		- Pikachu-PhD
+			- Base Stats
+				- Atk: 142 -> 92
+				- SpA: 140 -> 280
+				- Spe: 25 -> 175
+			- Status
+				- Unplayable -> Playable
+		- Pikachu-Rock-Star
+			- Base Stats
+				- Atk: 1 -> 101
+				- Def: 1 -> 81
+				- SpD: 184 -> 230
+				- Spe: 175 -> 185
+			- Status
+				- Unplayable -> Playable
+		- Pikachu-Pop-Star
+			- Base Stats
+				- Hp: 207 -> 257
+				- Atk: 2 -> 272
+				- Def: 90 -> 160
+				- SpA: 280 -> 50
+				- SpD: 110 -> 190
+			- Status
+				- Unplayable -> Playable
+- Salamence
+	- General
+		- Learnset Additions
+			- Acrobatics
+			- Day's Feast
+			- Royal Rampage
+			- Sky Attack
+			- Thermal Press
+	- Base Forme
+		- Abilities
+			- Tough Claws -> Breaking Point
+		- Base Stats
+			- SpA: 150 -> 220
+			- Spe: 152 -> 162
+	- Salamence-Mega
+		- Base Stats
+			- Atk: 285 -> 335
+			- SpA: 270 -> 330
+			- SpD: 150 -> 190
+			- Spe: 152 -> 172
+- Victini
+	- Base Stats
+		- Atk: 235 -> 265
+		- SpA: 240 -> 270
+		- Spe: 150 -> 170
+	- Learnset Additions
+		- Echoed Voice
+		- Flame Switch
+		- Howl
+		- Low Kick
+		- Neuron Blade
+		- Psycho Darts
+- Volcanion
+	- Learnset Additions
+		- Steam Conversion
+- Zapdos-Galar
+	- Learnset Additions
+		- Aromatic Mist
+		- Sky Attack
+
+
+Shadow Pokemon
+- Dialga-Shadow
+	- Ability
+		- Time Shadow
+			- Health Restoration Threshold: 10% -> 20%
+- Entei-Shadow
+	- Ability
+		- Miscellaneous
+			- Flaming Shadow renamed to Blaze Shadow
+		- Blaze Shadow
+			- The boosts granted by this Ability now deactivate upon successfully landing an Attacking Move
+- Rapidash-Shadow
+	- Ability
+		- Glowing Shadow renamed to Glow Shadow
+- Regigigas-Shadow
+	- Ability
+		- Titan Shadow
+			- Additional Effect: Raises both of the Pokemon's Defenses by 1 stage each if its health drops to 2/3 of its Max Hp or less
+			- Attack Boost
+				- Boost: +1 -> +2
+				- Activation Range: 1/4 Max Hp -> 1/3 Max Hp
+
+
+
 Pokemon Memories v2.0.6
 General
 - Bugfixes
@@ -213,7 +429,7 @@ Moves
 	- Accuracy: 100
 	- Category: Special
 	- Contact: __
-	- Effect: Forces the opponent out, and attempts to set Hail; User restores 1/5 of their Max Hp upon each use; Hits opposing Water-Type Pokemon neutrally. Raises the Pokemon's Special Attack by 1 Stage
+	- Effect: Forces the opponent out; User restores 1/5 of their Max Hp upon each use; Hits opposing Water-Type Pokemon neutrally. Raises the Pokemon's Special Attack by 1 Stage
 	- Attrition Point: +2
 	- Priority: -1
 	- PP: 10

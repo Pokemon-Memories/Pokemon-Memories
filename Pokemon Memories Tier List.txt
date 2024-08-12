@@ -92,57 +92,56 @@ Current Tiered Shadow Pokemon: Azumarill-Shadow, Darkrai-Shadow, Dialga-Shadow, 
 
 Viability Rankings
 
-S-Tier (6 Total)
+S-Tier (5 Total)
 
-S+
+S
 Mewtwo
+Mewtwo-Shadow*
 
 S-
 Phione
 Moltres (A+; Fire Memory)
 Lilligant
-Mewtwo-Shadow*
-Arceus
 
 A-Tier (30 Total)
 The Pokemon in this Tier and the following Tiers are listed in Alphabetical Order
 
 A+
+Arceus
 Arceus-???
 Arceus-Fire
+Victreebel-Shadow*
+
+A
 Arceus-Grass
 Articuno
 Calyrex-Shadow
-Eternatus (B; Dragon Memory + SpA-Positive Nature)
-
-A
+Dialga-Shadow*
 Entei-Shadow*
 Groudon
-Ho-Oh (B+; Dragon Memory + Regenerator)
 Mew
+Porygon-Z
 Rapidash-Shadow*
-Victreebel-Shadow*
+Regigigas-Shadow*
 Suicune-Shadow*
-Zacian-Crowned
 
 A-
 Arceus-Dark
 Arceus-Ice
 Azumarill-Shadow*
+Calyrex-Ice
 Cobalion
 Darkrai-Shadow*
-Dialga-Shadow*
-Deoxys
-Dondozo
+Eternatus (B; Dragon Memory + SpA-Positive Nature)
+Ho-Oh (B+; Dragon Memory + Regenerator)
 Lucario-Shadow*
+Lugia
 Meloetta
-Porygon-Z
-Rayquaza
-Xerneas (B; Dragon Memory + Memory Armor / Fairy Memory + Fairy Aura)
+Zacian-Crowned
 Zygarde 10% (B+; Fairy Memory)
 
 
-B-Tier (106 Total)
+B-Tier (108 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
@@ -152,11 +151,13 @@ Arceus-Ghost
 Arceus-Steel
 Arceus-Water
 Azumarill
-Calyrex-Ice
+Cryogonal
 Darkrai
 Delphox
+Deoxys
 Deoxys-Attack
 Dialga
+Dondozo
 Gengar-Mega
 Giratina
 Golurk
@@ -172,7 +173,6 @@ Kyurem-White
 Landorus-Therian
 Lilligant-Hisui
 Lucario-Mega
-Lugia
 Lunala
 Magearna
 Mamoswine
@@ -188,8 +188,8 @@ Palkia
 Palkia-Shadow*
 Pikachu-Original
 Porygon2
-Regigigas-Shadow*
 Raikou
+Rayquaza
 Reshiram
 Sandslash-Alola
 Skeledirge
@@ -204,6 +204,7 @@ Toxapex
 Vaporeon
 Victreebel
 Virizion
+Xerneas
 Yveltal
 Zekrom
 
@@ -259,7 +260,7 @@ Zygarde-Complete
 Zoroark-Hisui
 
 
-C-Tier (60 Total)
+C-Tier (59 Total)
 
 C+
 Abomasnow
@@ -303,7 +304,6 @@ Weavile
 Zarude
 
 C
-Cryogonal
 Dracozolt
 Glaceon
 Landorus-Incarnate
