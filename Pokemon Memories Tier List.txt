@@ -21,7 +21,7 @@ Section C
 	• Viability Rankings
 	• History of the Format
 
-(207 Total)
+(211 Total)
 						      Section A    
 						    Standard Ubers
 						      Highlights
@@ -94,69 +94,74 @@ Viability Rankings
 
 S-Tier (5 Total)
 
+S+
+Arceus-Dark
+
 S
 Mewtwo
-Mewtwo-Shadow*
+Melmetal
 
 S-
 Phione
-Moltres (A+; Fire Memory)
-Lilligant
+Mewtwo-Shadow*
 
-A-Tier (30 Total)
+A-Tier (29 Total)
 The Pokemon in this Tier and the following Tiers are listed in Alphabetical Order
 
 A+
 Arceus
 Arceus-???
-Arceus-Fire
+Calyrex-Shadow
+Darkrai (B+; Grass Memory)
+Infernape
+Lilligant (A-; Grass Memory)
+Lugia
+Moltres (A-; Fire Memory)
+Tapu Koko
 Victreebel-Shadow*
 
 A
-Arceus-Grass
-Articuno
-Calyrex-Shadow
-Dialga-Shadow*
+Bellsprout (B+; Fire Memory + Sheer Force)
+Cryogonal (B+; Ice Memory)
 Entei-Shadow*
-Groudon
-Mew
+Pikachu-Original (B+; Dubious Disc)
 Porygon-Z
 Rapidash-Shadow*
 Regigigas-Shadow*
-Suicune-Shadow*
 
 A-
-Arceus-Dark
-Arceus-Ice
+Articuno
 Azumarill-Shadow*
-Calyrex-Ice
-Cobalion
 Darkrai-Shadow*
-Eternatus (B; Dragon Memory + SpA-Positive Nature)
-Ho-Oh (B+; Dragon Memory + Regenerator)
+Dialga-Shadow*
+Eternatus (B+; Dragon Memory + SpA-Positive Nature)
+Groudon
+Ho-Oh (A-; Dragon Memory + Regenerator)
+Keldeo-Resolute (B+; Water Memory)
 Lucario-Shadow*
-Lugia
-Meloetta
+Mew
+Suicune-Shadow*
+Sunflora-Shadow*
 Zacian-Crowned
-Zygarde 10% (B+; Fairy Memory)
 
 
-B-Tier (108 Total)
+B-Tier (110 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
 Amoonguss
 Arceus-Electric
+Arceus-Fire
+Arceus-Grass
 Arceus-Ghost
+Arceus-Ice
 Arceus-Steel
 Arceus-Water
-Azumarill
-Cryogonal
-Darkrai
+Calyrex-Ice
+Cobalion
 Delphox
 Deoxys
-Deoxys-Attack
-Dialga
+Deoxys-Defense
 Dondozo
 Gengar-Mega
 Giratina
@@ -164,7 +169,6 @@ Golurk
 Heatran
 Hoopa
 Hoopa Unbound
-Infernape
 Keldeo
 Klinklang
 Kyogre
@@ -174,48 +178,44 @@ Landorus-Therian
 Lilligant-Hisui
 Lucario-Mega
 Lunala
-Magearna
 Mamoswine
 Manaphy
 Mantine
+Meloetta
 Meowscarada
-Mimikyu
-Mimikyu-Busted
 Mismagius
 Muk-Alola
 Necrozma-Ultra
-Palkia
 Palkia-Shadow*
-Pikachu-Original
 Porygon2
 Raikou
 Rayquaza
 Reshiram
 Sandslash-Alola
 Skeledirge
+Solgaleo
 Spectrier
-Sunflora-Shadow*
 Tapu Fini
-Tapu Koko
 Thundurus
 Thundurus-Therian
 Tornadus
 Toxapex
 Vaporeon
 Victreebel
-Virizion
-Xerneas
 Yveltal
 Zekrom
+Zygarde 10%
 
 B
 Arcanine-Hisui
 Arceus-Fairy
 Arceus-Flying
 Arceus-Ground
-Bellsprout
+Azumarill
 Darmanitan-Galar-Zen
+Deoxys-Attack
 Deoxys-Speed
+Dialga
 Entei
 Giratina-Origin
 Gliscor
@@ -232,13 +232,14 @@ Necrozma-Dusk-Mane
 Pikachu-Alola
 Regigigas
 Reuniclus
+Rotom-Fan
 Scovillain
 Skarmory
-Solgaleo
 Suicune
 Sunflora
 Swampert
 Torterra
+Virizion
 Volcanion
 Zamazenta-Crowned
 Zapdos-Galar
@@ -250,6 +251,10 @@ Celebi
 Darmanitan
 Darmanitan-Galar
 Decidueye
+Electivire
+Magearna
+Mimikyu
+Mimikyu-Busted
 Minun
 Rapidash
 Rapidash-Galar
@@ -272,27 +277,27 @@ Blastoise-Mega
 Blissey
 Charizard-Mega X
 Cresselia
+Dragapult
+Emolga
 Empoleon
+Excadrill
 Garchomp
 Gardevoir
-Gyarados-Mega
 Genesect
 Gengar
 Glastrier
-Dragapult
-Magearna-Original
-Emolga
-Excadrill
+Gyarados-Mega
 Jirachi
 Kartana
+Magearna-Original
 Magnezone
+Palkia
 Pheromosa
 Regieleki
-Rotom-Wash
-Rotom-Fan
 Rotom-Frost
-Salamence-Mega
+Rotom-Wash
 Sableye-Mega
+Salamence-Mega
 Sawsbuck
 Serperior
 Shaymin
@@ -301,6 +306,7 @@ Snorlax
 Umbreon
 Victini
 Weavile
+Xerneas
 Zarude
 
 C

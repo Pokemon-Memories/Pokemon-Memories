@@ -1,5 +1,480 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v2.0.8
+General
+- Animations
+	- The following moves have received Animations: Cryocrisis, Frost Sword, Mist Prism, Pincer Press, Pressure Wave, Radio Burst, Radio Waves, Sludge Sprout, Supervolt Charge
+- Miscellaneous
+	- Added Support for "Slicing"-Moves
+	- The following Moves are now properly classified as "Heal"-Moves: Arctic Freeze, Gene Therapy
+	- The following Moves have received the "No-Swap" Property: Bubble Spin, Darkest Nightfall, Diffusion Wave, Earth Run, Pixie Run, Revelation Dance, Royal Snowstorm, Scorching Sands, Shadow Rush, Weather Ball
+		- "No-Swap" prevents Category-Shifting Moves from activating the Abilities of Pokemon that change Formes depending on the Offensive Category of the move used
+	- Corrected an error where some Pokemon were unintentionally unable to learn Thunder Spin
+	- Corrected a labeling error with Infinite Voltage
+	- Corrected an oversight where Solgaleo had a Base 258 SpA instead of the intended 208 (both values have subsequently been adjusted)
+- Resources
+	- "Compendium of Extraordinary Offensive Stats" has been renamed to "Compendium of Extraordinary Stats", and now includes information for HP, Defense, and Special Defense
+
+Mechanics
+- Memorization
+	- Memory Abilities
+		- Frost Shield
+			- Additional Effect: Opposing Pokemon have their Base Power halved when attacking this Pokemon with Fire-Type Moves
+		- Life Force
+			- Water-Type Base Power Reduction: x0.5 -> x0.67
+		- Noble Guard
+			- Renamed to Equilibrium
+			- Additional Effect: Pokemon's Normal-Type Moves ignore the opponent's Type-Based Immunities
+	- Super Memory Abilities
+		- Super Sheer Force
+			- Power Boost: x1.5 -> x1.8
+
+Abilities
+- Armament
+	- Implemented
+	- Effect: Pokemon's Bug-Typing becomes neutral to opposing Fire-Type Moves, and its Steel-Typing gains a resistance to them; Pokemon receives a x1.5 Base Power Boost when using Moves with a Base Power of 100 or lower
+- Assembly
+	- Effect: Pokemon automatically restores 1/3 of its Max Hp upon falling below 1/2. Activates once per Switch-In
+- Bulldozer
+	- Additional Effect: Pokemon's Stats will drop for the first turn, if they are a Grass-Type Pokemon.
+- Dark Smog
+	- Effect: Pokemon's Switching Moves receive an additional x1.5 Base Power, and ignore opposing resistances. Pokemon restores 1/2 of its Max Hp upon successfully hitting the opponent with a Resisted Move
+- Energized
+	- Implemented
+	- Effect: Pokemon's Electric-Type Moves have x1.2 Base Power. Pokemon's Stats cannot be lowered by its own Electric-Type Moves. This effect disappears if the Pokemon does not have Full Power Core as an Ability
+- Fairy Spring
+	- Effect: Pokemon restores 1/3 of its Max Hp upon using a Switching Move. Opposing Pokemon receive twice the amount of damage inflicted in recoil, as was inflicted, if they hit this Pokemon with a damaging Dark-Type Move
+- Life Force
+	- Corrected an oversight where the non-Memorized variant of this Abiltiy unintentionally absorbed Water-Type Pivot Moves
+- Propeller
+	- Additional Effect: Pokemon's highest offensive Stat is raised by 1 stage if it causes the opponent to faint with a Flying-Type Move. This effect only activates once per Switch-In
+- Reconstruction
+	- Effect: Pokemon automatically restores 1/3 of its Max Hp upon falling below 1/2. Activates once per Switch-In
+- Shadow Cleaver
+	- Implemented
+	- Effect: Pokemon's Moves that share a Type with it receive a x1.2 Base Power Boost; Pokemon's Moves ignore the opponent's Positive Stat Boosts.
+- Sharpness
+	- Implemented
+
+
+Items
+- Choice Items
+	- Blacklist Additions
+		- Propeller
+- Rusted Sword
+	- Mechanics
+		- Now provides a boost for Slicing-Moves
+
+
+Moves
+- Acid
+	- Base Power: 40 -> 100
+- Acid Spray
+	- Base Power: 45 -> 115
+- Comeuppance
+	- Additional Effect: Bypasses opposing Type-Based Immunities
+- Cryocrisis
+	- Implemented
+	- Base Power: 200
+	- Accuracy: 50
+	- Category: Varies (Special by default; Physical if the Pokemon's Attack Stat is higher)
+	- Contact: __
+	- Effect: __
+	- Priority: 0
+	- PP: 5
+	- Type: Ice
+	- Users: Keldeo, Mewtwo, Regice
+- Double Iron Bash
+	- Base Power: 80 -> 85
+- Frost Sword
+	- Implemented
+	- Base Power: 140
+	- Accuracy: 100
+	- Category: Physical
+	- Contact: __
+	- Effect: Has a 20% Chance to Freeze the opponent
+	- Notable Flags: Slicing-Move, Sword-Move
+	- Priority: 0
+	- PP: 10
+	- Type: Ice
+	- Users: Aegislash, Keldeo
+- Healing Wing
+	- Additional Effect: Cures the following Pokemon's Status Conditions; Does not cure the Pokemon if they are holding a Status Orb, and are afflicted with the Orb's corresponding Status Condition
+- Land Eater
+	- Damage Restored under Desolate Land: 1/2 Damage Inflicted -> x2 Damage Inflicted
+- Mist Prism
+	- Implemented
+	- Base Power: 100
+	- Accuracy: 80
+	- Category: Special
+	- Contact: __
+	- Effect: Lowers the Pokemon's Def and SpD by 1 stage each, and attempts to partially trap the opponent
+	- Priority: 0
+	- PP: 5
+	- Type: Fairy
+	- Users: Xerneas
+- Photon Hands
+	- Secondary Effect: No longer requires the Pokemon to have Psycho Force to activate this Move's Secondary Effect
+	- Restrictions: This move can only be used by Mewtwo
+- Pincer Press
+	- Implemented
+	- Base Power: ((Target's Max Hp / 4) + 10)
+		- Minimum Base Power: 80
+		- Maximum Base Power: 250
+	- Accuracy: 100
+	- Category: Physical
+	- Contact: Tactile
+	- Effect: Power scales in proportion to the target's HP Stat.
+	- Priority: 0
+	- PP: 20
+	- Type: Bug
+	- Users: Beedrill, Genesect, Heracross, Lucario, Mewtwo, Scizor
+- Pressure Wave
+	- Implemented
+	- Base Power: 150
+	- Accuracy: 100
+	- Category: Varies (Special by default; Physical if the Pokemon's Attack Stat is higher)
+	- Contact: __
+	- Effect: Halves the target's highest attacking stat until it switches out (targets Attack if both stats are equal), and prevents them from using any Status Moves until the end of the Turn. The opponent can only receive this effect once per Switch-In.. x1.5 Base Power if the opponent has already been hit by this move
+	- Additional Effect: Hits opposing Dark, Psychic, and Steel-Type Pokemon neutrally. Will not work if the move's type is changed from Psychic
+	- Restrictions: Effectiveness-Modifying Attributes do not work against Mega Mewtwo X.
+	- Properties: Bypasses Substitute
+	- Priority: 0
+	- PP: 15
+	- Type: Psychic
+	- Users: Mewtwo
+- Psychic Screen
+	- Implemented
+	- Base Power: __
+	- Accuracy: __
+	- Category: Status
+	- Contact: __
+	- Effect: The Pokemon materializes their Psychic Energy into a protective barrier, setting Reflect and Light Screen
+	- Restrictions: Pokemon must be at Full Hp to use this Move
+	- Priority: 0
+	- PP: 5
+	- Type: Psychic
+	- Users: Mewtwo
+- Psychic Whirl
+	- Implemented
+	- Base Power: 120
+	- Accuracy: 100
+	- Category: Varies (Special by default; Physical if the Pokemon's Attack Stat is higher)
+	- Contact: __
+	- Effect: Forces the opponent out, and restores 1/4 of the user's Max Hp. Raises Mewtwo's highest Attacking Stat by 1 stage; Raises Special Attack if both stats are equal
+		- Attrition Point: +1
+	- Priority: -4
+	- PP: 5
+	- Targets: All Adjacent Opponents
+	- Type: Psychic
+	- Users: Mew, Mewtwo
+- Radio Burst
+	- Implemented
+	- Base Power: 300
+	- Accuracy: 80
+	- Category: Physical
+	- Contact: __
+	- Properties: Bypasses Substitute, Sound-Move
+	- Effect: Can only be used when the Pokemon has the Energized Effect. Removes the effect upon successfully hitting the opponent
+	- Priority: 0
+	- PP: 10
+	- Type: Electric
+	- Users: Electivire
+- Radio Waves
+	- Implemented
+	- Base Power: 140
+	- Accuracy: 80
+	- Category: Special
+	- Contact: __
+	- Properties: Bounceable, Bypasses Substitute, Hazard-Move, Sound-Move
+	- Effect: Attempts to set 2 layers of Spikes upon successfully hitting the opponent. This move can only set Spikes once per Switch-In
+	- Priority: 0
+	- PP: 5
+	- Type: Electric
+	- Users: Electivire
+- Rock Smash
+	- Base Power: 95 -> 135
+- Sludge Sprout
+	- Implemented
+	- Base Power: 180
+	- Accuracy: 100
+	- Category: Physical
+	- Contact: __
+	- Effect: 30% chance to Poison the opposing Pokemon.
+	- Restrictions: Can only be used by Bellsprout
+	- Priority: 0
+	- PP: 10
+	- Type: Poison
+	- Users: Bellsprout
+- Supervolt Charge
+	- Implemented
+	- Base Power: __
+	- Accuracy: __
+	- Category: Status
+	- Contact: __
+	- Properties: Bypasses Substitute, Healing Status Move
+	- Effect: Fully restores the Pokemon's HP, cures its Status Conditions, and attempts to switch it out. Will not work if the Pokemon is not Energized
+	- Priority: 0
+	- PP: 3 (Static)
+	- Type: Electric
+	- Users: Electivire
+
+
+Pokemon
+- Aegislash
+	- General
+		- Learnset Additions
+			- Covert Switch
+	- Base Forme
+		- Base Stats
+			- SpD: 190 -> 300
+	- Sword-Forme
+		- Base Stats
+			- SpA: 190 -> 300
+- Darkrai
+	- Learnset Additions
+		- Sweet Retreat
+- Deoxys
+	- General
+		- Learnset Additions
+			- Heal Bell
+			- House Cleaning
+			- Psycho Blitz
+			- Wish
+	- Defense
+		- Ability: Mold Breaker -> Assembly
+- Dialga
+	- Learnset Additions
+		- Shockwave
+		- Thunder
+		- Thunderbolt
+		- Wild Charge
+- Electivire
+	- Base Stats
+		- Hp: 75 -> 195 = +120
+		- Atk: 123 -> 273 = +150
+		- Def: 67 -> 157 = +90
+		- SpA: 95 -> 255 = +160
+		- SpD: 85 -> 245 = +160
+		- Spe: 95 -> 175 = +80
+		- BST: 540 -> 1300 = +760
+	- Learnset Additions
+		- Aromatic Mist
+		- Diffusion Wave
+		- Earth Power
+		- Earthquake
+		- Focus Blast
+		- House Cleaning
+		- Boomburst
+		- Ice Hammer
+		- Overheat
+		- Plasma Fists
+		- Radio Burst
+		- Radio Waves
+		- Stealth Rock
+		- Spikes
+		- Supervolt Charge
+		- Volt Tackle
+		- Zap Cannon
+- Eternatus
+	- Learnset Additions
+		- Diffusion Wave
+		- Focus Blast
+- Jirachi
+	- Base Stats
+		- Atk: 255 -> 275
+		- SpA: 255 -> 275
+	- Learnset Additions
+		- Diffusion Wave
+		- House Cleaning
+		- Howl
+	- Learnset Removals
+		- Dragon Dance
+		- Gear Up
+		- Thousand Arrows
+		- Thousand Waves
+- Kyogre
+	- Learnset Additions
+		- Calm Mind
+		- Ice Twister
+- Melmetal
+	- Learnset Additions
+		- Armor Smash
+		- Aromatic Mist
+		- Gear Grind
+		- Heal Bell
+		- Heat Crash
+		- Royal Retreat
+- Mewtwo
+	- Learnset Additions
+		- Absorb
+		- Acid
+		- Acid Spray
+		- Compact Stream
+		- Water Sport
+- Necrozma
+	- Dawn-Wings
+		- Base Stats
+			- Hp: 167 -> 187
+			- Atk: 253 -> 233
+		- Learnset Additions
+			- Grass Knot
+	- Dusk-Mane
+		- Base Stats
+			- Hp: 167 -> 187
+			- SpA: 293 -> 253
+			- SpD: 183 -> 203
+- Regice
+	- Ability
+		- Double-Layer -> Frost Aura
+- Reshiram
+	- Learnset Additions
+		- Howl
+- Rotom
+	- General
+		- Learnset Additions
+			- Scary Face
+			- Sweet Retreat
+			- Tearful Look
+			- Tickle
+			- Topsy-Turvy
+			- Wish
+	- Base Forme
+		- Base Stats
+			- Atk: 270 -> 228
+			- Def: 147 -> 167
+			- SpD: 147 -> 167
+			- Spe: 181 -> 183
+	- Fan Forme
+		- Base Stats
+			- Atk: 201 -> 168
+			- Def: 137 -> 167
+			- SpD: 137 -> 167
+			- Spe: 180 -> 183
+		- Exclusive Learnset Additions
+			- Aeroblast
+			- Turbine Turn
+	- Frost Forme
+		- Base Stats
+			- Hp: 80 -> 100
+			- Atk: 184 -> 144
+			- SpA: 244 -> 264
+		- Learnset Additions
+			- Ice Twister
+	- Heat Forme
+		- Ability: Tinted Lens -> Adaptability
+		- Base Stats
+			- Atk: 262 -> 158
+			- Spe: 179 -> 183
+		- Exclusive Learnset Additions
+			- Inferno Beam
+	- Mow Forme
+		- Base Stats
+			- Hp: 120 -> 180
+			- Atk: 270 -> 290
+			- Def: 163 -> 104
+			- SpA: 267 -> 287
+			- SpD: 174 -> 119
+			- Spe: 171 -> 185
+		- Exclusive Learnset Additions
+			- Leaf Switch
+			- Power Whip
+	- Wash Forme
+		- Base Stats
+			- Hp: 150 -> 200
+			- Atk: 235 -> 175
+			- SpA: 235 -> 245
+		- Exclusive Learnset Additions
+			- Water Sport
+			- Water Spout
+- Samurott
+	- Ability
+		- Additions
+			- Sharpness
+	- Learnset Additions
+		- Flip Turn
+		- Wave Crash
+- Scizor
+	- General
+		- Learnset Additions
+			- Armor Press
+			- Aromatic Mist
+			- Body Press
+			- Bullet Switch
+			- Low Kick
+			- Strange Wave
+			- Withdraw
+		- Learnset Removals
+			- Morning Sun
+			- Roost
+	- Base Forme
+		- Base Stats
+			- Atk: 200 -> 260
+			- Def: 200 -> 260
+			- Spe: 135 -> 165
+	- Mega Forme
+		- Ability: Technician -> Armament
+		- Base Stats
+			- Atk: 300 -> 330
+			- Def: 300 -> 330
+			- SpA: 5 -> 145
+			- Spe: 135 -> 165
+- Solgaleo
+	- Base Stats
+		- Hp: 217 -> 227
+		- Def: 237 -> 257
+		- SpA: 208 -> 178
+	- Learnset Additions
+		- Bullet Switch
+		- Diffusion Wave
+		- Rock Smash
+		- Royal Retreat
+	- Learnset Removals
+		- Shift Gear
+- Suicune
+	- Learnset Additions
+		- Shadow Flame
+- Xerneas
+	- Ability
+		- Mold Breaker -> Fairy Spring
+	- Base Stats
+		- Atk: 221 -> 241
+		- SpA: 221 -> 281
+	- Learnset Additions
+		- Ember
+		- Misty Prism
+- Yveltal
+	- Ability
+		- Mold Breaker -> Dark Smog
+	- Base Stats
+		- Atk: 241 -> 281
+		- SpA: 241 -> 281
+- Zacian
+	- Learnset Additions
+		- Secret Sword
+- Zekrom
+	- Learnset Additions
+		- Howl
+- Zoroark-Hisui
+	- Ability
+		- Frost Aura -> Shadow Cleaver
+
+Shadow Pokemon
+- Suicune-Shadow
+	- Ability
+		- Swift Shadow
+			- Additional Effect: Pokemon cannot be Paralyzed. If the Pokemon was already Paralyzed, it is cured upon gaining this Ability
+	- Base Stats
+		- Def: 196 -> 194
+		- Spe: 182 -> 184
+- Sunflora-Shadow
+	- Ability
+		- Floral Shadow
+			- Additional Effect: Pokemon's Moves deal doubled damage against opposing Pokemon with any Positive Stat Boosts. Pokemon is immune to being Statused, and will be cured of any Status Conditions present before gaining this Ability
+
+
+
+
 Pokemon Memories v2.0.7
 General
 - Animations
@@ -17,6 +492,13 @@ Abilities
 	- Additional Effect: Pokemon receives the minimum amount of damage from Stealth Rock
 - Pokemon Master
 	- Non-Electric-Type Move Power Boost: x1.2 -> x1.5
+
+
+Items
+- Star Sweet
+	- Prohibited Moves
+		- The following moves are no longer prohibited
+			- Aromatherapy
 
 
 Moves
@@ -38,10 +520,8 @@ Moves
 	- PP: 5 (Static)
 	- Type: Fire
 	- Users: Ho-Oh
-- Star Sweet
-	- Prohibited Moves
-		- The following moves are no longer prohibited
-			- Aromatherapy
+- Shadow Sneak
+	- Base Power: 70 -> 85
 - Steam Conversion
 	- Implemented
 	- Base Power: __
