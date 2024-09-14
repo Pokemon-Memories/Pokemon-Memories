@@ -1,5 +1,591 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v2.0.9
+General
+- Animations
+	- The following moves have received Animations: "Autumn Breeze", "Cipher Flash", "Cotton Blades", "Double Aura Cannon", "Dubious Medicine", "Firmament Break", "Magical Torque", "Pummel Plush", "Rainbow Wave", "Sparkle Wave", "Spring Breeze", "Summer Breeze", "Winter Breeze"
+- Learnsets
+	- All instances of Twinkle Tackle have been replaced with Pummel Plush
+- Miscellaneous
+	- Full Power Core has been renamed to "Power Generator"
+	- Thunder Spin
+		- Corrected an oversight where two moves shared this name; The Priority-Move has been renamed to "Flash Turn"
+- Typechart
+	- Grass
+		- Defensive
+			- Fairy
+				- Resisted -> Neutral
+
+
+Formats
+- Ubers
+	- Banlist Removals
+		- Mewtwo Clause
+			- Mewtwo can now hold a Dubious Disc
+
+
+Mechanics
+- Memorization
+	- Super Memory Abilities
+		- Super Sheer Force
+			- Power Boost: x1.8 -> x1.5
+
+Abilities
+- Anticipation
+	- Additional Effect: If the Pokemon detects a Super-Effective or OHKO move, its Speed Stat is raised by 1 stage
+- Battle Bond
+	- Additional Effect: Pokemon's Moves have an additional x1.3 Base Power if it is holding a Plate
+- Climate Change
+	- Additional Effect: Sawsbuck's Type manually changes to the Type(s) corresponding to its Weather Formes upon activating them. Sawsbuck receives a 20% Base Power Boost on all of its moves while it is Transformed
+	- Mechanics: Sawsbuck can now transform into its Weather Formes if it is holding the corresponding Elemental Stone (Autumn - Water Stone, Summer - Fire Stone, Winter - Ice Stone)
+- Forest's Edge
+	- Implemented
+	- Effect: Pokemon is immune to opposing Special Dark-Type Moves, and getting hit by one restores 1/3 of the Pokemon's Max Hp.
+- Grassy Blessing
+	- Additional Effect: Now absorbs Sparkle Wave
+- Illuminate
+	- Effect: Multiplies the Base Power of the Pokemon's Electric, Fairy, and Fire-Type Moves by x1.3, and halves the Base Power of opposing Dark-Type and Poison-Type Moves.
+- Luminous Power
+	- Additional Effect: Pokemon's Psychic Typing becomes neutral to opposing Dark-Type Moves. Pokemon's Moves have an additional x1.5 damage multiplier against opposing Dark-Type Pokemon.
+- Pastel Veil
+	- Additional Effect: Pokemon's Psychic-Typing becomes neutral to opposing Dark-Type Moves. Pokemon's Status Conditions are cured upon switching out
+- Shadow Cloak
+	- Additional Effect: Now prevents Sparkle Wave from being used
+
+Items
+- Bluk Berry
+	- Effect: Return restores 200 HP instead of 100 HP -> Automatically switches the user into an ally of choice upon using a move that forces the opponent out
+- Enigma Plate
+	- Miscellaneous: Now uses Arceus-Flying's Model when transforming into Arceus-Enigma instead of Base Arceus
+- Fairy Feather
+	- Implemented
+	- Additional Effect: Adds the Fairy-Type to Ponyta-Galar, and increases the damage of all of its moves by x1.2. This damage boost does not override the Power Boost imparted to the user's Fairy-Type Moves
+- Tart Apple
+	- Passive Damage Exemption
+		- Type-Additions
+			- Poison
+
+Moves
+- Autumn Breeze
+	- Implemented
+	- Base Power: 100
+	- Accuracy: 100
+	- Category: Physical
+	- Contact: Yes
+	- Effect: Doubled Power if the user moves first, or the opponent switches out
+	- Priority: 0
+	- PP: 10
+	- Type: Water
+	- Users: Sawsbuck
+- Cipher Flash
+	- Implemented
+	- Base Power: 80
+	- Accuracy: 30 (100 Accuracy if the user is a ???-Type)
+	- Category: Varies (Special by Default; Physical if the Pokemon's Attack Stat is higher)
+	- Contact: No
+	- Effect: Switches both the attacker and the target out upon successfully landing. Move will fail if the user is holding a Choice Scarf or Power Lens.
+	- Notable Properties: Bypasses Substitutes; Affected by Mirror Move
+	- Priority: 0
+	- PP: 3 (Static)
+	- Type: ???
+	- Target: All Adjacent Foes
+	- Users: Arceus, Meloetta, Mewtwo, Mew, Missingno, Unown
+- Collapsing Crush
+	- Implemented
+	- Base Power: 140
+	- Accuracy: 100
+	- Category: Physical
+	- Contact: Yes
+	- Effect: Uses the Pokemon's Defense Stat in its Damage Calculation
+	- Priority: 0
+	- PP: 5
+	- Type: Rock
+	- Users: Stakataka
+- Cotton Blades
+	- Implemented
+	- Base Power: 140
+	- Accuracy: 100
+	- Category: Physical
+	- Contact: No
+	- Effect: Hits opposing Flying-Type Pokemon Super-Effectively
+	- Priority: 0
+	- PP: 5
+	- Type: Fairy
+	- Users: Ponyta-Galar
+- Crabhammer
+	- Base Power: 150 -> 140
+	- Accuracy: 100 -> 90
+	- Effect: +2 Critical Hit Ratio -> Hits opposing Grass-Type Pokemon Super-Effectively
+	- Miscellaneous
+		- Now counts as a "Hammer"-Move
+- Double Aura Ball
+	- Implemented
+	- Base Power: 60
+	- Accuracy: Always Hits
+	- Category: Special
+	- Contact: No
+	- Effect: 25% Chance to raise the Pokemon's Special Attack by 1 Stage
+	- Notable Properties: Bullet-Move, Distance-Move, Pulse-Move
+	- Multi-Hits: 2
+	- Priority: 0
+	- PP: 5
+	- Type: ???
+	- Users: Lucario, Mewtwo
+- Dubious Medicine
+	- Implemented
+	- Base Power: __
+	- Accuracy: __
+	- Category: Status
+	- Contact: __
+	- Effect: Restores 1/3 of the Pokemon's Max Hp and switches the user out; Restores 1/4 of the incoming Pokemon's Max Hp, and attempts to add the Fairy-Type to them if it does not already have the Fairy-Type. If the Pokemon is Memorized, or changes Type(s) after this move has applied the Fairy-Typing, it will attempt to reapply it at the end of the Turn
+	- Priority: -4
+	- PP: 5
+	- Type: Fairy
+	- Users: Shiinotic
+- Gallant Blade
+	- No longer hits Mega Mewtwo X Super-Effectively
+- Fairy Wind
+	- Additional Effect: Raises the user's Speed by 1 stage
+		- Attrition Point: __ -> +1
+- Fire Spin
+	- Additional Effect: Raises the user's Special Attack by 1 stage
+		- Attrition Point: __ -> +1
+- Firmament Break
+	- Implemented
+	- Base Power: __
+	- Accuracy: __
+	- Category: Status
+	- Contact: __
+	- Effect: Pokemon restores 1/3 of its Max Hp. Pokemon's Atk and SpA are raised by 2 stages, and its Spe is raised by 1 stage; -1 Def/SpD. All of Pokemon's Stat Changes are reset after 4 Turns.
+	- Restrictions: Once this move has been used, the Pokemon will be unable to switch out or use any Switching Moves. These restrictions remain in effect even after its stats have been reset. This move can only be used once per Switch-In
+	- Notable Properties: Can be taken by Snatch
+	- Priority: 0
+	- PP: 15
+	- Type: Flying
+	- Users: Rayquaza
+- Hammer Arm
+	- Base Power: 160 -> 140
+	- Penalty: Lowers the user's Speed by 1 stage -> __
+- Karate Chop
+	- Base Power: 70 -> 80
+	- Attack-Boosting Chance: 40% -> 60%
+- Knock Off
+	- Base Power: 50 -> 80
+- Magical Torque
+	- Base Power: 100 -> 150
+	- Effect: 30% chance to confuse the opponent -> Hits opposing Steel-Type Pokemon neutrally, and bypasses Scale-Abilities (such as Multiscale, etc.)
+- Pixie Switch
+	- Corrected an oversight where this move was Physical by default instead of Special
+- Pressure Wave
+	- Base Power: This move's x1.5 Base Power boost can now additionally be activated if the Pokemon is holding a Choice Band or Choice Specs
+	- Penalty: Pokemon automatically loses its Choice Band or Choice Specs upon successfully using this move
+	- Additional Restrictions: This move can only be used by Mewtwo
+- Psychic Screen
+	- Restrictions: Reflect and Light Screen will always disappear within the next 2 Turns if the user of this move switches out
+- Purifying Water
+	- Base Power: 120 -> 140
+	- Additional Effects
+		- Now hits Dark-Type Pokemon Super-Effectively
+- Pummel Plush
+	- Implemented
+	- Base Power: 160
+	- Accuracy: 100
+	- Category: Physical 
+	- Contact: Yes
+	- Effect: Lowers the user's Def and SpD by 1 stage each after use
+	- Priority: 0
+	- PP: 5
+	- Type: Fairy
+	- Users: Arceus, Diancie, Floette, Mimikyu, Rapidash-Galar, Sylveon, Xerneas, Zacian
+- Rainbow Wave
+	- Implemented
+	- Base Power: 140
+	- Accuracy: 100
+	- Category: Physical
+	- Contact: No
+	- Effect: Hits opposing Steel-Type Pokemon Super-Effectively. x1.5 Base Power if any Weather Condition is active (including Delta Stream)
+	- Priority: 0
+	- PP: 5
+	- Type: Fairy
+	- Users: Ponyta-Galar
+- Return
+	- Health Restoration: 100 HP -> 150 HP
+- Secret Strike
+	- Implemented
+	- Base Power: 180
+	- Accuracy: Always Hits
+	- Category: Physical
+	- Contact: Yes
+	- Effect: If this Pokemon is holding a Plate, it will hit any Type corresponding to the held Plate's Type Super-Effectively. Doubled Base Power if this move is resisted by a Pokemon with Multitype.
+	- Priority: 0
+	- PP: 10
+	- Type: Dark
+	- Users: Greninja
+- Shed Spore
+	- Health Restoration: 1/2 -> 2/3
+- Spooky Revenge
+	- Base Power: 95 -> 100
+- Sparkle Wave
+	- Implemented
+	- Base Power: 80
+	- Accuracy: 30 (100 Accuracy if the user is a Fairy-Type)
+	- Category: Varies (Special by Default; Physical if the Pokemon's Attack Stat is higher)
+	- Contact: No
+	- Effect: Switches both the attacker and the target out upon successfully landing. Move will fail if the user is holding a Choice Scarf or Power Lens.
+	- Notable Properties: Bypasses Substitutes; Affected by Mirror Move
+	- Priority: 0
+	- PP: 3 (Static)
+	- Type: Fairy
+	- Target: All Adjacent Foes
+	- Users: Arceus, Azumarill, Deoxys (All Formes), Meloetta, Mewtwo, Mew, Ponyta-Galar, Xerneas
+- Spring Breeze
+	- Implemented
+	- Base Power: 100
+	- Accuracy: 100
+	- Category: Physical
+	- Contact: Yes
+	- Effect: Doubled Power if the user moves first, or the opponent switches out
+	- Priority: 0
+	- PP: 10
+	- Type: Grass
+	- Users: Sawsbuck
+- Sucker Punch
+	- Effectiveness: No longer ignores the Effectiveness-Modifying Abilities of the Pokemon affected by this move
+- Summer Breeze
+	- Implemented
+	- Base Power: 100
+	- Accuracy: 100
+	- Category: Physical
+	- Contact: Yes
+	- Effect: Doubled Power if the user moves first, or the opponent switches out
+	- Priority: 0
+	- PP: 10
+	- Type: Fire
+	- Users: Sawsbuck
+- Winter Breeze
+	- Implemented
+	- Base Power: 100
+	- Accuracy: 100
+	- Category: Physical
+	- Contact: Yes
+	- Effect: Doubled Power if the user moves first, or the opponent switches out
+	- Priority: 0
+	- PP: 10
+	- Type: Ice
+	- Users: Sawsbuck
+- Wood Hammer
+	- Effect: Ignores the Abilities of opposing Pokemon -> Hits opposing Fire-Type Pokemon Super-Effectively
+	- Recoil: 33% -> __
+
+
+Pokemon
+- Cacturne
+	- Base Stats
+		- Hp: 125 -> 155
+		- Atk: 200 -> 250
+		- Def: 140 -> 160
+		- SpA: 200 -> 250
+	- Learnset Additions
+		- Knock Off
+		- Shatter Bolt
+		- Shatter Fist
+		- Trick Retreat
+		- Uproar
+- Carracosta
+	- Learnset Additions
+		- Gunk Shot
+		- Ice Hammer
+- Cherrim
+	- Learnset Additions
+		- Earth Power
+		- Parabolic Charge
+		- Solar Blade
+- Chesnaught
+	- Base Stats
+		- Def: 195 -> 260
+		- SpA: 74 -> 201
+		- Spe: 157 -> 165
+	- Learnset Additions
+		- Ice Spinner
+		- Shell Smash
+		- Withdraw
+- Cresselia
+	- Base Stats
+		- Hp: 175 -> 215
+		- Atk: 45 -> 15
+	- Learnset Additions
+		- Aromatherapy
+		- Ensnarement
+		- Heal Bell
+		- Heavenly Mist
+		- Psychic Whirl
+		- Sweet Retreat
+- Deoxys Formes
+	- Deoxys-Speed
+		- Base Stats
+			- Atk: 234 -> 264
+			- Def: 158 -> 128
+			- SpA: 234 -> 264
+			- SpD: 158 -> 128
+		- Learnset Additions
+			- Sludge Switch
+			- Volt Switch
+- Dialga
+	- Learnset Additions
+		- Double Aura Cannon
+		- Grass Knot
+		- Ravenous Wrath
+		- Royal Rampage
+- Greninja
+	- Learnset Additions
+		- Comeuppance
+		- Ice Spinner
+		- Sucker Punch
+		- Uproar
+		- Water Spout
+- Kyogre
+	- Learnset Additions
+		- Blizzard
+		- Rest
+		- Steam Conversion
+- Marshadow
+	- Learnset Additions
+		- Karate Chop
+- Magnezone
+	- Learnset Additions
+		- Double Aura Cannon
+		- Fire Spin
+		- Heal Bell
+		- Imprison
+		- Magma Storm
+		- Royal Retreat
+	- Base Stats
+		- Spe: 135 -> 145
+- Mewtwo
+	- Learnset Additions
+		- Ice Spinner
+		- Sparkle
+- Mew
+	- Learnset Additions
+		- Sparkle Wave
+- Palkia
+	- Learnset Additions
+		- Howl
+- Ponyta-Galar Evolutionary Line
+	- General
+		- Learnsets
+			- Ponyta-Galar's and Rapidash-Galar's Learnsets have been synchronized
+	- Ponyta-Galar
+		- Implemented
+		- Ability: Run Away -> Luminous Power
+		- Base Stats
+			- Hp: 50 -> 150 = +100
+			- Atk: 85 -> 285 = +200
+			- Def: 55 -> 155 = +100
+			- SpA: 65 -> 285 = +220
+			- SpD: 65 -> 165 = +100
+			- Spe: 90 - 185 = +95
+			- BST: 410 -> 1225
+		- Learnset Additions
+			- Aura Sphere
+			- House Cleaning
+			- Magical Torque
+			- Play Rough
+			- Psychic Storm
+			- Psychic Whirl
+			- Rainbow Flame
+			- Shadow Claw
+			- Sweet Retreat
+			- Wild Charge
+	- Rapidash-Galar
+		- Base Stats
+			- Atk: 220 -> 270
+			- SpA: 220 -> 270
+			- SpD: 180 -> 240
+			- Spe: 155 -> 165
+- Rayquaza
+	- Learnset Additions
+		- House Cleaning
+- Sawsbuck
+	- General
+		- Learnset Additions
+			- Blazing Velocity
+			- Close Combat
+			- Double Kick
+			- Fall Back
+			- House Cleaning
+			- Ice Twister
+			- Leaf Switch
+			- Lustrous Stream
+			- Slush Switch
+			- Sweet Retreat
+			- Trick Retreat
+			- Water Break
+			- Wave Crash
+			- Wave Turn
+		- Signature Moves
+			- Autumn Breeze
+			- Spring Breeze
+			- Summer Breeze
+			- Winter Breeze
+	- Base Forme
+		- Ability: Chlorophyll -> Magic Bounce
+		- Base Stats
+			- Spe: 167 -> 180
+	- Weather Formes
+		- Base Stats
+			- Atk: 295 -> 295
+			- Def: 180 -> 250
+			- SpA: 295 -> 294
+			- SpD: 180 -> 250
+			- Spe: 184 -> 185
+- Shiinotic
+	- Implemented
+	- Base Stats
+		- Hp: 60 -> 160 = +100
+		- Atk: 45 -> 275 = +230
+		- Def: 80 -> 180 = +100
+		- SpA: 90 -> 280 = +190
+		- SpD: 100 -> 200 = +100
+		- Spe: 30 -> 175 = +145
+		- BST: 405 -> 1270
+	- Learnset Additions
+		- Apple Acid
+		- Aromatherapy
+		- Dubious Medicine
+		- Grav Apple
+		- Fairy Wind
+		- Fleur Cannon
+		- Heal Bell
+		- Howl
+		- Mystical Fire
+		- Play Rough
+		- Parting Shot
+		- Pummel Plush
+		- Seed Flare
+		- Shadow Flame
+		- Sparkle Wave
+		- Sweet Retreat
+		- Trick Retreat
+- Stakataka
+	- Base Stats
+		- Hp: 121 -> 181
+		- Atk: 231 -> 281
+		- SpA: 73 -> 103
+	- Learnset Additions
+		- Aqua Soul
+		- Armor Press
+		- Aromatic Mist
+		- Body Press
+		- Diffusion Wave
+		- House Cleaning
+		- Magma Storm
+		- Mist Ball
+		- Shell Smash
+		- Spikes
+- Sunflora
+	- Learnset Additions
+		- Apple Acid
+- Trevenant
+	- Ability: Inveigle -> Forest's Edge
+	- Base Stats
+		- Corrected an oversight where Trevenant's actual Base Stats did not match its intended Base Stats from the Changelog Compilation
+- Urshifu Formes
+	- Single Strike
+		- Learnset Additions
+			- Howl
+			- Shatter Night
+			- Storm Throw
+	- Rapid-Strike
+		- Learnset Additions
+			- Howl
+			- Receiving Strike
+			- Rock Blast
+			- Shatter Splash
+			- Triple Kick
+- Xerneas
+	- Learnset Additions
+		- Heal Bell
+		- Sparkle
+- Zacian
+	- Learnset Additions
+		- Earth Power
+		- Echoed Voice
+		- Psychic
+		- Psycho Darts
+		- Shadow Ball
+- Zamazenta
+	- Learnset Additions
+		- Aromatic Mist
+		- Triple Kick
+	- Hero Forme
+		- Ability
+			- Mold Breaker -> Shield's End
+		- Base Stats
+			- SpA: 38 -> 33
+			- Spe: 181 -> 186
+
+
+Shadow Moves
+- Shadow Cannon
+	- Base Power: 240 -> 260
+
+Shadow Pokemon
+- Dialga-Shadow
+	- Time Shadow
+		- Additional Effect: Cures all of the Pokemon's Status Conditions if it ends the turn while at or below 1/5 of its Max Hp.
+- Meloetta-Shadow
+	- Implemented
+	- Type: Normal/Ghost
+	- Base Stats
+		- Hp: 170 -> 170 = +0
+		- Atk: 288 -> 328 = +40
+		- Def: 288 -> 188 = -100
+		- SpA: 90 -> 330 = +240
+		- SpD: 185 -> 180 = -5
+		- Spe: 180 -> 185 = +5
+		- BST: 1301 -> 1401
+		- Ability: Relic Shadow
+		- Effect: Pokemon's Sound-Moves receive STAB and bypass opposing Scale-Abilities. Pokemon's Moves have Perfect Accuracy. Pokemon's Fighting-Type and Normal-Type Moves ignore opposing immunities. Pokemon's Ghost-Type Weaknesses become Resistances.
+- Mewtwo-Shadow
+	- Legend Shadow
+		- Additional Effect: Pokemon's Multi-Hit Moves receive a x1.3 Base Power Boost
+- Palkia-Shadow
+	- Space Shadow
+		- Dragon-Type Effectiveness: Hits all Types Super-Effectively -> Hits Resistances neutrally, and Neutralities Super-Effectively. Always hits opposing ???-Types neutrally
+- Rapidash-Shadow
+	- Glow Shadow
+		- No longer nullifies its Water-Type Weaknesses
+- Stakataka-Shadow
+	- Implemented
+	- Type: Rock/Ghost
+	- Base Stats
+		- Hp: 181 -> 181 = +0
+		- Atk: 231 -> 149 = -82
+		- Def: 401 -> 448 = +47
+		- SpA: 73 -> 1 = -62
+		- SpD: 161 -> 448 = +287
+		- Spe: 13 -> 13 = +0
+		- Ability: Forge Shadow
+		- Effect: Pokemon's Rock-Type Moves hit opposing Steel-Type Pokemon neutrally. Pokemon receives 1/2 of the usual damage from opposing attacks, and bounces back opposing Status Moves. Opposing Pokemon receive 1/2 of the damage inflicted to this Pokemon. Prevents the opponents from recovering their health, depletes 1/20 of their Max Hp at the end of each turn, and inflicts an additional 1/10 of their Max Hp if they attempt to switch out, while a Pokemon with this Ability is on the field
+- Zacian-Shadow
+	- Implemented
+	- Type: Fairy/Ghost
+	- Base Stats
+		- Hp: 152 -> 152 = +0
+		- Atk: 300 -> 400 = +100
+		- Def: 165 -> 145 = -20
+		- SpA: 168 -> 328 = +120
+		- SpD: 165 -> 5 = -160
+		- Spe: 181 -> 201 = +20
+		- BST: 1340 -> 1440
+		- Ability: Hero Shadow
+		- Effect: Pokemon's Super-Effective Attacks have x1.5 Base Power.
+
+
+
+
+
 Pokemon Memories v2.0.8
 General
 - Animations
