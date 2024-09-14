@@ -118,7 +118,7 @@ Moves
 	- Effect: +2 Critical Hit Ratio -> Hits opposing Grass-Type Pokemon Super-Effectively
 	- Miscellaneous
 		- Now counts as a "Hammer"-Move
-- Double Aura Ball
+- Double Aura Cannon
 	- Implemented
 	- Base Power: 60
 	- Accuracy: Always Hits
