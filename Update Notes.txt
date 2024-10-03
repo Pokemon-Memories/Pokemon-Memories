@@ -1,5 +1,527 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v2.1.0
+General
+- Animations
+	- The following Moves have received Animations: "Bramble Blast", "Decibel Burst", "Flying Deluge", "Hyper Rush", "Sacred Return", "Water Break", "Wave Splash"
+	- The following Moves have received modified Animations: "Glacial Strike", "Rental Charge"
+- Miscellaneous
+	- Abilities
+		- Corrected an oversight where Category-Shifting Abilities would not affect Natural Gift
+			- Affects: Full Bloom, Kelpsy Berry (New), Reckless, Thunder Shadow
+	- Moves
+		- "Frost Sword" has been renamed to "Frost Blade"
+	- Viability Rankings
+		- Updated the B-Tier to solely consist of Pokemon considered to be outclassed or lacking, but still potentially viable. Pokemon that were merely theoretically viable, but were unjustified for use on serious Teams have been deferred to lower Tiers
+		- The D-Tier and "Unranked" have been merged into one Tier, and are now considered to be synonymous
+- Rulesets
+	- Balanced Hackmons Formats
+		- Banlist Additions
+			- Abilities
+				- Sacred Origin
+					- Applies to: Balanced Hackmons, Unlimited BH
+		- Miscellaneous
+			- Corrected an oversight where Inertia was listed as being banned in Unlimited BH despite this not being the case. The Ability remains unbanned
+	- Ubers
+		- Banlist Additions
+			- Stakataka Clause: Stakataka cannot hold a Strange Ball
+				- Explanation: Stakataka-Shadow was an attempt to forge a powerful Defensive Pokemon out of a predominately Offensive Mechanic, and it was successful... Far too successful. While it could not be determined whether Stakataka-Shadow was ultimately a stronger Pokemon that Mewtwo, it proved to be far more constricting to the Teambuilder than any of Mewtwo's Formes, or any Arceus Formes had ever been, during its brief run in Ubers. Ultimately, the Pokemon was not necessarily unbeatable, but severely degraded the quality of the Meta, necessitating a bulky Uproar-Pivot on every Team in order to not immediately get folded by it. Unfortunately, as is the case with many "broken" Pokemon, directly nerfing Stakataka-Shadow would likely create the opposite effect of endangering tis viability. Consequently, it is being held in Anything Goes for the time being
+					Applies to: Limited Ubers, (Standard) Ubers
+	- Ultra Assist
+		- Banlist Additions
+			- Arceus-Origin Clause: Arceus cannot transform into Arceus-Origin
+			- Stakataka Clause: Stakataka cannot hold a Strange Ball
+		- Banlist Removals
+			- Amplifier
+			- Omnipotent
+
+Formats
+- Ultra Assist
+	- Miscellaneous
+		- Corrected an oversight where the Changelog listed Drizzle and Tempest as being banned, despite this no longer being the case
+
+
+
+Mechancs
+- Overdrives
+	- Gift Collector
+		- Added Exceptions: Dive Ball
+- Ultra Assist
+	- EX-Arceus
+		- Effect: Transforms Arceus into Arceus-Origin
+			- Arceus-Origin
+				- Implemented
+				- Base Stats
+					- Hp: 200 -> 300 = +100
+					- Atk: 300 -> 340 = +40
+					- Def: 210 -> 210 = +0
+					- SpA: 340 -> 340 = +40
+					- SpD: 210 -> 210 = +0
+					- Spe: 180 -> 180 = +0
+				- Ability: Sacred Origin
+				Effect: All of Pokemon's Moves receive a x2 STAB-Bonus. All of Pokemon's Moves have Perfect Accuracy. Pokemon resists any attack that hits it while it as at Full Health. Pokemon's Status Conditions are cured upon switching out
+				- Special Properties
+					- Arceus-Origin can use every move that Arceus-Normal can--including Forme-Exclusive Moves that Arceus-Normal can use
+					- It can also use Aqua Charge and Dimension Break
+					- Extreme Speed is boosted, as it is with Arceus-Normal
+					- Mystery Speed has a Base Power of 100
+	- EX-Calyrex-Shadow
+		- Effect: Pokemon receive a single-stage Stat-Boost to their highest attacking Stat upon successfully K.O.'ing an opposing Pokemon; Activates once per Switch-In; Pokemon's Special Attack will be raised if both stats are equal. Pokemon's Moves have x1.3 Base Power when at or below 1/4 of their Max Hp
+	- EX-Eternatus
+		- Additional Effect: Pokemon's Moves bypass opposing Abilities
+	- EX-Groudon
+		- Additional Effect: Pokemon's Physical Attacks leave behind Stealth Rock as a Secondary Effect.
+	- EX-Kyogre
+		- Additional Effect: Attempts to set Rain if a Water-Type Pokemon successfully used a Damaging Move on their opponent
+	- EX-Meloetta
+		- Additional Effect: Reduces the Damage taken from opposing Special Moves by x0.8, regardless of which Defense Stat they target
+	- EX-Mew
+		- Magic Bounce Eligibility: Psychic-Type Pokemon only -> All Pokemon
+	- EX-Mewtwo
+		- Implemented
+		- Effect: Pokemon's Super-Effective Moves have an additional x1.3 Base Power. All Pokemon receive the Full Burst Effect.
+	- EX-Rayquaza
+		- Power Boost: x1.2 -> x1.4
+		- Additional Effect: All Forms of Weather not related to an Ally Pokemon's Weather-Setting Ability are cleared as soon as possible.
+	- EX-Zacian
+		- Additional Effect: Pokemon's Priority Moves have their Base Power multiplied by x1.3
+	- EX-Zamazenta
+		- Additional Effect: Opposing Priority Moves have their Base Power reduced by x0.67.
+
+
+
+Abilities
+- Desolate Land
+	- If Groudon-Primal is holding a Red Orb, it will receive the following Effects
+		- Pokemon becomes a Ground/Fire-Type
+		- Pokemon loses its Fire-Type Weaknesses
+		- Pokemon's Ground/Fire-Type Moves receive a 30% Base Power Boost
+		- Pokemon receives the "Red Burst" Effect, granting the Permaburst Effect to "Eruption" and "Land Mass"
+- Heartless
+	- Corrected an oversight where the messages displayed for the user's current multipliers did not match the actual gameplay; Notably, the Pokemon's Power Boosts were ahead by 1 Turn (e.g. the Pokemon would receive a x1.2 Boost immediately, rather than after remaining on the field for 1 Turn; The Pokemon would have the x1.8 Power Boost when the display intended for it to be x1.65, etc).
+		- Notably, this means that the Ability no longer grants an immediate x1.2 Power Boost
+- Hope Sprout
+	- Additional Effect: Pokemon cannot be forced off the field by the opponent; Any attempt to do so will restore 1/4 of its Max Hp instead.
+- Intrepid Sword
+	- Additional Effect: Pokemon cannot be forcibly switched out
+- Liquid Voice
+	- Sound-Move Base Power Multiplier: x1.5 -> x1.3
+- Misty Blessing
+	- Additional Effect: Pokemon restores an additional 1/4 of its Max Hp upon switching out
+- Neuroforce
+	- Additional Effect: (Necrozma-Ultra Only): Pokemon's Ghost-Type and Steel-Type Moves receive STAB
+- Primordial Sea
+	- If Kyogre-Primal is holding a Blue Orb, it will receive the following Effects
+		- Pokemon becomes a Water/Ice-Type
+		- Pokemon loses its Ice-Type Weaknesses
+		- Pokemon's Water/Ice-Type Moves receive a 30% Base Power Boost
+		- Pokemon receives the "Blue Burst" Effect, granting the Permaburst Effect to "Water Spout"
+- Prism Armor
+	- Additional Effect: Pokemon restores 1/3 of the Damage Inflicted from Recoil-Moves; Pokemon does not receive Recoil Damage
+- Psychic Power
+	- Additional Effect: Pokemon is immune to Burn Damage
+- Psycho Force
+	- Additional Effect: Pokemon's Non-STAB Moves receive a x1.3 STAB Bonus. Pokemon's Fighting-Type Moves bypass opposing Type-Based Immunities; Photon Hands hits opposing Ghost-Types neutrally, instead of Semi-Effectively. Multiplies Pokemon's Special Attack by x1.2.
+	- Power-Boosts
+		- "Detect" receives a 50% Power Boost
+		- "Pressure Wave" has its Base Power increased to 200
+		- "Receiving Strike" receives a 50% Base Power Boost.
+- Shadow Cleaver
+	- Base Power Boost: x1.2 -> x1.3
+	- Additional Effect: Pokemon's Ghost-Type and Normal-Type Moves ignore opposing immunities. Pokemon's Ghost-Type Moves ignore opposing Dark-Type resistances
+- Sea King
+	- Passive Health Restoration: 1/10 Max Hp -> 1/16 Max Hp
+	- Health Restored upon Switching Out: 1/4 Max Hp -> 1/8 Max Hp
+
+
+Items
+- Ability Shield
+	- Now bypasses Sea King
+- Choice Scarf
+	- Blacklist Additions
+		- Intrepid Sword
+- Dive Ball
+	- Effect: Raises Zacian's Speed by 1 stage. Single Use.
+- Dusk Ball
+	- Implemented
+	- Effect: Allows Mimikyu to remain in its Busted Forme
+- Heavy-Duty Bootss
+	- Implemented
+	- Effect: Pokemon is immune to Entry Hazards -> Pokemon clears all entry Hazards upon switching in; Pokemon is not immune to Entry Hazards, and will be affected by them per usual. Item breaks if the Holder switches into Entry Hazards while at or below 1/2 of its Max Hp, or if there are at least three different Entry Hazards on the Holder's side of the field when it switches in (e.g. 3 Layers of Spikes will not break this Item, but Spikes + Stealth Rock + Toxic Spikes would)
+- Kelpsy Berry
+	- Effect: Pokemon's Special Moves become Physical Moves, and Stat Stage Changes to the Pokemon's Special Attack Stat will affect the Pokemon's Attack Stat instead.
+- Pamtre Berry
+	- Effect: Raises Darkrai's Speed by 1 Stage after successfully using Dark Void. Speed drops by 1 stage after Darkrai causes two Pokemon to faint
+- Syrupy Apple
+	- Effect: Restores HP upon landing a Super-Effective Move -> Restores 1/5 of the Pokemon's Max Hp upon successfully using a Status Move. Multi-Use
+- Watmel Berry
+	- Additional Effect: Multiplies the Base Power of the Pokemon's Moves by x1.3 if it has any Positive Stat Changes
+
+
+Moves
+- Aqua Charge
+	- Additional Effect: Multiplies the Base Power of the Pokemon's Water-Type Moves by x1.3
+- Aqua Leap
+	- Base Power: 80 -> 100
+- Bounce
+	- Base Power: 150 -> 160
+- Bramble Blast
+	- Implemented
+	- Base Power: 90
+	- Accuracy: Always Hits
+	- Category: Physical
+	- Contact: __
+	- Effect: Sets a layer of Spikes and Toxic Spikes. This move cannot set more than 1 Layer of each Hazard
+	- Priority: 0
+	- PP: 5
+	- Type: Poison
+	- Users: Bellsprout Evolution Line
+- Celestial Strike
+	- Additional Effect: Hits opposing Steel-Type Pokemon neutrally
+- Conqueror's Steel
+	- Effectiveness Mechanics: Hits opposing Dual-Typed Pokemon Super-Effectively if they have the Steel-Type -> Hits opposing Steel-Type Pokemon Super-Effectively
+	- Additional Effect: Has its Power Weather-Boosted by Rain
+- Decibel Burst
+	- Implemented
+	- Base Power: 160
+	- Accuracy: 100
+	- Category: Special
+	- Contact: __
+	- Effect: Bypasses Substitutes
+	- Priority: 0
+	- PP: 5
+	- Type: ???
+	- Users: Arceus, Garchomp, Meloetta, Mewtwo, Pikachu
+- Divine Call
+	- Corrected an oversight where this move was stated to only be usable by Normal Arceus, despite being usable by all of its Formes.
+		- Moving forward, Heaven Dance will be usable by all Arceus Formes
+- Earthen Song
+	- Corrected an oversight where redundant code caused this move to work improperly
+- Freeze-Shock
+	- Base Power: 180 -> 250
+	- Attrition Point: +1 -> +2
+- Glacial Strike
+	- Additional Effect: Hits opposing Steel-Type Pokemon neutrally
+- Heaven Dance
+	- Corrected an oversight where this move was stated to only be usable by Normal Arceus, despite being usable by all of its Formes.
+		- Moving forward, Heaven Dance will be usable by all Arceus Formes
+- Hyper Rush
+	- Implemented
+	- Base Power: 200
+	- Accuracy: 90
+	- Category: Physical
+	- Contact: Yes
+	- Effect: Lowers the Pokemon's Attack by 1 stage after use.
+	- Priority: 0
+	- PP: 5
+	- Type: Fairy
+	- Users: Zacian
+- Ice Burn
+	- Base Power: 180 -> 250
+	- Attrition Point: +1 -> +2
+- Let's Snuggle Forever
+	- Base Power: 190 -> 250
+	- Effect: __ -> Turns into Play Rough after being used
+	- PP: 1
+- Meteor Mash
+	- Base Power: 150 -> 170
+- Photon Hands
+	- Effectiveness: This move's Semi-Effectiveness is replaced with Neutral-Effectiveness, if the user has Psycho Force
+- Poltergeist
+	- Base Power: 90 -> 110
+	- Miscellaneous
+		- Poltergeist is now treated as a 110 BP Move at all times, rather than a 180 (Pre-Patch) or 220 (Currently) BP Move, making it subject to receiving Base Power Boosts from Abilities or Items that boost the Power of Moves within this Base Power range
+- Pressure Wave
+	- Mechanics: Now applies the "Exempt"-Flag before Effectiveness-Calculation, notably allowing this move to bypass Pokemon that could previously unintentionally resist it on account of oversights, such as a non-Dark/Psychic/Steel Progenitor Mew with a Psychic-Type Resist.
+- Psychic Screen
+	- Activation Range: Full Hp -> At least 1/2 of the Pokemon's Max Hp
+- Pummel Plush
+	- Base Power: 160 -> 170
+- Razor Wind
+	- Base Power: 170 -> 220
+- Receiving Strike
+	- Base Power: 55 -> 60
+- Royal Eruption
+	- Base Power: 120 -> 150
+- Royal Submersion
+	- Base Power: 120 -> 150
+- Sacred Return
+	- Status: Unusable -> Usable
+	- Base Power: __
+	- Accuracy: __
+	- Category: Status
+	- Contact: __
+	- Effect: Restores 1/2 of the Pokemon's Max Hp, and switches the Pokemon out. Can only be used by Arceus-Origin.
+	- Priority: -7
+	- PP: 5 (Static)
+	- Type: ???
+	- Users: Arceus
+- Sacred Water
+	- Additional Effect: Becomes a Special Move if Arceus-Water has a higher Special Attack Stat; This effect does not apply to other Pokemon
+- Skull Bash
+	- Base Power: 180 -> 220
+- Steel Beam
+	- Base Power: 190 -> 220
+	- Recoil: 1/3 Damage Inflicted -> 1/4 Damage Inflicted
+	- Self-Dropped Stat: -1 Spe -> -1 Def/-1 SpD
+- Torrential Blast
+	- Base Power: 140 -> 160
+- Wave Splash
+	- Implemented
+	- Base Power: 80
+	- Accuracy: 30 (100 Accuracy if the user is a Water-Type)
+	- Category: Varies (Special by Default; Physical if the Pokemon's Attack Stat is higher)
+	- Contact: No
+	- Effect: Switches both the attacker and the target out upon successfully landing. Move will fail if the user is holding a Choice Scarf or Power Lens.
+	- Notable Properties: Bypasses Substitutes; Affected by Mirror Move
+	- Priority: 0
+	- PP: 3 (Static)
+	- Type: Water
+	- Target: All Adjacent Foes
+	- Users: Arceus, Azumarill, Meloetta, Manaphy, Mewtwo, Mew, Phione, Tapu Fini
+
+
+Pokemon
+- Arceus
+	- Learnset Additions
+		- Fire Spin
+		- Freeze-Dry
+		- Ice Twister
+		- Scale Shot
+- Arcanine-Hisui
+	- Learnset Additions
+		- Diffusion Wave
+- Bellsprout
+	- Learnset Additions
+		- Shattered Earth
+		- Spicy Extract
+		- Spring Breeze
+- Calyrex Formes
+	- Calyrex-Ice
+		- Learnset Additions
+			- Psycho Fire
+	- Calyrex-Shadow
+		- Learnset Additions
+			- Psycho Drain
+- Darkrai
+	- Learnset Additions
+		- Uproar
+- Darmanitan-Formes
+	- Base Forme
+		Base Stats
+			- Atk: 270 -> 300
+			- Spe: 123 -> 163
+		- Learnset Additions
+			- Flame Switch
+			- Hammer Arm
+			- Uproar
+- Deoxys-Formes
+	- General
+		- Learnset Additions
+			- Heat Crash
+			- Wild Charge
+	- Deoxys-Defense
+		- Learnset Additions
+			- Diffusion Wave
+			- Sweet Retreat
+	- Deoxys-Speed
+		- Learnset Additions
+			- Dark Ball
+			- Shadow Ball
+			- Signal Beam
+		- Learnset Removals
+			- Recover
+- Empoleon
+	- Ability: Merciless -> Conqueror
+	- Base Stats
+		- Atk: 245 -> 265
+		- SpA: 245 -> 265
+		- Spe: 100 -> 140
+	- Learnset Additions
+		- Fake Out
+- Greninja
+	- Learnset
+		- Corrected an error where Greninja was not able to learn Water Break despite being intended to
+			- Water Break has since been added to Greninja's Learnset
+- Groudon
+	- Learnset Additions
+		- Dragon Tail
+	- Miscellaneous
+		- Corrected an oversight where Groudon could not learn Ember, despite being intended to
+- Happiny Evolutionary Line
+	- Blissey
+		- Base Stats
+			- Def: 70 -> 90
+			- SpD: 205 -> 235
+		- Learnset Additions
+			- Whirlwind
+	- Chansey
+		- Base Stats
+			- Def: 35 -> 55
+			- SpD: 135 -> 155
+- Haxorus
+	- Ability: Unnerve -> Breaking Point
+	- Base Stats
+		- Def: 180 -> 280
+	- Learnset Additions
+		- Dragon Energy
+		- Dragon Fire
+		- Meteor Mash
+		- Pincer Press
+		- Ravenous Wrath
+		- Regal Exit
+		- Royal Rampage
+		- Toxic Spikes
+- Kyogre
+	- Learnset Additions
+		- Essence Crusher
+		- Icy Wind
+		- Liquidation
+		- Roar
+		- Sheer Cold
+		- Wave Crash
+- Lucario
+	- Learnset Additions
+		- Shadow Sneak
+		- Wild Charge
+- Manpahy
+	- Learnset Additions
+		- Thunder Wave
+- Meloetta
+	- Special Mechanic
+		- Normal-Type Sound-Based Moves Base Power Multiplier: x1.3 -> x1.5
+- Mew
+	- Learnset Additions
+		- Sludge Switch
+		- Toxic Spikes
+- Mimikyu-Formes
+	- General
+		- Learnset Additions
+			- Cover Switch
+			- Dynamic Punch
+			- Echoed Voice
+			- Grass Knot
+			- Let's Snuggle Forever
+			- Shadow Flame
+			- Shadow Volley
+	- Base Forme
+		- Base Stats
+			- Atk: 250 -> 300
+			- Def: 160 -> 200
+			- SpA: 200 -> 250
+			- Spe: 156 -> 171
+	- Busted Forme
+		- Base Stats
+			- Def: 120 -> 150
+			- SpD: 145 -> 195
+- Necrozma-Formes
+	- Necrozma-Dawn-Wings
+		- Base Stats
+			- Atk: 233 -> 253
+			- Def: 180 -> 200
+		- Learnset Additions
+			- Shadow Flame
+	- Necrozma-Dusk-Mane
+		- Base Stats
+			- Def: 237 -> 247
+			- Spe: 108 -> 138
+		- Learnset Additions
+			- Beat Up
+			- Dragon Dance
+			- Howl
+			- Mineral Cannon
+			- Psycho Fire
+			- Ravenous Wrath
+			- Rock Smash
+			- Spike Cannon
+			- Wave Splash
+			- X-Scissor
+	- Necrozma-Ultra
+		- Base Stats
+			- Hp: 167 -> 187
+			- Explanation: Unless specifically coded to be otherwise, a Transformed Pokemon will share the same Base HP and Total Remaining Health as their Base Forme Counterpart. Resultingly, Necrozma-Ultra was effectively already a Base 187 HP Pokemon, since it is only legally usable through its Base Formes. Since this additional Health did not threaten the balance of the Tier, the decision was made to allow Necrozma-Ultra to keep these boosts
+- Phione
+	- Learnset Additions
+		- Ice Twister
+- Primarina
+	- Ability: Fairy Shield -> Stamina
+	- Learnset Additions
+		- Calm Mind
+		- House Cleaning
+		- Sparkle Wave
+		- Sweet Retreat
+		- Wave Splash
+- Tapu Fini
+	- Learnset Additions
+		- House Cleaning
+		- Sparkle Wave
+		- Sweet Retreat
+		- Wish
+- Zacian
+	- Base Stats
+		- Hp: 152 -> 172*
+			- Also applies to Zacian-Crowned and Zacian-Shadow
+	- Learnset Additions
+		- Armor Smash
+		- Frost Blade
+		- Howl
+		- Hyper Rush
+		- Iron Run
+		- Pixie Run
+- Zamazenta
+	- Base Stats
+		- Hp: 182 -> 202*
+			- Also applies to Zamazenta-Crowned*
+	- Learnset Additions
+		- Armor Smash
+		- Howl
+- Zekrom
+	- Learnset Additions
+		- Scale Shot
+		- Pincer Press
+		- Zap Cannon
+
+Shadow Pokemon
+- Darkrai Shadow
+	- Base Stats
+		- SpD: 200 -> 195
+		- Spe: 175 -> 180
+- Meloetta Shadow
+	- Base Stats
+		- Def: 188 -> 148
+		- SpD: 180 -> 140
+	- Relic Shadow
+		- Additional Effect: Extreme Speed becomes a ???-Type Move and gains STAB
+- Mewtwo Shadow
+	- Legend Shadow
+		- Penalty: Stored Power's Base Power is reduced by x0.67 if the Pokemon is holding a Strange Ball or Strange Essence
+		- Explanation: Due to Shadow Mewtwo's astronomical stats, 20% Shadow State Boost, and Ability-Induced Damage Optimization, its Stored Power rivaled--an in certain cases, exceded the power of even Choice Scarf Kyogre's Water Spout under Rain. The discovery of this power could not result in anything short of a ban to AG if left unaddressed, so a compromise was made to nerf Shadow Mewtwo's Power in official formats, while leaving the door open for this Ability to remain unaffected in Formats where Shadow Submersion was not needed to access it
+- Palkia Shadow
+	- Space Shadow
+		- Additional Effect: Pokemon's Moves have Perfect Accuracy
+- Zacian-Shadow
+	- Base Stats
+		- Hp: 152 -> 172
+		- SpA: 328 -> 228
+		- SpD: 5 -> 105
+	- Hero Shadow
+		- Additional Effect: Pokemon's Moves with a Base Power equal or below 120 receive a x1.5 Base Power Boost
+- Zekrom Shadow
+	- Implemented
+	- Type: Dragon/Ghost
+	- Base Stats
+		- Hp: 160 -> 160 = +0
+		- Atk: 320 -> 420 = +100
+		- Def: 240 -> 210 = -30
+		- SpA: 225 -> 225 = +0
+		- SpD: 180 -> 200 = +20
+		- Spe: 175 -> 185 = +10
+		- BST: 1300 -> 1400
+		- Ability: Thunder Shadow
+		- Effect: Pokemon receives STAB on its Electric-Type Moves. Pokemon's Electric-Type Moves ignore opposing Type-Based Immunities. Pokemon's Special Moves become Physical Moves (Does not affect Strange Wave). Pokemon's Moves have Perfect Accuracy
+
+
+
 Pokemon Memories v2.0.9
 General
 - Animations

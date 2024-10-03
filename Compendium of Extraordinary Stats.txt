@@ -1,9 +1,10 @@
 Compendium of Extraordinary Stats
 
-Attack (84 Total)
+Attack (86 Total)
 Standard: Equal or Above 300
 
 Mewtwo-Mega-X: 450
+Zekrom-Shadow*: 420
 Deoxys-Attack: 405
 Suicune-Shadow*: 402
 Groudon-Primal: 400
@@ -81,6 +82,7 @@ Arceus: 300
 Darmanitan-Galar: 300
 Golurk: 300
 Kyurem-Black: 300
+Mimikyu: 300
 Aggron-Mega: 300
 Regigigas: 300
 Regigigas-Shadow*: 300
@@ -88,7 +90,7 @@ Terrakion: 300
 Zacian: 300
 Zapdos-Galar: 300
 
-Special Attack (73 Total)
+Special Attack (72 Total)
 Standard: Equal or Above 300
 
 Mega-Mewtwo-Y: 450
@@ -115,7 +117,6 @@ Lucario-Shadow*: 330
 Meloetta-Shadow*: 330
 Salamence-Mega: 330
 Tapu Lele: 330
-Zacian-Shadow*: 328
 Lunala: 327
 Camerupt-Mega: 325
 Arceus-Ghost: 320
