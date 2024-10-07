@@ -21,7 +21,7 @@ Section C
 	• Viability Rankings
 	• History of the Format
 
-(224 Total)
+(226 Total)
 						      Section A    
 						    Standard Ubers
 						      Highlights
@@ -81,60 +81,59 @@ Note: Pokemon beneath the S-Tier(s), are listed alphabetically; Pokemon in the l
 Disclaimer: Any Pokemon from the B+ Tier downward are Tiered according to the Viability of their Standard (i.e. Non-Memorized) Forme(s). If a B- Pokemon has a Memory Set that would justify an A- Rank, they will be ranked A-, however if their strongest Memory Set is a B+ Set, they will still be ranked in the B- Tier.
 
 
-Current Tiered Shadow Pokemon: Azumarill-Shadow, Darkrai-Shadow, Dialga-Shadow, Entei-Shadow, Lucario-Shadow, Meloetta-Shadow, Mewtwo-Shadow, Palkia-Shadow, Rapidash-Shadow, Regigigas-Shadow, Stakataka-Shadow, Suicune-Shadow, Sunflora-Shadow, Victreebel-Shadow, Zacian-Shadow
+Current Tiered Shadow Pokemon: Azumarill-Shadow, Darkrai-Shadow, Dialga-Shadow, Entei-Shadow, Lucario-Shadow, Meloetta-Shadow, Mewtwo-Shadow, Palkia-Shadow, Rapidash-Shadow, Regigigas-Shadow, Stakataka-Shadow, Suicune-Shadow, Sunflora-Shadow, Victreebel-Shadow, Zacian-Shadow, Zekrom-Shadow
 
 Banlist: Arceus-Origin, Eternatus-Eternamax, Groudon-Primal, Kyogre-Primal, Mewtwo-Mega-X, Mewtwo-Mega-Y, Rayquaza-Mega, Stakataka-Shadow*
 
 Viability Rankings
 
-S-Tier (6 Total)
+S-Tier (4 Total)
 
 S+
 Mewtwo
+Zacian-Crowned
 
 S
 Arceus-???
-Mewtwo-Shadow*
-Darkrai
 
 S-
-Kyurem-White
-Necrozma-Ultra
+Suicune-Shadow*
 
-A-Tier (23 Total)
+A-Tier (24 Total)
 The Pokemon in this Tier and the following Tiers are listed in Alphabetical Order
 
 A+
 Arceus-Dark
+Darkrai
 Greninja-Ash
+Kyurem-White
 Lilligant (A-; Grass Memory)
+Melmetal
 Meloetta-Shadow*
-Suicune-Shadow*
+Moltres (B; Fire Memory)
+Necrozma-Ultra
 Trevenant
-Zacian-Crowned
 
 A
 Calyrex-Shadow
 Deoxys-Speed
 Groudon
 Lugia
-Melmetal
+Mewtwo-Shadow*
 Phione (A-; Water Memory)
-Rapidash-Shadow*
 Regigigas-Shadow*
+Zacian-Shadow*
 
 A-
-Cryogonal (B+; Ice Memory)
 Darkrai-Shadow*
 Eternatus (B-; Dragon Memory + SpA-Positive Nature)
 Kyogre
 Mew
-Moltres (B; Fire Memory)
-Palkia-Shadow*
 Victreebel-Shadow*
+Zekrom-Shadow*
 
 
-B-Tier (68 Total)
+B-Tier (70 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
@@ -146,10 +145,11 @@ Empoleon
 Infernape
 Klinklang
 Lilligant-Hisui
+Palkia-Shadow*
 Porygon-Z
+Rapidash-Shadow*
 Tapu Koko
 Tornadus
-Zacian-Shadow*
 
 B
 Arceus-Fire
@@ -181,6 +181,7 @@ Azumarill
 Azumarill-Shadow*
 Bellsprout
 Cobalion
+Cryogonal
 Delphox
 Deoxys-Attack
 Golurk
@@ -316,7 +317,7 @@ Registeel
 Scovillain
 
 
-D-Tier/Unranked (32 Total)
+D-Tier/Unranked (33 Total)
 
 D
 Arceus-Bug
@@ -350,6 +351,7 @@ Latios
 Mienshao
 Sableye
 Salamence
+Xurkitree
 Zarude
 
 
@@ -1202,6 +1204,14 @@ Optimal EVs
 (2) Balanced - EVs: 196 HP / 12 SpD
 - Example: 252 SpA Adrenaline Orb Mewtwo Psycho Darts vs. 196 HP / 12 SpD Calyrex-Shadow (Fighting Memory): 464-548 (84.3 - 99.6%) -- guaranteed 2HKO
 ========================================================
+Darkrai
+-----------------------------------------
+Surviving Full Hp Suicune-Shadow's Water Spout, with a SpA-Neutral Nature and 0 SpA EVs
+Optimal EVs
+EVs: 152 Hp
+Raw Stats: 479 Hp / 416 SpD
+Example: 0 SpA Strange Essence Suicune-Shadow Water Spout (220 BP) vs. 152 HP / 0 SpD Darkrai: 406-478 (84.7 - 99.7%) -- guaranteed 2HKO
+========================================================
 Deoxys-Attack
 -----------------------------------------
 Surviving Adrenaline Orb Mewtwo's Psycho Darts
@@ -1272,6 +1282,17 @@ Speed Blitzer
 Minimum Speed EVs to outspeed Mewtwo (520)
 Neutral: 128 EVs (522)
 Positive: 4 EVs (522)
+============================================================
+Zacian-Shadow
+--
+Surviving 252 SpA Adrenaline Orb Mewtwo's Psycho Darts after at least one round of Shadow State Damage
+Optimal EVs
+EVs: 40 SpD
+Raw Stats: 485 Hp / 256 SpD
+
+Explanation: With this EV Spread, Zacian-Shadow has the ability to play with greater security against opposing Mewtwo, as the most common sets will never be able to OHKO with Darts, provided that Zacian retains at least 95% of its Max Hp. Should the Shadow State be changed to deduce 6% at the end of each turn instead of 5%, it could increase its SpD EVs to 52 to survive.
+
+Example: (Against a Zacian-Shadow at 95%): 252 SpA Adrenaline Orb Mewtwo Psycho Darts vs. 0 HP / 52 SpD Zacian-Shadow: 385-454 (80.4 - 94.8%) -- guaranteed 2HKO
 ============================================================
 Zygarde-10-Percent
 --

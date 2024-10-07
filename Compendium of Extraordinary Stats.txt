@@ -4,6 +4,7 @@ Attack (86 Total)
 Standard: Equal or Above 300
 
 Mewtwo-Mega-X: 450
+Kartana: 441
 Zekrom-Shadow*: 420
 Deoxys-Attack: 405
 Suicune-Shadow*: 402
@@ -12,7 +13,6 @@ Rayquaza-Mega: 400
 Zacian-Shadow*: 400
 Lucario-Shadow*: 385
 Thundurus-Therian: 385
-Kartana: 381
 Entei-Shadow*: 380
 Leafeon: 380
 Gallade-Mega: 370
@@ -102,6 +102,7 @@ Rayquaza-Mega: 400
 Thundurus: 385
 Rapidash-Shadow*: 383
 Gengar-Mega: 380
+Xurkitree: 373
 Hoopa-Unbound: 370
 Charizard-Mega-Y: 359
 Arceus-Psychic: 350
@@ -112,7 +113,6 @@ Palkia-Shadow*: 340
 Mewtwo: 338
 Blaziken-Mega: 335
 Necrozma-Ultra: 333
-Xurkitree: 333
 Lucario-Shadow*: 330
 Meloetta-Shadow*: 330
 Salamence-Mega: 330

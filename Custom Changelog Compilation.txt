@@ -54,6 +54,7 @@ Section E
 				• Hammer Moves
 				• Increment Moves
 				• Kinetic Moves
+				• Phazing Moves
 				• Scalar Moves
 				• Shatter Moves
 				• Slicing Moves
@@ -1027,7 +1028,7 @@ Unown: 180
 Zapdos: 180
 Zoroark: 180
 ===============
-Category: 170s (67 Total)
+Category: 170s (68 Total)
 --
 Raichu: 179
 Thundurus-Therian: 179
@@ -1069,6 +1070,7 @@ Porygon2: 174
 Azelf: 173
 Entei: 173
 Suicune: 173
+Xurkitree: 173
 Lucario: 171
 Lunala: 172
 Salamence-Mega: 172
@@ -1097,12 +1099,13 @@ Mienshao: 170
 Sandslash-Alola: 170
 Victini: 170
 ===============
-Category: 160s (87 Total)
+Category: 160s (88 Total)
 --
 Charizard-Mega-X: 169
 Charizard-Mega-Y: 169
 Charizard: 169
 Genesect: 169
+Kartana: 169
 Metagross-Mega: 169
 Metagross: 169
 Porygon: 169
@@ -1187,7 +1190,7 @@ Sceptile: 160
 Sudowoodo: 160
 Togekiss: 160
 ===============
-Category: 150s (44 Total)
+Category: 150s (43 Total)
 --
 Missingno: 159
 Blastoise-Mega: 158
@@ -1211,7 +1214,6 @@ Tapu Fini: 155
 Seismitoad: 154
 Jigglypuff: 153
 Noivern: 153
-Xurkitree: 153
 Floette-Eternal: 152
 Luxio: 152
 Tsareena: 152
@@ -1304,7 +1306,7 @@ Mawile-Mega: 110
 Mawile: 110
 Solrock: 110
 ===============
-Category: 100s (21 Total)
+Category: 100s (20 Total)
 --
 Aurorus: 108
 Ditto: 108
@@ -1320,7 +1322,6 @@ Cherrim: 100
 Cloyster: 100
 Golisopod: 100
 Jellicent: 100
-Kartana: 100
 Krookodile: 100
 Meteor-Minior: 100
 Miltank: 100
@@ -6227,15 +6228,18 @@ Dynamic Punch
 Flame Switch
 Focus Blast
 Inferno Beam
+Lava Ball
 Nasty Plot
 Parting Shot
 Psychic Light
 Psychic Storm
 Psychic Wind
 Psycho Fire
+Sparkle Wave
 Stone Edge
 Sweet Retreat
 Torch Song
+Uproar
 
 Delphox   
 Hp: 75 -> 189 = +114
@@ -7738,17 +7742,23 @@ Assurance
 ------------------------------------------------------------------------
 Xurkitree   
 Hp: 83 -> 143 = +60
-Atk: 89 -> 229 = +140
+Atk: 89 -> 169 = +80
 Def: 71 -> 141 = +70
-SpA: 173 -> 333 = +160
+SpA: 173 -> 373 = +200
 SpD: 71 -> 141 = +70
-Spe: 83 -> 153 = +70
+Spe: 83 -> 173 = +90
 BST: 570 -> 1140
 Added Ability: Galvanize
 New Moves
 Agility
+Boomburst
 Hyper Voice
+Ice Beam
+Ice Twister
+Meteor Beam
+Nasty Plot
 Rising Voltage
+Thunder Spin
 ------------------------------------------------------------------------
 Celesteela   
 Hp: 97 -> 247 = +150
@@ -7777,16 +7787,19 @@ Return
 ------------------------------------------------------------------------
 Kartana   
 Hp: 59 -> 129 = +70
-Atk: 181 -> 381 = +200
-Def: 131 -> 201 = +70
-SpA: 59 -> 227 = +168
-SpD: 31 -> 101 = +70
-Spe: 109 -> 100 = -9
+Atk: 181 -> 441 = +260
+Def: 131 -> 241 = +110
+SpA: 59 -> 98 = +39
+SpD: 31 -> 61 = +30
+Spe: 109 -> 169 = +60
 BST: 570 -> 1140
 Added Ability: Sharpened Sword
-
-Unlearned
+New Moves
+Neuron Blade
 Sacred Sword
+Secret Sword
+Stone Edge
+Parting Shot
 ------------------------------------------------------------------------
 Nihilego   
 Hp: 109 -> 119 = +10
@@ -10657,7 +10670,7 @@ Strength Sap
 Sweet Retreat
 
 Shadow Eater (New Ability)
-Effect: Any opponent that attacks this Pokemon will have its Stat Changes reset, and sustain 1/4 of the Damage they inflict, if they have any positive boosts. The opponent will deal 1/2 their usual damage if they have any Positive Boosts in any Stat, including non-Attacking Stats, such as Speed. Pokemon restores 1/4 of its Max Hp upon switching out
+Effect: Any opponent that attacks this Pokemon will have its Stat Changes reset, and sustain 1/4 of the Damage they inflict, if they have any positive boosts. The opponent will deal 1/2 their usual damage if they have any Positive Boosts in any Stat, including non-Attacking Stats, such as Speed. Pokemon restores 1/3 of its Max Hp upon switching out
 --------------------------------------------------------------------------
 Dondozo    
 Hp: 150 -> 300 = +150
@@ -10683,7 +10696,7 @@ Wrap
 Yawn
 
 Sea King (New Ability)
-Effect: Pokemon ignores the opponent's Stat Changes; Pokemon's Stats cannot be lowered by the opponent; Pokemon will always resist opposing Water-Type and Flying-Type Moves if Rain is active. Pokemon restores 1/8 of its Max Hp upon switching out
+Effect: Pokemon ignores the opponent's Stat Changes; Pokemon's Stats cannot be lowered by the opponent; Pokemon will always resist opposing Water-Type and Flying-Type Moves if Rain is active. Pokemon restores 1/6 of its Max Hp upon switching out
 -----------------------------------------------------------------------------
 Mismagius   
 Hp: 60 -> 160 = +100
@@ -12121,6 +12134,22 @@ Wake-Up Slap
 Weather Ball
 Winter Breeze
 
+Phazing Moves
+Description: Moves that attempt to force the opponent off the field
+Arctic Freeze
+Cipher Flash
+Circle Throw
+Crowd Control
+Diffusion Wave
+Dragon Tail
+Fatal Flame
+Hyperspace Fury
+Psychic Whirl
+Sparkle Wave
+Spectral Wave
+Uproar
+Wave Splash
+
 Scalar Moves    
 Description: Moves with Dynamic Base Power values
 Astral Nauts
@@ -13041,7 +13070,7 @@ Crowd Control (New Move)
 Base Power: __
 Accuracy: true
 Category: Status
-Effect: Forces the Target to switch into an ally of their choice at the end of the Turn
+Effect: Pokemon gains an effect halving the Damage it receives for the rest of the Turn upon hitting the opponent, and forces the Target to switch into an ally of their choice at the end of the Turn
 Priority: 3
 PP: 4 (Static)
 Target: Normal
@@ -14218,7 +14247,7 @@ Base Power: 200
 Accuracy: 90
 Category: Physical
 Contact: Yes
-Effect: Lowers the Pokemon's Attack by 1 stage after use.
+Effect: Pokemon receives 1/8 of the Damage Inflicted in Recoil Damage
 Priority: +0
 PP: 5
 Target: Normal
@@ -14457,6 +14486,17 @@ Leaf Storm
 Base Power: 130 -> 200
 Accuracy: 90 -> 90
 - Heavy Move
+--
+Lava Ball (New Move)
+Base Power: 60
+Accuracy: 70
+Category: Special
+Contact: __
+Effect: Hits opposing Fairy-Types Super-Effectively; Usually goes first.
+Priority: +1
+PP: 5
+Target: Normal
+Type: Fire
 --
 Leech Life
 Base Power: 80 -> 100
@@ -17414,7 +17454,7 @@ Shadow Draw
 Effect: User heals 1/4 of damage inflicted on opponent upon successfully landing an attack; Pokemon reflects all increased Priority Moves when at Max Hp; Pokemon restores 1/5 of its Max Hp upon switching out
 --
 Shadow Eater   
-Effect: Any opponent that attacks this Pokemon will have its Stat Changes reset, and sustain 1/4 of the Damage they inflict, if they have any Positive Boosts in any Stat, including non-Attacking Stats, such as Speed. Pokemon restores 1/4 of its Max Hp upon switching out
+Effect: Any opponent that attacks this Pokemon will have its Stat Changes reset, and sustain 1/4 of the Damage they inflict, if they have any Positive Boosts in any Stat, including non-Attacking Stats, such as Speed. Pokemon restores 1/3 of its Max Hp upon switching out
 --
 Shadow Shield
 Additional Effect: Pokemon is prevented from lowering its own stats; Other Pokemon can still lower its stats, however.
@@ -17859,7 +17899,7 @@ Effect: Raises the Pokemon's Defense by 1 Stage, and multiplies the Base Power o
 Category: Dondozo-Exclusive Abilities
 --
 Sea King   
-Effect: Pokemon ignores the opponent's Stat Changes; Pokemon's Stats cannot be lowered by the opponent; Pokemon will always resist opposing Water-Type and Flying-Type Moves if Rain is active. Pokemon restores 1/8 of its Max Hp upon switching out
+Effect: Pokemon ignores the opponent's Stat Changes; Pokemon's Stats cannot be lowered by the opponent; Pokemon will always resist opposing Water-Type and Flying-Type Moves if Rain is active. Pokemon restores 1/6 of its Max Hp upon switching out
 ---------------------------------------------------------------------------------------
 Category: Beartic-Exclusive Abilities
 --
@@ -18290,7 +18330,7 @@ Beast Ball
 Effect: Transforms Eternatus into Eternatus-Eternamax
 --
 Dive Ball
-Effect: Raises Zacian's Speed by 1 stage. Single Use.
+Effect: Raises Zacian's Speed by 1 stage. Speed is lowered by 1 stage after successfully causing two opposing Pokemon to faint. Single Use.
 --
 Dusk Ball
 Effect: Transforms Mimikyu into Mimikyu-Busted

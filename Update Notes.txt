@@ -1,5 +1,79 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v2.1.1
+Abilities
+- Sea King
+	- Health Restored upon Switching Out: 1/8 Max Hp -> 1/6 Max Hp
+- Shadow Eater
+	- Health Restored upon Switching Out: 1/4 Max Hp -> 1/3 Max Hp
+
+Items
+- Dive Ball
+	- Penalty: Pokemon's Speed is lowered by 1 stage upon successfully causing two opposing Pokemon to faint
+
+
+Moves
+- Crowd Control
+	- Additional Effect: Upon successfully hitting the opponent, the User gains an effect that reduces the Damage of opposing Moves by half for the rest of the Turn
+		- Example
+			- During Turn
+				- (1) User: Uses Crowd Control
+				- (2) User: Now receives halved Damage from opposing Moves
+				- (3) Target: Uses Move (e.g. A Move that would normally deal 100% now deals 50%)
+			- End of Turn
+				- (1) User: Halved Damage Effect Ends
+				- (2) Target: Switches into an Ally of Choice
+	- Miscellaneous
+		- This move is now labeled as a Phazing Move, and can interact with Berry Sweet
+			- Against opposing Pokemon, however, this Move is treated as though the opponent is voluntarily switching, and as such, cannot be blocked by Items such as Focus Band--or Anti-Force Switch Abilities, which target the Effect of Phazing-Moves rather than the Moves, themselves.
+- Hyper Rush
+	- Penalty: Drops Pokemon's Attack by 1 stage -> Inflicts 1/8 in Recoil Damage
+- Lava Ball
+	- Implemented
+	- Base Power: 60
+	- Accuracy: 70
+	- Category: Special
+	- Contact: __
+	- Effect: Hits opposing Fairy-Types Super-Effectively; Usually goes first
+	- Priority: 1
+	- PP: 5
+	- Type: Fire
+	- Users: Braixen
+- Neuron Blade
+	- *Now counts as a Slicing Move
+
+Pokemon
+- Braixen
+	- Learnset Additions
+		- Sparkle Wave
+		- Uproar
+- Kartana
+ 	- Base Stats
+		- Atk: 381 -> 441
+		- Def: 201 -> 241
+		- SpA: 227 -> 98
+		- SpD: 101 -> 61
+		- Spe: 100 -> 169
+	- Learnset Additions
+		- Neuron Blade
+		- Sacred Sword
+		- Secret Sword
+		- Stone Edge
+		- Parting Shot
+- Xurkitree
+	- Base Stats
+		- Atk: 229 -> 169
+		- SpA: 333 -> 373
+		- Spe: 153 -> 173
+	- Learnset Additions
+		- Boomburst
+		- Ice Beam
+		- Ice Twister
+		- Nasty Plot
+		- Thunder Spin
+
+
+
 Pokemon Memories v2.1.0
 General
 - Animations
