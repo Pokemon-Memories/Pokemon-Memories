@@ -21,7 +21,7 @@ Section C
 	• Viability Rankings
 	• History of the Format
 
-(226 Total)
+(227 Total)
 						      Section A    
 						    Standard Ubers
 						      Highlights
@@ -83,73 +83,71 @@ Disclaimer: Any Pokemon from the B+ Tier downward are Tiered according to the Vi
 
 Current Tiered Shadow Pokemon: Azumarill-Shadow, Darkrai-Shadow, Dialga-Shadow, Entei-Shadow, Lucario-Shadow, Meloetta-Shadow, Mewtwo-Shadow, Palkia-Shadow, Rapidash-Shadow, Regigigas-Shadow, Stakataka-Shadow, Suicune-Shadow, Sunflora-Shadow, Victreebel-Shadow, Zacian-Shadow, Zekrom-Shadow
 
-Banlist: Arceus-Origin, Eternatus-Eternamax, Groudon-Primal, Kyogre-Primal, Mewtwo-Mega-X, Mewtwo-Mega-Y, Rayquaza-Mega, Stakataka-Shadow*
+Banlist: Arceus-Origin, Eternatus-Eternamax, Groudon-Primal, Kyogre-Primal, Mewtwo-Mega-X, Mewtwo-Mega-Y, Mewtwo-Shadow*, Rayquaza-Mega, Stakataka-Shadow*
 
 Viability Rankings
 
-S-Tier (4 Total)
-
-S+
-Mewtwo
-Zacian-Crowned
+S-Tier (5 Total)
 
 S
+Mewtwo
 Arceus-???
+Phione
 
 S-
-Suicune-Shadow*
+Victreebel
+Zacian-Crowned (A-; Dive Ball)
 
 A-Tier (24 Total)
 The Pokemon in this Tier and the following Tiers are listed in Alphabetical Order
 
 A+
-Arceus-Dark
-Darkrai
+Calyrex-Shadow
+Giratina
 Greninja-Ash
-Kyurem-White
-Lilligant (A-; Grass Memory)
-Melmetal
 Meloetta-Shadow*
 Moltres (B; Fire Memory)
-Necrozma-Ultra
-Trevenant
-
-A
-Calyrex-Shadow
-Deoxys-Speed
-Groudon
-Lugia
-Mewtwo-Shadow*
-Phione (A-; Water Memory)
-Regigigas-Shadow*
+Palkia
+Suicune-Shadow*
 Zacian-Shadow*
 
+A
+Arceus-Dark
+Groudon
+Kyurem-White
+Lilligant (A-; Grass Memory)
+Lugia
+Melmetal
+Necrozma-Ultra
+Rayquaza (B-; Dubious Disc)
+Regigigas-Shadow*
+Trevenant
+
 A-
-Darkrai-Shadow*
+Darkrai
+Dialga
 Eternatus (B-; Dragon Memory + SpA-Positive Nature)
 Kyogre
 Mew
 Victreebel-Shadow*
-Zekrom-Shadow*
 
 
-B-Tier (70 Total)
+B-Tier (66 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
 Arcanine-Hisui
-Dialga
+Darkrai-Shadow*
 Dialga-Shadow*
 Dondozo
-Empoleon
 Infernape
 Klinklang
 Lilligant-Hisui
 Palkia-Shadow*
 Porygon-Z
 Rapidash-Shadow*
-Tapu Koko
 Tornadus
+Zekrom-Shadow*
 
 B
 Arceus-Fire
@@ -158,38 +156,39 @@ Arceus-Ghost
 Articuno
 Cherrim-Sunshine
 Deoxys
+Deoxys-Speed
 Entei-Shadow*
 Gallade-Mega
 Gengar-Mega
 Gliscor
+Lucario-Mega
 Meloetta
 Meowscarada
 Mismagius
 Sunflora-Shadow*
 Vaporeon
-Victreebel
-Xerneas
 Zamazenta-Crowned
 Zygarde 10%
 
 B-
-Arceus
+Arceus*
 Arceus-Fairy
 Arceus-Ground
 Arceus-Water
 Azumarill
 Azumarill-Shadow*
 Bellsprout
+Braixen
 Cobalion
 Cryogonal
 Delphox
 Deoxys-Attack
+Empoleon
 Golurk
 Keldeo-Resolute
 Kyurem-Black
 Landorus-Therian
-Lopunny-Mega
-Lucario-Mega
+Lopunny-Meg
 Lucario-Shadow*
 Lunala
 Mamoswine
@@ -197,7 +196,6 @@ Necrozma-Dusk-Mane
 Ponyta-Galar
 Raikou
 Rapidash-Galar
-Rayquaza
 Regigigas
 Reshiram
 Rotom-Fan
@@ -207,13 +205,10 @@ Spectrier
 Urshifu-R
 Urshifu-S
 Volcanion
-Yveltal
-Zekrom
-Zygarde
-Zygarde-Complete
+Xerneas
 
 
-C-Tier (95 Total)
+C-Tier (98 Total)
 
 C+
 Amoonguss
@@ -247,7 +242,6 @@ Mimikyu-Busted
 Minun
 Muk-Alola
 Necrozma-Dawn-Wings
-Palkia
 Pheromosa
 Pikachu-Original
 Rapidash
@@ -264,6 +258,7 @@ Suicune
 Solgaleo
 Swampert
 Tapu Fini
+Tapu Koko
 Thundurus
 Thundurus-Therian
 Torterra
@@ -271,8 +266,12 @@ Toxapex
 Victini
 Virizion
 Weavile
+Yveltal
 Zamazenta
+Zekrom
 Zoroark-Hisui
+Zygarde
+Zygarde-Complete
 
 C
 Abomasnow
@@ -288,7 +287,6 @@ Electivire
 Emolga
 Entei
 Excadrill
-Giratina
 Giratina-Origin
 Glaceon
 Haxorus
@@ -1158,21 +1156,38 @@ Purpose: The Laboratory exists to document certain EV, Moveset, and Ability Sets
 --------------------------
 Arceus
 ------------------------------------------------------
+Mewtwo
+--
 Surviving Mewtwo's Stored Power
 Optimal EVs
 EVs: 4 HP / 88 SpD
 Raw Stats: 542 Hp / 478 SpD
 Explanation: With 4 HP EVs, and 88 SpD EVs, Arceus is guaranteed to survive at least one Adrenaline Orb Stored Power from a Special-Neutral Nature Mewtwo
 Example: 252 SpA Adrenaline Orb Mewtwo Stored Power vs. 4 HP / 88 SpD Arceus: 459-541 (84.6 - 99.8%) -- guaranteed 2HKO
+---------------------------
+Arceus-Enigma
 --
-Arceus-???
+Mewtwo
+--
 Maximizing the chances to survive Critical Striker Adrenaline Orb Mewtwo's Stored Power
 EVs: 124 HP / 132 SpD
 Raw Stats: 772 Hp / 489 SpD
 Explanation: Although Arceus could theoretically invest more into its Stats to guarantee that it survives, Mysteryceus generally wants to run 252 EVs and a Speed Positive Nature in order to ensure it can outspeed the Metagame and set up safely. Notably, the Mewtwo is not running full investment into its Offenses. In this example, Mewtwo is running the 40 HP / 32 Def set, which it uses to increase its bulk, and avoid certain OHKOs from Pokemon such as Speed Blitzer Zacian-Crowned. With Full Investment into its offenses, Mewtwo's chances increase, but remain firmly below 25%
 Examples
-	- Critical Striker 184 SpA Adrenaline Orb Mewtwo Stored Power vs. 124 HP / 132 SpD Arceus-???: 658-775 (85.2 - 100.3%) -- 6.3% chance to OHKO
-	- Critical Striker 252 SpA Adrenaline Orb Mewtwo Stored Power vs. 124 HP / 132 SpD Arceus-???: 672-792 (87 - 102.5%) -- 18.8% chance to OHKO
+	- Critical Striker 184 SpA Adrenaline Orb Mewtwo Stored Power vs. 124 HP / 132 SpD Arceus-Enigma: 658-775 (85.2 - 100.3%) -- 6.3% chance to OHKO
+	- Critical Striker 252 SpA Adrenaline Orb Mewtwo Stored Power vs. 124 HP / 132 SpD Arceus-Enigma: 672-792 (87 - 102.5%) -- 18.8% chance to OHKO
+
+
+Guaranteed Survival EVs: 164 HP / 252 SpD with SpD Boosting Nature
+Raw Stats: 682 Hp / 570 SpD
+Example: Critical Striker 252 SpA Adrenaline Orb Mewtwo Stored Power vs. 164 HP / 252+ SpD Arceus-Enigma: 577-681 (84.6 - 99.8%) -- guaranteed 2HKO
+-----------
+Zacian-Crowned
+--
+Surviving Dive Ball +1 Adamant Zacian-Crowned's Hyper Rush
+EVs: 20 HP / 84 Def
+Raw Stats: 646 Hp / 477 Def
+Example: +1 252+ Atk Zacian-Crowned Hyper Rush vs. 20 HP / 84 Def Arceus-Enigma: 547-645 (84.6 - 99.8%) -- guaranteed 2HKO
 =====================================================
 Calyrex-Shadow
 ---------------------------------------------

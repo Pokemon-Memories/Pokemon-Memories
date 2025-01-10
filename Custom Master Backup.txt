@@ -1,15 +1,267 @@
-=== [gen7storage] Untitled 248 ===
+=== [gen7storage] Theorymon X (Mewtwo-X, Regigigas-Shadow, Moltres-Fire) ===
 
-Groudon @ assistdrive  
-Ability: Corrosion  
+Mewtwo-Mega-X @ Mewtwonite X  
+Ability: psychoforce  
+Shiny: Yes  
 Happiness: 251  
-EVs: 252 HP / 252 Atk / 4 Def  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- vanishingstrike  
+- receivingstrike  
+- Poltergeist  
+- neuronblade  
+
+Arceus @ enigmaplate  
+Ability: Multitype  
+EVs: 20 HP / 152 Atk / 84 Def / 252 Spe  
+Jolly Nature  
+- dimensionbreak  
+- mysteryspeed  
+- heavenlymist  
+- cipherflash  
+
+Trevenant (M) @ Sweet Apple  
+Ability: forestsedge  
+Happiness: 251  
+EVs: 252 HP / 252 Def / 4 Spe  
+Bold Nature  
+- housecleaning  
+- shadowflame  
+- Aromatic Mist  
+- sweetretreat  
+
+Phione @ Wave Incense  
+Ability: Drizzle  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Surf  
+- housecleaning  
+- bubblespin  
+- wavesplash  
+
+Regigigas @ Strange Ball  
+Ability: Guts  
+Shiny: Yes  
+EVs: 252 Atk / 252 Spe  
 Adamant Nature  
-IVs: 30 Spe  
-- Precipice Blades  
-- brambleblast  
-- Celebrate  
-- royalretreat  
+- Giga Impact  
+- Storm Throw  
+- shadowburst  
+- Swords Dance  
+
+Moltres @ Fire Memory  
+Ability: Drought  
+Shiny: Yes  
+Happiness: 250  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Fire Blast  
+- Hurricane  
+- toasterbomb  
+- flameswitch  
+
+
+=== [gen7storage] Theorymon Y (Mewtwo-Y, Meloetta-Shadow, Phione-Water) ===
+
+Mewtwo-Mega-Y @ Mewtwonite Y  
+Ability: psychicassault  
+Shiny: Yes  
+Happiness: 251  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- pressurewave  
+- prismstrike  
+- pixierun  
+- psychodarts  
+
+Zacian-Crowned @ Dive Ball  
+Ability: Intrepid Sword  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 252 Atk / 4 Spe  
+Adamant Nature  
+- hyperrush  
+- Secret Sword  
+- Ice Spinner  
+- Swords Dance  
+
+Arceus @ enigmaplate  
+Ability: Multitype  
+EVs: 20 HP / 152 Atk / 84 Def / 252 Spe  
+Jolly Nature  
+- dimensionbreak  
+- mysteryspeed  
+- heavenlymist  
+- cipherflash  
+
+Phione @ Water Memory  
+Ability: Drizzle  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Surf  
+- housecleaning  
+- bubblespin  
+- wavesplash  
+
+Trevenant (M) @ Sweet Apple  
+Ability: forestsedge  
+Happiness: 251  
+EVs: 252 HP / 252 Def / 4 Spe  
+Bold Nature  
+- housecleaning  
+- shadowflame  
+- Aromatic Mist  
+- sweetretreat  
+
+Meloetta @ Strange Ball  
+Ability: Serene Grace  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Hasty Nature  
+- decibelburst  
+- Storm Throw  
+- Extreme Speed  
+- slushswitch  
+
+
+=== [gen7storage] Ghost Rider (Calyrex-Shadow-Ghost) ===
+
+Calyrex-Shadow @ Ghost Memory  
+Ability: Power Spot  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Astral Barrage  
+- psychodrain  
+- Focus Blast  
+- Parting Shot  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+Happiness: 250  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Hasty Nature  
+- Stored Power  
+- infernobeam  
+- pincerpress  
+- neuronblade  
+
+Skarmory (M) @ Choice Scarf  
+Ability: windstreamer  
+Shiny: Yes  
+EVs: 32 HP / 252 SpD / 224 Spe  
+Jolly Nature  
+- Brave Bird  
+- Tailwind  
+- Whirlwind  
+- U-turn  
+
+Arceus @ enigmaplate  
+Ability: Multitype  
+Shiny: Yes  
+EVs: 20 HP / 152 Atk / 84 Def / 252 Spe  
+Jolly Nature  
+- dimensionbreak  
+- mysteryspeed  
+- heavenlymist  
+- cipherflash  
+
+Phione @ Wave Incense  
+Ability: Drizzle  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Surf  
+- housecleaning  
+- bubblespin  
+- wavesplash  
+
+Mew @ Sweet Apple  
+Ability: progenitor  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Calm Nature  
+- wavesplash  
+- Alluring Voice  
+- heavenlymist  
+- healingwing  
+
+
+=== [gen7storage] Psychic Wind ===
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+Happiness: 250  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Hasty Nature  
+- Stored Power  
+- pressurewave  
+- shadowflame  
+- psychicwind  
+
+
+=== [gen7storage] Darkness (Meloetta-Shadow, Mewtwo-Dark) ===
+
+Mewtwo @ Dark Memory  
+Ability: psychicpower  
+Shiny: Yes  
+Happiness: 250  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Lash Out  
+- Low Kick  
+- psychicfury  
+- Uproar  
+
+Arceus @ enigmaplate  
+Ability: Multitype  
+Shiny: Yes  
+EVs: 20 HP / 152 Atk / 84 Def / 252 Spe  
+Jolly Nature  
+- dimensionbreak  
+- mysteryspeed  
+- heavenlymist  
+- cipherflash  
+
+Trevenant (M) @ Sweet Apple  
+Ability: forestsedge  
+Happiness: 251  
+EVs: 252 HP / 252 Def / 4 Spe  
+Bold Nature  
+- housecleaning  
+- shadowflame  
+- Aromatic Mist  
+- sweetretreat  
+
+Meloetta @ Strange Ball  
+Ability: Serene Grace  
+Shiny: Yes  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- decibelburst  
+- Storm Throw  
+- crowdcontrol  
+- Extreme Speed  
+
+Braixen @ Flame Orb  
+Ability: magicglow  
+Shiny: Yes  
+EVs: 56 HP / 60 Def / 140 SpA / 252 Spe  
+Timid Nature  
+- infernobeam  
+- lavaball  
+- sparklewave  
+- Uproar  
+
+Zacian-Crowned @ Dive Ball  
+Ability: Intrepid Sword  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 252 Atk / 4 Spe  
+Adamant Nature  
+- hyperrush  
+- Secret Sword  
+- Ice Spinner  
+- Swords Dance  
 
 
 === [gen7storage] Psychic Memory Mewtwo is Still too Strong (Mewtwo, Psychic) ===
@@ -29,7 +281,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - dimensionbreak  
 - mysteryspeed  
-- Heavenly Mist  
+- heavenlymist  
 - cipherflash  
 
 Phione @ Wave Incense  
@@ -123,7 +375,7 @@ EVs: 252 HP / 4 SpA / 252 Spe
 Timid Nature  
 - Judgment  
 - Tailwind  
-- Heavenly Mist  
+- heavenlymist  
 - cipherflash  
 
 Mew @ Heavy-Duty Boots  
@@ -133,7 +385,7 @@ EVs: 252 HP / 144 SpD / 112 Spe
 Bold Nature  
 - wavesplash  
 - spectralwave  
-- Heavenly Mist  
+- heavenlymist  
 - healingwing  
 
 
@@ -166,7 +418,7 @@ EVs: 4 HP / 252 SpA / 252 Spe
 Timid Nature  
 - Judgment  
 - Ember  
-- Heavenly Mist  
+- heavenlymist  
 - cipherflash  
 
 Dondozo @ Steel Memory  
@@ -217,7 +469,7 @@ EVs: 4 HP / 252 SpA / 252 Spe
 Timid Nature  
 - Judgment  
 - Ember  
-- Heavenly Mist  
+- heavenlymist  
 - cipherflash  
 
 Trevenant (M) @ Lax Incense  
@@ -310,7 +562,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Adamant Nature  
 - dimensionbreak  
 - mysteryspeed  
-- Heavenly Mist  
+- heavenlymist  
 - cipherflash  
 
 Kyogre-Primal @ Blue Orb  
@@ -382,7 +634,7 @@ EVs: 252 HP / 4 SpA / 252 SpD
 Calm Nature  
 - Toxic Spikes  
 - psychofire  
-- Heavenly Mist  
+- heavenlymist  
 - healingwing  
 
 
@@ -396,7 +648,7 @@ Calm Nature
 IVs: 30 HP  
 - calamitywing  
 - Thunder Wave  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Mewtwo @ Twisted Spoon  
@@ -434,7 +686,7 @@ Ability: Multitype
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - dimensionbreak  
-- Heavenly Mist  
+- heavenlymist  
 - divinecall  
 - cipherflash  
 
@@ -497,7 +749,7 @@ EVs: 252 HP / 252 Spe
 Timid Nature  
 - Judgment  
 - Meteor Beam  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Meloetta @ Protector  
@@ -573,7 +825,7 @@ EVs: 252 HP / 252 Spe
 Timid Nature  
 - Judgment  
 - Meteor Beam  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 
@@ -615,7 +867,7 @@ EVs: 252 HP / 252 Spe
 Timid Nature  
 - Judgment  
 - Meteor Beam  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Suicune @ Strange Ball  
@@ -637,7 +889,7 @@ Calm Nature
 - healingwing  
 - calamitywing  
 - Thunder Wave  
-- Heavenly Mist  
+- heavenlymist  
 
 
 === [gen6anythinggoes] Terrestrial (EX-Groudon, Def; Stakataka-Shadow; Yveltal-Dark) ===
@@ -836,7 +1088,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Adamant Nature  
 - dimensionbreak  
 - mysteryspeed  
-- Heavenly Mist  
+- heavenlymist  
 - cipherflash  
 
 Mewtwo-Mega-Y @ Mewtwonite Y  
@@ -1008,7 +1260,7 @@ Bold Nature
 IVs: 30 HP  
 - calamitywing  
 - Thunder Wave  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 
@@ -1029,7 +1281,7 @@ EVs: 4 SpA / 252 SpD / 252 Spe
 Timid Nature  
 - Judgment  
 - Venoshock  
-- Heavenly Mist  
+- heavenlymist  
 - Uproar  
 
 Suicune @ Strange Ball  
@@ -1069,7 +1321,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Jungle Healing  
 - diffusionwave  
-- Heavenly Mist  
+- heavenlymist  
 - healingwing  
 
 
@@ -1102,7 +1354,7 @@ EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
 Bold Nature  
 - Core Enforcer  
 - Dragon Breath  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Mewtwo-Mega-Y @ Psychic Memory  
@@ -1122,7 +1374,7 @@ EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
 Serious Nature  
 - shattershade  
 - Photon Geyser  
-- Heavenly Mist  
+- heavenlymist  
 - Shift Gear  
 
 Eternatus-Eternamax (M) @ Dubious Disc  
@@ -1132,7 +1384,7 @@ EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
 Bold Nature  
 - Core Enforcer  
 - Dragon Breath  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 
@@ -1164,7 +1416,7 @@ EVs: 252 HP / 4 SpA / 252 SpD
 Calm Nature  
 - darkestnightfall  
 - Toxic  
-- Heavenly Mist  
+- heavenlymist  
 - Uproar  
 
 Lugia @ White Herb  
@@ -1174,7 +1426,7 @@ EVs: 104 HP / 252 SpD / 152 Spe
 Calm Nature  
 - royalturbulence  
 - Thunder Wave  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Cryogonal @ Snowball  
@@ -1278,7 +1530,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - infinitevelocity  
 - sacredwater  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Lilligant @ Flower Sweet  
@@ -1341,7 +1593,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - infinitevelocity  
 - sacredwater  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Lilligant @ Flower Sweet  
@@ -1404,7 +1656,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - infinitevelocity  
 - sacredwater  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Lilligant @ Flower Sweet  
@@ -1560,7 +1812,7 @@ EVs: 252 HP / 4 SpA / 252 SpD
 Calm Nature  
 - darkestnightfall  
 - Toxic  
-- Heavenly Mist  
+- heavenlymist  
 - Uproar  
 
 Phione @ Wave Incense  
@@ -1668,7 +1920,7 @@ Bold Nature
 IVs: 30 Def  
 - calamitywing  
 - Reflect  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Mewtwo-Mega-Y @ Mewtwonite Y  
@@ -1697,7 +1949,7 @@ EVs: 4 HP / 252 SpA / 252 Spe
 Timid Nature  
 - Ice Hammer  
 - royalturbulence  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 
@@ -1722,7 +1974,7 @@ Sassy Nature
 IVs: 0 Spe  
 - Core Enforcer  
 - diffusionwave  
-- Heavenly Mist  
+- heavenlymist  
 - healingwing  
 
 Arceus-Water @ Shed Shell  
@@ -1732,7 +1984,7 @@ EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
 Jolly Nature  
 - sacredwater  
 - Dragon Breath  
-- Heavenly Mist  
+- heavenlymist  
 - waveturn  
 
 Giratina (M) @ Chipped Pot  
@@ -1744,7 +1996,7 @@ Sassy Nature
 IVs: 0 Spe  
 - diffusionwave  
 - Dragon Breath  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Gengar-Mega @ Choice Scarf  
@@ -1765,7 +2017,7 @@ EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
 Adamant Nature  
 - Gear Grind  
 - crowdcontrol  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 
@@ -2018,7 +2270,7 @@ Shiny: Yes
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
 - darkestnightfall  
-- Heavenly Mist  
+- heavenlymist  
 - Tailwind  
 - Uproar  
 
@@ -2085,7 +2337,7 @@ Shiny: Yes
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
 - darkestnightfall  
-- Heavenly Mist  
+- heavenlymist  
 - Tailwind  
 - Uproar  
 
@@ -2283,7 +2535,7 @@ EVs: 252 HP / 252 Atk / 4 Spe
 Adamant Nature  
 - sacredwater  
 - Grass Knot  
-- Heavenly Mist  
+- heavenlymist  
 - sacredspeed  
 
 Rayquaza @ Lure Ball  
@@ -2313,7 +2565,7 @@ Happiness: 251
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - diffusionwave  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 - Heal Bell  
 
@@ -2390,7 +2642,7 @@ Calm Nature
 - calamitywing  
 - Gunk Shot  
 - royalretreat  
-- Heavenly Mist  
+- heavenlymist  
 
 Zacian-Crowned @ Rose Incense  
 Ability: Intrepid Sword  
@@ -2412,7 +2664,7 @@ EVs: 252 HP / 252 Atk / 4 Spe
 Adamant Nature  
 - sacredwater  
 - Grass Knot  
-- Heavenly Mist  
+- heavenlymist  
 - sacredspeed  
 
 Rayquaza @ Lure Ball  
@@ -2442,7 +2694,7 @@ Happiness: 251
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - diffusionwave  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 - Heal Bell  
 
@@ -2499,7 +2751,7 @@ Sassy Nature
 IVs: 0 Spe  
 - diffusionwave  
 - Dragon Breath  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Audino-Mega (M) @ Bright Powder  
@@ -2510,7 +2762,7 @@ EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD
 Calm Nature  
 - Dragon Breath  
 - crowdcontrol  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Gallade-Mega (M) @ Choice Band  
@@ -2554,7 +2806,7 @@ EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
 Jolly Nature  
 - Gear Grind  
 - mysterybind  
-- Heavenly Mist  
+- heavenlymist  
 - Heal Bell  
 
 Audino-Mega (M) @ Bright Powder  
@@ -2565,7 +2817,7 @@ EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD
 Calm Nature  
 - Dragon Breath  
 - crowdcontrol  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Zygarde-Complete (M) @ Dubious Disc  
@@ -2577,7 +2829,7 @@ Sassy Nature
 IVs: 0 Spe  
 - Core Enforcer  
 - diffusionwave  
-- Heavenly Mist  
+- heavenlymist  
 - healingwing  
 
 Mewtwo @ Grass Memory  
@@ -2611,7 +2863,7 @@ EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
 Jolly Nature  
 - sacredwater  
 - Dragon Breath  
-- Heavenly Mist  
+- heavenlymist  
 - waveturn  
 
 Gallade-Mega (M) @ Fighting Memory  
@@ -2632,7 +2884,7 @@ EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD
 Calm Nature  
 - Dragon Breath  
 - crowdcontrol  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Zygarde-Complete (M) @ Dubious Disc  
@@ -2644,7 +2896,7 @@ Sassy Nature
 IVs: 0 Spe  
 - Core Enforcer  
 - Dragon Breath  
-- Heavenly Mist  
+- heavenlymist  
 - healingwing  
 
 Gengar-Mega @ Choice Scarf  
@@ -2698,7 +2950,7 @@ EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD
 Calm Nature  
 - Dragon Breath  
 - crowdcontrol  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Zygarde-Complete (M) @ Dubious Disc  
@@ -2710,7 +2962,7 @@ Sassy Nature
 IVs: 0 Spe  
 - Core Enforcer  
 - Dragon Breath  
-- Heavenly Mist  
+- heavenlymist  
 - healingwing  
 
 Giratina (M) @ Chipped Pot  
@@ -2722,7 +2974,7 @@ Sassy Nature
 IVs: 0 Spe  
 - diffusionwave  
 - Dragon Breath  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Arceus-Electric (M) @ Dark Memory  
@@ -2778,7 +3030,7 @@ Sassy Nature
 IVs: 0 Spe  
 - Core Enforcer  
 - Dragon Breath  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Audino-Mega (M) @ Bright Powder  
@@ -2789,7 +3041,7 @@ EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD
 Calm Nature  
 - Dragon Breath  
 - diffusionwave  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Arceus-Grass @ Lax Incense  
@@ -2800,7 +3052,7 @@ EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
 Adamant Nature  
 - Petal Blizzard  
 - diffusionwave  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 
@@ -2846,7 +3098,7 @@ Sassy Nature
 IVs: 0 Spe  
 - Core Enforcer  
 - Dragon Breath  
-- Heavenly Mist  
+- heavenlymist  
 - healingwing  
 
 Audino-Mega (M) @ Bright Powder  
@@ -2857,7 +3109,7 @@ EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD
 Calm Nature  
 - Dragon Breath  
 - crowdcontrol  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Arceus-Grass @ Grass Memory  
@@ -2868,7 +3120,7 @@ EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
 Adamant Nature  
 - Petal Blizzard  
 - diffusionwave  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 
@@ -2891,7 +3143,7 @@ Shiny: Yes
 EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
 Naive Nature  
 - Flower Trick  
-- Heavenly Mist  
+- heavenlymist  
 - Low Sweep  
 - Uproar  
 
@@ -2923,7 +3175,7 @@ Relaxed Nature
 IVs: 0 Spe  
 - Core Enforcer  
 - diffusionwave  
-- Heavenly Mist  
+- heavenlymist  
 - healingwing  
 
 Arceus-Grass @ Lax Incense  
@@ -2934,7 +3186,7 @@ EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
 Calm Nature  
 - Grass Knot  
 - diffusionwave  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 
@@ -2959,7 +3211,7 @@ Relaxed Nature
 IVs: 0 Spe  
 - Core Enforcer  
 - Dragon Breath  
-- Heavenly Mist  
+- heavenlymist  
 - healingwing  
 
 Heatran (M) @ Bitter Berry  
@@ -3001,7 +3253,7 @@ EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD
 Calm Nature  
 - Dragon Breath  
 - crowdcontrol  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 
@@ -3058,7 +3310,7 @@ EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
 Calm Nature  
 - Grass Knot  
 - diffusionwave  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Arceus-Electric (M) @ Dark Memory  
@@ -3105,7 +3357,7 @@ Bold Nature
 - diffusionwave  
 - psychofire  
 - royalretreat  
-- Heavenly Mist  
+- heavenlymist  
 
 Kyurem-White @ Ice Memory  
 Ability: dragonpower  
@@ -3192,7 +3444,7 @@ Calm Nature
 - calamitywing  
 - psychofire  
 - royalretreat  
-- Heavenly Mist  
+- heavenlymist  
 
 Victreebel (M) @ Lax Incense  
 Ability: hopesprout  
@@ -3358,7 +3610,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - memoryblast  
 - Extreme Speed  
-- Heavenly Mist  
+- heavenlymist  
 - heavendance  
 
 Mantine @ White Herb  
@@ -3379,7 +3631,7 @@ EVs: 252 HP / 4 Atk / 252 Spe
 Jolly Nature  
 - infinitevelocity  
 - Rock Wrecker  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Lilligant-Hisui @ Choice Scarf  
@@ -3514,7 +3766,7 @@ Relaxed Nature
 IVs: 0 Spe  
 - Toxic Spikes  
 - diffusionwave  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Arceus-Grass @ Lax Incense  
@@ -3525,7 +3777,7 @@ EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
 Calm Nature  
 - Grass Knot  
 - diffusionwave  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 
@@ -3560,7 +3812,7 @@ Sassy Nature
 IVs: 0 Spe  
 - diffusionwave  
 - Dragon Breath  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Audino-Mega (M) @ Bright Powder  
@@ -3571,7 +3823,7 @@ EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD
 Calm Nature  
 - Dragon Breath  
 - crowdcontrol  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Zygarde-Complete (M) @ Dubious Disc  
@@ -3627,7 +3879,7 @@ EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
 Calm Nature  
 - Grass Knot  
 - diffusionwave  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Zygarde-Complete (M) @ Dubious Disc  
@@ -3638,7 +3890,7 @@ Sassy Nature
 IVs: 0 Spe  
 - Core Enforcer  
 - diffusionwave  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Arceus-Ghost @ Choice Scarf  
@@ -3659,7 +3911,7 @@ EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
 Careful Nature  
 - Dragon Breath  
 - diffusionwave  
-- Heavenly Mist  
+- heavenlymist  
 - slushswitch  
 
 
@@ -3693,7 +3945,7 @@ Relaxed Nature
 IVs: 0 Spe  
 - Core Enforcer  
 - diffusionwave  
-- Heavenly Mist  
+- heavenlymist  
 - healingwing  
 
 Arceus-Grass @ Lax Incense  
@@ -3704,7 +3956,7 @@ EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
 Calm Nature  
 - Grass Knot  
 - diffusionwave  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Kyogre-Primal @ Assault Vest  
@@ -3779,7 +4031,7 @@ EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD
 Calm Nature  
 - crowdcontrol  
 - Toxic Spikes  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Zygarde-Complete (M) @ Dubious Disc  
@@ -3791,7 +4043,7 @@ Sassy Nature
 IVs: 0 Spe  
 - Core Enforcer  
 - Dragon Breath  
-- Heavenly Mist  
+- heavenlymist  
 - healingwing  
 
 
@@ -3834,7 +4086,7 @@ EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
 Mild Nature  
 - Oblivion Wing  
 - essencecrusher  
-- Heavenly Mist  
+- heavenlymist  
 - Nasty Plot  
 
 Deoxys-Attack (M) @ assistdrive  
@@ -3857,7 +4109,7 @@ Sassy Nature
 IVs: 0 Spe  
 - Core Enforcer  
 - Dragon Breath  
-- Heavenly Mist  
+- heavenlymist  
 - healingwing  
 
 
@@ -3900,7 +4152,7 @@ EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
 Careful Nature  
 - Sacred Fire  
 - diffusionwave  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Eternatus-Eternamax @ Black Sludge  
@@ -3909,7 +4161,7 @@ Happiness: 251
 EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
 Bold Nature  
 - calamitywing  
-- Heavenly Mist  
+- heavenlymist  
 - shadowsteal  
 - royalretreat  
 
@@ -3920,7 +4172,7 @@ EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
 Bold Nature  
 IVs: 30 Atk  
 - calamitywing  
-- Heavenly Mist  
+- heavenlymist  
 - Lunar Dance  
 - healingwing  
 
@@ -7146,7 +7398,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - infinitevelocity  
 - Rock Wrecker  
-- Heavenly Mist  
+- heavenlymist  
 - divinecall  
 
 Zekrom @ Light Ball  
@@ -7198,7 +7450,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - infinitevelocity  
 - Rock Wrecker  
-- Heavenly Mist  
+- heavenlymist  
 - divinecall  
 
 Lilligant-Hisui @ Choice Scarf  
@@ -7243,7 +7495,7 @@ Jolly Nature
 - Volt Tackle  
 - glacialstrike  
 - lightningstrike  
-- Heavenly Mist  
+- heavenlymist  
 
 Mantine @ White Herb  
 Ability: Water Veil  
@@ -7346,7 +7598,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - infinitevelocity  
 - Rock Wrecker  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Mantine @ White Herb  
@@ -7381,7 +7633,7 @@ Calm Nature
 - calamitywing  
 - Psycho Boost  
 - royalretreat  
-- Heavenly Mist  
+- heavenlymist  
 
 Sandslash-Alola (M) @ Snowball  
 Ability: belowfreezing  
@@ -7401,7 +7653,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - sacredwater  
 - glacialstrike  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Calyrex-Shadow @ Choice Scarf  
@@ -7466,7 +7718,7 @@ Bold Nature
 - Grass Knot  
 - healingwing  
 - Sludge Bomb  
-- Heavenly Mist  
+- heavenlymist  
 
 Arceus @ Passho Berry  
 Ability: omnipotent  
@@ -7475,7 +7727,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - sacredwater  
 - glacialstrike  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Calyrex-Shadow @ Choice Scarf  
@@ -7517,7 +7769,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Multi-Attack  
 - infinitevelocity  
-- Heavenly Mist  
+- heavenlymist  
 - divinecall  
 
 Mew @ Leftovers  
@@ -7529,7 +7781,7 @@ Calm Nature
 - calamitywing  
 - Lunar Dance  
 - royalretreat  
-- Heavenly Mist  
+- heavenlymist  
 
 Lilligant-Hisui @ Choice Scarf  
 Ability: evergreen  
@@ -7602,7 +7854,7 @@ Happiness: 251
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - diffusionwave  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 - calamitywing  
 
@@ -7638,7 +7890,7 @@ Bold Nature
 - diffusionwave  
 - psychofire  
 - royalretreat  
-- Heavenly Mist  
+- heavenlymist  
 
 Arceus @ Chilan Berry  
 Ability: omnipotent  
@@ -7647,7 +7899,7 @@ EVs: 252 HP / 4 Atk / 252 Spe
 Jolly Nature  
 - Multi-Attack  
 - infinitevelocity  
-- Heavenly Mist  
+- heavenlymist  
 - divinecall  
 
 Dondozo @ Leftovers  
@@ -7734,7 +7986,7 @@ Calm Nature
 - calamitywing  
 - Gunk Shot  
 - royalretreat  
-- Heavenly Mist  
+- heavenlymist  
 
 Zacian-Crowned @ Rose Incense  
 Ability: Intrepid Sword  
@@ -7756,7 +8008,7 @@ EVs: 252 HP / 252 Atk / 4 Spe
 Adamant Nature  
 - sacredwater  
 - risingpower  
-- Heavenly Mist  
+- heavenlymist  
 - sacredspeed  
 
 Rayquaza @ Lure Ball  
@@ -7786,7 +8038,7 @@ Happiness: 251
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - diffusionwave  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 - Heal Bell  
 
@@ -7843,7 +8095,7 @@ Calm Nature
 - diffusionwave  
 - calamitywing  
 - royalretreat  
-- Heavenly Mist  
+- heavenlymist  
 
 Skeledirge (M) @ Lax Incense  
 Ability: shadoweater  
@@ -7874,7 +8126,7 @@ EVs: 252 HP / 252 Atk / 4 Spe
 Adamant Nature  
 - sacredwater  
 - risingpower  
-- Heavenly Mist  
+- heavenlymist  
 - sacredspeed  
 
 
@@ -7928,7 +8180,7 @@ Happiness: 251
 EVs: 252 HP / 252 Def / 4 Spe  
 Bold Nature  
 - diffusionwave  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 - calamitywing  
 
@@ -7939,7 +8191,7 @@ EVs: 252 HP / 252 Atk / 4 Spe
 Adamant Nature  
 - sacredwater  
 - risingpower  
-- Heavenly Mist  
+- heavenlymist  
 - sacredspeed  
 
 
@@ -7960,7 +8212,7 @@ EVs: 252 HP / 252 Atk / 4 Spe
 Adamant Nature  
 - sacredwater  
 - risingpower  
-- Heavenly Mist  
+- heavenlymist  
 - sacredspeed  
 
 Zacian-Crowned @ Rose Incense  
@@ -8025,7 +8277,7 @@ IVs: 0 Spe
 - Leech Seed  
 - royalturbulence  
 - diffusionwave  
-- Heavenly Mist  
+- heavenlymist  
 
 Dondozo @ Leftovers  
 Ability: seaking  
@@ -8089,7 +8341,7 @@ Calm Nature
 - diffusionwave  
 - calamitywing  
 - royalretreat  
-- Heavenly Mist  
+- heavenlymist  
 
 Rayquaza @ Lure Ball  
 Ability: dragonheart  
@@ -8109,7 +8361,7 @@ Timid Nature
 - Moongeist Beam  
 - Aura Sphere  
 - Calm Mind  
-- Heavenly Mist  
+- heavenlymist  
 
 Dondozo @ Electric Memory  
 Ability: seaking  
@@ -8163,7 +8415,7 @@ IVs: 0 Spe
 - Giga Drain  
 - turbineturn  
 - diffusionwave  
-- Heavenly Mist  
+- heavenlymist  
 
 Arceus @ Passho Berry  
 Ability: omnipotent  
@@ -8171,7 +8423,7 @@ EVs: 252 HP / 252 Spe
 Jolly Nature  
 - sacredwater  
 - risingpower  
-- Heavenly Mist  
+- heavenlymist  
 - Aqua Jet  
 
 Dondozo (M) @ Leftovers  
@@ -8246,7 +8498,7 @@ Calm Nature
 - diffusionwave  
 - calamitywing  
 - royalretreat  
-- Heavenly Mist  
+- heavenlymist  
 
 Dondozo (M) @ Steel Memory  
 Ability: seaking  
@@ -8289,7 +8541,7 @@ EVs: 252 HP / 252 Atk / 4 Spe
 Adamant Nature  
 - Ice Hammer  
 - Earthquake  
-- Heavenly Mist  
+- heavenlymist  
 - divinecall  
 
 Zacian-Crowned @ Metal Coat  
@@ -8343,7 +8595,7 @@ EVs: 252 HP / 252 Spe
 Jolly Nature  
 - sacredwater  
 - risingpower  
-- Heavenly Mist  
+- heavenlymist  
 - Aqua Jet  
 
 Mewtwo @ Fire Memory  
@@ -8374,7 +8626,7 @@ Bold Nature
 - calamitywing  
 - Thunder Wave  
 - royalretreat  
-- Heavenly Mist  
+- heavenlymist  
 
 Skeledirge (M) @ Lax Incense  
 Ability: shadoweater  
@@ -8438,7 +8690,7 @@ EVs: 252 HP / 252 Spe
 Jolly Nature  
 - sacredwater  
 - dragonfire  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Mew @ Bright Powder  
@@ -8451,7 +8703,7 @@ IVs: 0 Spe
 - Uproar  
 - calamitywing  
 - royalretreat  
-- Heavenly Mist  
+- heavenlymist  
 
 
 === [gen6ubers] Aura Master (Lucario-Shadow, Eternatus-Dragon) ===
@@ -8493,7 +8745,7 @@ Bold Nature
 - royalinversion  
 - calamitywing  
 - royalretreat  
-- Heavenly Mist  
+- heavenlymist  
 
 Skeledirge (M) @ Lax Incense  
 Ability: shadoweater  
@@ -8537,7 +8789,7 @@ Bold Nature
 - royalinversion  
 - calamitywing  
 - royalretreat  
-- Heavenly Mist  
+- heavenlymist  
 
 Dondozo (M) @ Steel Memory  
 Ability: seaking  
@@ -8639,7 +8891,7 @@ Bold Nature
 - royalinversion  
 - calamitywing  
 - royalretreat  
-- Heavenly Mist  
+- heavenlymist  
 
 
 === [gen6ubers] Reactionaries (Regigigas-Shadow, Dondozo-Ice) ===
@@ -8685,7 +8937,7 @@ Bold Nature
 - royalinversion  
 - calamitywing  
 - healingwing  
-- Heavenly Mist  
+- heavenlymist  
 
 Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
@@ -8738,7 +8990,7 @@ Bold Nature
 - royalinversion  
 - calamitywing  
 - healingwing  
-- Heavenly Mist  
+- heavenlymist  
 
 Raikou @ Choice Scarf  
 Ability: thunderousbeast  
@@ -8800,7 +9052,7 @@ Bold Nature
 - royalinversion  
 - calamitywing  
 - healingwing  
-- Heavenly Mist  
+- heavenlymist  
 
 Raikou @ Choice Scarf  
 Ability: thunderousbeast  
@@ -8876,7 +9128,7 @@ Bold Nature
 - royalinversion  
 - diffusionwave  
 - healingwing  
-- Heavenly Mist  
+- heavenlymist  
 
 Victreebel (M) @ Strange Ball  
 Ability: hopesprout  
@@ -8898,7 +9150,7 @@ Impish Nature
 - sweetretreat  
 
 
-=== [gen6ubers] Not Exactly Fair (Mewtwo-Shadow, Dondozo-Ice) ===
+=== [gen6ubers] Not Exactly Fair (Dondozo-Ice) ===
 
 Gengar-Mega (M) @ Gengarite  
 Ability: shadowdraw  
@@ -8918,7 +9170,7 @@ Bold Nature
 - diffusionwave  
 - royalinversion  
 - healingwing  
-- Heavenly Mist  
+- heavenlymist  
 
 Golurk @ Chipped Pot  
 Ability: Magic Bounce  
@@ -8941,14 +9193,15 @@ Impish Nature
 - Dragon Tail  
 - sweetretreat  
 
-Mewtwo @ Strange Ball  
+Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
-EVs: 252 SpA / 4 SpD / 252 Spe  
-Timid Nature  
-- astralnauts  
-- shadowvolley  
-- Dynamic Punch  
-- psychodarts  
+Happiness: 250  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Hasty Nature  
+- Stored Power  
+- infernobeam  
+- pincerpress  
+- neuronblade  
 
 Arceus @ Passho Berry  
 Ability: omnipotent  
@@ -8956,7 +9209,7 @@ EVs: 252 HP / 252 Spe
 Jolly Nature  
 - sacredwater  
 - Aqua Jet  
-- Heavenly Mist  
+- heavenlymist  
 - Roar  
 
 
@@ -8987,7 +9240,7 @@ EVs: 252 HP / 252 Spe
 Jolly Nature  
 - sacredwater  
 - mysterybind  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Mew @ Chipped Pot  
@@ -8999,7 +9252,7 @@ Bold Nature
 - royalinversion  
 - calamitywing  
 - healingwing  
-- Heavenly Mist  
+- heavenlymist  
 
 Dondozo (M) @ Leftovers  
 Ability: seaking  
@@ -9074,7 +9327,7 @@ Bold Nature
 - royalinversion  
 - calamitywing  
 - healingwing  
-- Heavenly Mist  
+- heavenlymist  
 
 Dondozo (M) @ Ice Memory  
 Ability: seaking  
@@ -9149,10 +9402,10 @@ Bold Nature
 - royalinversion  
 - calamitywing  
 - healingwing  
-- Heavenly Mist  
+- heavenlymist  
 
 
-=== [gen6ubers] Hypersonic Offense (Mewtwo-Shadow, Caly-S-Fairy) ===
+=== [gen6ubers] Hypersonic Offense (Calyrex-Shadow, Fairy) ===
 
 Skarmory (M) @ Choice Scarf  
 Ability: windstreamer  
@@ -9195,15 +9448,15 @@ Timid Nature
 - Nasty Plot  
 - Parting Shot  
 
-Mewtwo @ Strange Ball  
+Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
 Happiness: 250  
-EVs: 252 SpA / 4 SpD / 252 Spe  
-Timid Nature  
-- astralnauts  
-- shadowvolley  
-- Dynamic Punch  
-- psychodarts  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Hasty Nature  
+- Stored Power  
+- infernobeam  
+- pincerpress  
+- neuronblade  
 
 Arceus-Dark @ Dread Plate  
 Ability: Multitype  
@@ -9212,7 +9465,7 @@ EVs: 4 HP / 252 SpA / 252 Spe
 Modest Nature  
 - darkestnightfall  
 - Tailwind  
-- Heavenly Mist  
+- heavenlymist  
 - Uproar  
 
 
@@ -9273,7 +9526,7 @@ Shiny: Yes
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
 - darkestnightfall  
-- Heavenly Mist  
+- heavenlymist  
 - Tailwind  
 - Uproar  
 
@@ -9325,7 +9578,7 @@ EVs: 252 HP / 252 Spe
 Jolly Nature  
 - sacredwater  
 - darkestnightfall  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Dondozo (M) @ Electric Memory  
@@ -9339,17 +9592,17 @@ Impish Nature
 - sweetretreat  
 
 
-=== [gen6ubers] Anachronism (Mewtwo-Shadow, Zygarde-10-Fairy) ===
+=== [gen6ubers] Anachronism (Zygarde-10, Fairy) ===
 
-Mewtwo @ Strange Ball  
+Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
 Happiness: 250  
-EVs: 252 SpA / 4 SpD / 252 Spe  
-Timid Nature  
-- astralnauts  
-- shattershade  
-- Dynamic Punch  
-- psychodarts  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Hasty Nature  
+- Stored Power  
+- infernobeam  
+- pincerpress  
+- neuronblade  
 
 Victreebel (M) @ Star Sweet  
 Ability: hopesprout  
@@ -9370,7 +9623,7 @@ EVs: 252 HP / 4 Atk / 252 Spe
 Jolly Nature  
 - Ice Hammer  
 - mysterybind  
-- Heavenly Mist  
+- heavenlymist  
 - slushswitch  
 
 Delphox (F) @ Lax Incense  
@@ -9467,7 +9720,7 @@ Shiny: Yes
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
 - darkestnightfall  
-- Heavenly Mist  
+- heavenlymist  
 - Tailwind  
 - Uproar  
 
@@ -9512,7 +9765,7 @@ EVs: 252 HP / 4 Atk / 252 Spe
 Jolly Nature  
 - Ice Hammer  
 - Ember  
-- Heavenly Mist  
+- heavenlymist  
 - slushswitch  
 
 Darkrai @ Strange Ball  
@@ -9546,7 +9799,7 @@ Happiness: 251
 EVs: 124 HP / 132 SpD / 252 Spe  
 Timid Nature  
 - Judgment  
-- Heavenly Mist  
+- heavenlymist  
 - Calm Mind  
 - sacredspeed  
 
@@ -9600,7 +9853,7 @@ IVs: 0 Spe
 - royalsnowstorm  
 - psychofire  
 - healingwing  
-- Heavenly Mist  
+- heavenlymist  
 
 
 === [gen6ubers] Toaster Bomb (Suicune-Shadow, Moltres-Fire) ===
@@ -9621,7 +9874,7 @@ Shiny: Yes
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
 - darkestnightfall  
-- Heavenly Mist  
+- heavenlymist  
 - Tailwind  
 - Uproar  
 
@@ -9716,7 +9969,7 @@ EVs: 124 HP / 132 SpD / 252 Spe
 Timid Nature  
 - Judgment  
 - mysterybind  
-- Heavenly Mist  
+- heavenlymist  
 - sacredspeed  
 
 Meloetta @ Dubious Disc  
@@ -9792,7 +10045,7 @@ EVs: 124 HP / 132 SpD / 252 Spe
 Timid Nature  
 - Judgment  
 - mysterybind  
-- Heavenly Mist  
+- heavenlymist  
 - sacredspeed  
 
 
@@ -9813,7 +10066,7 @@ Happiness: 251
 EVs: 124 HP / 132 SpD / 252 Spe  
 Timid Nature  
 - Judgment  
-- Heavenly Mist  
+- heavenlymist  
 - Calm Mind  
 - sacredspeed  
 
@@ -9835,7 +10088,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Careful Nature  
 - mysterybind  
 - calamitywing  
-- Heavenly Mist  
+- heavenlymist  
 - healingwing  
 
 Delphox (F) @ Lax Incense  
@@ -9880,7 +10133,7 @@ EVs: 124 HP / 132 SpD / 252 Spe
 Timid Nature  
 - Judgment  
 - mysterybind  
-- Heavenly Mist  
+- heavenlymist  
 - sacredspeed  
 
 Mewtwo @ Ability Shield  
@@ -9984,7 +10237,7 @@ Shiny: Yes
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
 - darkestnightfall  
-- Heavenly Mist  
+- heavenlymist  
 - Tailwind  
 - Uproar  
 
@@ -10039,7 +10292,7 @@ EVs: 124 HP / 36 Atk / 96 SpD / 252 Spe
 Jolly Nature  
 - dimensionbreak  
 - Bulk Up  
-- Heavenly Mist  
+- heavenlymist  
 - sacredspeed  
 
 Mew @ Bright Powder  
@@ -10051,7 +10304,7 @@ Careful Nature
 - Uproar  
 - Low Kick  
 - healingwing  
-- Heavenly Mist  
+- heavenlymist  
 
 
 === [gen6ubers] The Dark Side (Mewtwo, Fairy) ===
@@ -10108,7 +10361,7 @@ IVs: 0 Spe
 - calamitywing  
 - spectralwave  
 - trickretreat  
-- Heavenly Mist  
+- heavenlymist  
 
 Arceus @ enigmaplate  
 Ability: Multitype  
@@ -10117,7 +10370,7 @@ EVs: 124 HP / 36 Atk / 96 SpD / 252 Spe
 Jolly Nature  
 - dimensionbreak  
 - Bulk Up  
-- Heavenly Mist  
+- heavenlymist  
 - sacredspeed  
 
 
@@ -10132,7 +10385,7 @@ Careful Nature
 - diffusionwave  
 - Bulldoze  
 - royalretreat  
-- Heavenly Mist  
+- heavenlymist  
 
 Articuno @ Sweet Apple  
 Ability: Snow Warning  
@@ -10225,7 +10478,7 @@ Shiny: Yes
 EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
 - darkestnightfall  
-- Heavenly Mist  
+- heavenlymist  
 - Tailwind  
 - Uproar  
 
@@ -10280,7 +10533,7 @@ EVs: 124 HP / 36 Atk / 96 SpD / 252 Spe
 Jolly Nature  
 - dimensionbreak  
 - Bulk Up  
-- Heavenly Mist  
+- heavenlymist  
 - sacredspeed  
 
 Mismagius (F) @ Chipped Pot  
@@ -10302,7 +10555,7 @@ Bold Nature
 - trickretreat  
 - diffusionwave  
 - royalretreat  
-- Heavenly Mist  
+- heavenlymist  
 
 Moltres @ Fire Memory  
 Ability: Drought  
@@ -10364,7 +10617,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - sacredwater  
 - Flare Blitz  
-- Heavenly Mist  
+- heavenlymist  
 - divinecall  
 
 Celebi @ Lax Incense  
@@ -10418,7 +10671,7 @@ EVs: 252 HP / 252 Def / 4 Spe
 Impish Nature  
 - Sunsteel Strike  
 - Ice Hammer  
-- Heavenly Mist  
+- heavenlymist  
 - bulletswitch  
 
 Mewtwo @ Ability Shield  
@@ -10462,7 +10715,7 @@ Timid Nature
 - Photon Geyser  
 - Moongeist Beam  
 - Grass Knot  
-- Heavenly Mist  
+- heavenlymist  
 
 Mismagius (F) @ Chipped Pot  
 Ability: shadowcloak  
@@ -10518,7 +10771,7 @@ Careful Nature
 - calamitywing  
 - royalinversion  
 - healingwing  
-- Heavenly Mist  
+- heavenlymist  
 
 Mismagius (F) @ Chipped Pot  
 Ability: shadowcloak  
@@ -10568,7 +10821,7 @@ EVs: 124 HP / 36 Atk / 96 SpD / 252 Spe
 Jolly Nature  
 - dimensionbreak  
 - mysterybind  
-- Heavenly Mist  
+- heavenlymist  
 - sacredspeed  
 
 
@@ -10601,7 +10854,7 @@ EVs: 124 HP / 36 Atk / 96 SpD / 252 Spe
 Jolly Nature  
 - dimensionbreak  
 - Bulk Up  
-- Heavenly Mist  
+- heavenlymist  
 - sacredspeed  
 
 Suicune @ Strange Ball  
@@ -10623,7 +10876,7 @@ Careful Nature
 - calamitywing  
 - royalinversion  
 - healingwing  
-- Heavenly Mist  
+- heavenlymist  
 
 Phione @ Wave Incense  
 Ability: Drizzle  
@@ -10666,7 +10919,7 @@ Timid Nature
 - Photon Geyser  
 - Moongeist Beam  
 - royalretreat  
-- Heavenly Mist  
+- heavenlymist  
 
 Mewtwo @ Rock Memory  
 Ability: psychicpower  
@@ -10739,7 +10992,7 @@ Timid Nature
 - Photon Geyser  
 - Moongeist Beam  
 - royalretreat  
-- Heavenly Mist  
+- heavenlymist  
 
 Phione @ Wave Incense  
 Ability: Drizzle  
@@ -10760,7 +11013,7 @@ Careful Nature
 - royalinversion  
 - diffusionwave  
 - healingwing  
-- Heavenly Mist  
+- heavenlymist  
 
 
 === [gen6ubers] Lightning (Mewtwo, Electric) ===
@@ -10845,7 +11098,7 @@ EVs: 252 HP / 4 SpA / 252 Spe
 Timid Nature  
 - Judgment  
 - Meteor Beam  
-- Heavenly Mist  
+- heavenlymist  
 - naturesvoice  
 
 Phione @ Wave Incense  
@@ -10877,7 +11130,7 @@ Careful Nature
 - spectralwave  
 - mysterybind  
 - royalretreat  
-- Heavenly Mist  
+- heavenlymist  
 
 Mewtwo @ Strange Ball  
 Ability: psychicpower  
@@ -10940,7 +11193,7 @@ EVs: 252 HP / 4 SpA / 252 Spe
 Timid Nature  
 - Judgment  
 - Meteor Beam  
-- Heavenly Mist  
+- heavenlymist  
 - naturesvoice  
 
 Mewtwo @ Strange Ball  
@@ -11013,7 +11266,7 @@ EVs: 252 HP / 4 SpA / 252 Spe
 Timid Nature  
 - Judgment  
 - Meteor Beam  
-- Heavenly Mist  
+- heavenlymist  
 - naturesvoice  
 
 
@@ -11065,7 +11318,7 @@ EVs: 252 HP / 4 SpA / 252 Spe
 Timid Nature  
 - Judgment  
 - Meteor Beam  
-- Heavenly Mist  
+- heavenlymist  
 - naturesvoice  
 
 Moltres @ Flame Orb  
@@ -11102,7 +11355,7 @@ Adamant Nature
 - darkestnightfall  
 - Extreme Speed  
 - infinitevelocity  
-- Heavenly Mist  
+- heavenlymist  
 
 Victreebel (M) @ Strange Ball  
 Ability: hopesprout  
@@ -11141,7 +11394,7 @@ Calm Nature
 - Giga Drain  
 - diffusionwave  
 - royalretreat  
-- Heavenly Mist  
+- heavenlymist  
 
 
 === [gen6ubers] Hightened Mind Dusk Stone (Moltres, Fire) ===
@@ -11193,7 +11446,7 @@ EVs: 252 HP / 4 SpA / 252 Spe
 Timid Nature  
 - Judgment  
 - Meteor Beam  
-- Heavenly Mist  
+- heavenlymist  
 - naturesvoice  
 
 Moltres @ Fire Memory  
@@ -11269,7 +11522,7 @@ EVs: 252 HP / 4 SpA / 252 Spe
 Timid Nature  
 - Judgment  
 - Meteor Beam  
-- Heavenly Mist  
+- heavenlymist  
 - naturesvoice  
 
 
@@ -11281,7 +11534,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - infinitevelocity  
 - sacredwater  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Mewtwo @ Strange Ball  
@@ -11335,7 +11588,7 @@ Careful Nature
 - arcticfreeze  
 - psychofire  
 - royalretreat  
-- Heavenly Mist  
+- heavenlymist  
 
 
 === [gen6ubers] Star Sweet Mewtwo (✗) ===
@@ -11386,7 +11639,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - infinitevelocity  
 - sacredwater  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Cobalion @ Metal Coat  
@@ -11429,7 +11682,7 @@ EVs: 4 HP / 252 SpA / 252 Spe
 Modest Nature  
 - darkestnightfall  
 - mysterybind  
-- Heavenly Mist  
+- heavenlymist  
 - Uproar  
 
 Phione @ Wave Incense  
@@ -11480,7 +11733,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - infinitevelocity  
 - sacredwater  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Lilligant @ Grass Memory  
@@ -11573,7 +11826,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - infinitevelocity  
 - sacredwater  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Meloetta @ Leftovers  
@@ -11631,7 +11884,7 @@ Adamant Nature
 - darkestnightfall  
 - Extreme Speed  
 - infinitevelocity  
-- Heavenly Mist  
+- heavenlymist  
 
 Moltres @ Sweet Apple  
 Ability: Drought  
@@ -11683,7 +11936,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - infinitevelocity  
 - sacredwater  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Phione @ Choice Scarf  
@@ -11744,7 +11997,7 @@ Happiness: 251
 EVs: 124 HP / 36 Atk / 96 SpD / 252 Spe  
 Jolly Nature  
 - dimensionbreak  
-- Heavenly Mist  
+- heavenlymist  
 - divinecall  
 - cipherflash  
 
@@ -11840,7 +12093,7 @@ Adamant Nature
 - darkestnightfall  
 - Extreme Speed  
 - infinitevelocity  
-- Heavenly Mist  
+- heavenlymist  
 
 
 === [gen6ubers] Rewind (Dialga-Shadow, Abomasnow-Ice) ===
@@ -11871,7 +12124,7 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - infinitevelocity  
 - sacredwater  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Abomasnow (M) @ Ice Memory  
@@ -11906,17 +12159,16 @@ Timid Nature
 - waveturn  
 
 
-=== [gen6ubers] Revolution (Mewtwo-Shadow, Moltres-Fire) ===
+=== [gen6ubers] Revolution (Moltres, Fire) ===
 
-Mewtwo @ Strange Ball  
+Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
-Happiness: 250  
 EVs: 4 HP / 252 SpA / 252 Spe  
-Timid Nature  
-- Psystrike  
-- shadowflame  
-- Dynamic Punch  
-- psychodarts  
+Hasty Nature  
+- Stored Power  
+- infernobeam  
+- pincerpress  
+- neuronblade  
 
 Moltres @ Fire Memory  
 Ability: Drought  
@@ -11935,7 +12187,7 @@ Happiness: 251
 EVs: 124 HP / 36 Atk / 96 SpD / 252 Spe  
 Jolly Nature  
 - dimensionbreak  
-- Heavenly Mist  
+- heavenlymist  
 - divinecall  
 - cipherflash  
 
@@ -12029,7 +12281,7 @@ Happiness: 251
 EVs: 124 HP / 36 Atk / 96 SpD / 252 Spe  
 Jolly Nature  
 - dimensionbreak  
-- Heavenly Mist  
+- heavenlymist  
 - divinecall  
 - cipherflash  
 
@@ -12091,7 +12343,7 @@ Happiness: 251
 EVs: 124 HP / 36 Atk / 96 SpD / 252 Spe  
 Jolly Nature  
 - dimensionbreak  
-- Heavenly Mist  
+- heavenlymist  
 - divinecall  
 - cipherflash  
 
@@ -12134,7 +12386,7 @@ EVs: 104 HP / 252 SpD / 152 Spe
 Calm Nature  
 - calamitywing  
 - Thunder Wave  
-- Heavenly Mist  
+- heavenlymist  
 - tornadoturn  
 
 Arceus @ enigmaplate  
@@ -12143,7 +12395,7 @@ Happiness: 251
 EVs: 124 HP / 36 Atk / 96 SpD / 252 Spe  
 Jolly Nature  
 - dimensionbreak  
-- Heavenly Mist  
+- heavenlymist  
 - divinecall  
 - cipherflash  
 
@@ -12198,7 +12450,7 @@ EVs: 4 HP / 252 SpA / 252 Spe
 Modest Nature  
 - darkestnightfall  
 - Aura Sphere  
-- Heavenly Mist  
+- heavenlymist  
 - Uproar  
 
 Lilligant @ Grass Memory  
@@ -12249,7 +12501,7 @@ EVs: 104 HP / 252 SpD / 152 Spe
 Calm Nature  
 - calamitywing  
 - Thunder Wave  
-- Heavenly Mist  
+- heavenlymist  
 - tornadoturn  
 
 Meloetta @ Dark Memory  
@@ -12320,7 +12572,7 @@ Happiness: 251
 EVs: 124 HP / 36 Atk / 96 SpD / 252 Spe  
 Jolly Nature  
 - dimensionbreak  
-- Heavenly Mist  
+- heavenlymist  
 - divinecall  
 - cipherflash  
 
@@ -12330,7 +12582,7 @@ EVs: 104 HP / 252 SpD / 152 Spe
 Calm Nature  
 - calamitywing  
 - Thunder Wave  
-- Heavenly Mist  
+- heavenlymist  
 - tornadoturn  
 
 Meloetta @ Colbur Berry  
@@ -12353,7 +12605,7 @@ EVs: 104 HP / 252 SpD / 152 Spe
 Calm Nature  
 - calamitywing  
 - Thunder Wave  
-- Heavenly Mist  
+- heavenlymist  
 - tornadoturn  
 
 Mewtwo @ Star Sweet  
@@ -12401,7 +12653,7 @@ Happiness: 251
 EVs: 124 HP / 36 Atk / 96 SpD / 252 Spe  
 Jolly Nature  
 - dimensionbreak  
-- Heavenly Mist  
+- heavenlymist  
 - divinecall  
 - cipherflash  
 
@@ -12464,7 +12716,7 @@ EVs: 4 HP / 252 SpA / 252 Spe
 Modest Nature  
 - darkestnightfall  
 - Toxic  
-- Heavenly Mist  
+- heavenlymist  
 - Uproar  
 
 
@@ -12515,7 +12767,7 @@ EVs: 104 HP / 252 SpD / 152 Spe
 Calm Nature  
 - royalturbulence  
 - Thunder Wave  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Keldeo-Resolute @ Water Memory  
@@ -12547,7 +12799,7 @@ EVs: 4 HP / 252 SpA / 252 Spe
 Modest Nature  
 - darkestnightfall  
 - Toxic  
-- Heavenly Mist  
+- heavenlymist  
 - Uproar  
 
 Keldeo-Resolute @ Water Memory  
@@ -12566,7 +12818,7 @@ EVs: 104 HP / 252 SpD / 152 Spe
 Calm Nature  
 - royalturbulence  
 - Thunder Wave  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Rapidash (M) @ Strange Ball  
@@ -12627,7 +12879,7 @@ EVs: 104 HP / 252 SpD / 152 Spe
 Calm Nature  
 - royalturbulence  
 - Thunder Wave  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Tapu Koko @ Light Ball  
@@ -12646,7 +12898,7 @@ EVs: 252 HP / 4 SpA / 252 SpD
 Calm Nature  
 - darkestnightfall  
 - Toxic  
-- Heavenly Mist  
+- heavenlymist  
 - Uproar  
 
 
@@ -12678,7 +12930,7 @@ EVs: 252 HP / 4 SpA / 252 SpD
 Calm Nature  
 - darkestnightfall  
 - Toxic  
-- Heavenly Mist  
+- heavenlymist  
 - Uproar  
 
 Lugia @ White Herb  
@@ -12688,7 +12940,7 @@ EVs: 104 HP / 252 SpD / 152 Spe
 Calm Nature  
 - royalturbulence  
 - Thunder Wave  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Cryogonal @ Ice Memory  
@@ -12749,7 +13001,7 @@ EVs: 252 HP / 4 SpA / 252 SpD
 Calm Nature  
 - darkestnightfall  
 - Toxic  
-- Heavenly Mist  
+- heavenlymist  
 - Uproar  
 
 Lugia @ White Herb  
@@ -12759,7 +13011,7 @@ EVs: 104 HP / 252 SpD / 152 Spe
 Calm Nature  
 - royalturbulence  
 - Thunder Wave  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Melmetal @ Metal Coat  
@@ -12810,7 +13062,7 @@ EVs: 252 HP / 4 SpA / 252 SpD
 Calm Nature  
 - darkestnightfall  
 - Toxic  
-- Heavenly Mist  
+- heavenlymist  
 - Uproar  
 
 Lugia @ White Herb  
@@ -12820,7 +13072,7 @@ EVs: 104 HP / 252 SpD / 152 Spe
 Calm Nature  
 - royalturbulence  
 - Thunder Wave  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Melmetal @ Metal Coat  
@@ -12860,7 +13112,7 @@ EVs: 252 HP / 4 SpA / 252 SpD
 Calm Nature  
 - darkestnightfall  
 - Toxic  
-- Heavenly Mist  
+- heavenlymist  
 - Uproar  
 
 Zacian-Crowned @ Ability Shield  
@@ -12880,7 +13132,7 @@ EVs: 104 HP / 252 SpD / 152 Spe
 Calm Nature  
 - royalturbulence  
 - Thunder Wave  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Melmetal @ Metal Coat  
@@ -12921,7 +13173,7 @@ EVs: 4 HP / 252 SpA / 252 Spe
 Modest Nature  
 - darkestnightfall  
 - Toxic  
-- Heavenly Mist  
+- heavenlymist  
 - Uproar  
 
 Rotom-Mow @ Lax Incense  
@@ -12941,7 +13193,7 @@ EVs: 104 HP / 252 SpD / 152 Spe
 Calm Nature  
 - royalturbulence  
 - Thunder Wave  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Melmetal @ Metal Coat  
@@ -13002,7 +13254,7 @@ EVs: 252 HP / 4 SpA / 252 SpD
 Calm Nature  
 - darkestnightfall  
 - Toxic  
-- Heavenly Mist  
+- heavenlymist  
 - Uproar  
 
 Tapu Koko @ Light Ball  
@@ -13134,7 +13386,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - calamitywing  
 - Thunder Wave  
-- Heavenly Mist  
+- heavenlymist  
 - healingwing  
 
 
@@ -13185,7 +13437,7 @@ EVs: 104 HP / 148 Def / 104 SpD / 152 Spe
 Calm Nature  
 - royalturbulence  
 - Thunder Wave  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Eternatus @ Black Sludge  
@@ -13237,7 +13489,7 @@ EVs: 104 HP / 252 SpD / 152 Spe
 Calm Nature  
 - royalturbulence  
 - Thunder Wave  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Rapidash (M) @ Ability Shield  
@@ -13298,7 +13550,7 @@ EVs: 104 HP / 252 SpD / 152 Spe
 Calm Nature  
 - royalturbulence  
 - Thunder Wave  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Arceus-Dark @ Dread Plate  
@@ -13307,7 +13559,7 @@ EVs: 252 HP / 4 SpA / 252 SpD
 Calm Nature  
 - darkestnightfall  
 - Fire Blast  
-- Heavenly Mist  
+- heavenlymist  
 - Uproar  
 
 Suicune @ Strange Ball  
@@ -13349,7 +13601,7 @@ EVs: 252 HP / 4 SpA / 252 SpD
 Calm Nature  
 - darkestnightfall  
 - Fire Blast  
-- Heavenly Mist  
+- heavenlymist  
 - Uproar  
 
 Rapidash (M) @ Strange Ball  
@@ -13401,7 +13653,7 @@ EVs: 104 HP / 252 SpD / 152 Spe
 Calm Nature  
 - calamitywing  
 - royalturbulence  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Arceus-Dark @ Dread Plate  
@@ -13410,7 +13662,7 @@ EVs: 252 HP / 4 SpA / 252 SpD
 Calm Nature  
 - darkestnightfall  
 - Fire Blast  
-- Heavenly Mist  
+- heavenlymist  
 - Uproar  
 
 Victreebel (M) @ Strange Ball  
@@ -13470,7 +13722,7 @@ EVs: 252 HP / 4 SpA / 252 SpD
 Calm Nature  
 - darkestnightfall  
 - Fire Blast  
-- Heavenly Mist  
+- heavenlymist  
 - Uproar  
 
 Melmetal @ Metal Coat  
@@ -13490,7 +13742,7 @@ EVs: 104 HP / 252 SpD / 152 Spe
 Calm Nature  
 - royalturbulence  
 - Thunder Wave  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Zygarde-10% @ Ground Memory  
@@ -13543,7 +13795,7 @@ EVs: 252 HP / 4 SpA / 252 SpD
 Calm Nature  
 - darkestnightfall  
 - Fire Blast  
-- Heavenly Mist  
+- heavenlymist  
 - Uproar  
 
 Mewtwo @ Star Sweet  
@@ -13574,7 +13826,7 @@ Shiny: Yes
 Happiness: 250  
 EVs: 216 Atk / 40 SpD / 252 Spe  
 Jolly Nature  
-- Hyper Rush  
+- hyperrush  
 - Secret Sword  
 - psychodarts  
 - shadowswitch  
@@ -13585,7 +13837,7 @@ EVs: 4 SpA / 252 SpD / 252 Spe
 Timid Nature  
 - Judgment  
 - Fire Blast  
-- Heavenly Mist  
+- heavenlymist  
 - Uproar  
 
 Mewtwo @ Star Sweet  
@@ -13647,7 +13899,7 @@ EVs: 104 HP / 252 SpD / 152 Spe
 Calm Nature  
 - calamitywing  
 - royalturbulence  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Mewtwo @ Adrenaline Orb  
@@ -13666,7 +13918,7 @@ EVs: 4 SpA / 252 SpD / 252 Spe
 Timid Nature  
 - Judgment  
 - Fire Blast  
-- Heavenly Mist  
+- heavenlymist  
 - Uproar  
 
 Melmetal @ Metal Coat  
@@ -13728,7 +13980,7 @@ EVs: 4 SpA / 252 SpD / 252 Spe
 Timid Nature  
 - Judgment  
 - Fire Blast  
-- Heavenly Mist  
+- heavenlymist  
 - Uproar  
 
 Zacian @ Strange Ball  
@@ -13737,7 +13989,7 @@ Shiny: Yes
 Happiness: 250  
 EVs: 216 Atk / 40 SpD / 252 Spe  
 Jolly Nature  
-- Hyper Rush  
+- hyperrush  
 - Secret Sword  
 - psychodarts  
 - shadowswitch  
@@ -13770,7 +14022,7 @@ EVs: 4 SpA / 252 SpD / 252 Spe
 Timid Nature  
 - Judgment  
 - Venoshock  
-- Heavenly Mist  
+- heavenlymist  
 - Uproar  
 
 Suicune @ Strange Ball  
@@ -13831,7 +14083,7 @@ EVs: 4 SpA / 252 SpD / 252 Spe
 Timid Nature  
 - Judgment  
 - Fire Blast  
-- Heavenly Mist  
+- heavenlymist  
 - Uproar  
 
 Vaporeon (F) @ Wave Incense  
@@ -13852,7 +14104,7 @@ EVs: 252 HP / 252 SpD / 4 Spe
 Calm Nature  
 - Jungle Healing  
 - diffusionwave  
-- Heavenly Mist  
+- heavenlymist  
 - healingwing  
 
 Zacian-Crowned @ Ability Shield  
@@ -13905,7 +14157,7 @@ EVs: 4 SpA / 252 SpD / 252 Spe
 Timid Nature  
 - Judgment  
 - Venoshock  
-- Heavenly Mist  
+- heavenlymist  
 - Uproar  
 
 Zacian-Crowned @ Metal Coat  
@@ -13994,7 +14246,7 @@ EVs: 4 SpA / 252 SpD / 252 Spe
 Timid Nature  
 - Judgment  
 - Venoshock  
-- Heavenly Mist  
+- heavenlymist  
 - Uproar  
 
 
@@ -14016,7 +14268,7 @@ EVs: 104 HP / 252 SpD / 152 Spe
 Calm Nature  
 - calamitywing  
 - royalturbulence  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Mewtwo @ Adrenaline Orb  
@@ -14035,7 +14287,7 @@ EVs: 4 SpA / 252 SpD / 252 Spe
 Timid Nature  
 - Judgment  
 - Venoshock  
-- Heavenly Mist  
+- heavenlymist  
 - Uproar  
 
 Bellsprout (M) @ Fire Memory  
@@ -14076,7 +14328,7 @@ EVs: 4 SpA / 252 SpD / 252 Spe
 Timid Nature  
 - Judgment  
 - Venoshock  
-- Heavenly Mist  
+- heavenlymist  
 - Uproar  
 
 Mewtwo @ Adrenaline Orb  
@@ -14127,7 +14379,7 @@ EVs: 4 SpA / 252 SpD / 252 Spe
 Timid Nature  
 - Judgment  
 - Venoshock  
-- Heavenly Mist  
+- heavenlymist  
 - Uproar  
 
 Calyrex-Shadow @ Choice Scarf  
@@ -14189,7 +14441,7 @@ EVs: 4 HP / 252 SpA / 252 Spe
 Timid Nature  
 - Judgment  
 - Ember  
-- Heavenly Mist  
+- heavenlymist  
 - cipherflash  
 
 Xerneas @ Bright Powder  
@@ -14210,7 +14462,7 @@ EVs: 104 HP / 252 SpD / 152 Spe
 Calm Nature  
 - calamitywing  
 - royalturbulence  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Mewtwo @ Adrenaline Orb  
@@ -14272,7 +14524,7 @@ Shiny: Yes
 Happiness: 250  
 EVs: 216 Atk / 40 SpD / 252 Spe  
 Jolly Nature  
-- Hyper Rush  
+- hyperrush  
 - Secret Sword  
 - psychodarts  
 - shadowswitch  
@@ -14302,7 +14554,7 @@ EVs: 4 SpA / 252 SpD / 252 Spe
 Timid Nature  
 - Judgment  
 - Venoshock  
-- Heavenly Mist  
+- heavenlymist  
 - Uproar  
 
 
@@ -14335,7 +14587,7 @@ EVs: 4 SpA / 252 SpD / 252 Spe
 Timid Nature  
 - Judgment  
 - Venoshock  
-- Heavenly Mist  
+- heavenlymist  
 - Uproar  
 
 Mewtwo @ Adrenaline Orb  
@@ -14364,7 +14616,7 @@ EVs: 104 HP / 252 SpD / 152 Spe
 Calm Nature  
 - calamitywing  
 - royalturbulence  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 
@@ -14395,7 +14647,7 @@ EVs: 4 SpA / 252 SpD / 252 Spe
 Timid Nature  
 - Judgment  
 - Fire Blast  
-- Heavenly Mist  
+- heavenlymist  
 - Uproar  
 
 Rayquaza @ White Herb  
@@ -14476,7 +14728,7 @@ EVs: 4 SpA / 252 SpD / 252 Spe
 Timid Nature  
 - Judgment  
 - Venoshock  
-- Heavenly Mist  
+- heavenlymist  
 - Uproar  
 
 Victreebel (M) @ Strange Ball  
@@ -14527,7 +14779,7 @@ EVs: 252 HP / 252 Def / 4 Spe
 Bold Nature  
 - wavesplash  
 - psychofire  
-- Heavenly Mist  
+- heavenlymist  
 - healingwing  
 
 Zacian-Crowned @ Watmel Berry  
@@ -14535,7 +14787,7 @@ Ability: Intrepid Sword
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- Hyper Rush  
+- hyperrush  
 - Secret Sword  
 - Ice Spinner  
 - Volt Tackle  
@@ -14558,7 +14810,7 @@ EVs: 4 HP / 252 SpA / 252 Spe
 Timid Nature  
 - sacredwater  
 - icetwister  
-- Heavenly Mist  
+- heavenlymist  
 - wavesplash  
 
 Trevenant (M) @ Lax Incense  
@@ -14586,7 +14838,7 @@ Ability: Intrepid Sword
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- Hyper Rush  
+- hyperrush  
 - Secret Sword  
 - Ice Spinner  
 - bulletswitch  
@@ -14699,7 +14951,7 @@ EVs: 4 HP / 252 SpA / 252 Spe
 Timid Nature  
 - Judgment  
 - Ember  
-- Heavenly Mist  
+- heavenlymist  
 - cipherflash  
 
 Klinklang @ Metal Coat  
@@ -14719,7 +14971,7 @@ EVs: 104 HP / 252 SpD / 152 Spe
 Calm Nature  
 - calamitywing  
 - royalturbulence  
-- Heavenly Mist  
+- heavenlymist  
 - royalretreat  
 
 Mew @ Black Sludge  
@@ -14730,21 +14982,22 @@ EVs: 252 HP / 4 SpA / 252 SpD
 Calm Nature  
 - Toxic Spikes  
 - psychofire  
-- Heavenly Mist  
+- heavenlymist  
 - healingwing  
 
 
 === [gen6ubers] Heartless Offense (Suicune-Shadow, Mewtwo-Fairy) ===
 
-Necrozma-Dusk-Mane @ Sweet Apple  
+Necrozma-Dusk-Mane @ Watmel Berry  
 Ability: Prism Armor  
 Shiny: Yes  
+Happiness: 250  
 EVs: 112 HP / 252 Atk / 144 Spe  
 Adamant Nature  
 - psychoblitz  
-- mineralcannon  
-- Rock Smash  
-- Howl  
+- Flare Blitz  
+- Lash Out  
+- Autotomize  
 
 Suicune @ Strange Ball  
 Ability: torrentialbeast  
@@ -14772,7 +15025,7 @@ Ability: Intrepid Sword
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- Hyper Rush  
+- hyperrush  
 - Secret Sword  
 - Ice Spinner  
 - psychodarts  
@@ -14814,7 +15067,7 @@ EVs: 4 HP / 252 SpA / 252 Spe
 Timid Nature  
 - Judgment  
 - Ember  
-- Heavenly Mist  
+- heavenlymist  
 - cipherflash  
 
 Phione @ Sea Incense  
@@ -14896,7 +15149,7 @@ EVs: 120 HP / 4 SpA / 132 SpD / 252 Spe
 Timid Nature  
 - Judgment  
 - Tailwind  
-- Heavenly Mist  
+- heavenlymist  
 - cipherflash  
 
 Meloetta @ Strange Ball  
@@ -14917,7 +15170,7 @@ EVs: 252 HP / 4 SpA / 252 SpD
 Calm Nature  
 - cipherflash  
 - housecleaning  
-- Heavenly Mist  
+- heavenlymist  
 - Tailwind  
 
 
@@ -14945,11 +15198,11 @@ Timid Nature
 Arceus @ enigmaplate  
 Ability: Multitype  
 Shiny: Yes  
-EVs: 4 HP / 252 SpA / 252 Spe  
-Timid Nature  
-- Judgment  
-- Tailwind  
-- Heavenly Mist  
+EVs: 20 HP / 152 Atk / 84 Def / 252 Spe  
+Jolly Nature  
+- dimensionbreak  
+- mysteryspeed  
+- heavenlymist  
 - cipherflash  
 
 Darkrai @ Strange Ball  
@@ -14981,7 +15234,7 @@ Calm Nature
 - housecleaning  
 - spectralwave  
 - royalretreat  
-- Heavenly Mist  
+- heavenlymist  
 
 
 === [gen6ubers] Heavy-Duty Boots (✗) ===
@@ -15028,11 +15281,11 @@ Bold Nature
 Arceus @ enigmaplate  
 Ability: Multitype  
 Shiny: Yes  
-EVs: 4 HP / 252 SpA / 252 Spe  
-Timid Nature  
-- Judgment  
-- Tailwind  
-- Heavenly Mist  
+EVs: 20 HP / 152 Atk / 84 Def / 252 Spe  
+Jolly Nature  
+- dimensionbreak  
+- mysteryspeed  
+- heavenlymist  
 - cipherflash  
 
 Zacian-Crowned @ Ability Shield  
@@ -15040,7 +15293,7 @@ Ability: Intrepid Sword
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- Hyper Rush  
+- hyperrush  
 - Secret Sword  
 - Ice Spinner  
 - Volt Tackle  
@@ -15065,17 +15318,17 @@ EVs: 252 HP / 144 SpD / 112 Spe
 Bold Nature  
 - wavesplash  
 - spectralwave  
-- Heavenly Mist  
+- heavenlymist  
 - healingwing  
 
 Arceus @ enigmaplate  
 Ability: Multitype  
 Shiny: Yes  
-EVs: 252 HP / 4 SpA / 252 Spe  
-Timid Nature  
-- Judgment  
-- Tailwind  
-- Heavenly Mist  
+EVs: 20 HP / 152 Atk / 84 Def / 252 Spe  
+Jolly Nature  
+- dimensionbreak  
+- mysteryspeed  
+- heavenlymist  
 - cipherflash  
 
 Meloetta @ Strange Ball  
@@ -15134,11 +15387,11 @@ Hasty Nature
 Arceus @ enigmaplate  
 Ability: Multitype  
 Shiny: Yes  
-EVs: 252 HP / 4 SpA / 252 Spe  
-Timid Nature  
-- Judgment  
-- Tailwind  
-- Heavenly Mist  
+EVs: 20 HP / 152 Atk / 84 Def / 252 Spe  
+Jolly Nature  
+- dimensionbreak  
+- mysteryspeed  
+- heavenlymist  
 - cipherflash  
 
 Meloetta @ Strange Ball  
@@ -15179,20 +15432,20 @@ Victreebel (M) @ Strange Ball
 Ability: hopesprout  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
-Hasty Nature  
-- springbreeze  
-- Grav Apple  
+Jolly Nature  
+- Frenzy Plant  
+- brambleblast  
 - shadowburst  
 - Bullet Seed  
 
 Arceus @ enigmaplate  
 Ability: Multitype  
 Shiny: Yes  
-EVs: 4 HP / 252 Atk / 252 Spe  
+EVs: 20 HP / 152 Atk / 84 Def / 252 Spe  
 Jolly Nature  
 - dimensionbreak  
 - mysteryspeed  
-- Heavenly Mist  
+- heavenlymist  
 - cipherflash  
 
 Kyurem-White @ Power Herb  
@@ -15292,11 +15545,11 @@ Naive Nature
 Arceus @ enigmaplate  
 Ability: Multitype  
 Shiny: Yes  
-EVs: 4 HP / 252 Atk / 252 Spe  
+EVs: 20 HP / 152 Atk / 84 Def / 252 Spe  
 Jolly Nature  
 - dimensionbreak  
 - mysteryspeed  
-- Heavenly Mist  
+- heavenlymist  
 - cipherflash  
 
 
@@ -15313,11 +15566,11 @@ Timid Nature
 
 Arceus @ enigmaplate  
 Ability: Multitype  
-EVs: 4 HP / 252 Atk / 252 Spe  
+EVs: 20 HP / 152 Atk / 84 Def / 252 Spe  
 Jolly Nature  
 - dimensionbreak  
 - mysteryspeed  
-- Heavenly Mist  
+- heavenlymist  
 - cipherflash  
 
 Phione @ Wave Incense  
@@ -15387,11 +15640,11 @@ Modest Nature
 
 Arceus @ enigmaplate  
 Ability: Multitype  
-EVs: 4 HP / 252 Atk / 252 Spe  
+EVs: 20 HP / 152 Atk / 84 Def / 252 Spe  
 Jolly Nature  
 - dimensionbreak  
 - mysteryspeed  
-- Heavenly Mist  
+- heavenlymist  
 - cipherflash  
 
 Necrozma-Dawn-Wings @ Dragon Scale  
@@ -15419,7 +15672,7 @@ Ability: psychicpower
 Happiness: 250  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- ensnarement  
+- prismstrike  
 - shadowflame  
 - sparklewave  
 - psychicfury  
@@ -15473,11 +15726,11 @@ IVs: 0 Spe
 
 Arceus @ enigmaplate  
 Ability: Multitype  
-EVs: 4 HP / 252 Atk / 252 Spe  
+EVs: 20 HP / 152 Atk / 84 Def / 252 Spe  
 Jolly Nature  
 - dimensionbreak  
 - mysteryspeed  
-- Heavenly Mist  
+- heavenlymist  
 - cipherflash  
 
 Suicune @ Strange Ball  
@@ -15507,11 +15760,11 @@ Adamant Nature
 
 Arceus @ enigmaplate  
 Ability: Multitype  
-EVs: 4 HP / 252 Atk / 252 Spe  
+EVs: 20 HP / 152 Atk / 84 Def / 252 Spe  
 Jolly Nature  
 - dimensionbreak  
 - mysteryspeed  
-- Heavenly Mist  
+- heavenlymist  
 - cipherflash  
 
 Phione @ Water Memory  
@@ -15571,11 +15824,11 @@ IVs: 0 Atk
 
 Arceus @ enigmaplate  
 Ability: Multitype  
-EVs: 4 HP / 252 Atk / 252 Spe  
+EVs: 20 HP / 152 Atk / 84 Def / 252 Spe  
 Jolly Nature  
 - dimensionbreak  
 - mysteryspeed  
-- Heavenly Mist  
+- heavenlymist  
 - cipherflash  
 
 Kyurem-White @ Power Herb  
@@ -15636,18 +15889,18 @@ Shiny: Yes
 Happiness: 250  
 EVs: 216 Atk / 40 SpD / 252 Spe  
 Jolly Nature  
-- Hyper Rush  
+- hyperrush  
 - Secret Sword  
 - psychodarts  
 - shadowswitch  
 
 Arceus @ enigmaplate  
 Ability: Multitype  
-EVs: 4 HP / 252 Atk / 252 Spe  
+EVs: 20 HP / 152 Atk / 84 Def / 252 Spe  
 Jolly Nature  
 - dimensionbreak  
 - mysteryspeed  
-- Heavenly Mist  
+- heavenlymist  
 - cipherflash  
 
 Victreebel (M) @ Nomel Berry  
@@ -15721,11 +15974,11 @@ Careful Nature
 Arceus @ enigmaplate  
 Ability: Multitype  
 Shiny: Yes  
-EVs: 4 HP / 252 Atk / 252 Spe  
+EVs: 20 HP / 152 Atk / 84 Def / 252 Spe  
 Jolly Nature  
 - dimensionbreak  
 - mysteryspeed  
-- Heavenly Mist  
+- heavenlymist  
 - cipherflash  
 
 Suicune @ Strange Ball  
@@ -15758,7 +16011,7 @@ Ability: Intrepid Sword
 Happiness: 251  
 EVs: 252 HP / 252 Atk / 4 Spe  
 Adamant Nature  
-- Hyper Rush  
+- hyperrush  
 - Secret Sword  
 - Ice Spinner  
 - Swords Dance  
@@ -15776,11 +16029,11 @@ Hasty Nature
 
 Arceus @ enigmaplate  
 Ability: Multitype  
-EVs: 4 HP / 252 Atk / 252 Spe  
+EVs: 20 HP / 152 Atk / 84 Def / 252 Spe  
 Jolly Nature  
 - dimensionbreak  
 - mysteryspeed  
-- Heavenly Mist  
+- heavenlymist  
 - cipherflash  
 
 Phione @ Water Memory  
@@ -15788,7 +16041,7 @@ Ability: Drizzle
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Surf  
-- Supersonic  
+- housecleaning  
 - bubblespin  
 - wavesplash  
 
@@ -15829,14 +16082,14 @@ Timid Nature
 Meloetta @ Strange Ball  
 Ability: Serene Grace  
 Shiny: Yes  
-EVs: 4 Atk / 252 SpA / 252 Spe  
-Naive Nature  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Hasty Nature  
 - decibelburst  
 - Storm Throw  
 - crowdcontrol  
 - Extreme Speed  
 
-Trevenant (M) @ Lax Incense  
+Trevenant (M) @ Sweet Apple  
 Ability: forestsedge  
 Happiness: 251  
 EVs: 252 HP / 252 Def / 4 Spe  
@@ -15858,11 +16111,11 @@ Hasty Nature
 
 Arceus @ enigmaplate  
 Ability: Multitype  
-EVs: 4 HP / 252 Atk / 252 Spe  
+EVs: 20 HP / 152 Atk / 84 Def / 252 Spe  
 Jolly Nature  
 - dimensionbreak  
 - mysteryspeed  
-- Heavenly Mist  
+- heavenlymist  
 - cipherflash  
 
 Phione @ Wave Incense  
@@ -15873,5 +16126,907 @@ Timid Nature
 - housecleaning  
 - bubblespin  
 - wavesplash  
+
+
+=== [gen6ubers] Ultra (Necrozma-Ultra-Psychic) ===
+
+Necrozma-Dawn-Wings @ Psychic Memory  
+Ability: soaringburst  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- psychicstorm  
+- shadowflame  
+- Grass Knot  
+- psychodarts  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+Happiness: 250  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Hasty Nature  
+- Stored Power  
+- infernobeam  
+- pincerpress  
+- neuronblade  
+
+Skarmory (M) @ Choice Scarf  
+Ability: windstreamer  
+Shiny: Yes  
+EVs: 32 HP / 252 SpD / 224 Spe  
+Jolly Nature  
+- Brave Bird  
+- Tailwind  
+- Whirlwind  
+- U-turn  
+
+Arceus @ enigmaplate  
+Ability: Multitype  
+Shiny: Yes  
+EVs: 20 HP / 152 Atk / 84 Def / 252 Spe  
+Jolly Nature  
+- dimensionbreak  
+- mysteryspeed  
+- heavenlymist  
+- cipherflash  
+
+Phione @ Wave Incense  
+Ability: Drizzle  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Surf  
+- housecleaning  
+- bubblespin  
+- wavesplash  
+
+Mew @ Sweet Apple  
+Ability: progenitor  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Calm Nature  
+- wavesplash  
+- Alluring Voice  
+- heavenlymist  
+- healingwing  
+
+
+=== [gen6ubers] The Power of Mewtwo (Suicune-Shadow, Lugia-Grass) ===
+
+Suicune @ Strange Ball  
+Ability: Snow Warning  
+Shiny: Yes  
+Happiness: 250  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Hasty Nature  
+- Fishious Rend  
+- shadowflame  
+- Shadow Ball  
+- lustrousstream  
+
+Lugia @ Grass Memory  
+Ability: deepsea  
+Happiness: 251  
+EVs: 104 HP / 252 SpD / 152 Spe  
+Calm Nature  
+- calamitywing  
+- Thunder Wave  
+- heavenlymist  
+- royalretreat  
+
+Phione @ Wave Incense  
+Ability: Drizzle  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Surf  
+- housecleaning  
+- bubblespin  
+- wavesplash  
+
+Mewtwo @ Dawn Stone  
+Ability: hightenedmind  
+Happiness: 250  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Stored Power  
+- infernobeam  
+- silkbomb  
+- psychodarts  
+
+Arceus @ enigmaplate  
+Ability: Multitype  
+EVs: 20 HP / 152 Atk / 84 Def / 252 Spe  
+Jolly Nature  
+- dimensionbreak  
+- mysteryspeed  
+- heavenlymist  
+- cipherflash  
+
+Dialga @ Focus Band  
+Ability: Regenerator  
+Happiness: 251  
+EVs: 116 HP / 252 SpA / 140 Spe  
+Modest Nature  
+- Roar of Time  
+- Grass Knot  
+- ionwave  
+- Shell Smash  
+
+
+=== [gen6ubers] Enigmatic Cleaners (Mewtwo, ???) ===
+
+Mewtwo @ Dubious Disc  
+Ability: psychicpower  
+Shiny: Yes  
+Happiness: 250  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Hasty Nature  
+- mysterybarrage  
+- psychofire  
+- psychicfury  
+- cipherflash  
+
+Arceus @ enigmaplate  
+Ability: Multitype  
+EVs: 20 HP / 152 Atk / 84 Def / 252 Spe  
+Jolly Nature  
+- dimensionbreak  
+- mysteryspeed  
+- heavenlymist  
+- cipherflash  
+
+Phione @ Wave Incense  
+Ability: Drizzle  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Surf  
+- housecleaning  
+- bubblespin  
+- wavesplash  
+
+Zacian-Crowned @ Dive Ball  
+Ability: Intrepid Sword  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 252 Atk / 4 Spe  
+Adamant Nature  
+- hyperrush  
+- Secret Sword  
+- Ice Spinner  
+- Swords Dance  
+
+Mew @ Sweet Apple  
+Ability: progenitor  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Calm Nature  
+- wavesplash  
+- Alluring Voice  
+- heavenlymist  
+- healingwing  
+
+Calyrex-Shadow @ Choice Scarf  
+Ability: antipathy  
+Happiness: 250  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Psycho Boost  
+- Astral Barrage  
+- Focus Blast  
+- Parting Shot  
+
+
+=== [gen6ubers] Upgrades (Meloetta-Shadow, Mewtwo-???) ===
+
+Calyrex-Shadow @ Choice Scarf  
+Ability: antipathy  
+Happiness: 250  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psycho Boost  
+- Astral Barrage  
+- Focus Blast  
+- Parting Shot  
+
+Arceus @ enigmaplate  
+Ability: Multitype  
+EVs: 20 HP / 152 Atk / 84 Def / 252 Spe  
+Jolly Nature  
+- dimensionbreak  
+- mysteryspeed  
+- heavenlymist  
+- cipherflash  
+
+Dialga @ Focus Band  
+Ability: Regenerator  
+Happiness: 251  
+EVs: 116 HP / 252 SpA / 140 Spe  
+Modest Nature  
+- Roar of Time  
+- Grass Knot  
+- ionwave  
+- Shell Smash  
+
+Mewtwo @ Dubious Disc  
+Ability: psychicpower  
+Happiness: 250  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Hasty Nature  
+- mysterybarrage  
+- psychofire  
+- psychicfury  
+- cipherflash  
+
+Mew @ Sweet Apple  
+Ability: progenitor  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+- wavesplash  
+- Alluring Voice  
+- heavenlymist  
+- healingwing  
+
+Meloetta @ Strange Ball  
+Ability: Serene Grace  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Hasty Nature  
+- decibelburst  
+- Storm Throw  
+- crowdcontrol  
+- Extreme Speed  
+
+
+=== [gen6ubers] Dusk (Sunflora-Shadow, Phione-Water) ===
+
+Phione @ Water Memory  
+Ability: Drizzle  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Surf  
+- housecleaning  
+- bubblespin  
+- wavesplash  
+
+Trevenant (M) @ Sweet Apple  
+Ability: forestsedge  
+Happiness: 251  
+EVs: 252 HP / 252 Def / 4 Spe  
+Bold Nature  
+- housecleaning  
+- shadowflame  
+- Aromatic Mist  
+- sweetretreat  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+Happiness: 250  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Hasty Nature  
+- Stored Power  
+- infernobeam  
+- pincerpress  
+- neuronblade  
+
+Arceus @ enigmaplate  
+Ability: Multitype  
+EVs: 20 HP / 152 Atk / 84 Def / 252 Spe  
+Jolly Nature  
+- dimensionbreak  
+- mysteryspeed  
+- heavenlymist  
+- cipherflash  
+
+Zacian-Crowned @ Dive Ball  
+Ability: Intrepid Sword  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 252 Atk / 4 Spe  
+Adamant Nature  
+- hyperrush  
+- Secret Sword  
+- Ice Spinner  
+- Swords Dance  
+
+Sunflora (F) @ Strange Ball  
+Ability: weatherguard  
+Shiny: Yes  
+Happiness: 250  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Chloroblast  
+- shadowburst  
+- shadowcannon  
+- Bullet Seed  
+
+
+=== [gen6ubers] Space Pressure (Meloetta-Shadow, Mewtwo-???) ===
+
+Palkia @ Sea Incense  
+Ability: spacepressure  
+Happiness: 251  
+EVs: 116 HP / 44 Def / 252 SpA / 96 Spe  
+Modest Nature  
+- Spacial Rend  
+- warpcutter  
+- Toxic  
+- aquacharge  
+
+Arceus @ enigmaplate  
+Ability: Multitype  
+Shiny: Yes  
+EVs: 20 HP / 152 Atk / 84 Def / 252 Spe  
+Jolly Nature  
+- dimensionbreak  
+- mysteryspeed  
+- heavenlymist  
+- cipherflash  
+
+Trevenant (M) @ Sweet Apple  
+Ability: forestsedge  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 252 Def / 4 Spe  
+Bold Nature  
+- housecleaning  
+- shadowflame  
+- Aromatic Mist  
+- sweetretreat  
+
+Mewtwo @ Dubious Disc  
+Ability: psychicpower  
+Shiny: Yes  
+Happiness: 250  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Hasty Nature  
+- mysterybarrage  
+- psychofire  
+- psychicfury  
+- cipherflash  
+
+Zacian-Crowned @ Dive Ball  
+Ability: Intrepid Sword  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 252 Atk / 4 Spe  
+Adamant Nature  
+- hyperrush  
+- Secret Sword  
+- Ice Spinner  
+- Swords Dance  
+
+Phione @ Damp Rock  
+Ability: Drizzle  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Surf  
+- housecleaning  
+- bubblespin  
+- wavesplash  
+
+
+=== [gen6ubers] The Worst Offenders (Rapidash-Shadow, Volcanion-Grass) ===
+
+Greninja-Ash (M) @ Dread Plate  
+Ability: Battle Bond  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- secretstrike  
+- waterbreak  
+- Water Shuriken  
+- Flip Turn  
+
+Rapidash (M) @ Strange Ball  
+Ability: blazingheat  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- infernobeam  
+- shadowburst  
+- shadowcannon  
+- toasterbomb  
+
+Volcanion @ Grass Memory  
+Ability: Water Absorb  
+EVs: 128 HP / 252 SpA / 128 Spe  
+Modest Nature  
+- Steam Eruption  
+- infernobeam  
+- memoryblast  
+- steamconversion  
+
+Arceus @ enigmaplate  
+Ability: Multitype  
+Shiny: Yes  
+EVs: 20 HP / 152 Atk / 84 Def / 252 Spe  
+Jolly Nature  
+- dimensionbreak  
+- mysteryspeed  
+- heavenlymist  
+- cipherflash  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+Happiness: 250  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Stored Power  
+- Grass Knot  
+- Poltergeist  
+- psychodarts  
+
+Zacian-Crowned @ Dive Ball  
+Ability: Intrepid Sword  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 252 Atk / 4 Spe  
+Adamant Nature  
+- hyperrush  
+- Secret Sword  
+- Protect  
+- Swords Dance  
+
+
+=== [gen6ubers] When They've Had Enough (Moltres-Fire) ===
+
+Necrozma-Dawn-Wings @ Dragon Scale  
+Ability: soaringburst  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Naive Nature  
+- Light That Burns the Sky  
+- shadowflame  
+- X-Scissor  
+- psychodarts  
+
+Greninja-Ash @ Dread Plate  
+Ability: Battle Bond  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- secretstrike  
+- waterbreak  
+- Water Shuriken  
+- Flip Turn  
+
+Moltres @ Fire Memory  
+Ability: Drought  
+Shiny: Yes  
+Happiness: 250  
+EVs: 76 HP / 152 Def / 28 SpA / 252 Spe  
+Timid Nature  
+- Fire Blast  
+- Hurricane  
+- toasterbomb  
+- flameswitch  
+
+Trevenant (M) @ Sweet Apple  
+Ability: forestsedge  
+Happiness: 251  
+EVs: 252 HP / 252 Def / 4 Spe  
+Bold Nature  
+- housecleaning  
+- shadowflame  
+- Aromatic Mist  
+- sweetretreat  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+Shiny: Yes  
+Happiness: 250  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Hasty Nature  
+- Stored Power  
+- ionwave  
+- Poltergeist  
+- neuronblade  
+
+Arceus @ enigmaplate  
+Ability: Multitype  
+EVs: 20 HP / 152 Atk / 84 Def / 252 Spe  
+Jolly Nature  
+- dimensionbreak  
+- mysteryspeed  
+- heavenlymist  
+- cipherflash  
+
+
+=== [gen6ubers] Latent Power (Meloetta-Shadow) ===
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+Happiness: 250  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Stored Power  
+- Aura Sphere  
+- Poltergeist  
+- neuronblade  
+
+Calyrex-Shadow @ Choice Scarf  
+Ability: antipathy  
+Happiness: 250  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psycho Boost  
+- Astral Barrage  
+- Focus Blast  
+- Parting Shot  
+
+Arceus @ enigmaplate  
+Ability: Multitype  
+EVs: 20 HP / 152 Atk / 84 Def / 252 Spe  
+Jolly Nature  
+- dimensionbreak  
+- mysteryspeed  
+- heavenlymist  
+- cipherflash  
+
+Victreebel (M) @ Nomel Berry  
+Ability: hopesprout  
+Shiny: Yes  
+Happiness: 251  
+EVs: 4 HP / 252 Atk / 252 Def  
+Relaxed Nature  
+IVs: 0 Spe  
+- Apple Acid  
+- brambleblast  
+- Synthesis  
+- Parting Shot  
+
+Giratina @ Chipped Pot  
+Ability: distortionveil  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 Def / 252 SpD / 4 Spe  
+Bold Nature  
+IVs: 29 HP  
+- inertialfield  
+- shadowflame  
+- shadowsend  
+- Uproar  
+
+Meloetta @ Strange Ball  
+Ability: Serene Grace  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Hasty Nature  
+- decibelburst  
+- Storm Throw  
+- crowdcontrol  
+- Extreme Speed  
+
+
+=== [gen6ubers] Clever Reasoning (Meloetta-Shadow, Mewtwo-???) ===
+
+Arceus @ enigmaplate  
+Ability: Multitype  
+EVs: 20 HP / 152 Atk / 84 Def / 252 Spe  
+Jolly Nature  
+- dimensionbreak  
+- mysteryspeed  
+- heavenlymist  
+- cipherflash  
+
+Mewtwo @ Dubious Disc  
+Ability: psychicpower  
+Shiny: Yes  
+Happiness: 250  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- mysterybarrage  
+- pressurewave  
+- psychicfury  
+- cipherflash  
+
+Greninja-Ash (M) @ Dread Plate  
+Ability: Battle Bond  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- secretstrike  
+- waterbreak  
+- Water Shuriken  
+- Flip Turn  
+
+Calyrex-Shadow @ Choice Scarf  
+Ability: antipathy  
+Happiness: 250  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psycho Boost  
+- Astral Barrage  
+- Focus Blast  
+- Parting Shot  
+
+Giratina @ Chipped Pot  
+Ability: distortionveil  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 Def / 252 SpD / 4 Spe  
+Bold Nature  
+IVs: 29 HP  
+- Dragon Breath  
+- shadowflame  
+- shadowsend  
+- Uproar  
+
+Meloetta @ Strange Ball  
+Ability: Serene Grace  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Hasty Nature  
+- decibelburst  
+- Storm Throw  
+- Extreme Speed  
+- folderswitch  
+
+
+=== [gen6ubers] January 6th, 2025 (Phione, Water) ===
+
+Arceus-Dark @ Dread Plate  
+Ability: Multitype  
+EVs: 4 SpA / 252 SpD / 252 Spe  
+Timid Nature  
+- Judgment  
+- Fire Blast  
+- heavenlymist  
+- Uproar  
+
+Phione @ Water Memory  
+Ability: Drizzle  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Surf  
+- housecleaning  
+- bubblespin  
+- wavesplash  
+
+Giratina @ Chipped Pot  
+Ability: distortionveil  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 Def / 252 SpD / 4 Spe  
+Bold Nature  
+IVs: 29 HP  
+- Dragon Breath  
+- shadowflame  
+- shadowsend  
+- Uproar  
+
+Victreebel (M) @ Nomel Berry  
+Ability: hopesprout  
+Shiny: Yes  
+Happiness: 251  
+EVs: 4 HP / 252 Atk / 252 Def  
+Relaxed Nature  
+IVs: 0 Spe  
+- Apple Acid  
+- brambleblast  
+- Synthesis  
+- Parting Shot  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+Happiness: 250  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Stored Power  
+- Grass Knot  
+- Poltergeist  
+- neuronblade  
+
+Zacian-Crowned @ Dive Ball  
+Ability: Intrepid Sword  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 252 Atk / 4 Spe  
+Adamant Nature  
+- hyperrush  
+- Secret Sword  
+- Protect  
+- Swords Dance  
+
+
+=== [gen6ubers] Will to Fight (Suicune-Shadow) ===
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+Happiness: 250  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Stored Power  
+- Grass Knot  
+- Poltergeist  
+- neuronblade  
+
+Kyurem-White @ Power Herb  
+Ability: dragonpower  
+Shiny: Yes  
+EVs: 88 HP / 252 SpA / 168 Spe  
+Modest Nature  
+- celestialstrike  
+- Ice Burn  
+- flashfreeze  
+- Agility  
+
+Giratina @ Chipped Pot  
+Ability: distortionveil  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 Def / 252 SpD / 4 Spe  
+Bold Nature  
+IVs: 29 HP  
+- Dragon Breath  
+- shadowflame  
+- shadowsend  
+- Uproar  
+
+Arceus @ enigmaplate  
+Ability: Multitype  
+EVs: 20 HP / 152 Atk / 84 Def / 252 Spe  
+Jolly Nature  
+- dimensionbreak  
+- mysteryspeed  
+- heavenlymist  
+- cipherflash  
+
+Victreebel (M) @ Nomel Berry  
+Ability: hopesprout  
+Shiny: Yes  
+Happiness: 251  
+EVs: 4 HP / 252 Atk / 252 Def  
+Relaxed Nature  
+IVs: 0 Spe  
+- Apple Acid  
+- brambleblast  
+- Synthesis  
+- Parting Shot  
+
+Suicune @ Strange Ball  
+Ability: Snow Warning  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Hasty Nature  
+- shadowcannon  
+- shadowflame  
+- Shadow Ball  
+- lustrousstream  
+
+
+=== [gen6ubers] Risk and Reward (Phione, Water) ===
+
+Palkia @ Sea Incense  
+Ability: spacepressure  
+Happiness: 251  
+EVs: 116 HP / 44 Def / 252 SpA / 96 Spe  
+Modest Nature  
+- Spacial Rend  
+- warpcutter  
+- Toxic  
+- aquacharge  
+
+Zacian-Crowned @ Dive Ball  
+Ability: Intrepid Sword  
+Shiny: Yes  
+Happiness: 251  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- hyperrush  
+- Secret Sword  
+- Ice Spinner  
+- Swords Dance  
+
+Giratina @ Sweet Apple  
+Ability: distortionveil  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 Def / 252 SpD / 4 Spe  
+Bold Nature  
+IVs: 29 HP  
+- housecleaning  
+- shadowflame  
+- shadowsend  
+- Uproar  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+Happiness: 250  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Stored Power  
+- Grass Knot  
+- Poltergeist  
+- neuronblade  
+
+Phione @ Water Memory  
+Ability: Drizzle  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Surf  
+- bubblespin  
+- slushswitch  
+- wavesplash  
+
+Zoroark-Hisui (M) @ Sitrus Berry  
+Ability: shadowcleaver  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Quick Attack  
+- shadowflame  
+- Pay Day  
+- Agility  
+
+
+=== [gen6ubers] Mirror Herb Psystrike (✗) ===
+
+Mewtwo @ Mirror Herb  
+Ability: psychicpower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Psystrike  
+- pressurewave  
+- ionwave  
+- psychodarts  
+
+Zacian-Crowned @ Dive Ball  
+Ability: Intrepid Sword  
+Shiny: Yes  
+Happiness: 251  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- hyperrush  
+- Secret Sword  
+- Ice Spinner  
+- Swords Dance  
+
+Arceus @ enigmaplate  
+Ability: Multitype  
+EVs: 20 HP / 152 Atk / 84 Def / 252 Spe  
+Jolly Nature  
+- dimensionbreak  
+- mysteryspeed  
+- heavenlymist  
+- cipherflash  
+
+Mew @ Sweet Apple  
+Ability: progenitor  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Calm Nature  
+- wavesplash  
+- mysterybind  
+- heavenlymist  
+- healingwing  
+
+Victreebel (M) @ Nomel Berry  
+Ability: hopesprout  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 4 Atk / 252 Def  
+Relaxed Nature  
+IVs: 0 Spe  
+- Apple Acid  
+- brambleblast  
+- Synthesis  
+- Parting Shot  
+
+Calyrex-Shadow @ Choice Scarf  
+Ability: antipathy  
+Happiness: 251  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psycho Boost  
+- Astral Barrage  
+- Focus Blast  
+- Parting Shot  
 
 
