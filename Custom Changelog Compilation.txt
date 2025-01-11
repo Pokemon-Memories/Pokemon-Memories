@@ -13,7 +13,10 @@ Section A
 Section B
 	• List of Formats
 		• Standard Ubers
+		• Limited Ubers
+		• Ubers Lite
 		• Ultra Assist
+		• Balanced Hackmons
 Section C
 	• Special Mechanics  
 	• Special Mechanic: Overdrive
@@ -934,7 +937,7 @@ Rotom-Frost: 195
 Sunflora-Shadow*: 195
 Zygarde-(10 Percent): 195
 ===============
-Category: 180s (95 Total)
+Category: 180s (96 Total)
 Mewtwo: 187
 Mewtwo-Shadow*: 187
 Braixen: 186
@@ -1019,6 +1022,7 @@ Arceus: 180
 Blaziken-Mega: 180
 Darkrai-Shadow*: 180
 Entei-Shadow*: 180
+Giratina-Origin: 180
 Glastrier: 180
 Keldeo-Ordinary: 180
 Meloetta-Pirouette: 180
@@ -1031,7 +1035,7 @@ Unown: 180
 Zapdos: 180
 Zoroark: 180
 ===============
-Category: 170s (68 Total)
+Category: 170s (67 Total)
 --
 Raichu: 179
 Thundurus-Therian: 179
@@ -1088,7 +1092,6 @@ Arctozolt: 170
 Articuno: 170
 Blaziken: 170
 Ducklett: 170
-Giratina-Origin: 170
 Latias-Mega: 170
 Latias: 170
 Latios-Mega: 170
@@ -4374,10 +4377,8 @@ Dragon Fire
 Dragon Jaw
 Dragon Rage
 Dual Wingbeat
-Gunk Shot
 House Cleaning
 Sweet Retreat
-Icicle Crash
 Inertial Field
 Mind Cleaner
 Mystery Bind
@@ -4392,7 +4393,6 @@ Shadow Flame
 Shadow Steal
 Shatter Night
 Shatter Shade
-Slush Switch
 Stealth Rock
 Sweet Retreat
 Swords Dance
@@ -4401,24 +4401,26 @@ Teleport
 Thunder Wave
 Topsy-Turvy
 Uproar
-Zap Cannon
 
-Giratina Origin    
+Giratina Origin   
 Hp: 250 -> 250 = +0
-Atk: 210 -> 290 = +80
-Def: 235 -> 200 = -35
-SpA: 210 -> 290 = +80
-SpD: 235 -> 200 = -35
-Spe: 160 -> 170 = +10
+Atk: 210 -> 210 = +0
+Def: 235 -> 205 = -30
+SpA: 210 -> 340 = +130
+SpD: 235 -> 215 = -20
+Spe: 160 -> 180 = +20
 BST: 1340 -> 1400
 Ability: Telepathy -> Mold Breaker
 Added Ability: Distortion Power
+
+Griseous Core
+Additional Effect: Giratina-Origin restores 1/4 of its Max HP upon successfully causing the opponent to faint with a Move.
 
 Distortion Veil
 Effect: Opposing Super-Effective Attacks deal x0.75 damage. Uproar has 100% accuracy
 
 Distortion Power
-Effect: Immunity to having stats lowered or experiencing recoil damage.
+Effect: Pokemon's Attack is Multiplied by x1.5. Pokemon's Ghost-Type Moves ignore opposing immunities, and have the Permaburst Effect. Pokemon's Dragon-Type Moves hit opposing Fairy-Type Pokemon Super-Effectively. Eliminates the Pokemon's Ghost-Type Weaknesses. Pokemon's Moves with a Base Power up to 70 receive a x1.5 Base Power Boost. Any opposing Pokemon that successfully causes this Pokemon to faint via an attacking move, receives 1/4 of the Damage they inflicted
 ------------------------------------------------------------------------
 Cresselia    
 Hp: 120 -> 215 = +95
@@ -10997,6 +10999,51 @@ Banlist
 
 * These restrictions do not apply to Unlimited Ubers
 
+
+Limited Ubers   
+Description: A restricted form of Ubers which prohibits the use of any Gimmicks introduced in Pokemon Memories
+Banlist Additions
+- Mechanics
+	- Memorization
+	- Overdrive
+	- Ultra Assist
+
+
+Ubers Lite   
+Description: A variation of Standard Ubers which reduces the power level of the Tier by limiting the usable Pokemon to those at or below the B+ Tier (as determined by the Official Tier List)
+Banlist Additions
+- Abilities
+	- Searing Burst
+	- Soaring Burst
+- Pokemon
+	- Arceus
+	- Arceus-Dark
+	- Arceus-Enigma
+	- Calyrex-Shadow
+	- Darkrai
+	- Eternatus
+	- Giratina
+	- Greninja-Ash
+	- Groudon
+	- Lilligant
+	- Lugia
+	- Melmetal
+	- Meloetta-Shadow
+	- Mew
+	- Mewtwo
+	- Moltres
+	- Necrozma-Ultra
+	- Palkia
+	- Phione
+	- Regigigas-Shadow
+	- Suicune-Shadow
+	- Trevenant
+	- Victreebel
+	- Zacian-Crowned
+	- Zekrom-Shadow
+
+
+
 Ultra Assist   
 Description: An Alternate Format for Standard Ubers which prioritizes using the power of its Signature Mechanic to increase the collective strength of the Team, over the single-Pokemon augmentations imparted by Memorization. Ultra Assists can fulfil various functions, from increasing a Pokemon's Stats, to reducing the power of opposing moves that share Type(s) with the Assist Drive's holder. Certain Pokemon, known as EX-Pokemon, may grant Special Properties beyond the standard effects imparted by Ultra Assist
 Ruleset
@@ -11395,7 +11442,7 @@ Memory Effect: Multiplies Pokemon's Spe by x1.5
 --
 Unseen Fist
 Additional Effect: Pokemon's Multi-Hit Moves always hit the maxmimum number of times
-Memory Effect: Multiplies Pokemon's Atk by x1.2
+Memory Effect: Multiplies Pokemon's Atk by x1.3
 Prohibited Memory Types: Dark, Fairy, Fighting, Steel
 --
 Victory Star
@@ -11987,7 +12034,7 @@ Inferno Beam: Unaffected by Rain
 Psychic Quake: Boosted under Sandstorm
 Psychic Storm: Boosted under Rain and Sandstorm
 Psycho Fire: Boosted under Fire and Sandstorm
-Sandsear Storm: Boosted under Sandstorm and Sun
+Sandsear Storm: Boosted under Sandstorm
 Thermal Press: Becomes a Fire-Type Move and is Boosted under Fire and Sandstorm
 Wildbolt Storm: Boosted under Rain and Tailwind; Does not stack
 ------------------------------------------------------------------------
@@ -15994,7 +16041,7 @@ Base Power: 100 -> 150
 Accuracy: 80 -> 100
 Category: Special -> Varies (Special by Default; Physical if Attack Stat is higher)
 Effect: 30% Burn chance -> 50% chance to partially trap the opponent
-Additional Effect: x1.5 Base Power under Sunlight or Sandstorm
+Additional Effect: This Move is guaranteed to receive the Weather Boost from Sandstorm, even if this move's Type is changed; Attempts to set Stealth Rock on the target's side
 --
 Sand Tomb
 Base Power: 35 -> 105
@@ -17965,7 +18012,6 @@ Category: Urshifu Exclusive Abilities
 --
 Unseen Fist       
 Effect: Contact moves bypass Protect -> Opposing Dragon-Type moves hit each of the Pokemon's Types Semi-Effectively; Pokemon's moves have x1.5 Base Power if the target has any Positive Boosts, and doubled Power against targets with a Choice Item. If an opponent has both a Positive Boost and a Choice Item, the x2 multiplier will be used instead of the x1.5 one.
-Bonus Effect: Pokemon's Atk is Multiplied by x1.2 if it is Memorized.
 ----------------------------------------------------------------------------
 Category: Meowscarada Exclusive Abilities
 --

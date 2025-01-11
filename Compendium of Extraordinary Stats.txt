@@ -90,7 +90,7 @@ Terrakion: 300
 Zacian: 300
 Zapdos-Galar: 300
 
-Special Attack (72 Total)
+Special Attack (73 Total)
 Standard: Equal or Above 300
 
 Mega-Mewtwo-Y: 450
@@ -108,6 +108,7 @@ Charizard-Mega-Y: 359
 Arceus-Psychic: 350
 Calyrex-Shadow: 350
 Sunflora-Shadow*: 350
+Giratina-Origin: 340
 Mewtwo-Mega-X: 340
 Palkia-Shadow*: 340
 Mewtwo: 338
@@ -266,7 +267,7 @@ Relevant - Ubers-Legal Pokemon that are commonly used or otherwise viable in the
 
 Special Attack
 Stat: 338
-Place: 12th (Total); 10th (Megas Excluded); 3rd (Relevant: Gengar-Mega, Calyrex-Shadow, Mewtwo)
+Place: 13th (Total); 11th (Megas Excluded); 3rd (Relevant: Calyrex-Shadow, Giratina-Origin, Mewtwo)
 
 Attack
 Stat: 335

@@ -87,52 +87,51 @@ Banlist: Arceus-Origin, Eternatus-Eternamax, Groudon-Primal, Kyogre-Primal, Mewt
 
 Viability Rankings
 
-S-Tier (5 Total)
+S-Tier (6 Total)
 
 S
 Mewtwo
+Giratina-Origin
 Arceus-???
-Phione
+Phione (S-; Water Memory)
 
 S-
 Victreebel
 Zacian-Crowned (A-; Dive Ball)
 
-A-Tier (24 Total)
+A-Tier (22 Total)
 The Pokemon in this Tier and the following Tiers are listed in Alphabetical Order
 
 A+
 Calyrex-Shadow
-Giratina
 Greninja-Ash
 Meloetta-Shadow*
 Moltres (B; Fire Memory)
 Palkia
-Suicune-Shadow*
-Zacian-Shadow*
 
 A
 Arceus-Dark
+Giratina
 Groudon
-Kyurem-White
-Lilligant (A-; Grass Memory)
-Lugia
 Melmetal
 Necrozma-Ultra
-Rayquaza (B-; Dubious Disc)
-Regigigas-Shadow*
-Trevenant
+Suicune-Shadow*
 
 A-
+Arceus*
 Darkrai
 Dialga
 Eternatus (B-; Dragon Memory + SpA-Positive Nature)
-Kyogre
+Lilligant (A-; Grass Memory)
+Lugia
 Mew
-Victreebel-Shadow*
+Rapidash-Shadow*
+Regigigas-Shadow*
+Trevenant
+Zekrom-Shadow*
 
 
-B-Tier (66 Total)
+B-Tier (68 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
@@ -142,12 +141,14 @@ Dialga-Shadow*
 Dondozo
 Infernape
 Klinklang
+Kyogre
+Kyurem-White
 Lilligant-Hisui
 Palkia-Shadow*
 Porygon-Z
-Rapidash-Shadow*
+Rayquaza
 Tornadus
-Zekrom-Shadow*
+Victreebel-Shadow*
 
 B
 Arceus-Fire
@@ -167,11 +168,11 @@ Meowscarada
 Mismagius
 Sunflora-Shadow*
 Vaporeon
+Zacian-Shadow*
 Zamazenta-Crowned
 Zygarde 10%
 
 B-
-Arceus*
 Arceus-Fairy
 Arceus-Ground
 Arceus-Water
@@ -188,7 +189,7 @@ Golurk
 Keldeo-Resolute
 Kyurem-Black
 Landorus-Therian
-Lopunny-Meg
+Lopunny-Mega
 Lucario-Shadow*
 Lunala
 Mamoswine
@@ -208,7 +209,7 @@ Volcanion
 Xerneas
 
 
-C-Tier (98 Total)
+C-Tier (97 Total)
 
 C+
 Amoonguss
@@ -287,7 +288,6 @@ Electivire
 Emolga
 Entei
 Excadrill
-Giratina-Origin
 Glaceon
 Haxorus
 Heatran

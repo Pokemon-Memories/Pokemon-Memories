@@ -1,5 +1,44 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v2.1.3
+General
+- Mechanics
+	- Overdrive
+		- Corrected an oversight where Pokemon with Secondary Effect-nullifying Abilities such as Sheer Force would prevent this Mechanic from deactivating, leading to an indefinite Overdrive State.
+
+
+Formats
+- Ubers Lite
+	- Implemented
+	- Description: An alternative to Standard Ubers which prohibits the use of Pokemon ranked A- or higher
+
+
+Moves
+- Sandsear Storm
+	- Additional Effect: Boosted under Sunlight -> Attempts to set Stealth Rock
+
+
+Pokemon
+- Giratina-Origin
+	- General
+		- Required Item: Griseous Orb -> Griseous Core
+	- Base Stats
+		- Atk: 290 -> 210
+		- Def: 200 -> 205
+		- SpA: 290 -> 340
+		- SpD: 200 -> 215
+		- Spe: 170 -> 180
+	- Learnset Additions
+		- Dragon Energy
+		- Scale Shot
+	- Learnset Removals
+		- Gunk Shot
+		- Icicle Crash
+		- Slush Switch
+		- Thunder Wave
+		- Zap Cannon
+
+
 Pokemon Memories v2.1.2
 General
 - Animations
