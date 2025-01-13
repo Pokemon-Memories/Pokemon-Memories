@@ -21,7 +21,7 @@ Section C
 	• Viability Rankings
 	• History of the Format
 
-(227 Total)
+(228 Total)
 						      Section A    
 						    Standard Ubers
 						      Highlights
@@ -87,51 +87,49 @@ Banlist: Arceus-Origin, Eternatus-Eternamax, Groudon-Primal, Kyogre-Primal, Mewt
 
 Viability Rankings
 
-S-Tier (6 Total)
+S-Tier (7 Total)
 
-S
+S+
 Mewtwo
 Giratina-Origin
-Arceus-???
-Phione (S-; Water Memory)
 
-S-
-Victreebel
+S
+Phione (S-; Water Memory)
+Suicune-Shadow*
 Zacian-Crowned (A-; Dive Ball)
 
-A-Tier (22 Total)
+S-
+Arceus-???
+Victreebel
+
+A-Tier (17 Total)
 The Pokemon in this Tier and the following Tiers are listed in Alphabetical Order
 
 A+
+Arceus-Dark
 Calyrex-Shadow
 Greninja-Ash
-Meloetta-Shadow*
 Moltres (B; Fire Memory)
 Palkia
+Rapidash-Shadow*
 
 A
-Arceus-Dark
 Giratina
 Groudon
 Melmetal
+Mew
 Necrozma-Ultra
-Suicune-Shadow*
 
 A-
-Arceus*
+Braixen
 Darkrai
 Dialga
-Eternatus (B-; Dragon Memory + SpA-Positive Nature)
-Lilligant (A-; Grass Memory)
-Lugia
-Mew
-Rapidash-Shadow*
+Meloetta-Shadow*
 Regigigas-Shadow*
-Trevenant
 Zekrom-Shadow*
 
 
-B-Tier (68 Total)
+B-Tier (72 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
@@ -143,14 +141,18 @@ Infernape
 Klinklang
 Kyogre
 Kyurem-White
+Lilligant
 Lilligant-Hisui
+Lugia
 Palkia-Shadow*
 Porygon-Z
 Rayquaza
 Tornadus
+Trevenant
 Victreebel-Shadow*
 
 B
+Arceus*
 Arceus-Fire
 Arceus-Grass
 Arceus-Ghost
@@ -179,12 +181,12 @@ Arceus-Water
 Azumarill
 Azumarill-Shadow*
 Bellsprout
-Braixen
 Cobalion
 Cryogonal
 Delphox
 Deoxys-Attack
 Empoleon
+Eternatus
 Golurk
 Keldeo-Resolute
 Kyurem-Black
@@ -209,7 +211,7 @@ Volcanion
 Xerneas
 
 
-C-Tier (97 Total)
+C-Tier (98 Total)
 
 C+
 Amoonguss
@@ -269,6 +271,7 @@ Virizion
 Weavile
 Yveltal
 Zamazenta
+Zebstrika
 Zekrom
 Zoroark-Hisui
 Zygarde

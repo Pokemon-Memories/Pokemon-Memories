@@ -1,5 +1,103 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v2.1.4
+General
+- Animations
+	- The following Moves have received Animations: "Circuit Break", "Impact Bolt"
+
+
+Formats
+- Ubers
+	- Standard Ubers
+		- Banlist Additions
+			- Mewtwo Clause
+				- Mewtwo cannot hold a Fairy Memory
+				- *Explanation: With the arrival of the newly buffed Giratina-Origin, Mewtwo-Fairy made a thunderous return to a Metagame that was no longer--if ever prepared to handle it. This Set has no Counters: Prism Strike/Memory Blast and Psychic Fury destroy the Meta at large, Pressure Wave corrodes the Pokemon bulky enough to otherwise survive its Fairy-Types Attacks, and Psycho Fire shreds through any opposing Steels that manage to slip through the cracks. In addition to this, it has "Base" Mewtwo's entire suite of coverage moves to fall back on, alongside something that normal Mewtwo doesn't have: Sparkle Wave--which allows Mewtwo-Fairy to land free and unpunishable Chip-Damage on the few threats that it may not be able to defeat outright--at least, not immediately--and Matchup-fish for a potentially safer opponent to sick one of its allies against.
+	- Ubers Lite
+		- Banlist Additions
+			- Braixen
+			- Deoxys-Attack*
+		- Banlist Removals
+			- Arceus
+			- Eternatus
+			- Lilligant
+			- Lugia
+			- Trevenant
+		- Note: Pokemon marked by * are Tiered irrespective of their Placement in Standard Ubers
+
+
+Abilities
+- Distortion Power
+	- Pokemon no longer ignores its Ghost-Type Weaknesses, and will now be weak to the relevant Type(s) again
+	- Pokemon's Dragon-Type Moves no longer hit opposing Fairy-Type Pokemon Super-Effectively
+
+
+Items
+- Griseous Orb
+	- Health Restoration: 1/4 -> 1/10
+- Magost Berry
+	- Effect: Pokemon switches out into an Ally of Choice upon successfully causing the opponent to Flinch
+
+
+Moves
+- Circuit Break
+	- Implemented
+	- Base Power: 80
+	- Accuracy: 100
+	- Category: Physical
+	- Contact: Yes
+	- Effect: Guaranteed Chance to flinch the target if they have not already been hit by this move while on the field.
+	- Priority: 0
+	- PP: 5
+	- Type: Electric
+	- Users: Zebstrika
+- Electro Strike
+	- Base Power: 100 -> 120
+- Impact Bolt
+	- Implemented
+	- Base Power: 150
+	- Accuracy: 100
+	- Category: Physical
+	- Contact: __
+	- Effect: Hits opposing Steel-Types Super-Effectively
+	- Priority: 0
+	- PP: 5
+	- Target: All Adjacent Foes
+	- Type: Electric
+	- Users: Arceus, Kyurem, Luxray, Mewtwo, Mew, Tapu Koko, Thundurus, Zekrom
+- Ion Wave
+	- Unlearned from the following Pokemon: Luxray, Zekrom
+- Outrage
+	- Base Power: 180 -> 190
+- Raging Fury
+	- Base Power: 180 -> 190
+
+
+Pokemon
+- Deoxys
+	- General
+		- Learnset Additions
+			- Electro Ball
+	- Deoxys-Attack
+		- Neuron Blade
+
+- Zebstrika
+	- Base Stats
+		- Hp: 75 -> 155 = +80
+		- Atk: 100 -> 265 = +165
+		- Def: 63 -> 183 = +120
+		- SpA: 80 -> 240 = +160
+		- SpD: 63 -> 168 = +105
+		- Spe: 116 -> 185 = +69
+		- BST: 497 -> 1196
+	- Learnset Additions
+		- Circuit Break
+		- Electro Strike
+		- Impact Bolt
+		- Zing Zap
+
+
+
 Pokemon Memories v2.1.3
 General
 - Mechanics

@@ -493,7 +493,8 @@ Dondozo
 Mismagius
 Scovillain
 Shiinotic
-Total: 401
+Zebstrika
+Total: 402
 ============================================================
 Section A   
 Base Stat Total Compendium  
@@ -657,6 +658,7 @@ Wigglytuff: 			BST: 1200
 =============================================
 1100s
 Meowscarada: 			BST: 1198
+Zebstrika: 			BST: 1196
 Mega Gallade: 			BST: 1195
 Shaymin: 			BST: 1195
 Zygarde (10 Percent): 		BST: 1195
@@ -937,7 +939,7 @@ Rotom-Frost: 195
 Sunflora-Shadow*: 195
 Zygarde-(10 Percent): 195
 ===============
-Category: 180s (96 Total)
+Category: 180s (98 Total)
 Mewtwo: 187
 Mewtwo-Shadow*: 187
 Braixen: 186
@@ -969,11 +971,13 @@ Rotom-Mow: 185
 Sawsbuck-Autumn: 185
 Sawsbuck-Summer: 185
 Sawsbuck-Winter: 185
+Zebstrika: 185
 Bellsprout: 184
 Keldeo-Resolute: 184
 Luxray: 184
 Suicune-Shadow*: 184
 Zoroark-Hisui: 184
+Azelf: 183
 Infernape: 183
 Lopunny-Mega: 183
 Marshadow: 183
@@ -1035,7 +1039,7 @@ Unown: 180
 Zapdos: 180
 Zoroark: 180
 ===============
-Category: 170s (67 Total)
+Category: 170s (66 Total)
 --
 Raichu: 179
 Thundurus-Therian: 179
@@ -1073,7 +1077,6 @@ Zarude: 175
 Zekrom: 175
 Decidueye: 174
 Porygon2: 174
-Azelf: 173
 Entei: 173
 Suicune: 173
 Xurkitree: 173
@@ -1493,6 +1496,7 @@ Ice Twister
 Icy Wind
 Inertial Field
 Inferno Beam
+Impact Bolt
 Imprision
 Ion Wave
 Knock Off
@@ -2574,6 +2578,7 @@ House Cleaning
 Ice Ball
 Ice Twister
 Inertial Field
+Impact Bolt
 Jungle Healing
 Leaf Switch
 Leech Seed
@@ -3581,6 +3586,7 @@ Defog
 Dynamic Punch
 Earth Power
 Earthquake
+Electro Ball
 Flame Burst
 Heal Bell
 Heat Crash
@@ -3593,10 +3599,12 @@ Mud Sport
 Mystery Bind
 Mystery Slash
 Mystery Sphere
+Neuron Blade
 Outrage
 Payback
 Poison Tail
 Power Whip
+Psychic Noise
 Psycho Blitz
 Rapid Spin
 Shatter Beam
@@ -3612,7 +3620,6 @@ Situationally Learned Moves
 Dark Pulse (Users: Deoxys, Deoxys-Defense, Deoxys-Speed)
 Diffusion Wave (Users: Deoxys-Defense)
 Lash Out (Users: Deoxys, Deoxys-Defense)
-Neuron Blade (Users: Deoxys, Deoxys-Defensive, Deoxys-Speed)
 Receiving Strike (Users: Deoxys)
 Shadow Ball (Users: Deoxys, Deoxys-Defense, Deoxys-Speed)
 Shattered Earth (Users: Deoxys, Deoxys-Defense)
@@ -3771,7 +3778,7 @@ New Moves
 Double Team
 Frigid Blast
 Ice Spinner
-Ion Wave
+Impact Bolt
 Mystery Slash
 Parabolic Charge
 Power Trip
@@ -4414,13 +4421,13 @@ Ability: Telepathy -> Mold Breaker
 Added Ability: Distortion Power
 
 Griseous Core
-Additional Effect: Giratina-Origin restores 1/4 of its Max HP upon successfully causing the opponent to faint with a Move.
+Additional Effect: Giratina-Origin restores 1/10 of its Max HP upon successfully causing the opponent to faint with a Move.
 
 Distortion Veil
 Effect: Opposing Super-Effective Attacks deal x0.75 damage. Uproar has 100% accuracy
 
 Distortion Power
-Effect: Pokemon's Attack is Multiplied by x1.5. Pokemon's Ghost-Type Moves ignore opposing immunities, and have the Permaburst Effect. Pokemon's Dragon-Type Moves hit opposing Fairy-Type Pokemon Super-Effectively. Eliminates the Pokemon's Ghost-Type Weaknesses. Pokemon's Moves with a Base Power up to 70 receive a x1.5 Base Power Boost. Any opposing Pokemon that successfully causes this Pokemon to faint via an attacking move, receives 1/4 of the Damage they inflicted
+Effect: Pokemon's Attack is Multiplied by x1.5. Pokemon's Ghost-Type Moves ignore opposing immunities, and have the Permaburst Effect. Pokemon's Moves with a Base Power up to 70 receive a x1.5 Base Power Boost. Any opposing Pokemon that successfully causes this Pokemon to faint via an attacking move, receives 1/4 of the Damage they inflicted
 ------------------------------------------------------------------------
 Cresselia    
 Hp: 120 -> 215 = +95
@@ -4706,6 +4713,7 @@ Hyper Drill
 Ice Hammer
 Ice Twister
 Icicle Crash
+Impact Bolt
 Infinite Velocity
 Leaf Switch
 Lightning Strike
@@ -5829,6 +5837,7 @@ Dual Wingbeat
 Electro Strike
 Focus Blast
 Ice Punch
+Impact Bolt
 Ion Wave
 Lash Out
 Low Sweep
@@ -5917,7 +5926,7 @@ Flying Deluge
 Frost Slide
 Howl
 Ice Punch
-Ion Wave
+Impact Bolt
 Pincer Press
 Rising Voltage
 Royal Rampage
@@ -5996,6 +6005,7 @@ Ice Shard
 Ice Twister
 Icicle Crash
 Icicle Spear
+Impact Bolt
 Mystery Barrage
 Mystery Bind
 Mystery Slash
@@ -9286,6 +9296,7 @@ Close Combat
 Earth Power
 Ensnarement
 Electro Strike
+Impact Bolt
 Magnitude
 Moonblast
 Nasty Plot
@@ -9958,6 +9969,7 @@ New Moves
 Agility
 Covert Switch
 Cross Poison
+Explosion
 Flip Kick
 Force Palm
 Giga Impact
@@ -10886,6 +10898,24 @@ Trick Retreat
 
 Illuminate
 Effect: Multiplies the Base Power of the Pokemon's Electric, Fairy, and Fire-Type Moves by x1.3, and halves the Base Power of opposing Dark-Type and Poison-Type Moves.
+-----------------------------------------------------------------------------
+Zebstrika      
+Hp: 75 -> 155 = +80
+Atk: 100 -> 265 = +165
+Def: 63 -> 183 = +120
+SpA: 80 -> 240 = +160
+SpD: 63 -> 168 = +105
+Spe: 116 -> 185 = +69
+BST: 497 -> 1196
+Ability: Sap Sipper -> Volt Surge
+New Moves
+Circuit Break
+Electro Strike
+Impact Bolt
+Zing Zap
+
+Volt Surge (New Ability)
+Effect: Pokemon's Electric-Type Moves ignore all opposing Resistances; Pokemon's Switching Moves have their Base Power doubled
 =========================================================
 Template Compendium
 Template Stats   
@@ -10964,7 +10994,7 @@ Standard Ubers
 Ruleset
 - Memory Clause: Only one Memory Disc is allowed per Team*
 - Deoxys-Attack Clause: Deoxys-Attack cannot hold a Dubious Disc, or a Fighting Memory*
-- Mewtwo Clause: Mewtwo cannot hold a Dark Memory*
+- Mewtwo Clause: Mewtwo cannot hold a Dark Memory, Fairy Memory, or Psychic Memory*
 - Shadow Mewtwo Clause: Mewtwo cannot hold a Strange Ball.*
 - Calyrex-Shadow Clause: Calyrex-Shadow cannot hold a Ghost Memory*
 - Porygon-Z Clause: Porygon-Z cannot hold a Dubious Disc.*
@@ -11011,17 +11041,19 @@ Banlist Additions
 
 Ubers Lite   
 Description: A variation of Standard Ubers which reduces the power level of the Tier by limiting the usable Pokemon to those at or below the B+ Tier (as determined by the Official Tier List)
+Ruleset
+- Rayquaza Clause: Rayquaza cannot hold a Dubious Disc
 Banlist Additions
 - Abilities
 	- Searing Burst
 	- Soaring Burst
 - Pokemon
-	- Arceus
 	- Arceus-Dark
 	- Arceus-Enigma
+	- Braixen
 	- Calyrex-Shadow
 	- Darkrai
-	- Eternatus
+	- Deoxys-Attack*
 	- Giratina
 	- Greninja-Ash
 	- Groudon
@@ -11037,10 +11069,11 @@ Banlist Additions
 	- Phione
 	- Regigigas-Shadow
 	- Suicune-Shadow
-	- Trevenant
 	- Victreebel
 	- Zacian-Crowned
 	- Zekrom-Shadow
+
+* These Pokemon are Tiered irrespective to their Placement in Standard Ubers
 
 
 
@@ -13068,6 +13101,17 @@ PP: 3 (Static)
 Target: All Adjacent Foes
 Type: ???
 --
+Circuit Break (New Move)
+Base Power: 80
+Accuracy: 100
+Category: Physical
+Contact: Yes
+Effect: Guaranteed Chance to flinch the target if they have not already been hit by this move while on the field.
+Priority: +0
+PP: 5
+Target: Normal
+Type: Electric
+--
 Circle Throw
 Base Power: 60 -> 100
 Added Effect: Raises user's Attack by 1 stage.
@@ -14487,10 +14531,21 @@ Icy Wind
 Base Power: 55 -> 80
 Accuracy: 95
 --
+Impact Bolt (New Move)
+Base Power: 150
+Accuracy: 100
+Category: Physical
+Contact: __
+Effect: Hits opposing Steel-Types Super-Effectively
+Priority: +0
+PP: 5
+Target: All Adjacent Foes
+Type: Electric
+--
 Ion Wave (New Move)
 Base Power: 150
 Accuracy: 100
-Category: Varies (Special by Default; Physical if Attack Stat is higher)
+Category: Special
 Contact: __
 Effect: Hits opposing Steel-Type Pokemon Super-Effectively
 Priority: +0
@@ -15066,7 +15121,7 @@ Base Power: 110 -> 160
 Accuracy: 85 -> 100
 --
 Outrage
-Base Power: 120 -> 180
+Base Power: 120 -> 190
 Secondary Effect: Locks user and causes confusion
 Recoil: __ -> 1/20
 PP: 10 -> 5
@@ -15622,7 +15677,7 @@ Rage
 Base Power: 20 -> 80
 --
 Raging Fury
-Base Power: 120 -> 180
+Base Power: 120 -> 190
 Additional Effect: Ignores the Damage-Modifying Properties of Rain
 --
 Rainbow Wave (New Move)
@@ -18421,6 +18476,9 @@ Effect: Increases the minimum amount of hits able to be landed on a Multi-Hit Mo
 Mago Berry
 Effect: Heals when holder has 1/2 hp or less
 Restoration: 1/8 -> 1/3
+--
+Magost Berry
+Effect: Pokemon switches out into an Ally of Choice upon successfully causing the opponent to Flinch
 --
 Metal Coat
 Effect: Heals Steel-Types by 1/10 Max Hp at the end of each turn.
