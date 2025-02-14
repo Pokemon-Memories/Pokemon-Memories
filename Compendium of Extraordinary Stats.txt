@@ -26,6 +26,7 @@ Calyrex-Ice: 350
 Mimikyu-Busted: 350
 Buzzwole: 339
 Necrozma-Ultra: 337
+Darkrai-Shadow*: 336
 Blaziken-Mega: 335
 Mewtwo: 335
 Mewtwo-Shadow*: 335
@@ -45,7 +46,6 @@ Palkia: 320
 Zacian-Crowned: 320
 Zarude-Dada: 320
 Zekrom: 320
-Darkrai-Shadow*: 316
 Lopunny-Mega: 316
 Arcanine-Hisui: 315
 Bellsprout: 315
@@ -90,7 +90,7 @@ Terrakion: 300
 Zacian: 300
 Zapdos-Galar: 300
 
-Special Attack (73 Total)
+Special Attack (74 Total)
 Standard: Equal or Above 300
 
 Mega-Mewtwo-Y: 450
@@ -108,11 +108,13 @@ Charizard-Mega-Y: 359
 Arceus-Psychic: 350
 Calyrex-Shadow: 350
 Sunflora-Shadow*: 350
+Darkrai-Shadow*: 340
 Giratina-Origin: 340
 Mewtwo-Mega-X: 340
 Palkia-Shadow*: 340
 Mewtwo: 338
 Blaziken-Mega: 335
+Victreebel-Shadow*: 334
 Necrozma-Ultra: 333
 Lucario-Shadow*: 330
 Meloetta-Shadow*: 330
@@ -129,7 +131,6 @@ Reshiram: 320
 Bellsprout: 315
 Diancie-Mega: 315
 Spectrier: 315
-Victreebel-Shadow*: 314
 Keldeo-Resolute: 310
 Scovillain: 308
 Naganadel: 307

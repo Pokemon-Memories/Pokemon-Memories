@@ -1,5 +1,299 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v2.1.5
+General
+- Animations
+	- The following Moves have received Animations: "Fury Slash"
+	- The following Moves have received modified Animations: "Ascending Power", "Sludge Rush"
+- Mechanics
+	- Memorization
+		- Memory Abilities
+			- Ethereal Sky
+				- Additional Effect: Pokemon receives x0.67 Damage from opposing Priority-Moves
+			- Spectral Force
+				- Damage-Based Healing: 1/10th -> 1/5th
+	- Overdrives
+		- Impact Absorber
+			- Corrected an error where this Overdrive would deactivate from Passive Damage (such as Posion Damage)
+
+Formats
+- Ubers
+	- Ubers Lite
+		- Banlist Additions
+			- Moves
+				- Shadow Cannon*
+			- Pokemon
+				- Calyrex-Shadow*
+				- Dialga-Shadow*
+				- Kyurem-Black
+				- Regigigas-Shadow*
+		- Banlist Removals
+			- Pokemon
+				- Darkrai
+				- Braixen
+				- Giratina
+				- Melmetal
+				- Mew
+		- Note: Entriess marked by * are Tiered irrespective of their Status in Standard Ubers
+
+
+Abilities
+- Dark Aura
+	- Damage-Based Healing: 1/10th Damage Inflicted -> 1/7th Damage Inflicted
+		- Also applies to the Memory Variant of this Ability
+- Distortion Power
+	 - Base Power Boost for BP <= 70 Moves: x1.5 -> x1.2
+- Fairy Spring
+	- Dark-Type Recoil: x2 Damage Inflicted -> x1 Damage Inflicted
+- Frosty Veil
+	- Passive Healing upon switching out: 1/8 -> 1/4
+- Golden Touch
+	- Additional Effect: Hits opposing Ghost-Type Pokemon with Resisted Effectiveness. If the Pokemon is holding an Up-Grade, it will hit them neutrally
+- Heartless
+	- Additional Effect: If this Pokemon is hit by an opposing Priority Move, this Pokemon's next attack receives a 50% Power Boost.
+- Hightened Mind
+	- Mechanics
+		- The Bonus granted by K.O.'ing an opposing Pokemon on the Turn of this Ability's Activation has been removed, now limiting the Maximum Number of K.O.'s during this Ability's Active Phase to 2, down from 3.
+- Mutation
+	- Psychic-Type Move Power Boost: x1.3 -> x1.2
+- Seed Setter
+	- Effect: Immediately attempts to use Leech Seed on the opponent after successfully landing a Damaging Move.
+- Telepathy
+	- Additional Effect: Opposing Priority-Moves deal x0.67 Damage -> Pokemon is switched out into an Ally of choice upon successfully using a Hazard-Move
+- Water Shed
+	- Implemented
+	- Effect: Opposing Pokemon receive damage equal to 1/2 of the damage inflicted upon attacking this Pokemon with a Water-Type Move
+
+
+
+Items
+- Big Nugget
+	- Fling Base Power: 180
+	- Effect: Raises Meowth's Attack and Speed by 1 stage each upon successfully inflicting the Flinch Status. This Item will activate even if the Flinch does not actually take effect (e.g. an opposing Pokemon not flinching due to being switched in against Fake Out). Single Use.
+- Moon Ball
+	- Effect: __ -> Adds the Fairy-Type to Cresselia, and restores 1/10 of its Max Hp at the end of each Turn
+
+
+
+Moves
+- Ascending Power
+	- Base Power: 180 -> 160
+	- Additional Effect: Arceus-Dragon is granted a once-per Switch-In Boost to its Attack and Speed. These Boosts are applied seperately and each respective one disappears after the Pokemon successfully K.O.'s two opposing Pokemon
+	- Attrition Point: __ -> +1 (For each stat)
+- Bubble Spin
+	- Base Power: 90 -> 70
+- Comeuppance
+	- Corrected an oversight where this move did not ignore Effectiveness-Modifying Abilities
+- Cosmic Starfall
+	- SpD Lowering Chance: 100% -> 10%
+- Doom Desire
+	- Priority: 2 -> 0
+- Fury Swipes
+	- Minimum Hits: 2 -> 3
+- Hydronova
+	- Implemented
+	- Base Power: 200
+	- Accuracy: 100
+	- Category: Special
+	- Contact: __
+	- Effect: Base Power is halved if used twice in succession.
+	- Priority: 0
+	- PP: 5
+	- Target: All Adjacent Foes
+	- Type: Water
+	- Users: Kyogre, Lunala, Manaphy
+- Leaf Switch
+	- Corrected an oversight where this move did not receive its intended 30% Flinch Chance
+- Mega Drain
+	- Base Power: 90 -> 120
+	- Category: Special -> Physical
+- Menacing Moonraze Maelstrom
+	- Implemented
+	- Base Power: 300
+	- Accuracy: __
+	- Category: Special
+	- Contact: __
+	- Effect: Effect: Ignores opposing Abilities. Raises the user's Speed Stat by 1 Stage for Three Turns. Moon Stone is destroyed upon successfully using this move.
+	- Attrition: +1
+	- Restrictions: Can only be used by Lunala holding a Moon Stone. Becomes Moongeist Beam if the conditions aren't meant
+	- Priority: 0
+	- PP: 10
+	- Type: Ghost
+	- Users: Lunala
+- Oblivion Wing
+	- Base Power: 150 -> 160
+- Psychic Burst
+	- Implemented
+	- Base Power: 180
+	- Accuracy: 100
+	- Category: Varies (Special by Default; Physical if the Pokemon's Attack Stat is higher)
+	- Contact: __
+	- Effect: This Move's Type changes to match the Pokemon's Type. Can only be used by Mewtwo.
+	- Priority: 0
+	- PP: 5
+	- Type: Psychic
+	- Users: Mewtwo
+- Rising Power
+	- Additional Effect: x1.5 Base Power when used by Arceus-Fighting
+- Scale Shot
+	- Base Power: 65 -> 68
+- Shadow Drift
+	- Implemented
+	- Base Power: 80
+	- Accuracy: 100
+	- Category: Varies (Special by Default; Physical if the Pokemon's Attack Stat is higher)
+	- Contact: __
+	- Effect: Hits every Type except for ???-Types Super-Effectively when any form of Weather is active. This move will only hit one of the Pokemon's Type(s) Super-Effectively, and will not have quadrupled effectiveness on Pokemon with multiple Types. Any Type(s) that are added to a Pokemon through external means (e.g. Items, Abilities, etc) are not affected by this move.
+	- Restrictions: This move can only be used by Mewtwo
+	- Priority: 1
+	- PP: 5
+	- Type: Ghost
+	- Users: Mewtwo
+- Silk Bomb
+	- SpD Lowering Chance: 100% -> 30%
+	- Additional Effect: Hits opposing Steel-Type Pokemon Super-Effectively
+	- Miscellaneous: Corrected an issue where this move had the "No Swap" Effect (Prevents a move from triggering a Pokemon's Category-Based Forme Change Ability)
+- Stealth Rock
+	- Damage Ceiling: 1/3 -> 1/4
+- Techno Blast
+	- Corrected an oversight where this move's Type would not change to match the holder's Drive(s), as was intended
+- Toaster Bomb
+	- Base Power: 100 -> 80
+- Viral Load
+	- Implemented
+	- Base Power: 100
+	- Accuracy: 90
+	- Category: Varies (Special by Default; Physical if the Pokemon's Attack Stat is higher)
+	- Contact: Yes
+	- Effect: Attempts to set Toxic Spikes; Doubled Base Power if the Pokemon's HP is equal or greater than 1/2 of its Max HP. This move will always receive STAB when used by Deoxys-Attack
+	- Notable Properties: Counts as a Hazard-Move; Does not count as a Burst-Move.
+	- Priority: 0
+	- PP: 5
+	- Type: Poison
+	- Users: Deoxys-Attack
+- Water Shuriken
+	- Base Power: 80 -> 70
+
+
+Pokemon
+- Articuno-Galar
+	- Learnset Additions
+		- Psychic Whirl
+		- Sweet Retreat
+		- Uproar
+- Azelf
+	- Base Stats
+		- SpD: 167 -> 166
+		- Spe: 183 -> 184
+	- Learnset Additions
+		- Comeuppance
+- Bellsprout Line
+	- Learnset Additions
+		- Shadow Flame
+		- Shadow Rush
+- Deoxys
+	- Universal
+		- Learnset Additions
+			- Shadow Punch
+	- Deoxys-Attack
+		- Learnset Additions
+			- Recompense
+- Dialga
+	- Abilities
+		- Corrected an oversight where Pressure had not been replaced with Antipathy, as intended
+- Eternatus
+	- Base Forme
+		- Base Stats
+			- Atk: 272 -> 262
+			- Spe: 163 -> 173
+	- Eternatus-Eternamax
+		- Base Stats
+			- Atk: 272 -> 262
+			- Spe: 163 -> 173
+- Gyarados
+	- Learnset Additions
+		- Aromatic Mist
+- Kyogre
+	- Learnset Additions
+		- Compact Stream
+		- House Cleaning
+- Landorus
+	- Learnset Additions
+		- Tornado Turn
+- Lunala
+	- Learnset Additions
+		- Armor Smash
+		- Howl
+- Mew
+	- Learnset Additions
+		- Aqua Guard
+		- Armor Press
+		- Blazing Velocity
+		- Compact Stream
+		- Crystal Rush
+		- Days' Feast
+		- Double Aura Cannon
+		- Fairy Wind
+		- Fishious Rend
+		- Flash Freeze
+		- Shadow Flame
+		- Shield Dance
+		- Silk Bomb
+- Necrozma
+	- Necrozma-Dusk-Mane
+		- Learnset Additions
+			- Meteor Mash
+- Shaymin
+	- Base Forme
+		- Ability: Stamina -> Water Shed
+		- Base Stats
+			- Spe: 100 -> 165
+	- Sky Forme
+		- Ability: Serene Grace -> Seed Setter
+		- Base Stats
+			- Spe: 182 -> 184
+- Slowking
+	- Base Stats
+		- Hp: 160 -> 210
+		- Atk: 240 -> 280
+		- SpA: 240 -> 280
+- Solgaleo
+	- Learnset Additions
+		- Aromatic Mist
+		- Shift Gear
+	- Learnset Removals
+		- Morning Sun
+- Yveltal
+	- Learnset Additions
+		- Chaos Switch
+		- Comeuppance
+- Zamazenta
+	- Base Stats
+		- SpA: 33 -> 35
+		- Spe: 186 -> 184
+- Zapdos-Galar
+	- Learnset Additions
+		- Receiving Strike
+
+
+Shadow Pokemon
+- Darkrai-Shadow
+	- Night Shadow
+		- Penalty: No longer prevents the Pokemon from boosting its Speed Stat
+	- Base Stats
+		- Atk: 316 -> 336
+		- SpA: 320 -> 340
+		- SpD: 195 -> 153
+		- Spe: 180 -> 182
+- Victreebel-Shadow
+	- Mirror Shadow
+		- Additional Effect: Pokemon's Moves receive an additional x1.3 Base Power when at or above 1/2 of its Max Hp. Pokemon's Moves have Perfect Accuracy. Pokemon automatically switches out upon successfully using a Hazard-Move.
+	- Base Stats
+		- Def: 205 -> 185
+		- SpA: 314 -> 334
+
+
+
 Pokemon Memories v2.1.4
 General
 - Animations

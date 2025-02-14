@@ -5,17 +5,18 @@ Section A
 	• Highlights
 	• Viability Rankings
 	• Memorization Ratings
-	• Kyogre Check (Sponsors) Tier List
 	• Setpedia
 	• Mewtwo Setpedia Entry
 	• Mewtwo Microanalysis
 	• Quick Sets
 	• Laboratory
 Section B
+	• Viability Rankings
+Section C
 • Ultra Assist
 	• Viability Rankings
 	• Pokemon Spotlight
-Section C
+Section D
 • Limited Ubers 
 	• Highlights
 	• Viability Rankings
@@ -24,7 +25,7 @@ Section C
 (228 Total)
 						      Section A    
 						    Standard Ubers
-						      Highlights
+						      Highlights        
 Description: Certain Pokemon are given "Highlights", which will be posted here. A Pokemon may be highlighted from any Tier, however, typically, they are chosen from the S-Tier. The Highlighted Pokemon's attributes are listed in the following order: Species, [Type], (Stats), Abilities, and [Viable Memory Discs].
 
 
@@ -85,71 +86,72 @@ Current Tiered Shadow Pokemon: Azumarill-Shadow, Darkrai-Shadow, Dialga-Shadow, 
 
 Banlist: Arceus-Origin, Eternatus-Eternamax, Groudon-Primal, Kyogre-Primal, Mewtwo-Mega-X, Mewtwo-Mega-Y, Mewtwo-Shadow*, Rayquaza-Mega, Stakataka-Shadow*
 
-Viability Rankings
+Viability Rankings          
 
-S-Tier (7 Total)
+S-Tier (6 Total)
 
 S+
-Mewtwo
-Giratina-Origin
+Arceus-???
+Mewtwo (S; Dubious Disc)
 
 S
-Phione (S-; Water Memory)
 Suicune-Shadow*
-Zacian-Crowned (A-; Dive Ball)
+Necrozma-Ultra
 
 S-
-Arceus-???
-Victreebel
+Giratina-Origin
+Zacian-Crowned (B+; Dive Ball)
 
-A-Tier (17 Total)
+A-Tier (12 Total)
 The Pokemon in this Tier and the following Tiers are listed in Alphabetical Order
 
 A+
+Kyurem-Black
+Phione
+Victreebel
+Zekrom-Shadow*
+
+A
 Arceus-Dark
 Calyrex-Shadow
-Greninja-Ash
-Moltres (B; Fire Memory)
+Dialga-Shadow*
+Meloetta-Shadow*
 Palkia
 Rapidash-Shadow*
 
-A
-Giratina
-Groudon
-Melmetal
-Mew
-Necrozma-Ultra
-
 A-
-Braixen
-Darkrai
-Dialga
-Meloetta-Shadow*
-Regigigas-Shadow*
-Zekrom-Shadow*
+Greninja-Ash
+Groudon
+Lilligant-Hisui
 
 
-B-Tier (72 Total)
+B-Tier (73 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
 Arcanine-Hisui
+Arceus-Water
+Braixen
+Darkrai
 Darkrai-Shadow*
-Dialga-Shadow*
+Deoxys-Attack
+Dialga
 Dondozo
 Infernape
 Klinklang
 Kyogre
 Kyurem-White
 Lilligant
-Lilligant-Hisui
 Lugia
+Melmetal
+Mew
 Palkia-Shadow*
 Porygon-Z
 Rayquaza
 Tornadus
 Trevenant
 Victreebel-Shadow*
+Yveltal
 
 B
 Arceus*
@@ -157,6 +159,7 @@ Arceus-Fire
 Arceus-Grass
 Arceus-Ghost
 Articuno
+Bellsprout
 Cherrim-Sunshine
 Deoxys
 Deoxys-Speed
@@ -168,6 +171,8 @@ Lucario-Mega
 Meloetta
 Meowscarada
 Mismagius
+Moltres
+Regigigas-Shadow*
 Sunflora-Shadow*
 Vaporeon
 Zacian-Shadow*
@@ -177,19 +182,15 @@ Zygarde 10%
 B-
 Arceus-Fairy
 Arceus-Ground
-Arceus-Water
 Azumarill
 Azumarill-Shadow*
-Bellsprout
 Cobalion
 Cryogonal
 Delphox
-Deoxys-Attack
 Empoleon
 Eternatus
 Golurk
 Keldeo-Resolute
-Kyurem-Black
 Landorus-Therian
 Lopunny-Mega
 Lucario-Shadow*
@@ -205,13 +206,9 @@ Rotom-Fan
 Sandslash-Alola
 Skarmory
 Spectrier
-Urshifu-R
-Urshifu-S
-Volcanion
-Xerneas
 
 
-C-Tier (98 Total)
+C-Tier (102 Total)
 
 C+
 Amoonguss
@@ -226,6 +223,7 @@ Darmanitan-Galar-Zen
 Garchomp
 Gardevoir
 Genesect
+Giratina
 Glastrier
 Gyarados-Mega
 Ho-Oh
@@ -266,10 +264,13 @@ Thundurus
 Thundurus-Therian
 Torterra
 Toxapex
+Urshifu-R
+Urshifu-S
 Victini
 Virizion
+Volcanion
 Weavile
-Yveltal
+Xerneas
 Zamazenta
 Zebstrika
 Zekrom
@@ -356,7 +357,7 @@ Xurkitree
 Zarude
 
 
-						Memorization Ratings
+						Memorization Ratings    
 Summary: Measures the benefit that a particular Pokemon derives from the Memorization Mechanic. Tiering is divided into three categories: Ratings, which are categorical, and observe the particular benefit Memorizing certain Pokemon has for the Team; Priority, which measures the order of consideration Players should give in assessing whether to Memorize a particular Pokemon, if a Player has it on their Team; And Dependence, which are individualized ratings, which represent the dependence of a Pokemon on the Mechanic, to justify their usage at all.
 
 Ratings
@@ -400,40 +401,6 @@ Bellsprout: [P: 4 / D: 3] (7)
 Phione: [P: 1 / D: 0] (1)
 Tapu Koko: [P: 1 / D: 0] (1)
 
-					    Kyogre-Check (Sponsors) Tier List
-Summary: Measures how effectively certain Pokemon can handle Kyogre, while still providing valuable utility to the rest of the Team. Absolute checks may therefore be ranked lower than weaker checks, if they fail to provide significant utility to the Team beyond singularly checking Kyogre.
-
-S-Class: Reserved for Pokemon that can not only consistently check Kyogre, but are capable of excelling in the Meta and substantially benefitting Teams even if Kyogre is absent. For these Pokemon, checking Kyogre is only one of many things that they can do, and they would still serve as indispensible members of players' Teams, even without a Kyogre to manage.
-
-A-Class: Reserved for Pokemon that can most efficently check Kyogre whilst still providing utility to the player's Team; These Pokemon's viability is heightened by their matchup against Kyogre, but isn't contigent upon it.
-
-B-Class: Pokemon in this class tend to do excellent jobs at checking Kyogre in a vacuum, but possess other significant weaknesses that create a significant opportunity cost when using them for this role. Pokemon can also end up in this Tier if they have otherwise favorable matchups against the rest of the Tier, but only check Kyogre under certain circumstances.
-
-C-Class: Pokemon in this Tier can check, and even counter some of Kyogre's moves, but otherwise tend to have inconsistent or unreliable matchups against the rest of the Tier.
-
-S-Class
-Palkia
-Eternatus
-
-A-Class
-Lilligant
-Swampert
-Suicune
-Tapu Fini
-
-B-Class
-Victreebel
-Maractus
-Kyurem-Black
-Kyurem-White
-Sunflora
-
-C-Class
-Lugia
-Shaymin
-Milotic
-
-
 						     Setpedia   
 Summary: This is a resource designed to assess certain Pokemons' lists of known viable moves, and battle strategies. Due to the number of Pokemon in the game: Not every Pokemon will receive a highlight, however Pokemon that stand out as being noteworthy, or powerful, will receive mention here.
 
@@ -441,134 +408,8 @@ Members
 =====================================================================================================================
 Category: A
 Arceus
-Hp: 200/Atk: 300/Def: 210/Spa: 300/Spd: 210/Spe: 180
-Common Items
-- Chilan Berry
-- Occa Berry
-- Passho Berry
-
-Common Memories
-- Dubious Disc (Banned to Anything Goes)
-
-Common Moves
-- Divine Call
-- Extreme Speed
-- Heavenly Mist
-- Infinite Velocity
-- Judgment
-- Multi-Attack
-- Rock Wrecker
-- Sacred Water
-
-Common Overdrives
-- Super Healer
-
-Preferred Abilities
-- Omnipotent
-
-Hint: Omnipotent imparts Arceus with a x1.3 STAB Boost on all of its Move that are not its Main STAB; When it is holding a Super-Effective Damage-Reducing Berry, it gains an immunity to the Type the Berry reduces Damage for, as well as granting it another 50% Power Boost to its Moves of the same Type. Heaven Dance, and Divine Call are its primary Set-Up Moves, while Heavenly Mist and Stealth Rock can be used for Hazard Control, depending on the needs of the Team. Super Healer is generally preferred over Speed Blitzer, due to its potential to grant Arceus better mileage in the long-run--particularly with the help of its Teammates, however Speed Blitzer can still be used effectively if the Team wants to prioritize preserving its momentum.
-
-
-Overview on Dubious Arceus
-Dubious Disc
-Arceus @ Dubious Disc  
-Ability: Multitype  
-Happiness: 254 (Rule Breaker) / 250 (Critical Striker) 
-EVs: 4 HP / 164 Atk / 88 SpD / 252 Spe  
-Jolly Nature  
-- Extreme Speed  
-- Memory Blast  
-- Rock Wrecker  
-- Heaven Dance
-
-Fun-Killer
-Arceus @ Dubious Disc  
-Ability: Multitype 
-Happiness: 251 (Super Healer) / 253 (Impact Absorber) / 250 (Critical Striker) / 255 (Speed Blitzer)
-EVs: 252 HP / 252 Atk / 4 Def  
-Adamant Nature  
-- Memory Blast  
-- Safeguard  
-- Recover  
-- Agility
-
-Strengths
-- One of the most powerful Pokemon in the entire game; Capable of OHKO'ing or 2HKO'ing most Pokemon, even without a Boost
-- Unboosted Memory Blast hits harder than +2 Extreme Speed, effectively granting Arceus a perpetual +2 Boost at all times
-- Notably, certain Pokemon that were completely immune to Arceus' STABs before, such as Caly-S, get obliterated by Heaven Dance Extreme Speed
-- Virtually indestructible: Arceus' colossal bulk, paired with its complete lack of weaknesses, makes it nearly impossible to defeat in one--or even several hits
-- Can realistically get away with running Monotype Coverage, due to the raw power of Memory Blast + Extreme Speed
-- Answers to one Dubious Disc set may be entirely useless against another; Pokemon capable of narrowly defeating offensive sets will get obliterated by Agility + Recover sets, while attempted answers to the defensive sets will crumble to "E-Killer" sets
-- For all of the aforementioned reasons: Arceus-??? operates at a power level that is far too oppressive for Standard Ubers to handle, and as a result, has been restricted to Unlimited Memorize, and Anything Goes
-
-Weaknesses
-- This Pokemon has no weaknesses
-=====================================================================================================================
-Category: E  
-=====================================================================================================================
-Eternatus
-Hp: 250/Atk: 272/Def: 205/Spa: 305/Spd: 205/Spe: 163
-Common Items
-- Black Sludge
-
-Common Memories
-- Dragon Memory
-
-Common Moves
-- Autotomize
-- Dragon Breath
-- Dragon Tail
-- Eternabeam
-- House Cleaning
-- Magma Storm
-- Meteor Beam
-- Aromatic Mist
-- Sludge Switch
-- Venoshock
-
-Common Overdrives
-- Speed Blitzer
-- Super Healer
-
-Preferred Ability
-- Space Power
-
-Hint: Eternatus is best used as a "tank-and-run" Defensive Support Pokemon. Eternatus' prodigious bulk, and pivotal Resistances and Immunities allow it to handle several problematic Pokemon, and even deny opposing U-Turns, however its equally disastrous set of weaknesses prevent it from staying in for too long without endangering itself. Thus, Eternatus should prioritize absorbing the hits that it needs to, and acting in anticipation of the opponent's next move, only attacking when certain that the opponent will either stay in, or switch to a wall, and Sludge Switching out, otherwise. It is not recommended to use Eternatus as a hard-wall, or Support Lead. Memory Eternatus is very different from Non-Memorized Eternatus; When Memorized, Space Power allows it to receive a substantial Boost in whichever Stat Eternatus has a Positive Nature for. With a combination of the Dragon Memory, and a SpA-Boosting Nature: Eternatus can survive almost any neutral hit thrown its way, while retaliating with powerful moves that are capable of 2HKO'ing--or even OHKO'ing the near-entirety of the Meta. Regular Eternatus can use Super Healer or Impact Absorber to increase its longevity, while Dragon Memory Eternatus will also want to consider Emergency Runner or Escape Planner, if it is being used to sweep with Autotomize
-
-Eternatus @ Black Sludge  
-Ability: Space Power  
-Happiness: 251 (Super Healer) / 255 (Speed Blitzer)
-EVs: 252 HP / 252 Def / 4 Spe  
-Bold Nature  
-- Eternabeam / Dragon Tail / Dragon Breath
-- House Cleaning / Magma Storm / Dragon Tail
-- Aromatic Mist  
-- Chaos Switch / Sludge Switch
-
-Notable Details
-- Can serve as a Soft-Check to a number of Arceus and Zacian-Crowned Sets, especially through the use of phasing
-
-Dragon Memory
-Eternatus @ Dragon Memory  
-Ability: Space Power  
-Happiness: 246 (Emergency Runner) / 251 (Super Healer) / 253 (Impact Absorber) / 245 (Escape Planner)
-EVs: 4 HP / 252 SpA / 252 Spe  
-Modest Nature  
-- Eternabeam / Dynamax Cannon
-- Venoshock / Magma Storm
-- Magma Storm / Earth Power / Aromatic Mist
-- Autotomize / Sludge Switch / Chaos Switch / Aromatic Mist
-
-Strengths
-- Nearly unkillable: Capable of surviving a Stored Power from Mewtwo with room to spare, without investment
-- Overwhelming moves capable of OHKO'ing or 2HKO'ing nearly everything short of a dedicated check
-- Servicable Speed, even without a Speed-Boosting Nature, allowing it to decimate even decently fast Walls that don't invest
-- Nigh Immortality, due to the Dragon Memory's endowment of Regenerator
-- Can potentially set up for a sweep, using Autotomize
-
-Weaknesses
-- Exploitable Speed-Tier, due to its inability to wield its SpA Boost with a Positive-Speed Nature
-- Subject to being revenge-K.O.'d by opposing Priority Users or Dedicated Checks, should it commit to Autotomize
+Status
+- Under Construction
 =====================================================================================================================
 Category: K  
 =====================================================================================================================
@@ -781,41 +622,6 @@ Strengths
 Weaknesses
 - Lower damage output on non-STAB moves compared to Zoom Lens, or Life Orb sets; Arguably worse matchup against Dialga
 - Due to the similarities between this Memory Forme, and Base Rayquaza, there may be a notable opportunity cost incurred by using this Forme
-
--------------------------------------------------------------------------------------------------------
-Reshiram
-Hp: 160/Atk: 225/Def: 180/Spa: 320/Spd: 240/Spe: 175
-Common Items
-- Choice Scarf
-- Flame Orb
-
-Common Memories
-- Fire Memory
-- Grass Memory
-
-Common Moves
-- Ancient Power
-- Blue Flare
-- Clanging Scales
-- Dragon Pulse
-- Fire Spin
-- Flame Switch
-- Stone Edge
-- Thunder
-
-Preferred Ability
-- Realist
-
-Playstyle: Reshiram's fantastic Speed and Offensive Typing allows it to deal heavy damage to the Tier through its powerful STABs, especially when boosted by Realist. When it is at full power, it has the potential to easily 2HKO, or even OHKO a substantial portion of the meta, however its power will be noticeably impaired once it sustains any damage, so it is best used when switched in against vulnerable, but indispensible Pokemon on the opposing Team that will be forced to sacrifice a less important Pokemon to preserve themselves. While Realist protects Reshiram from opposing non-Damaging Moves; Unlike Zekrom, which still has a secondary function after sustaining damage, Reshiram will become effectively disabled (i.e. without an ability) if it falls below its Max Hp.
-
-Reshiram @ Choice Scarf  
-Ability: realist  
-EVs: 4 HP / 252 SpA / 252 Spe  
-Timid Nature  
-- Blue Flare  
-- Clanging Scales  
-- royalforestation  
-- flameswitch
 =====================================================================================================================
 Category: Z  
 =====================================================================================================================
@@ -1170,14 +976,33 @@ Example: 252 SpA Adrenaline Orb Mewtwo Stored Power vs. 4 HP / 88 SpD Arceus: 45
 ---------------------------
 Arceus-Enigma
 --
+Meloetta-Shadow
+Surviving Meloetta-Shadow's Storm Throw
+EVs: 36 HP / 84 Def
+Raw Stats: 650 HP / 477 Def
+Explanation: This particular Investment provides a means for Enigmaceus to survive using a minimal amount of investment, while also allowing it to survive an opposing +1 Hyper Rush from Dive Ball Adamant Zacian-Crowned.
+Example: 252 Atk Shadow State Meloetta-Shadow Storm Throw vs. 36 HP / 84 Def Arceus on a critical hit: 552-649 (84.9 - 99.8%) -- guaranteed 2HKO
+--
 Mewtwo
 --
+Spoofing Mewtwo's Pressure Wave
+Required Nature: Any SpA-Reducing Nature
+Preferred Nature: Jolly (+Spe, -SpA)
+EVs: 140 Atk / 0 SpA
+Alternate EVs: 136 Atk / 0 SpA
+Raw Stats: 571 Atk / 572 SpA
+Alternate Raw Stats: 570 Atk / 572 SpA
+Explanation: Although Enigmaceus can generally beat Mewtwo in a 1v1 through the combination of Dimension Break and Mystery Speed, Mewtwo has various means of overcoming the Matchup, such as Critical Striker + Adrenaline Stored Power/Mental Herb Psystrike, Dubious Disc Comeuppance, and the most dangerous two: Mental Herb Overheat/Psystrike, and Pressure Wave. The last move mentioned is the most dangerous of Mewtwo's options, as it has the power to cripple a number of Pokemon--including Enigmaceus--if not carefully navigated around. Fortunately, due to Enigmaceus' Physical Sets deriving most of their Offensive value from the Power of Dimension Break rather than its actual Attack Stat, Enigmaceus can afford to manipulate its Attack EVs to keep the final Raw Stat below its Special Attack, thereby "spoofing" Pressure Wave into halving its unused Special Attack Stat, effectively wasting the opposing Mewtwo's turn and enabling Enigmaceus to secure a Guaranteed 2HKO through Dimension Break + Mystery Speed
+
+Additional Info: The 140 Atk/252 Spe spread leaves enough room for Enigmaceus to fit the 20 HP / 84 Def EVs required to survive a +1 Dive Ball Adamant Zacian-Crowned's Hyper Rush, having 12 EVs to spare. If invested into HP, it minimizes the possibility of Fully Invested Meloetta-Shadow's Storm Throw being able to K.O. it. If it takes a point out of Atk and invests it into either its HP or Def Stat (e.g. 36 HP/136 Atk/252 Spe), it has a Guaranteed Chance of surviving its Storm Throw
+
+Pressure Wave Mechanics: This move is a 150 BP Move that (1) Has a one-per Switch-In (for the Target) effect of preventing the Target from using any Status-Moves for the remainder of the Turn; (2) Directly halves the Target's Highest Offensive Stat (Once Per Switch-In); (3) Hits with an additional x1.5 Base Power Boost for Targets that have already been hit by this move at least once.
+--
+
 Maximizing the chances to survive Critical Striker Adrenaline Orb Mewtwo's Stored Power
 EVs: 124 HP / 132 SpD
 Raw Stats: 772 Hp / 489 SpD
-Explanation: Although Arceus could theoretically invest more into its Stats to guarantee that it survives, Mysteryceus generally wants to run 252 EVs and a Speed Positive Nature in order to ensure it can outspeed the Metagame and set up safely. Notably, the Mewtwo is not running full investment into its Offenses. In this example, Mewtwo is running the 40 HP / 32 Def set, which it uses to increase its bulk, and avoid certain OHKOs from Pokemon such as Speed Blitzer Zacian-Crowned. With Full Investment into its offenses, Mewtwo's chances increase, but remain firmly below 25%
-Examples
-	- Critical Striker 184 SpA Adrenaline Orb Mewtwo Stored Power vs. 124 HP / 132 SpD Arceus-Enigma: 658-775 (85.2 - 100.3%) -- 6.3% chance to OHKO
+Explanation: Although Arceus could theoretically invest more into its Stats to guarantee that it survives, Enigmaceus generally wants to run 252 EVs and a Speed Positive Nature in order to ensure it can outspeed the bulk of the Metagame. Notably, the Mewtwo is not running full investment into its Offenses.
 	- Critical Striker 252 SpA Adrenaline Orb Mewtwo Stored Power vs. 124 HP / 132 SpD Arceus-Enigma: 672-792 (87 - 102.5%) -- 18.8% chance to OHKO
 
 
@@ -1237,6 +1062,30 @@ Optimal EVs
 EVs: 248 SpD
 Raw Stats: 188 SpD
 Example: 252 SpA Adrenaline Orb Mewtwo Psycho Darts vs. 0 HP / 248 SpD Deoxys-Attack: 265-312 (84.6 - 99.6%) -- guaranteed 2HKO
+
+Surviving Adrenaline Orb Mewtwo's Psycho Darts after a round of Stealth Rock Damage (Assault Vest)
+Optimal EVs
+Required Item: Assault Vest
+Required Nature: None
+EVs: 72 SpD
+Raw Stats: 216 SpD
+Example: 252 SpA Mewtwo Psycho Darts vs. 0 HP / 72 SpD Deoxys-Attack (Assault Vest): 231-272 (73.8 - 86.9%) -- guaranteed 2HKO after Stealth Rock
+
+Surviving Adrenaline Orb Mewtwo's Psycho Darts (Power Bracer)
+Optimal EVs
+Required Item: Assault Vest
+EVs: 100 SpD
+Raw Stats: 151 SpD
+Explanation: If Deoxys wants to survive even after a round of Rocks, it can increase the investment to 184 SpD (Raw: 172). Alternatively, Deoxys can invest 244 HP EVs to protect itself against both Psycho Darts and Neuron Blade, however it will no longer have a guaranteed chance to survive after Rocks.
+Example: 252 SpA Mewtwo Psycho Darts vs. 0 HP / 100 SpD Deoxys-Attack (Power Bracer): 264-311 (84.3 - 99.3%) -- guaranteed 2HKO
+
+Minimizing the chance of being OHKO'd after Stealth Rock from Adrenaline Orb Mewtwo's Psycho Darts, without an Assault Vest
+Optimal EVs
+Required Nature: Any SpD-Boosting Nature
+EVs: 28 HP / 252 SpD
+Raw Stats: 320 HP / 207 SpD
+Explanation: Allocating exactly 527 EVs to Deoxys' Defenses allows it to preserve just enough EVs (228 Spe / Raw: 521) to stay ahead of opposing Mewtwo without the use of a Speed-Positive Nature. The primary benefit to this set is its ability to have a chance at surviving against opposing Mewtwo while being able to run other Items (such as a Protector) to insulate it from other Priority-Users in the Tier
+Example: 252 SpA Mewtwo Psycho Darts vs. 28 HP / 252+ SpD Deoxys-Attack: 241-284 (75.3 - 88.7%) -- 12.5% chance to OHKO after Stealth Rock
 ==============================================================
 Melmetal
 -------------------------------------------
@@ -1247,6 +1096,15 @@ Positive: 52 EVs (522)
 ===================================================================
 Mewtwo
 --------------------------------------------
+Category: G  
+Surviving Giratina-Origin's Scale Shot
+EVs: 120 Def
+Raw Stats: 436 Def
+Alternate EVs: 144 HP (517 HP)
+Example: +1 252 Atk Griseous Orb Giratina-Origin Scale Shot vs. 0 HP / 120 Def Mewtwo: 408-480 (84.8 - 99.7%) -- not a KO
+--------------------------------------------
+Category: P  
+--------------------------------------------
 Surviving Palkia's Boomburst
 Optimal EVs
 EVs: 4 HP / 20 SpD
@@ -1254,6 +1112,15 @@ Raw Stats: 482 Hp / 411 SpD
 Explanation: With 4 HP EVs, and 20 SpD EVs, Mewtwo is guaranteed to survive at least one Choice Scarf Modest Palkia Boomburst from Full HP
 Example: 252+ SpA Dracolate Palkia Boomburst vs. 4 HP / 20 SpD Mewtwo: 408-481 (84.6 - 99.7%) -- guaranteed 2HKO
 --
+Surviving Phione's Ethereal Stream
+Optimal EVs
+EVs: None Required
+Raw Stats: 481 Hp / 406 SpD
+Explanation: Provided that Phione isn't holding any Damage-Boosting Item, Mewtwo will survive automatically
+Example: 252 SpA Phione Ethereal Stream vs. 0 HP / 0 SpD Mewtwo in Rain: 406-478 (84.4 - 99.3%) -- guaranteed 2HKO
+---------------------------------------------
+Category: S   
+---------------------------------------------
 Surviving Snowball Sandslash-Alola's Critical Striker Subzero Freeze
 EVs: 12 HP / 4 Def
 Raw Stats: 484 Hp / 407 Def
@@ -1261,12 +1128,15 @@ Explanation: This calc is only applicable for Attack-Neutral Nature Sandslash Se
 Example: 252 Atk Snowball Below Freezing Sandslash-Alola Subzero Freeze vs. 12 HP / 4 Def Mewtwo on a critical hit: 409-483 (84.5 - 99.7%) -- guaranteed 2HKO
 --
 Note: Mewtwo can run 28 HP / 4 Def to have a guaranteed chance of surviving both of the aforementioned calcs
---
-Surviving Speed Blitzer Zacian-Crowned's Sacred Sword (with a Neutral Nature and no Damage-Boosting Item)
-EVs: 40 HP / 32 Def
-Raw Stats: 491 Hp / 414 Def
-Example: +1 252 Atk Zacian-Crowned Sacred Sword vs. 40 HP / 32 Def Mewtwo: 415-490 (84.5 - 99.7%) -- guaranteed 2HKO
---
+----------------------------
+Surviving Suicune-Shadow's Shadow Ball after a round of Stealth Rock Damage
+Required Item: Assault Vest
+EVs: 8 HP / 152 SpD
+Raw Stats: 483 HP / 666 SpD
+Explanation: Although Mewtwo is capable of surviving this move even without any Defensive Investment, the aforementioned EVs can be allotted to allow Mewtwo to potentially survive against opposing Suicune-Shadow with more consistency. Alternatively, 180 HP/8 SpD can be used, if more general Bulk is desired
+----------------------------------------------
+Category: T  
+----------------------------------------------
 Surviving Speed Blitzer Tornadus-Therian' Surf (without a neutral SpA Nature)
 Optimal EVs
 EVs: 112 HP / 20 SpD
@@ -1281,6 +1151,13 @@ Total EVs: 136 EVs
 Explanation: Although Mewtwo already has a >50% chance to survive a Surf from Tornadus even without any particular investment, providing Mewtwo with the Optimal EVs listed above, allows it to always survive a hit from it, provided it is at Full HP. Mewtwo can also survive by investing 136 EVs into HP alone, however this demands an additional 4 EVs from Mewtwo, which could be invested elsewhere.
 
 Example: 252 SpA Tornadus-Therian Surf vs. 136 HP / 0 SpD Mewtwo in Rain: 436-514 (84.6 - 99.8%) -- guaranteed 2HKO
+----------------------------------------------
+Category: Z  
+----------------------------------------------
+Surviving Speed Blitzer Zacian-Crowned's Sacred Sword (with a Neutral Nature and no Damage-Boosting Item)
+EVs: 40 HP / 32 Def
+Raw Stats: 491 Hp / 414 Def
+Example: +1 252 Atk Zacian-Crowned Sacred Sword vs. 40 HP / 32 Def Mewtwo: 415-490 (84.5 - 99.7%) -- guaranteed 2HKO
 ==========================================================
 Porygon-Z
 -------------------------------
@@ -1337,7 +1214,117 @@ Alternate
 Special Attack: 411
 Base Power: 239
 =====================================================================================================================
-						      Section B*    
+						      Section B    
+						      Ubers Lite          
+Description: A Special Format for Ubers which aims to create a more balanced gameplay experience by prohibiting the use of "High-Power Pokemon". A High-Power Pokemon is defined as any Pokemon that is ranked in the "A-" Tier and above in the Standard Ubers Viability Rankings. Additionally, certain "Non-High-Power Pokemon" may be restricted or banned if their presence is found to be too overwhelming for the Tier. If a Legal Pokemon has an alternate Forme that is a High-Power Pokemon, those Forme(s) will be illegal. If an otherwise Illegal Pokemon has access to alternate Forme(s) that are Non-High-Power Pokemon, the Legality of those Formes is determined by the means of accessing them. If the Pokemon is able to Transform outside of Battle and access the Forme without needing to go through the Illegal Pokemon, it will be permissible for Ubers Lite (e.g. Shaymin Formes, Multitype Arceus Formes, etc.). If the Forme(s) can only be accessed in Battle, and require going through the Illegal Pokemon to attain them, they will be prohibited from use, even if the Transformation Process is automatic (e.g. Mega Evolution, Memory Formes, Shadow Formes)
+
+
+						     Tier Assesments
+S-Tier: Pokemon in this Tier tend to possess a terrifying combination of incredible Stats, fantastic Coverage, and potent Abilities that coalesce to fashion them into truly Meta-Defining Threats. These Pokemon are usually capable of either fulfilling an assortment of roles with peerless excellence, or performing particular roles with such oppressive force as to make the Tier march to their tempo. They are the dignitaries of the Format, and ought to be treated as such when assembling one's Party in the Teambuilder.
+
+A-Tier: Reserved for Pokemon that can perform either one or several roles well, and possess the overall viability to stand beside even the strongest in the Tier. Compared to their S-Tier peers, they tend to possess less potent strengths--or more prominent weaknesses that prevent them from matching their power, but also may possess their own set of less common abilities which even their counterparts lack. These Pokemon are both the Meta and the Anti-Meta, and reign accordingly.
+
+B-Tier: Compared to their peers, these Pokemon tend to have weaknesses that are either more numerous, or more severe, however many of them may have prospective qualities which their Higher-Tiered counterparts lack, and are nonetheless capable of providing useful support to their Team if played well.
+
+C-Tier: The "Borderline" Tier for Pokemon that are not entirely unviable, but are unlikely to be worth the investment under most circumstances. Oftentimes, a Pokemon may end up in this Tier either due to inhabiting a Meta that is irretrievably hostile to it, having no particular noteworthy qualities, or simply being left behind by the inexorable march of Power Creep.
+
+
+S-Tier (3 Total)
+
+S
+Zamazenta-Hero (B; Steel Memory)
+
+S-
+Cresselia
+Dragapult
+
+
+A-Tier (16 Total)
+
+A+
+Arceus-Water
+Lucario-Shadow
+Zacian-Shadow
+Zoroark-Hisui
+
+A
+Arceus-Fairy
+Bellsprout
+Eternatus (B; Poison Memory)
+Lunala
+Spectrier
+
+A-
+Arcanine-Hisui
+Arceus*
+Deoxys
+Golurk
+Ho-Oh
+Kyurem-White
+Sunflora-Shadow
+
+
+B-Tier (19 Total)
+
+B+
+Carracosta
+Darmanitan-Galar
+Entei-Shadow
+Giratina
+Jirachi
+Necrozma-Dawn-Wings
+Rotom-Frost
+Tornadus
+Yveltal
+
+B
+Amoonguss
+Beartic
+Kyogre
+Rayquaza
+Regieleki
+Urshifu-Single-Strike
+Weepinbell
+
+B-
+Meowscarada
+Porygon-Z
+Thundurus-Therian
+
+
+C-Tier (6 Total)
+
+C+
+Arceus-Electric
+Arceus-Grass
+Cryogonal
+Landorus-Therian
+Regigigas
+
+C
+Keldeo-Resolute
+Reuniclus
+=====================================================================================================================								     Laboratory           
+Purpose: The Laboratory exists to document certain EV, Moveset, and Ability Sets that can assist in optimizing a Pokemon, and increasing their potential.
+------------------------------------------------
+Dialga
+-------------------
+Outspeeding +1 Deoxys-N after a Shell Smash
+132 Speed EVs
+Nature Required: No
+Raw Stats: Dialga: 389 * 2 (778) > Deoxys-N: 518 * 1.5 (777)
+
+
+Surviving Deoxys-N's Life Orb Focus Blast
+
+Optimal EVs
+EVs: 12 HP / 96 SpD
+Raw Stats: 604 Hp / 420 SpD
+Total EVs: 108 EVs
+
+252 SpA Life Orb Deoxys Focus Blast vs. 12 HP / 96 SpD Dialga: 512-603 (84.7 - 99.8%) -- guaranteed 2HKO
+=====================================================================================================================
+						      Section C    
 * Disclaimer: This Section is outdated, and may not reflect the current state of the Meta
 						     Ultra Assist
 Description: "Ultra Assist" is one of the new Mechanics introduced in Pokemon Memories that allows a Pokemon with an Assist Drive to become the "Anchor" for their Team, Fainting upon switching in to provide various benefits to their Teammates. In keeping with the concept that all Pokemon are unique and special in their own way; The effects of each Ultra Assist depends on the Anchor's Species, Stats, and Typing, with the highest raw stat ("Dominant"/"Primary") Stat receiving the highest boost, while ("Recessive"/"Secondary") Stats receive a smaller one. Additionally, any opposing Moves corresponding to the Anchor's own Type(s) will deal reduced damage to the Anchor's Team, allowing for players to insulate themselves from otherwise problematic opponents. Finally, certain Pokemon--known as EX Pokemon--sacrifice the ability to grant stat boosts in exchange for the power to grant the Team unique properties with varying effects.
@@ -1468,7 +1455,7 @@ Weaknesses
 ✘ Mewtwo must eschew utilizing its massive offensive coverage--including coverage for opposing Psychic-Types--to effectively run a Stall set, significantly worsening its matchups against opposing Darks, Psychics, and Mewtwo, specifically
 =====================================================================================================================
 
-						     Section C     
+						     Section D     
 						   Limited Ubers
 
 Description: The Tier List for the Pokemon Memories Meta before the introduction of Memorization. Once the mechanic was added to the game, the original Format, without the Memory Discs, became the "Limited"-line of Metagames that are currently on the ladder. As the Limited Meta is no longer the Standard Meta in the game; The pre-Memorize Tier List has been preserved for use in discerning the viability for Pokemon in this Format.
