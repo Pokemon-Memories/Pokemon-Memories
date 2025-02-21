@@ -1,5 +1,19 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v2.1.6
+Formats
+- Ubers
+	- Ubers Lite
+		- Banlist Removals
+			- Moltres
+
+Moves
+- Expanding Force
+	- Corrected an oversight where this Move's Base Power was not properly updated to 130 (up from 120)
+- Firmament Break
+	- Duration: 4 Turns -> 3 Turns
+
+
 Pokemon Memories v2.1.5
 General
 - Animations

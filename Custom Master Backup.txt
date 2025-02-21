@@ -4,7 +4,7 @@ Azelf @ Soul Dew
 Ability: psychosis  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Hasty Nature  
-- Psychic Storm  
+- psychicstorm  
 - Focus Blast  
 - Comeuppance  
 - Flip Turn  
@@ -76,7 +76,7 @@ EVs: 4 HP / 252 SpA / 252 Spe
 Timid Nature  
 - infernobeam  
 - Stone Edge  
-- Lava Ball  
+- lavaball  
 - sparklewave  
 
 Deoxys @ Star Sweet  
@@ -127,7 +127,7 @@ EVs: 4 HP / 252 SpA / 252 Spe
 Timid Nature  
 - infernobeam  
 - Stone Edge  
-- Lava Ball  
+- lavaball  
 - sparklewave  
 
 Zoroark-Hisui (M) @ Eject Pack  
@@ -172,7 +172,7 @@ Azelf @ Soul Dew
 Ability: psychosis  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Hasty Nature  
-- Psychic Storm  
+- psychicstorm  
 - Focus Blast  
 - Comeuppance  
 - Flip Turn  
@@ -512,7 +512,7 @@ EVs: 4 HP / 252 SpA / 252 Spe
 Timid Nature  
 - infernobeam  
 - Stone Edge  
-- Lava Ball  
+- lavaball  
 - sparklewave  
 
 Arceus-Fairy @ Pixie Plate  
@@ -680,7 +680,7 @@ Happiness: 251
 EVs: 252 HP / 4 SpA / 252 SpD  
 Calm Nature  
 - infernobeam  
-- Psychic Storm  
+- psychicstorm  
 - Aromatic Mist  
 - sweetretreat  
 
@@ -759,7 +759,7 @@ Ability: lightinversion
 Happiness: 251  
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
-- Psychic Storm  
+- psychicstorm  
 - shadowflame  
 - diffusionwave  
 - expressheal  
@@ -909,7 +909,7 @@ Ability: lightinversion
 Happiness: 251  
 EVs: 20 HP / 252 SpA / 236 Spe  
 Modest Nature  
-- Psychic Storm  
+- psychicstorm  
 - Power Gem  
 - Grass Knot  
 - shadowrush  
@@ -1469,7 +1469,7 @@ EVs: 4 HP / 252 SpA / 252 Spe
 Timid Nature  
 - infernobeam  
 - Stone Edge  
-- Lava Ball  
+- lavaball  
 - sparklewave  
 
 
@@ -1480,7 +1480,7 @@ Ability: Mold Breaker
 Happiness: 250  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - shadowburst  
 - psychodarts  
 - shadowswitch  
@@ -1678,7 +1678,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 252 HP / 252 Atk / 4 Spe  
 Adamant Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Ice Spinner  
 - Swords Dance  
@@ -1846,7 +1846,7 @@ Shiny: Yes
 EVs: 56 HP / 60 Def / 140 SpA / 252 Spe  
 Timid Nature  
 - infernobeam  
-- Lava Ball  
+- lavaball  
 - sparklewave  
 - Uproar  
 
@@ -1856,7 +1856,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 252 HP / 252 Atk / 4 Spe  
 Adamant Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Ice Spinner  
 - Swords Dance  
@@ -1902,12 +1902,12 @@ Bold Nature
 - Aromatic Mist  
 - sweetretreat  
 
-Necrozma-Dawn-Wings @ Kelpsy Berry  
-Ability: soaringburst  
+Necrozma-Dawn-Wings @ Dragon Scale  
+Ability: Soaring Burst  
 Shiny: Yes  
-EVs: 4 HP / 252 Atk / 252 Spe  
-Jolly Nature  
-- Psychic Storm  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Light That Burns the Sky  
 - shadowflame  
 - Grass Knot  
 - psychodarts  
@@ -2045,7 +2045,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Ice Spinner  
 - Swords Dance  
@@ -2108,7 +2108,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Ice Spinner  
 - Swords Dance  
@@ -2269,7 +2269,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Ice Spinner  
 - bulletswitch  
@@ -2280,7 +2280,7 @@ Shiny: Yes
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - infernobeam  
-- Lava Ball  
+- lavaball  
 - sparklewave  
 - Uproar  
 
@@ -2400,7 +2400,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Ice Spinner  
 - Swords Dance  
@@ -2573,7 +2573,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Ice Spinner  
 - Swords Dance  
@@ -2695,7 +2695,7 @@ Jolly Nature
 - aqualeap  
 
 Groudon @ assistdrive  
-Ability: antipathy  
+Ability: Antipathy  
 EVs: 252 HP / 252 SpD  
 Careful Nature  
 IVs: 30 Def  
@@ -4441,7 +4441,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Ice Spinner  
 - Swords Dance  
@@ -4520,7 +4520,7 @@ Shiny: Yes
 EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
 Timid Nature  
 - infernobeam  
-- Psychic Storm  
+- psychicstorm  
 - psychicfury  
 - Heal Order  
 
@@ -4799,7 +4799,7 @@ Shiny: Yes
 EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
 Timid Nature  
 - infernobeam  
-- Psychic Storm  
+- psychicstorm  
 - psychicfury  
 - Heal Order  
 
@@ -4877,7 +4877,7 @@ Shiny: Yes
 EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
 Timid Nature  
 - infernobeam  
-- Psychic Storm  
+- psychicstorm  
 - psychicfury  
 - Heal Order  
 
@@ -6084,7 +6084,7 @@ Careful Nature
 - healingwing  
 
 Calyrex-Shadow @ Choice Scarf  
-Ability: antipathy  
+Ability: Antipathy  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
@@ -6294,7 +6294,7 @@ Mewtwo @ Ice Memory
 Ability: psychicpower  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Hasty Nature  
-- Psychic Storm  
+- psychicstorm  
 - memoryblast  
 - mineralcannon  
 - Night Daze  
@@ -6523,7 +6523,7 @@ Mewtwo @ Ice Memory
 Ability: psychicpower  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- Psychic Storm  
+- psychicstorm  
 - memoryblast  
 - psychofire  
 - Night Daze  
@@ -6574,7 +6574,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Ice Spinner  
 - Swords Dance  
@@ -6707,7 +6707,7 @@ Mewtwo @ Psychic Memory
 Ability: psychicpower  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- Psychic Storm  
+- psychicstorm  
 - Aura Sphere  
 - Ice Beam  
 - Dark Pulse  
@@ -6971,7 +6971,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Ice Spinner  
 - Swords Dance  
@@ -7373,7 +7373,7 @@ Modest Nature
 - Flip Turn  
 
 Deoxys-Attack @ Protector  
-Ability: antipathy  
+Ability: Antipathy  
 Happiness: 250  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Hasty Nature  
@@ -7868,7 +7868,7 @@ IVs: 0 Spe
 - slushswitch  
 
 Calyrex-Ice @ Ice Memory  
-Ability: antipathy  
+Ability: Antipathy  
 Happiness: 245  
 EVs: 252 HP / 252 Atk / 4 Def  
 Brave Nature  
@@ -8277,7 +8277,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Ice Spinner  
 - Swords Dance  
@@ -8421,7 +8421,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Ice Spinner  
 - Swords Dance  
@@ -8663,7 +8663,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Ice Spinner  
 - Swords Dance  
@@ -8816,7 +8816,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Ice Spinner  
 - Swords Dance  
@@ -9178,7 +9178,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Ice Spinner  
 - Swords Dance  
@@ -9240,7 +9240,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Ice Spinner  
 - Swords Dance  
@@ -9422,7 +9422,7 @@ Ability: psychicpower
 EVs: 252 SpA / 252 Spe  
 Naive Nature  
 - infernobeam  
-- Psychic Storm  
+- psychicstorm  
 - Low Kick  
 - psychicfury  
 
@@ -9496,7 +9496,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Ice Spinner  
 - Swords Dance  
@@ -9667,7 +9667,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Ice Spinner  
 - Swords Dance  
@@ -9798,7 +9798,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Ice Spinner  
 - Swords Dance  
@@ -10026,7 +10026,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Ice Spinner  
 - Swords Dance  
@@ -10356,7 +10356,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Ice Spinner  
 - Swords Dance  
@@ -11440,7 +11440,7 @@ Happiness: 251
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - blazingblast  
-- Psychic Storm  
+- psychicstorm  
 - Aromatic Mist  
 - sweetretreat  
 
@@ -11507,7 +11507,7 @@ Happiness: 251
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - blazingblast  
-- Psychic Storm  
+- psychicstorm  
 - Aromatic Mist  
 - sweetretreat  
 
@@ -11561,7 +11561,7 @@ Happiness: 251
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - blazingblast  
-- Psychic Storm  
+- psychicstorm  
 - Aromatic Mist  
 - sweetretreat  
 
@@ -11692,7 +11692,7 @@ Happiness: 251
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - blazingblast  
-- Psychic Storm  
+- psychicstorm  
 - Aromatic Mist  
 - sweetretreat  
 
@@ -11755,7 +11755,7 @@ Happiness: 251
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - blazingblast  
-- Psychic Storm  
+- psychicstorm  
 - Aromatic Mist  
 - sweetretreat  
 
@@ -11841,7 +11841,7 @@ Happiness: 251
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - blazingblast  
-- Psychic Storm  
+- psychicstorm  
 - Aromatic Mist  
 - sweetretreat  
 
@@ -11905,7 +11905,7 @@ Happiness: 251
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - blazingblast  
-- Psychic Storm  
+- psychicstorm  
 - Aromatic Mist  
 - sweetretreat  
 
@@ -11979,7 +11979,7 @@ Happiness: 251
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - blazingblast  
-- Psychic Storm  
+- psychicstorm  
 - Aromatic Mist  
 - sweetretreat  
 
@@ -12034,7 +12034,7 @@ Happiness: 251
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - blazingblast  
-- Psychic Storm  
+- psychicstorm  
 - Aromatic Mist  
 - sweetretreat  
 
@@ -12068,7 +12068,7 @@ Happiness: 251
 EVs: 252 HP / 156 Def / 96 SpD / 4 Spe  
 Bold Nature  
 - blazingblast  
-- Psychic Storm  
+- psychicstorm  
 - Aromatic Mist  
 - sweetretreat  
 
@@ -12132,7 +12132,7 @@ Happiness: 251
 EVs: 252 HP / 148 Def / 104 SpD / 4 Spe  
 Calm Nature  
 - blazingblast  
-- Psychic Storm  
+- psychicstorm  
 - Aromatic Mist  
 - sweetretreat  
 
@@ -13666,7 +13666,7 @@ Happiness: 251
 EVs: 252 HP / 252 SpD / 4 Spe  
 Calm Nature  
 - blazingblast  
-- Psychic Storm  
+- psychicstorm  
 - Aromatic Mist  
 - sweetretreat  
 
@@ -13823,7 +13823,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Ice Spinner  
 - Swords Dance  
@@ -13878,7 +13878,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Ice Spinner  
 - Swords Dance  
@@ -13923,7 +13923,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Ice Spinner  
 - Swords Dance  
@@ -14007,7 +14007,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Ice Spinner  
 - Swords Dance  
@@ -14125,7 +14125,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Ice Spinner  
 - Swords Dance  
@@ -14933,7 +14933,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Ice Spinner  
 - Swords Dance  
@@ -15168,7 +15168,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Ice Spinner  
 - Swords Dance  
@@ -15339,7 +15339,7 @@ Naive Nature
 - psychicfury  
 
 Necrozma-Dawn-Wings @ Dragon Scale  
-Ability: soaringburst  
+Ability: Soaring Burst  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Light That Burns the Sky  
@@ -15353,7 +15353,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Ice Spinner  
 - Swords Dance  
@@ -15506,7 +15506,7 @@ Happiness: 250
 EVs: 4 HP / 252 SpA / 252 Spe  
 Naive Nature  
 - infernobeam  
-- Psychic Storm  
+- psychicstorm  
 - Energy Ball  
 - psychodarts  
 
@@ -15641,7 +15641,7 @@ Shiny: Yes
 Happiness: 250  
 EVs: 216 Atk / 40 SpD / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - psychodarts  
 - shadowswitch  
@@ -15804,7 +15804,7 @@ Shiny: Yes
 Happiness: 250  
 EVs: 216 Atk / 40 SpD / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - psychodarts  
 - shadowswitch  
@@ -15928,7 +15928,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Ice Spinner  
 - Swords Dance  
@@ -15982,7 +15982,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Ice Spinner  
 - Swords Dance  
@@ -16341,7 +16341,7 @@ Shiny: Yes
 Happiness: 250  
 EVs: 216 Atk / 40 SpD / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - psychodarts  
 - shadowswitch  
@@ -16605,7 +16605,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Ice Spinner  
 - Swords Dance  
@@ -16657,7 +16657,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Ice Spinner  
 - Swords Dance  
@@ -16738,7 +16738,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Ice Spinner  
 - Swords Dance  
@@ -16846,7 +16846,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Ice Spinner  
 - Swords Dance  
@@ -17114,7 +17114,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Ice Spinner  
 - Swords Dance  
@@ -17186,11 +17186,11 @@ Jolly Nature
 === [gen6ubers] Kelpsy Dawn-Wings Ultra (Meloetta-Shadow) ===
 
 Necrozma-Dawn-Wings @ Kelpsy Berry  
-Ability: soaringburst  
+Ability: Soaring Burst  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- Psychic Storm  
+- psychicstorm  
 - shadowflame  
 - Grass Knot  
 - psychodarts  
@@ -17415,7 +17415,7 @@ Bold Nature
 - sweetretreat  
 
 Necrozma-Dawn-Wings @ Bug Memory  
-Ability: soaringburst  
+Ability: Soaring Burst  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Hasty Nature  
@@ -17469,7 +17469,7 @@ Jolly Nature
 - cipherflash  
 
 Necrozma-Dawn-Wings @ Dragon Scale  
-Ability: soaringburst  
+Ability: Soaring Burst  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -17607,11 +17607,11 @@ Bold Nature
 - sweetretreat  
 
 Necrozma-Dawn-Wings @ Kelpsy Berry  
-Ability: soaringburst  
+Ability: Soaring Burst  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- Psychic Storm  
+- psychicstorm  
 - shadowflame  
 - Grass Knot  
 - psychodarts  
@@ -17709,7 +17709,7 @@ Shiny: Yes
 Happiness: 250  
 EVs: 216 Atk / 40 SpD / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - psychodarts  
 - shadowswitch  
@@ -17831,7 +17831,7 @@ Ability: Intrepid Sword
 Happiness: 251  
 EVs: 252 HP / 252 Atk / 4 Spe  
 Adamant Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Ice Spinner  
 - Swords Dance  
@@ -17951,10 +17951,10 @@ Timid Nature
 === [gen6ubers] Ultra (Necrozma-Ultra-Psychic) ===
 
 Necrozma-Dawn-Wings @ Psychic Memory  
-Ability: soaringburst  
+Ability: Soaring Burst  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
-- Psychic Storm  
+- psychicstorm  
 - shadowflame  
 - Grass Knot  
 - psychodarts  
@@ -18109,7 +18109,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 252 HP / 252 Atk / 4 Spe  
 Adamant Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Ice Spinner  
 - Swords Dance  
@@ -18126,7 +18126,7 @@ Calm Nature
 - healingwing  
 
 Calyrex-Shadow @ Choice Scarf  
-Ability: antipathy  
+Ability: Antipathy  
 Happiness: 250  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
@@ -18139,7 +18139,7 @@ Timid Nature
 === [gen6ubers] Upgrades (Meloetta-Shadow, Mewtwo-???) ===
 
 Calyrex-Shadow @ Choice Scarf  
-Ability: antipathy  
+Ability: Antipathy  
 Happiness: 250  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
@@ -18246,7 +18246,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 252 HP / 252 Atk / 4 Spe  
 Adamant Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Ice Spinner  
 - Swords Dance  
@@ -18313,7 +18313,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 252 HP / 252 Atk / 4 Spe  
 Adamant Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Ice Spinner  
 - Swords Dance  
@@ -18385,7 +18385,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 252 HP / 252 Atk / 4 Spe  
 Adamant Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Protect  
 - Swords Dance  
@@ -18394,7 +18394,7 @@ Adamant Nature
 === [gen6ubers] When They've Had Enough (Moltres-Fire) ===
 
 Necrozma-Dawn-Wings @ Dragon Scale  
-Ability: soaringburst  
+Ability: Soaring Burst  
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Naive Nature  
@@ -18467,7 +18467,7 @@ Naive Nature
 - neuronblade  
 
 Calyrex-Shadow @ Choice Scarf  
-Ability: antipathy  
+Ability: Antipathy  
 Happiness: 250  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
@@ -18554,7 +18554,7 @@ Jolly Nature
 - Flip Turn  
 
 Calyrex-Shadow @ Choice Scarf  
-Ability: antipathy  
+Ability: Antipathy  
 Happiness: 250  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
@@ -18645,7 +18645,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 252 HP / 252 Atk / 4 Spe  
 Adamant Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Protect  
 - Swords Dance  
@@ -18735,7 +18735,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Ice Spinner  
 - Swords Dance  
@@ -18799,7 +18799,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Ice Spinner  
 - Swords Dance  
@@ -18837,7 +18837,7 @@ IVs: 0 Spe
 - Parting Shot  
 
 Calyrex-Shadow @ Choice Scarf  
-Ability: antipathy  
+Ability: Antipathy  
 Happiness: 251  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
@@ -18969,7 +18969,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Ice Spinner  
 - Swords Dance  
@@ -19095,7 +19095,7 @@ Shiny: Yes
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - infernobeam  
-- Lava Ball  
+- lavaball  
 - sparklewave  
 - Uproar  
 
@@ -19118,7 +19118,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Ice Spinner  
 - Swords Dance  
@@ -19129,7 +19129,7 @@ Shiny: Yes
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - infernobeam  
-- Lava Ball  
+- lavaball  
 - sparklewave  
 - Uproar  
 
@@ -19180,7 +19180,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Ice Spinner  
 - bulletswitch  
@@ -19191,7 +19191,7 @@ Shiny: Yes
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - infernobeam  
-- Lava Ball  
+- lavaball  
 - sparklewave  
 - Uproar  
 
@@ -19206,7 +19206,7 @@ Timid Nature
 - psychodarts  
 
 Necrozma-Dawn-Wings @ Dragon Scale  
-Ability: soaringburst  
+Ability: Soaring Burst  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Light That Burns the Sky  
@@ -19243,7 +19243,7 @@ Shiny: Yes
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - infernobeam  
-- Lava Ball  
+- lavaball  
 - sparklewave  
 - Uproar  
 
@@ -19263,7 +19263,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Ice Spinner  
 - bulletswitch  
@@ -19343,20 +19343,20 @@ Shiny: Yes
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - infernobeam  
-- Lava Ball  
+- lavaball  
 - sparklewave  
 - Uproar  
 
 
-=== [gen6ubers] Water Mewtwo's Dive (Mewtwo, Water) ===
+=== [gen6ubers] Empyrean Blaze (Mewtwo, ???) ===
 
-Mewtwo @ Water Memory  
+Mewtwo @ Dubious Disc  
 Ability: psychicpower  
-EVs: 252 SpA / 252 Spe  
-Timid Nature  
-- Water Sport  
-- etherealstream  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- mysterybarrage  
 - pressurewave  
+- cipherflash  
 - psychicfury  
 
 Kyurem-White @ Sweet Apple  
@@ -19378,7 +19378,7 @@ Relaxed Nature
 IVs: 0 Spe  
 - Apple Acid  
 - brambleblast  
-- Synthesis  
+- Toxic Spikes  
 - Parting Shot  
 
 Arcanine-Hisui @ Choice Scarf  
@@ -19438,7 +19438,7 @@ Shiny: Yes
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - infernobeam  
-- Lava Ball  
+- lavaball  
 - sparklewave  
 - Uproar  
 
@@ -19618,7 +19618,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Secret Sword  
 - Ice Spinner  
 - bulletswitch  
@@ -19629,7 +19629,7 @@ Shiny: Yes
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - infernobeam  
-- Lava Ball  
+- lavaball  
 - sparklewave  
 - Uproar  
 
@@ -19805,7 +19805,7 @@ Shiny: Yes
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - infernobeam  
-- Lava Ball  
+- lavaball  
 - sparklewave  
 - Uproar  
 
@@ -19846,7 +19846,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Flare Blitz  
 - Ice Spinner  
 - bulletswitch  
@@ -19995,7 +19995,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Flare Blitz  
 - Ice Spinner  
 - bulletswitch  
@@ -20043,7 +20043,7 @@ Jolly Nature
 === [gen6ubers] Neo-Breakers (Mewtwo, Grass) ===
 
 Necrozma-Dawn-Wings @ Dragon Scale  
-Ability: soaringburst  
+Ability: Soaring Burst  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Light That Burns the Sky  
@@ -20076,7 +20076,7 @@ Shiny: Yes
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Flare Blitz  
 - Ice Spinner  
 - bulletswitch  
@@ -20210,7 +20210,7 @@ Ability: Intrepid Sword
 Shiny: Yes  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Flare Blitz  
 - Ice Spinner  
 - bulletswitch  
@@ -20351,15 +20351,15 @@ Shiny: Yes
 Happiness: 250  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Flare Blitz  
 - Ice Spinner  
 - armorsmash  
 
 
-=== [gen6ubers] The Abyss (Dialga-Shadow, Darkrai-Grass) ===
+=== [gen6ubers] The Abyss (Victreebel-Shadow, Moltres-Fire) ===
 
-Moltres @ Choice Specs  
+Moltres @ Fire Memory  
 Ability: Drought  
 Shiny: Yes  
 EVs: 4 HP / 252 SpA / 252 Spe  
@@ -20369,19 +20369,18 @@ Timid Nature
 - toasterbomb  
 - flameswitch  
 
-Darkrai @ Grass Memory  
-Ability: midnightveil  
+Victreebel (M) @ Strange Ball  
+Ability: hopesprout  
 Shiny: Yes  
-EVs: 4 SpA / 252 SpD / 252 Spe  
-Timid Nature  
-- darkabyss  
-- memoryblast  
-- Dark Void  
-- slushswitch  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Hasty Nature  
+- Frenzy Plant  
+- shadowcannon  
+- Poison Sting  
+- brambleblast  
 
 Arceus @ enigmaplate  
 Ability: Multitype  
-Happiness: 253  
 EVs: 36 HP / 136 Atk / 84 Def / 252 Spe  
 Jolly Nature  
 - dimensionbreak  
@@ -20389,15 +20388,15 @@ Jolly Nature
 - heavenlymist  
 - cipherflash  
 
-Dialga @ Strange Ball  
-Ability: Regenerator  
-Happiness: 250  
-EVs: 252 SpA / 116 SpD / 140 Spe  
-Modest Nature  
-- shadowburst  
+Necrozma-Dawn-Wings @ Dragon Scale  
+Ability: Soaring Burst  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Light That Burns the Sky  
+- shadowflame  
 - Grass Knot  
-- shadowcannon  
-- Agility  
+- psychodarts  
 
 Mewtwo @ Adrenaline Orb  
 Ability: psychicpower  
@@ -20405,19 +20404,19 @@ Happiness: 250
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Stored Power  
-- pressurewave  
+- Poltergeist  
 - silkbomb  
 - neuronblade  
 
-Kyurem-Black @ Life Orb  
-Ability: dragonpower  
+Zacian-Crowned @ Dive Ball  
+Ability: Intrepid Sword  
 Shiny: Yes  
-EVs: 252 Atk / 132 SpD / 124 Spe  
-Adamant Nature  
-- glacialstrike  
-- impactbolt  
-- Ice Shard  
-- froststep  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Hyper Rush  
+- Flare Blitz  
+- Ice Spinner  
+- armorsmash  
 
 
 === [gen6ubers] Supporting Bellsprout (Meloetta-Shadow, Mewtwo-???) ===
@@ -20433,7 +20432,7 @@ Jolly Nature
 - sludgeswitch  
 
 Calyrex-Shadow @ Choice Scarf  
-Ability: antipathy  
+Ability: Antipathy  
 Happiness: 250  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
@@ -20495,11 +20494,11 @@ Jolly Nature
 - Zing Zap  
 - electrostrike  
 
-Deoxys-Attack @ Assault Vest  
+Deoxys-Attack @ Protector  
 Ability: heartless  
 Shiny: Yes  
 Happiness: 250  
-EVs: 68 SpA / 188 SpD / 252 Spe  
+EVs: 4 HP / 252 SpA / 252 Spe  
 Mild Nature  
 - viralload  
 - Mud Sport  
@@ -20653,7 +20652,7 @@ Timid Nature
 - wavesplash  
 
 Mewtwo @ Berry Sweet  
-Ability: antipathy  
+Ability: Antipathy  
 Happiness: 251  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -20663,7 +20662,7 @@ Jolly Nature
 - neuronblade  
 
 Necrozma-Dawn-Wings @ Dragon Scale  
-Ability: soaringburst  
+Ability: Soaring Burst  
 Shiny: Yes  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
@@ -20676,7 +20675,7 @@ Timid Nature
 === [gen6ubers] Facilitator (Mewtwo, ???) ===
 
 Tapu Fini @ Nomel Berry  
-Ability: antipathy  
+Ability: Antipathy  
 EVs: 248 HP / 252 Def / 8 Spe  
 Bold Nature  
 - ensnarement  
@@ -20685,7 +20684,7 @@ Bold Nature
 - wavesplash  
 
 Necrozma-Dawn-Wings @ Dragon Scale  
-Ability: soaringburst  
+Ability: Soaring Burst  
 Shiny: Yes  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
@@ -20763,7 +20762,7 @@ Shiny: Yes
 Happiness: 250  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Flare Blitz  
 - Ice Spinner  
 - armorsmash  
@@ -20790,7 +20789,7 @@ IVs: 0 Spe
 - Parting Shot  
 
 Necrozma-Dawn-Wings @ Dragon Scale  
-Ability: soaringburst  
+Ability: Soaring Burst  
 Shiny: Yes  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
@@ -20800,10 +20799,10 @@ Timid Nature
 - psychodarts  
 
 
-=== [gen6ubers] Nomel Cleaning Kyogre (Suicune-Shadow) ===
+=== [gen6ubers] Nomel Cleaning Kyogre (Suicune-Shadow, Mewtwo-???) ===
 
 Kyogre @ Nomel Berry  
-Ability: antipathy  
+Ability: Antipathy  
 EVs: 252 HP / 252 SpA / 4 Spe  
 Bold Nature  
 - compactstream  
@@ -20811,14 +20810,14 @@ Bold Nature
 - housecleaning  
 - steamconversion  
 
-Mewtwo @ Mirror Herb  
+Mewtwo @ Dubious Disc  
 Ability: psychicpower  
-EVs: 4 HP / 252 SpA / 252 Spe  
-Hasty Nature  
-- Psystrike  
-- Overheat  
-- ensnarement  
-- neuronblade  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- mysterybarrage  
+- pressurewave  
+- cipherflash  
+- psychicfury  
 
 Zacian-Crowned @ Dive Ball  
 Ability: Intrepid Sword  
@@ -20826,13 +20825,13 @@ Shiny: Yes
 Happiness: 250  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
-- hyperrush  
+- Hyper Rush  
 - Flare Blitz  
 - Ice Spinner  
 - armorsmash  
 
 Necrozma-Dawn-Wings @ Dragon Scale  
-Ability: soaringburst  
+Ability: Soaring Burst  
 Shiny: Yes  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
@@ -20878,7 +20877,7 @@ EVs: 4 HP / 252 SpA / 252 Spe
 Timid Nature  
 - mysterydeluge  
 - pressurewave  
-- Poltergeist  
+- ravenouswrath  
 - psychicfury  
 
 Kyurem-Black @ Life Orb  
@@ -20909,6 +20908,194 @@ Jolly Nature
 - mysteryspeed  
 - heavenlymist  
 - cipherflash  
+
+Victreebel (M) @ Nomel Berry  
+Ability: hopesprout  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 252 Def / 4 SpA  
+Relaxed Nature  
+IVs: 0 Spe  
+- Apple Acid  
+- Toxic Spikes  
+- brambleblast  
+- Parting Shot  
+
+
+=== [gen6ubers] Cipher (Suicune-Shadow, Mewtwo-???) ===
+
+Mewtwo @ Dubious Disc  
+Ability: psychicpower  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- mysterybarrage  
+- pressurewave  
+- cipherflash  
+- psychicfury  
+
+Dialga @ Focus Band  
+Ability: Telepathy  
+Happiness: 251  
+EVs: 116 HP / 252 SpD / 140 Spe  
+Calm Nature  
+- Roar of Time  
+- ionwave  
+- diffusionwave  
+- Shell Smash  
+
+Arceus @ enigmaplate  
+Ability: Multitype  
+EVs: 36 HP / 136 Atk / 84 Def / 252 Spe  
+Jolly Nature  
+- dimensionbreak  
+- mysteryspeed  
+- heavenlymist  
+- cipherflash  
+
+Victreebel (M) @ Nomel Berry  
+Ability: hopesprout  
+Shiny: Yes  
+Happiness: 251  
+EVs: 252 HP / 252 Def / 4 SpA  
+Relaxed Nature  
+IVs: 0 Spe  
+- Apple Acid  
+- Toxic Spikes  
+- brambleblast  
+- Parting Shot  
+
+Suicune @ Strange Ball  
+Ability: Snow Warning  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Naive Nature  
+- sacredwater  
+- shadowcannon  
+- Shadow Ball  
+- lustrousstream  
+
+Giratina-Origin @ Griseous Core  
+Ability: distortionpower  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Poltergeist  
+- Scale Shot  
+- dragonfire  
+- Shadow Sneak  
+
+
+=== [gen6ubers] Expanding Force Mewtwo (Victreebel-Shadow) ===
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Hasty Nature  
+- Expanding Force  
+- Poltergeist  
+- silkbomb  
+- psychodarts  
+
+Dialga @ Focus Band  
+Ability: Telepathy  
+Happiness: 251  
+EVs: 116 HP / 252 SpD / 140 Spe  
+Calm Nature  
+- Roar of Time  
+- Overheat  
+- diffusionwave  
+- Shell Smash  
+
+Zacian-Crowned @ Dive Ball  
+Ability: Intrepid Sword  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Hyper Rush  
+- Flare Blitz  
+- Ice Spinner  
+- armorsmash  
+
+Arceus @ enigmaplate  
+Ability: Multitype  
+EVs: 36 HP / 136 Atk / 84 Def / 252 Spe  
+Jolly Nature  
+- dimensionbreak  
+- mysteryspeed  
+- heavenlymist  
+- cipherflash  
+
+Victreebel (M) @ Strange Ball  
+Ability: hopesprout  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Hasty Nature  
+- Frenzy Plant  
+- shadowcannon  
+- Poison Sting  
+- brambleblast  
+
+Necrozma-Dawn-Wings @ Dragon Scale  
+Ability: Soaring Burst  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Light That Burns the Sky  
+- shadowflame  
+- Grass Knot  
+- psychodarts  
+
+
+=== [gen6ubers] Firmament Pierce (Rayquaza, ???) ===
+
+Rayquaza @ Dubious Disc  
+Ability: dragonheart  
+Shiny: Yes  
+Happiness: 251  
+EVs: 120 Atk / 252 SpA / 136 Spe  
+Rash Nature  
+- dragonfire  
+- Energy Ball  
+- Extreme Speed  
+- firmamentbreak  
+
+Arceus @ enigmaplate  
+Ability: Multitype  
+EVs: 36 HP / 136 Atk / 84 Def / 252 Spe  
+Jolly Nature  
+- dimensionbreak  
+- mysteryspeed  
+- heavenlymist  
+- cipherflash  
+
+Phione @ Wave Incense  
+Ability: Drizzle  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- etherealstream  
+- bubblespin  
+- slushswitch  
+- wavesplash  
+
+Dialga @ Focus Band  
+Ability: Telepathy  
+Happiness: 251  
+EVs: 116 HP / 252 SpD / 140 Spe  
+Calm Nature  
+- Roar of Time  
+- Overheat  
+- diffusionwave  
+- Shell Smash  
+
+Mewtwo @ Dawn Stone  
+Ability: hightenedmind  
+Happiness: 250  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Stored Power  
+- psychicburst  
+- silkbomb  
+- psychodarts  
 
 Victreebel (M) @ Nomel Berry  
 Ability: hopesprout  

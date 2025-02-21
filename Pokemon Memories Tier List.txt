@@ -88,44 +88,42 @@ Banlist: Arceus-Origin, Eternatus-Eternamax, Groudon-Primal, Kyogre-Primal, Mewt
 
 Viability Rankings          
 
-S-Tier (6 Total)
+S-Tier (7 Total)
 
 S+
+Mewtwo (S; Hightened Mind/Dubious Disc)
 Arceus-???
-Mewtwo (S; Dubious Disc)
+Necrozma-Ultra
 
 S
 Suicune-Shadow*
-Necrozma-Ultra
 
 S-
 Giratina-Origin
 Zacian-Crowned (B+; Dive Ball)
+Rayquaza (B-; Dubious Disc)
 
-A-Tier (12 Total)
+A-Tier (10 Total)
 The Pokemon in this Tier and the following Tiers are listed in Alphabetical Order
 
 A+
-Kyurem-Black
 Phione
 Victreebel
-Zekrom-Shadow*
 
 A
 Arceus-Dark
-Calyrex-Shadow
-Dialga-Shadow*
-Meloetta-Shadow*
-Palkia
-Rapidash-Shadow*
+Zekrom-Shadow*
 
 A-
+Calyrex-Shadow
 Greninja-Ash
-Groudon
-Lilligant-Hisui
+Kyurem-Black
+Meloetta-Shadow*
+Palkia
+Victreebel-Shadow*
 
 
-B-Tier (73 Total)
+B-Tier (74 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
@@ -136,21 +134,23 @@ Darkrai
 Darkrai-Shadow*
 Deoxys-Attack
 Dialga
+Dialga-Shadow*
 Dondozo
+Groudon
 Infernape
 Klinklang
 Kyogre
 Kyurem-White
 Lilligant
 Lugia
+Lunala
 Melmetal
 Mew
 Palkia-Shadow*
 Porygon-Z
-Rayquaza
+Rapidash-Shadow*
 Tornadus
 Trevenant
-Victreebel-Shadow*
 Yveltal
 
 B
@@ -192,9 +192,9 @@ Eternatus
 Golurk
 Keldeo-Resolute
 Landorus-Therian
+Lilligant-Hisui
 Lopunny-Mega
 Lucario-Shadow*
-Lunala
 Mamoswine
 Necrozma-Dusk-Mane
 Ponyta-Galar

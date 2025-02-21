@@ -268,11 +268,11 @@ Relevant - Ubers-Legal Pokemon that are commonly used or otherwise viable in the
 
 Special Attack
 Stat: 338
-Place: 13th (Total); 11th (Megas Excluded); 3rd (Relevant: Calyrex-Shadow, Giratina-Origin, Mewtwo)
+Place: 20th (Total); 11th (Megas Excluded); 3rd (Relevant: Calyrex-Shadow, Giratina-Origin, Mewtwo)
 
 Attack
 Stat: 335
-Place: 17th (Total); 16th (Megas Excluded); 1st (Relevant: Mewtwo)
+Place: 25th (Total); 16th (Megas Excluded); 1st (Relevant: Mewtwo)
 
 Average Offensive Power (Atk + SpA / 2; Rounded Down)
 Stat: 336 (5th Total; Deo-A - 405; Mega Rayquaza - 400; Mega Mewtwo X - 395; Thundurus - 385; Mewtwo - 336)
