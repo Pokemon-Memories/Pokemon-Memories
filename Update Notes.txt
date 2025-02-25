@@ -1,17 +1,108 @@
 Pokemon Memories Update Notes
 
 Pokemon Memories v2.1.6
+General
+- Animations
+	- The following Moves have received Animations: "Dragon Cutter"
+
+
 Formats
 - Ubers
-	- Ubers Lite
+	- Standard Ubers
+		- Banlist Additions
+			- Deoxys-Speed Clause: Deoxys-Speed cannot hold a Dark Memory
 		- Banlist Removals
+			- Porygon-Z Clause: Porygon-Z can now hold a Dubious Disc
+	- Ubers Lite
+		- Banlist Additions
+			- Deoxys-Speed
+			- Moltres-Clause: Moltres cannot hold a Fire Memory
+			- Palkia-Shadow
+			- Rayquaza
+		- Banlist Removals
+			- Kyurem-Black
 			- Moltres
+			- Palkia
+
+Abilities
+- Omnipotent
+	- Additional Effect: Pokemon now receives Immunities depending on its held Memory Disc, as well
+	- Additional Restriction: This Ability's Type-Nullifying Properties can now be bypassed by Descaling Moves. This change does not apply to Impervious
+
 
 Moves
+- Dragon Cutter
+	- Implemented
+	- Base Power: 60
+	- Accuracy: 100
+	- Category: Physical
+	- Contact: Yes
+	- Effect: Hits Dragon-Types Super-Effectively, and deals an additional x1.5 Damage to Pokemon with Neuroforce.
+	- Properties: Slicing Move; Sword-Move.
+	- Priority: 2
+	- PP: 5
+	- Type: Fighting
+	- Users: Keldeo
 - Expanding Force
 	- Corrected an oversight where this Move's Base Power was not properly updated to 130 (up from 120)
 - Firmament Break
 	- Duration: 4 Turns -> 3 Turns
+- Light That Burns the Sky
+	- Base Power: 320 -> 300
+- Snap Trap
+	- Base Power: 80 -> 100
+
+
+Pokemon
+- Deoxys
+	- Learnset Additions
+		- Psycho Fire
+			- Applies to: Deoxys (Base), Deoxys-Defense
+- Eternatus
+	- Added Abilities
+		- Telepathy
+- Jigglypuff Evolutionary Line
+	- Jigglypuff
+		- Base Stats
+			- Atk: 212 -> 242
+			- Spe: 153 -> 173
+		- Learnset Additions
+			- Alluring Voice
+			- Aromatic Mist
+			- House Cleaning
+			- Moonblast
+			- Pummel Plush
+			- Sparkle Wave
+	- Wigglytuff
+		- Ability: Frisk -> Regenerator
+		- Base Stats
+			- Def: 200 -> 230
+			- Spe: 145 -> 165
+- Keldeo
+	- General
+		- Base Stats
+			- Hp: 120 -> 150
+		- Learnset Additions
+			- Battle Cry
+			- Shadow Sneak
+		- Learnset Removals
+			- Swords Dance
+- Maractus
+	- Base Stats
+		- Spe: 80 -> 104
+- Necrozma Ultra
+	- Base Stats
+		- Spe: 186 -> 184
+
+
+Shadow Pokemon
+- Rapidash Shadow
+	- Glow Shadow
+		- Additional Effect: The Damage that this Pokemon receives from Shadow Sneak is reduced by x0.5.
+- Zekrom Shadow
+	- Thunder Shadow
+		- Additional Effect: The Damage that this Pokemon receives from Shadow Sneak is reduced by x0.67.
+
 
 
 Pokemon Memories v2.1.5

@@ -88,12 +88,11 @@ Banlist: Arceus-Origin, Eternatus-Eternamax, Groudon-Primal, Kyogre-Primal, Mewt
 
 Viability Rankings          
 
-S-Tier (7 Total)
+S-Tier (6 Total)
 
 S+
 Mewtwo (S; Hightened Mind/Dubious Disc)
 Arceus-???
-Necrozma-Ultra
 
 S
 Suicune-Shadow*
@@ -103,7 +102,7 @@ Giratina-Origin
 Phione
 Zacian-Crowned (B+; Dive Ball)
 
-A-Tier (10 Total)
+A-Tier (11 Total)
 The Pokemon in this Tier and the following Tiers are listed in Alphabetical Order
 
 A+
@@ -112,18 +111,19 @@ Victreebel
 
 A
 Arceus-Dark
-Zekrom-Shadow*
+Necrozma-Ultra
 
 A-
 Calyrex-Shadow
-Greninja-Ash
+Deoxys-Speed (B; Dark Memory)
+Dialga
 Kyurem-Black
 Meloetta-Shadow*
-Palkia
 Victreebel-Shadow*
+Zekrom-Shadow*
 
 
-B-Tier (74 Total)
+B-Tier (75 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
@@ -133,9 +133,9 @@ Braixen
 Darkrai
 Darkrai-Shadow*
 Deoxys-Attack
-Dialga
 Dialga-Shadow*
 Dondozo
+Greninja-Ash
 Groudon
 Infernape
 Klinklang
@@ -146,6 +146,7 @@ Lugia
 Lunala
 Melmetal
 Mew
+Palkia
 Palkia-Shadow*
 Porygon-Z
 Rapidash-Shadow*
@@ -162,7 +163,6 @@ Articuno
 Bellsprout
 Cherrim-Sunshine
 Deoxys
-Deoxys-Speed
 Entei-Shadow*
 Gallade-Mega
 Gengar-Mega
@@ -977,12 +977,13 @@ Example: 252 SpA Adrenaline Orb Mewtwo Stored Power vs. 4 HP / 88 SpD Arceus: 45
 Arceus-Enigma
 --
 Meloetta-Shadow
+--
 Surviving Meloetta-Shadow's Storm Throw
 EVs: 36 HP / 84 Def
 Raw Stats: 650 HP / 477 Def
 Explanation: This particular Investment provides a means for Enigmaceus to survive using a minimal amount of investment, while also allowing it to survive an opposing +1 Hyper Rush from Dive Ball Adamant Zacian-Crowned.
 Example: 252 Atk Shadow State Meloetta-Shadow Storm Throw vs. 36 HP / 84 Def Arceus on a critical hit: 552-649 (84.9 - 99.8%) -- guaranteed 2HKO
---
+-------------------------------------------------
 Mewtwo
 --
 Spoofing Mewtwo's Pressure Wave
@@ -1009,7 +1010,15 @@ Explanation: Although Arceus could theoretically invest more into its Stats to g
 Guaranteed Survival EVs: 164 HP / 252 SpD with SpD Boosting Nature
 Raw Stats: 682 Hp / 570 SpD
 Example: Critical Striker 252 SpA Adrenaline Orb Mewtwo Stored Power vs. 164 HP / 252+ SpD Arceus-Enigma: 577-681 (84.6 - 99.8%) -- guaranteed 2HKO
------------
+--------------------------------------------------------------------------------
+Necrozma Ultra
+--
+Optimal EVs to survive Light that Burns the Sky (Outdated)
+EVs: 36 HP / 84 SpD
+Raw Stats: 650 Hp / 477 SpD
+Explanation: Running this particular spread leaves Enigmaceus with enough spare EVs to invest the 84 Physical Defense EVs needed to survive Meloetta Shadow's Storm Throw and Zacian-Crowned's +1 Adamant Dive Ball Hyper Rush, while granting it enough space to both fully invest in its Speed Stat, and deposit an additional 52 EVs into its Attack Stat.
+Example: 252 SpA Dragon Scale Necrozma-Ultra Light that Burns the Sky (320 BP) vs. 36 HP / 84 SpD Arceus-Enigma: 552-649 (84.9 - 99.8%) -- guaranteed 2HKO
+--------------------------------------------------------------------------------
 Zacian-Crowned
 --
 Surviving Dive Ball +1 Adamant Zacian-Crowned's Hyper Rush
@@ -1233,26 +1242,26 @@ S-Tier (3 Total)
 
 S
 Zamazenta-Hero (B; Steel Memory)
+Lunala
 
 S-
-Cresselia
 Dragapult
 
 
-A-Tier (16 Total)
+A-Tier (15 Total)
 
 A+
-Arceus-Water
+Arceus-Fairy
+Darkrai
 Lucario-Shadow
-Zacian-Shadow
-Zoroark-Hisui
 
 A
-Arceus-Fairy
+Arceus-Water
 Bellsprout
+Cresselia
 Eternatus (B; Poison Memory)
-Lunala
 Spectrier
+Zoroark-Hisui
 
 A-
 Arcanine-Hisui
@@ -1264,7 +1273,7 @@ Kyurem-White
 Sunflora-Shadow
 
 
-B-Tier (19 Total)
+B-Tier (20 Total)
 
 B+
 Carracosta
@@ -1290,6 +1299,7 @@ B-
 Meowscarada
 Porygon-Z
 Thundurus-Therian
+Zacian-Shadow
 
 
 C-Tier (6 Total)

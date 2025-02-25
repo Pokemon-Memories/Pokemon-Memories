@@ -517,7 +517,7 @@ Sawsbuck-Autumn: 		BST: 1444
 Sawsbuck-Summer: 		BST: 1444
 Sawsbuck-Winter: 		BST: 1444
 Tornadus Therian: 		BST: 1430
-Ultra Necrozma: 		BST: 1420
+Ultra Necrozma: 		BST: 1418
 Mewtwo: 			BST: 1400
 Arceus: 			BST: 1400
 Multitype Arceus: 		BST: 1400
@@ -614,7 +614,9 @@ Tapu Koko: 			BST: 1260
 Tapu Lele: 			BST: 1260
 Melmetal: 			BST: 1252
 Chesnaught:			BST: 1250
+Jigglypuff: 			BST: 1250
 Swanna: 			BST: 1250
+Wigglytuff: 			BST: 1250
 Infernape: 			BST: 1249
 Emboar: 			BST: 1248
 Ash-Greninja: 			BST: 1245
@@ -626,9 +628,6 @@ Lucario: 			BST: 1235
 Mega Altaria: 			BST: 1235
 Wailord: 			BST: 1235
 Zoroark: 			BST: 1230
-Mega Audino: 			BST: 1225
-Mienshao: 			BST: 1225
-Ponyta-Galar 			BST: 1225
 Azelf: 				BST: 1230
 Mesprit: 			BST: 1230
 Slowking: 			BST: 1230
@@ -636,7 +635,10 @@ Uxie: 				BST: 1230
 Thundurus: 			BST: 1228
 Thundurus Therian: 		BST: 1228
 Mamoswine: 			BST: 1225
+Mega Audino: 			BST: 1225
 Mega Gardevoir: 		BST: 1225
+Mienshao: 			BST: 1225
+Ponyta-Galar 			BST: 1225
 Mega Gengar: 			BST: 1220
 Regidrago: 			BST: 1220
 Tropius: 			BST: 1220
@@ -654,12 +656,10 @@ Deoxys-Defense: 		BST: 1200
 Deoxys-Speed: 			BST: 1200
 Deoxys: 			BST: 1200
 Glastrier: 			BST: 1200
-Jigglypuff: 			BST: 1200
 Ludicolo: 			BST: 1200
 Mega Heracross: 		BST: 1200
 Spectrier: 			BST: 1200
 Weepinbell: 			BST: 1200
-Wigglytuff: 			BST: 1200
 =============================================
 1100s
 Meowscarada: 			BST: 1198
@@ -687,6 +687,7 @@ Latios: 			BST: 1170
 Latias: 			BST: 1170
 Camerupt: 			BST: 1170
 Sandslash-Alola: 		BST: 1169
+Maractus: 			BST: 1166
 Mega Swampert: 			BST: 1165
 Rotom: 				BST: 1165
 Rotom-Heat: 			BST: 1165
@@ -712,7 +713,6 @@ Flygon: 			BST: 1150
 Garchomp: 			BST: 1150
 Porygon2: 			BST: 1144
 Porygon-Z: 			BST: 1144
-Maractus: 			BST: 1142
 Delphox: 			BST: 1140
 Gliscor: 			BST: 1140
 Naganadel: 			BST: 1140
@@ -953,7 +953,6 @@ Raikou: 186
 Rapidash-Shadow*: 186
 Tapu Koko: 186
 Tornadus-Therian: 186
-Ultra Necrozma: 186
 Accelgor: 185
 Azumarill-Shadow*: 185
 Beedrill-Mega: 185
@@ -981,6 +980,7 @@ Keldeo-Resolute: 184
 Luxray: 184
 Shaymin-Sky: 184
 Suicune-Shadow*: 184
+Ultra Necrozma: 184
 Zamazenta: 184
 Zoroark-Hisui: 184
 Infernape: 183
@@ -1043,7 +1043,7 @@ Unown: 180
 Zapdos: 180
 Zoroark: 180
 ===============
-Category: 170s (68 Total)
+Category: 170s (69 Total)
 --
 Raichu: 179
 Thundurus-Therian: 179
@@ -1084,6 +1084,7 @@ Zekrom: 175
 Decidueye: 174
 Porygon2: 174
 Entei: 173
+Jigglypuff: 173
 Suicune: 173
 Xurkitree: 173
 Lucario: 171
@@ -1114,7 +1115,7 @@ Palkia: 170
 Sandslash-Alola: 170
 Victini: 170
 ===============
-Category: 160s (86 Total)
+Category: 160s (87 Total)
 --
 Charizard-Mega-X: 169
 Charizard-Mega-Y: 169
@@ -1154,6 +1155,7 @@ Zygarde-(50 Percent): 164
 Darmanitan-Galar: 163
 Emolga: 163
 Nihilego: 163
+Wigglytuff: 145
 Hoopa-Unbound: 162
 Lugia: 162
 Regigigas: 162
@@ -1203,7 +1205,7 @@ Sceptile: 160
 Sudowoodo: 160
 Togekiss: 160
 ===============
-Category: 150s (43 Total)
+Category: 150s (42 Total)
 --
 Missingno: 159
 Blastoise-Mega: 158
@@ -1225,7 +1227,6 @@ Pikachu-Pop-Star: 155
 Smeargle: 155
 Tapu Fini: 155
 Seismitoad: 154
-Jigglypuff: 153
 Noivern: 153
 Floette-Eternal: 152
 Luxio: 152
@@ -1250,7 +1251,7 @@ Tentacruel: 150
 Vileplume: 150
 Zygarde-Complete: 150
 ===============
-Category: 140s (26 Total)
+Category: 140s (25 Total)
 --
 Cobalion: 148
 Diggersby: 148
@@ -1261,7 +1262,6 @@ Magnezone: 145
 Heracross-Mega: 145
 Heracross: 145
 Beartic: 145
-Wigglytuff: 145
 Scolipede: 142
 Swampert-Mega: 142
 Swampert: 142
@@ -1319,7 +1319,7 @@ Mawile-Mega: 110
 Mawile: 110
 Solrock: 110
 ===============
-Category: 100s (19 Total)
+Category: 100s (20 Total)
 --
 Aurorus: 108
 Ditto: 108
@@ -1327,6 +1327,7 @@ Crustle: 105
 Dondozo: 105
 Quagsire: 105
 Spiritomb: 105
+Maractus: 104
 Aegislash-Blade: 100
 Aegislash: 100
 Camerupt-Mega: 100
@@ -1341,7 +1342,7 @@ Miltank: 100
 Reuniclus: 100
 Sunkern: 100
 ===============
-Category: Below 100 (47 Total)
+Category: Below 100 (46 Total)
 --
 Arctozolt: 95
 Drapion: 95
@@ -1358,7 +1359,6 @@ Mega Aggron: 90
 Mega Audino: 90
 Blissey: 85
 Chansey: 85
-Maractus: 80
 Claydol: 75
 Dracozolt: 75
 Tyrantrum: 75
@@ -1912,29 +1912,36 @@ Zap Cannon
 ------------------------------------------------------------------------
 Jigglypuff   
 Hp: 115 -> 185 = +70
-Atk: 45 -> 212 = +167
+Atk: 45 -> 242 = +197
 Def: 20 -> 140 = +120
 SpA: 45 -> 255 = +210
 SpD: 25 -> 255 = +230
-Spe: 20 -> 153 = +133
-BST: 270 -> 1200
+Spe: 20 -> 173 = +153
+BST: 270 -> 1250
 Moveset Syncrhonized with Wigglytuff's
 
 New Moves
+Alluring Voice
+Aromatic Mist
 Belly Drum
 Chilling Water
 Heart Sap
+House Cleaning
+Moonblast
 Pixie Switch
+Pummel Plush
+Sparkle Wave
 Strength Sap
 ------
 Wigglytuff   
 Hp: 140 -> 240 = +100
 Atk: 70 -> 190 = +120
-Def: 45 -> 200 = +155
+Def: 45 -> 230 = +175
 SpA: 85 -> 255 = +75
 SpD: 50 -> 170 = +120
-Spe: 45 -> 145 = +100
-BST: 435 -> 1200
+Spe: 45 -> 165 = +120
+BST: 435 -> 1250
+Ability: Frisk -> Regenerator
 New Moves
 Belly Drum
 Chilling Water
@@ -3649,6 +3656,7 @@ Situationally Learned Moves
 Dark Pulse (Users: Deoxys, Deoxys-Defense, Deoxys-Speed)
 Diffusion Wave (Users: Deoxys-Defense)
 Lash Out (Users: Deoxys, Deoxys-Defense)
+Psycho Fire (Users: Deoxys, Deoxys-Defense)
 Receiving Strike (Users: Deoxys)
 Recompense (Users: Deoxys-Attack)
 Shadow Ball (Users: Deoxys, Deoxys-Defense, Deoxys-Speed)
@@ -4822,7 +4830,7 @@ Impervious (New Ability)
 Effect: Grants the Pokemon an immunity to certain moves depending on the user's Damage-Reducing Berry (same as Omnipotent).
 --
 Omnipotent (New Ability)
-Effect: Pokemon's Moves without STAB receive a x1.3 STAB-Bonus. Grants the Pokemon an immunity to certain moves depending on the user's Damage-Reducing Berry. Pokemon receives a x1.5 Base Power Boost in moves that share a Type with its Damage-Reducing Berry. Pokemon cannot use Healing Moves if it has any Positive Stat Boosts, however pivoting moves that heal the Pokemon as a secondary effect can be used regardless. Opposing Priority-Moves deal x0.67 Damage. Only works with Normal-Type Arceus.
+Effect: Pokemon's Moves without STAB receive a x1.3 STAB-Bonus. Grants the Pokemon an immunity to certain moves depending on the user's Damage-Reducing Berry or Memory Disc; This effect is ignored by opposing Descaling Moves. Pokemon receives a x1.5 Base Power Boost in moves that share a Type with its Damage-Reducing Berry. Pokemon cannot use Healing Moves if it has any Positive Stat Boosts, however pivoting moves that heal the Pokemon as a secondary effect can be used regardless. Opposing Priority-Moves deal x0.67 Damage. Only works with Normal-Type Arceus.
 Mechanics: Type Immunity = Type-Based Damage-Reducing Berry
 
 Specific Mechanics
@@ -5219,8 +5227,8 @@ Atk: 86 -> 210 = +124
 Def: 67 -> 207 = +140
 SpA: 106 -> 210 = +104
 SpD: 67 -> 300 = +233
-Spe: 60 -> 80 = +20
-BST: 461 -> 1142
+Spe: 60 -> 104 = +44
+BST: 461 -> 1166
 Ability: Chlorophyll -> Water Trap
 New Moves
 Aromatherapy
@@ -6072,25 +6080,25 @@ Effect: Multiplies the power of the user's non-Priority Super-Effective Dragon-T
 ------------------------------------------------------------------------
 Keldeo   
 Type: Water/Fighting
-Hp: 91 -> 120 = +29
+Hp: 91 -> 150 = +59
 Atk: 72 -> 202 = +130
 Def: 90 -> 300 = +200
 SpA: 129 -> 202 = +173
 SpD: 90 -> 211 = +121
 Spe: 108 -> 180 = +66
-BST: 580 -> 1215
+BST: 580 -> 1245
 New Ability: Dyslexia
 Hidden Ability: Perfect Sword
 
 Keldeo-Resolute   
 Type: Water/Fighting
-Hp: 120 -> 120 = +0
+Hp: 150 -> 150 = +0
 Atk: 202 -> 310 = +108
 Def: 300 -> 140 = -160
 SpA: 202 -> 310 = +108
 SpD: 211 -> 151 = -60
 Spe: 180 -> 184 = +4
-BST: 1215 -> 1215
+BST: 1215 -> 1245
 New Ability: Power Drive
 Hidden Ability: Perfect Sword
 New Moves
@@ -6098,8 +6106,10 @@ Aqua Rise
 Aqua Step
 Air Slash
 Aqua Soul
+Battle Cry
 Body Press
 Cryocrisis
+Dragon Cutter
 Express Heal
 Flip Turn
 Folder Switch
@@ -6116,12 +6126,12 @@ Mystery Sphere
 Night Slash
 Play Rough
 Recover
+Shadow Sneak
 Shatter Bolt
 Shatter Shot
 Shatter Spark
 Shatter Splash
 Slash
-Swords Dance
 Wave Crash
 Wild Charge
 
@@ -7693,8 +7703,8 @@ Atk: 307 -> 337 = +30
 Def: 237 -> 207 = -30
 SpA: 253 -> 333 = +80
 SpD: 220 -> 170 = -50
-Spe: 156 -> 186 = +30
-BST: 1340 -> 1420
+Spe: 156 -> 184 = +28
+BST: 1340 -> 1418
 New Moves
 Light That Burns The Sky
 ------------------------------------------------------------------------
@@ -8125,7 +8135,7 @@ SpA: 145 -> 305 = +160
 SpD: 95 -> 205 = +110
 Spe: 130 -> 173 = +43
 BST: 690 -> 1400
-Added Ability: Space Power
+Added Ability: Space Power/Telepathy
 New Moves
 Anchor Shot
 Aromatic Mist
@@ -11026,6 +11036,7 @@ Accuracy:
 Category: 
 Contact: 
 Effect: 
+Properties: 
 Priority: 
 PP: 
 Target: 
@@ -11038,6 +11049,7 @@ Type:
 	- Category: 
 	- Contact: 
 	- Effect: 
+	- Properties: 
 	- Priority: 
 	- PP: 
 	- Type: 
@@ -11049,10 +11061,10 @@ Standard Ubers
 Ruleset
 - Memory Clause: Only one Memory Disc is allowed per Team*
 - Deoxys-Attack Clause: Deoxys-Attack cannot hold a Dubious Disc, or a Fighting Memory*
+- Deoxys-Speed Clause: Deoxys-Speed cannot hold a Dark Memory*
 - Mewtwo Clause: Mewtwo cannot hold a Dark Memory, Fairy Memory, or Psychic Memory*
 - Shadow Mewtwo Clause: Mewtwo cannot hold a Strange Ball.*
 - Calyrex-Shadow Clause: Calyrex-Shadow cannot hold a Ghost Memory*
-- Porygon-Z Clause: Porygon-Z cannot hold a Dubious Disc.*
 - Stakataka Clause: Stakataka cannot hold a Strange Ball.*
 - Super Dark Aura Clause: Dark Aura cannot be upgraded into Super Dark Aura
 
@@ -11097,6 +11109,7 @@ Banlist Additions
 Ubers Lite   
 Description: A variation of Standard Ubers which reduces the power level of the Tier by limiting the usable Pokemon to those at or below the B+ Tier (as determined by the Official Tier List)
 Ruleset
+- Moltres Clause: Moltres cannot hold a Fire Memory
 - Rayquaza Clause: Rayquaza cannot hold a Dubious Disc
 Banlist Additions
 - Abilities
@@ -11111,17 +11124,17 @@ Banlist Additions
 	- Arceus-Enigma
 	- Calyrex-Shadow*
 	- Deoxys-Attack*
+	- Deoxys-Speed*
 	- Dialga*
 	- Dialga-Shadow*
 	- Greninja-Ash
-	- Kyurem-Black
 	- Meloetta-Shadow
 	- Mewtwo
-	- Moltres
 	- Necrozma-Ultra
-	- Palkia
+	- Palkia-Shadow*
 	- Phione
 	- Rapidash-Shadow*
+	- Rayquaza
 	- Regigigas-Shadow*
 	- Suicune-Shadow
 	- Victreebel
@@ -11877,7 +11890,7 @@ SpD: 220 -> 190 = -30
 Spe: 176 -> 186 = +10
 BST: 1289 -> 1389
 Glow Shadow
-Effect: Pokemon's Fire-Type Moves hit opposing Water-Type Pokemon Super-Effectively, and its Ghost-Type Moves bypass Type-Based Immunities.
+Effect: Pokemon's Fire-Type Moves hit opposing Water-Type Pokemon Super-Effectively, and its Ghost-Type Moves bypass Type-Based Immunities. Damage Recevied from Shadow Sneak is reduced by x0.5.
 Users: Rapidash
 
 Regigigas Shadow    
@@ -11965,7 +11978,7 @@ SpD: 180 -> 200 = +20
 Spe: 175 -> 185 = +10
 BST: 1300 -> 1400
 Thunder Shadow
-Effect: Pokemon receives STAB on its Electric-Type Moves. Pokemon's Electric-Type Moves ignore opposing Type-Based Immunities. Pokemon's Special Moves become Physical Moves (Does not affect Strange Wave). Pokemon's Moves have Perfect Accuracy
+Effect: Pokemon receives STAB on its Electric-Type Moves. Pokemon's Electric-Type Moves ignore opposing Type-Based Immunities. Pokemon's Special Moves become Physical Moves (Does not affect Strange Wave). Pokemon's Moves have Perfect Accuracy. Damage Recevied from Shadow Sneak is reduced by x0.67.
 
 Shadow Moves  
 Note: The following moves can only be used by Pokemon with the Shadow State  
@@ -12291,6 +12304,7 @@ Description: Moves that bypass Scale Abilities, such as Multiscale
 All "Shatter"-Moves except for Royal Shattering*
 Dimension Break
 Enigma Beam
+Magical Torque
 Royal Sacrifice
 
 Field Switch Moves
@@ -12412,6 +12426,7 @@ Air Cutter
 Air Slash
 Cross Poison
 Cut
+Dragon Cutter
 Frost Blade
 Fury Cutter
 Leaf Blade
@@ -12446,6 +12461,7 @@ Royal Retreat
 
 Sword Moves   
 Air Slash
+Dragon Cutter
 Drill Peck
 Drill Run
 Frost Blade
@@ -13537,6 +13553,17 @@ Additional Effect: Clears hazards from user's side of the field
 Dragon Claw
 Base Power: 80 -> 120
 Secondary Effect: __ -> 30% Chance to lower opponent's Def by 1 stage. High Crit Ratio
+--
+Dragon Cutter (New Move)
+Base Power: 60
+Accuracy: 100
+Category: Physical
+Contact: Yes
+Effect: Hits Dragon-Types Super-Effectively, and deals an additional x1.5 Damage to Pokemon with Neuroforce.
+Priority: +2
+PP: 5
+Target: Normal
+Type: Fighting
 --
 Dragon Darts
 Base Power: 50 -> 65
@@ -14825,8 +14852,8 @@ Light Screen
 PP: 20 -> 3 (static)
 Priority: 0 -> -5
 --
-Light That Burns the Sky
-Base Power: 200 -> 320
+Light That Burns the Sky    
+Base Power: 200 -> 300
 Category: Varies (Special by Default: Physical if Atk is higher)
 Effect: Raises highest Attacking Stat by 1 Stage after use; Resets all of Pokemon's Stats, after 3 Turns
 Conditions: Ultra Necrozma, or any Forme of Necrozma with either Searing Burst or Soaring Burst, must be holding a Light Clay or Dragon Scale to activate; Becomes Photon Geyser if conditions aren't met.
@@ -16544,7 +16571,7 @@ Sing
 Accuracy: 55
 --
 Skill Swap
-Additional Checks: Fails if used against Pokemon with the abilities: "Climate Change", "Delta Stream", "Desolate Land", "Dragon Ascension", "Ensemble", "Malleate", "Mold Breaker"., "Oppression", "Power of Alchemy", "Primordial Sea", "Psychic Assault", "Psychic Power", "Psycho Force", "Slow Start","Omnipotent"
+Additional Checks: Fails if used against Pokemon with the abilities: "Climate Change", "Delta Stream", "Desolate Land", "Dragon Ascension", "Ensemble", "Malleate", "Mold Breaker"., "Oppression", "Power of Alchemy", "Primordial Sea", "Psychic Assault", "Psychic Power", "Psycho Force", "Slow Start", "Omnipotent"
 Cannot use Entrainment to transfer: "Core Power", "Impervious", or "Omnipotent"
 PP: 10 -> 5
 --
@@ -16649,7 +16676,7 @@ Smack Down
 Base Power: 50 -> 95
 --
 Snap Trap
-Base Power: 35 -> 80
+Base Power: 35 -> 100
 Category: Physical -> Varies (Physical by default; Special is SpA is higher)
 Effect: Traps and damages opponent -> Induces Taunt and heals 1/3 damage inflicted
 Contact: No
@@ -18041,7 +18068,7 @@ Multitype
 Additional Effect: Pokemon gains a Resistance to Stealth Rock, regardless of their Type. Opposing Resisted Hits deal halved Damage; Pokemon restores 1/3 of its HP upon switching out, if it is holding a Plate or a Memory Disc
 --
 Omnipotent      
-Effect: Pokemon's Moves without STAB receive a x1.3 STAB-Bonus. Grants the Pokemon an immunity to certain moves depending on the user's Damage-Reducing Berry. Pokemon receives a x1.5 Base Power Boost in moves that share a Type with its Damage-Reducing Berry. Pokemon cannot use Healing Moves if it has any Positive Stat Boosts, however pivoting moves that heal the Pokemon as a secondary effect can be used regardless. Opposing Priority-Moves deal x0.67 Damage. Only works with Normal-Type Arceus.
+Effect: Pokemon's Moves without STAB receive a x1.3 STAB-Bonus. Grants the Pokemon an immunity to certain moves depending on the user's Damage-Reducing Berry or Memory Disc; This effect is ignored by opposing Descaling Moves. Pokemon receives a x1.5 Base Power Boost in moves that share a Type with its Damage-Reducing Berry. Pokemon cannot use Healing Moves if it has any Positive Stat Boosts, however pivoting moves that heal the Pokemon as a secondary effect can be used regardless. Opposing Priority-Moves deal x0.67 Damage. Only works with Normal-Type Arceus.
 Mechanics: Type Immunity = Type-Based Damage-Reducing Berry
 ------------------------------------------------------------------------
 Category: Cobalion Exclusive Abilities
