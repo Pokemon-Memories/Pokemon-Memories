@@ -1,5 +1,233 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v2.1.7
+General
+- Animations
+	- The following Moves have received Animations: "Citrus Punch", "Shadow Drain", "Shadow Smog"
+Formats
+- OU
+	- Banlist Additions
+		- Sleep-Moves Clause: Sleep-Inducing Status-Moves are banned
+		- Applies to: OU, Limited OU, Unlimited Memorize
+- Ubers
+	- Standard Ubers
+		- Banlist Removals
+			- Deoxys-Attack Clause: Deoxys-Attack can now hold a Fighting Memory
+			- Calyrex-Shadow Clause: Calyrex-Shadow can now hold a Ghost Memory
+	- Ubers Lite
+		- Banlist Additions
+			- Mechanics
+				- Calyrex-Shadow Clause: Calyrex-Shadow cannot hold a Ghost Memory
+				- Sleep-Moves Clause: Sleep-Inducing Status-Moves are banned
+			- Items
+				- Shiny Stone
+			- Pokemon
+				- Groudon
+				- Lucario-Shadow
+				- Lunala
+				- Victini
+		- Banlist Removals
+			- Pokemon
+				- Calyrex-Shadow
+
+
+Abilities
+- Parlor Trick
+	- Additional Effect: Pokemon is now able to activate this Ability's Speed Boost by lowering its own stats. Pokemon's Field Switch Moves have Perfect Accuracy.
+- Technician
+	- Threshold: 100 -> 110
+
+
+Items
+- Cracked Pot
+	- Implemented
+	- Effect: (Ghost-Type Pokemon only): Opposing Ghost-Type Moves with increased Priority deal 1/2 of the Holder's Max Hp, instead of their usual Damage. Single Use.
+- Syrupy Apple
+	- Effect: Restores 1/5 of the Pokemon's Max Hp upon successfully using a Status Move. -> If the holder is below 1/2 Max Hp, it is healed by 1/5 of the difference between its Max HP and its current Health (Holder's Max Hp - Current HP / 5) at the end of each Turn.
+
+
+Moves
+- Citrus Punch
+	- Implemented
+	- Base Power: 140
+	- Accuracy: 100
+	- Category: Physical
+	- Contact: Yes
+	- Effect: Restores 1/2 of the Damage Inflicted. Hits opposing Steel-Type Pokemon Super-Effectively
+	- Properties: __
+	- Priority: 0
+	- PP: 10
+	- Type: Normal
+	- Users: Calyrex (Base Forme), Cherrim, Bellsprout, Lilligant, Lilligant-Hisui, Leavanny, Meowscarada, Mew, Mewtwo, Sunflora
+- Cryocrisis
+	- Base Power: 200 -> 230
+- Day's Feast
+	- Additional Effect: Base Power is increased to 185 when used by Snorlax.
+- Healing Wing
+	- Additional Effect: User restores 1/5 of their Max Hp
+- Origin Wave
+	- Implemented
+	- Base Power: 60
+	- Accuracy: 100
+	- Category: Varies (Special by Default; Physical if Pokemon's Attack Stat is higher)
+	- Contact: __
+	- Effect: Switches both the attacker and the target out upon successfully landing; Type changes to match the Type of the Pokemon using it. Can only be used by Arceus or its Formes; This move will not work if the Pokemon is holding a Choice Scarf.
+	- Properties: Bypasses Substitutes, Field-Switch Move
+	- Priority: 0
+	- PP: 3 (Static)
+	- Target: All Adjacent Opponents
+	- Type: Normal
+	- Users: Arceus
+- Psychic Order
+	- Passive Healing: 1/8 -> 1/6
+- Psychic Screen
+	- No longer requires Mewtwo to have at least 1/2 of its Max Hp
+- Shadow Drain
+	- Implemented
+	- Base Power: 140
+	- Accuracy: 100
+	- Category: Special
+	- Contact: __
+	- Effect: Pokemon restores 1/3 of the Damage Inflicted
+	- Properties: __
+	- Priority: 0
+	- PP: 5
+	- Type: Ghost
+	- Users: Calyrex-Shadow, Froslass
+- Shadow Smog
+	- Implemented
+	- Base Power: 140
+	- Accuracy: 100
+	- Category: Special
+	- Contact: __
+	- Effect: Hits opposing Dragon-Type Pokemon Super-Effectively. 
+	- Properties: __
+	- Priority: 0
+	- PP: 10
+	- Type: Ghost
+	- Users: Calyrex-Shadow, Chandelure, Froslass, Gengar, Lunala, Mew, Mewtwo
+- Vicious Vine
+	- Base Power: 80 -> 85
+
+
+Pokemon
+- Breloom
+	- Base Stats
+		- Hp: 100 -> 150
+		- Atk: 200 -> 250
+		- Def: 100 -> 140
+		- SpA: 120 -> 180
+		- SpD: 60 -> 140
+		- Spe: 125 -> 185
+	- Learnset Additions
+		- Cross Poison
+		- Receiving Strike
+		- Rock Climb
+		- Rock Blast
+		- Stone Edge
+		- Triple Kick
+		- Zen Headbutt
+- Calyrex Formes
+	- Ability: Unnerve -> Seed Setter
+	- Base Forme
+		- Learnset Additions
+			- Rental Charge
+			- Royal Decree
+			- Howl
+	- Calyrex-Ice
+		- Learnset Additions
+			- Armor Smash
+			- Psychic Storm
+	- Calyrex-Shadow
+		- Learnset Additions
+			- Shadow Rush
+- Chandelure
+	- Learnset Additions
+		- Diffusion Wave
+		- Howl
+		- Magma Storm
+		- Spectral Wave
+- Deoxys
+	- Learnset Additions
+		- X-Scissor
+			- Applies to: Deoxys (Base)
+- Dusknoir
+	- Base Stats
+		- Atk: 185 -> 285
+	- Learnset Additions
+		- Aromatic Mist
+		- House Cleaning
+		- Poltergeist
+		- Shadow Flame
+		- Trick Retreat
+	- Learnset Removals
+		- Recover
+- Froslass
+	- Learnset Additions
+		- Earth Power
+- Gengar
+	- General
+		- Learnset Additions
+			- Poltergeist
+			- Shadow Flame
+			- Shadow Sneak
+	- Base Forme
+		- Base Stats
+			- Atk: 138 -> 208
+			- SpA: 260 -> 280
+			- Spe: 181 -> 183
+	- Gengar-Mega
+		- Base Stats
+			- Atk: 138 -> 258
+			- Spe: 181 -> 183
+- Ho-Oh
+	- Ability: Double-Layer -> Antipathy
+	- Base Stats
+		- Hp: 226 -> 236
+		- Def: 220 -> 240
+		- SpD: 214 -> 224
+- Lugia
+	- Base Stats
+		- Atk: 205 -> 225
+		- Def: 208 -> 218
+		- SpA: 235 -> 245
+- Meowscarada
+	- Base Stats
+		- Spe: 181 -> 185
+	- Learnset Additions
+		- Close Combat
+		- Frigid Blast
+		- Leaf Storm
+		- Malice Run
+		- Nasty Plot
+		- Swords Dance
+- Mewtwo
+	- Base Forme
+		- Base Stats
+			- Hp: 170 -> 180
+			- SpD: 185 -> 205
+	- Mega-Mewtwo-Y
+		- Base Stats
+			- Atk: 245 -> 225
+			- Def: 165 -> 185
+- Snorlax
+	- Abilities: Immunity/Thick Fat -> Stamina/Weak Armor
+	- Learnset Additions
+		- Aromatic Mist
+		- Autotomize
+		- Magnitude
+		- Sweet Retreat
+
+
+Shadow Pokemon
+- Shadow Mewtwo
+	- Base Stats
+		- Hp: 170 -> 180
+		- SpD: 155 -> 175
+
+
+
+
 Pokemon Memories v2.1.6
 General
 - Animations
