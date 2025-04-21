@@ -22,9 +22,9 @@ Section D
 	• Viability Rankings
 	• History of the Format
 
-(228 Total)
+(229 Total)
 						      Section A    
-						    Standard Ubers
+						    Standard Ubers          
 						      Highlights        
 Description: Certain Pokemon are given "Highlights", which will be posted here. A Pokemon may be highlighted from any Tier, however, typically, they are chosen from the S-Tier. The Highlighted Pokemon's attributes are listed in the following order: Species, [Type], (Stats), Abilities, and [Viable Memory Discs].
 
@@ -74,7 +74,7 @@ C-Tier: Pokemon in this Tier tend to possess significant weaknesses, and are gen
 
 D-Tier: Pokemon in this Tier are generally considered to be unviable, and should not be used
 
-Conditional Placements: If a Pokemon that would otherwise reside in a lower Tier, finds itself worthy of the A-Tier on account of its synergy with the Memorization Mechanic; Next to the Pokemon's name will be the letter of the Tier they would have otherwise resided in, alongside, if applicable, the particular Held Item, or Memory Mechanic(s) (e.g. Items, Abilities, etc) that contributed to their higher placement. (E.g.: PokePoke (D; Bug Memory)).
+Conditional Placements: If a Pokemon that would otherwise reside in a lower Tier, finds itself worthy of the A-Tier on account of its synergy with the Memorization Mechanic; Next to the Pokemon's name will be the letter of the Tier they would have otherwise resided in, alongside, if applicable, the particular Held Item, or Memory Mechanic(s) (e.g. Items, Abilities, etc) that contributed to their higher placement. (E.g.: PokePoke (D: Bug Memory)).
 
 Note: Pokemon beneath the S-Tier(s), are listed alphabetically; Pokemon in the lower Tiers are assessed based on their Viability in their Standard Formes; Potential Memory Placements, will not be factored, unless they are sufficient to elevate them to the A-Tier.
 
@@ -91,122 +91,118 @@ Viability Rankings
 S-Tier (4 Total)
 
 S+
-Mewtwo (S-; Hightened Mind/Dragon Memory/Dubious Disc/Ice Memory)
+Mewtwo
 Arceus-???
-
-S
-Suicune-Shadow*
+Arceus-Dark
 
 S-
-Giratina-Origin
-Phione
+Phione (A+: Water Memory)
 
-A-Tier (13 Total)
+A-Tier (15 Total)
 The Pokemon in this Tier and the following Tiers are listed in Alphabetical Order
 
 A+
-Rayquaza (B-; Dubious Disc)
-Victreebel
-Victreebel-Shadow*
-Zacian-Crowned (B+; Dive Ball)
+Giratina-Origin
+Rapidash-Shadow*
+Suicune-Shadow*
+Yveltal
+Zacian-Crowned
+Zygarde-Complete
 
 A
-Arceus-Dark
+Calyrex-Shadow
 Dialga
 Groudon
-Necrozma-Ultra
-Rapidash-Shadow*
+Lucario-Shadow*
+Meloetta-Shadow*
 
 A-
-Articuno
-Meloetta-Shadow*
-Victini
+Necrozma-Ultra
+Tapu Koko
+Victreebel-Shadow*
 Zekrom-Shadow*
 
 
-B-Tier (59 Total)
+B-Tier (52 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
 Arcanine-Hisui
 Arceus-Fire
 Braixen
-Darkrai
-Darkrai-Shadow*
+Carracosta
 Deoxys-Attack
 Dialga-Shadow*
 Greninja-Ash
 Ho-Oh
 Kyogre
 Kyurem-Black
-Kyurem-White
 Lugia
 Lunala
-Melmetal
 Mew
-Palkia
-Tornadus
-Yveltal
+Victini
+Victreebel
+Xerneas
+Zygarde
 
 B
 Arceus*
+Articuno
+Beartic
+Kyurem-White
+Necrozma-Dusk-Mane
+Palkia
+Regigigas-Shadow*
+Sunflora-Shadow*
+
+B-
+Arceus-Fairy
 Arceus-Grass
 Arceus-Ghost
 Arceus-Water
-Bellsprout
-Calyrex-Shadow
+Cherrim-Sunshine
+Cobalion
+Cryogonal
+Deoxys
+Deoxys-Speed
+Eternatus
+Gallade-Mega
+Gengar-Mega
 Gliscor
-Lucario-Mega
+Golurk
+Lilligant
+Melmetal
 Meloetta
+Mismagius
 Moltres
-Necrozma-Dusk-Mane
-Regigigas-Shadow*
-Sunflora-Shadow*
+Palkia-Shadow*
+Rayquaza
+Rotom-Fan
+Sandslash-Alola
+Tornadus
 Vaporeon
 Zacian-Shadow*
 Zamazenta-Crowned
 
-B-
-Arceus-Fairy
-Arceus-Ground
-Cherrim-Sunshine
-Cobalion
-Cryogonal
-Delphox
-Deoxys
-Deoxys-Speed
-Eternatus
-Entei-Shadow*
-Gallade-Mega
-Gengar-Mega
-Golurk
-Keldeo-Resolute
-Lilligant
-Lucario-Shadow*
-Meowscarada
-Mismagius
-Palkia-Shadow*
-Porygon-Z
-Raikou
-Reshiram
-Rotom-Fan
-Sandslash-Alola
 
-
-C-Tier (117 Total)
+C-Tier (125 Total)
 
 C+
 Amoonguss
 Arceus-Electric
+Arceus-Ground
 Arceus-Ice
+Bellsprout
 Blissey
 Calyrex-Ice
-Carracosta
 Celebi
 Charizard-Mega X
+Darkrai
+Darkrai-Shadow*
 Darmanitan-Galar-Zen
 Dondozo
 Empoleon
+Entei-Shadow*
 Garchomp
 Gardevoir
 Genesect
@@ -219,6 +215,7 @@ Jirachi
 Klinklang
 Lilligant-Hisui
 Lopunny-Mega
+Lucario-Mega
 Magearna
 Magearna-Original
 Magnezone
@@ -227,6 +224,7 @@ Manaphy
 Mantine
 Marshadow
 Meloetta-Pirouette
+Meowscarada
 Meowth
 Mesprit
 Mimikyu
@@ -236,7 +234,10 @@ Muk-Alola
 Necrozma-Dawn-Wings
 Pheromosa
 Pikachu-Original
+Porygon-Z
+Raikou
 Rapidash
+Reshiram
 Rotom-Frost
 Rotom-Wash
 Sableye-Mega
@@ -252,7 +253,6 @@ Solgaleo
 Spectrier
 Swampert
 Tapu Fini
-Tapu Koko
 Thundurus
 Thundurus-Therian
 Torterra
@@ -263,14 +263,11 @@ Urshifu-S
 Virizion
 Volcanion
 Weavile
-Xerneas
 Zamazenta
 Zebstrika
 Zekrom
 Zoroark-Hisui
-Zygarde
 Zygarde 10%
-Zygarde-Complete
 
 C
 Abomasnow
@@ -281,6 +278,7 @@ Cresselia
 Darmanitan
 Darmanitan-Galar
 Decidueye
+Delphox
 Deoxys-Defense
 Dracozolt
 Dragapult
@@ -291,6 +289,7 @@ Excadrill
 Glaceon
 Haxorus
 Heatran
+Keldeo-Resolute
 Landorus-Therian
 Landorus-Incarnate
 Moltres-Galar
@@ -755,7 +754,9 @@ Hp: 180/Atk: 335/Def: 225/SpA: 428/SpD: 175/Spe: 187
 Common Items
 - Adrenaline Orb
 - Berry Sweet
+- Choice Specs
 - Dawn Stone
+- Loaded Dice
 - Star Sweet*
 
 Anything Goes Items
@@ -765,18 +766,18 @@ Anything Goes Items
 - Strange Ball
 
 Common Memories
-- Dragon Memory
-- Dubious Disc
+- Ice Memory
 
 Banned Memories
 - Dark Memory
+- Dubious Disc
 - Fairy Memory
 - Psychic Memory
 
 Common Moves
+- Double Aura Cannon*
 - Inferno Beam
-- Mystery Barrage
-- Mystery Deluge
+- Mystery Deluge*
 - Neuron Blade
 - Poltergeist
 - Pressure Wave
@@ -785,10 +786,12 @@ Common Moves
 - Psychic Order*
 - Psychic Screen*
 - Psychic Whirl
-- Psycho Fire
 - Psycho Darts
-- Ravenous Wrath
+- Psycho Fire
+- Psycho Volley
+- Ravenous Wrath*
 - Shadow Flame
+- Shadow Volley*
 - Silk Bomb
 - Stored Power
 
@@ -827,7 +830,7 @@ Happiness: 255 (Speed Blitzer) / 250 (Critical Striker)
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Stored Power  
-- Poltergeist  
+- Expanding Force / Poltergeist
 - Silk Bomb  
 - Psycho Darts
 
@@ -862,6 +865,25 @@ Details
 - Pressure Wave tends to have more utility during Phases 1 and 2, as it allows Mewtwo to potentially force its way through most Matchups without having to worry about choosing the correct coverage Move, while Psychic Burst primarily serves to allow a Phase 3 Mewtwo to maintain a certain offensive presence even once its Permaburst Effect expires
 
 
+Loaded Dice
+Mewtwo @ Loaded Dice  
+Ability: Psychic Power  
+Happiness: 250 (Critical Striker)
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Psycho Volley  
+- Double Aura Cannon  
+- Silk Bomb  
+- Psycho Darts
+
+Details
+- Ordinarily, Psycho Volley is a 2-Hit, 80 BP Move—however, when Mewtwo is holding a Loaded Dice, its Multi-Hit Moves receive a 50% Base Power Boost, increasing the move's final Base Power to 240 BP (up from 160 BP). Notably, this places its Base Power between that of an itemless Mewtwo's Stored Power's BP (220 BP) and the power of an Adrenaline Orb-boosted Stored Power's BP (264 BP)
+- Furthermore, Psycho Volley has the effect of raising the Pokemon's Speed Stat by a single stage upon successfully connecting (Subject to Attrition: +1 Spe -> __), allowing Mewtwo to exchange the raw breaking power of Stored Power, for improve sweeping potential
+- While Double Aura Cannon and Silk Bomb overlap in coverage, and lacks the ability to OHKO Giratina-Origin like Shadow Volley: Silk Bomb is generally preferred as it enables Mewtwo to OHKO opposing Zacian-Crowned and hit opposing Yveltal hard.
+- Double Aura Cannon should also be prioritized over Shadow Volley, as it notably enables Mewtwo to OHKO most support Dialga Sets, hit Arceus-Dark harder than any other viable move for this set, and enables it to fish for a potentially game-ending Special Attack Boost
+- Mewtwo will generally want to run Critical Striker as its Overdrive, since the significant loss of power renders it completely unable to OHKO dangerous threats such as opposing Phione or Arceus-Enigma (in the latter's case, even a Spike-Assisted Expanding Force will fail to K.O.) otherwise, defeating the purpose behind this set's use.
+
+
 Antipathy
 Mewtwo @ Berry Sweet  
 Ability: Antipathy  
@@ -883,9 +905,31 @@ Details
 - Although Mewtwo could theoretically run a number of Overdrives, it generally prefers to run Super Healer, as it not only gives it more chances to set up, should it have gotten damaged in advance, but can also be used to extent its life even after successfully securing its Boosts
 
 
+Choice Specs
+Mewtwo @ Choice Specs  
+Ability: Psychic Power  
+Happiness: 255 (Speed Blitzer) 
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Stored Power  
+- Mystery Deluge  
+- Pressure Wave  
+- Psycho Darts
+
+Details
+- With the immense power boost granted by the combination of Choice Specs and the 10% Base Power Bonus that Psychic Power grants to Choice-Locked Pokemon: Mewtwo is easily tear opposing Teams to shreds with the power of its Stored Power, which is even capable of OHKO'ing opposing Arceus-Enigma from Full HP.
+- Mystery Deluge grants Mewtwo a "Backup-Stored Power" for instances where it fears its Stored Power being absorbed by a potentailly momentum-turning resist, but doesn't yet want to commit to using Pressure Wave. On account of the aforementioned Power Boost granted by Mewtwo's Item and Ability: This move is capable of dealing tremendous damage, even being able to threaten 2HKO's on opposing Specially Defensive Darkceus
+- Pressure Wave allows Mewtwo to sacrifice its Choice Specs in exchange for unleashing a powerful, irresistible STAB-Move. Besides the manifold forms of utility that this move generally provides for Mewtwo, it can serve as a powerful means of strategically abandoning its held Item should it prove detrimental, allowing Mewtwo to functionally run two different sets in one (i.e. Choice-Locked and Itemless)
+- Since Mewtwo already boasts tremendous power with this set, Speed Blitzer is the preferred Overdrive of choice, as it allows it to outspeed potentially problematic threats such as Scarfers, Dive Ball Zacian-Crowned, and opposing Mewtwo.
+
+
+Banned Memory Sets
+
+
 Dubious Disc
 Mewtwo @ Dubious Disc  
-Ability: Psychic Power  
+Ability: Psychic Power
+Happiness: 255 (Speed Blitzer) 
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Mystery Barrage  
@@ -1217,87 +1261,94 @@ B-Tier: Compared to their peers, these Pokemon tend to have weaknesses that are 
 C-Tier: The "Borderline" Tier for Pokemon that are not entirely unviable, but are unlikely to be worth the investment under most circumstances. Oftentimes, a Pokemon may end up in this Tier either due to inhabiting a Meta that is irretrievably hostile to it, having no particular noteworthy qualities, or simply being left behind by the inexorable march of Power Creep.
 
 
-S-Tier (4 Total)
+S-Tier (6 Total)
 
 S+
-Dragapult
+Arceus*
 
 S
-Zamazenta-Hero (B; Steel Memory)
-
-S-
-Arceus-Fairy
 Braixen
+Deoxys
+Meloetta
+Suicune
+
+S
+Victreebel
 
 
 A-Tier (13 Total)
 
 A+
 Arceus-Dragon
-Arceus-Water
-Bellsprout
+Dragapult
+Electivire
 Ho-Oh
+Lugia
+Mew
+Zamazenta-Hero (B: Steel Memory)
 
 A
-Garchomp-Mega
-Melmetal
-Mew
-Zoroark-Hisui
+Cresselia
+Gengar-Mega
+Rayquaza
+Zacian-Shadow
 
 A-
-Arcanine-Hisui
-Arceus*
-Deoxys
-Golurk
+Arceus-Fairy
 Sunflora-Shadow
 
 
-B-Tier (25 Total)
+B-Tier (23 Total)
 
 B+
-Calyrex
+Arcanine-Hisui
+Arceus-Water
+Azelf
+Bellsprout
 Carracosta
-Cresselia
 Darmanitan-Galar
 Entei-Shadow
 Eternatus
+Garchomp-Mega
 Giratina
-Jirachi
-Necrozma-Dawn-Wings
-Spectrier
+Golurk
 Rotom-Frost
+Spectrier
+Zoroark-Hisui
+
+B
+Kyogre
+Kyurem-White
+Melmetal
+Necrozma-Dawn-Wings
 Tornadus
 Yveltal
 
-B
-Amoonguss
-Beartic
-Kyogre
-Kyurem-White
-Rayquaza
-Regieleki
-Urshifu-Single-Strike
-Weepinbell
-
 B-
-Meowscarada
 Porygon-Z
 Thundurus-Therian
-Zacian-Shadow
+Urshifu-Single-Strike
 
 
-C-Tier (6 Total)
+C-Tier (14 Total)
 
 C+
+Amoonguss
 Arceus-Electric
 Arceus-Grass
+Beartic
+Calyrex
 Cryogonal
+Jirachi
 Landorus-Therian
+Meowscarada
 Regigigas
 
 C
 Keldeo-Resolute
+Regieleki
 Reuniclus
+Weepinbell
 =====================================================================================================================								     Laboratory           
 Purpose: The Laboratory exists to document certain EV, Moveset, and Ability Sets that can assist in optimizing a Pokemon, and increasing their potential.
 ------------------------------------------------
