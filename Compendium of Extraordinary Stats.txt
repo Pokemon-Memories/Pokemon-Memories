@@ -1,6 +1,6 @@
 Compendium of Extraordinary Stats
 
-Attack (86 Total)
+Attack (87 Total)
 Standard: Equal or Above 300
 
 Mewtwo-Mega-X: 450
@@ -23,6 +23,7 @@ Charizard-Mega-X: 353
 Arceus-Fighting: 350
 Azumarill-Shadow*: 350
 Calyrex-Ice: 350
+Landorus-Shadow*: 350
 Mimikyu-Busted: 350
 Buzzwole: 339
 Necrozma-Ultra: 337
@@ -90,7 +91,7 @@ Terrakion: 300
 Zacian: 300
 Zapdos-Galar: 300
 
-Special Attack (74 Total)
+Special Attack (75 Total)
 Standard: Equal or Above 300
 
 Mega-Mewtwo-Y: 450
@@ -116,6 +117,7 @@ Mewtwo: 338
 Blaziken-Mega: 335
 Victreebel-Shadow*: 334
 Necrozma-Ultra: 333
+Landorus-Shadow*: 330
 Lucario-Shadow*: 330
 Meloetta-Shadow*: 330
 Salamence-Mega: 330

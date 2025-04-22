@@ -11,6 +11,7 @@ Section A
 	• Quick Sets
 	• Laboratory
 Section B
+• Ubers Lite
 	• Viability Rankings
 Section C
 • Ultra Assist
@@ -22,7 +23,7 @@ Section D
 	• Viability Rankings
 	• History of the Format
 
-(229 Total)
+(231 Total)
 						      Section A    
 						    Standard Ubers          
 						      Highlights        
@@ -35,7 +36,7 @@ Description: Certain Pokemon are given "Highlights", which will be posted here. 
 					              [ Psychic ]
 			    	(Hp: 180/Atk: 335/Def: 185/SpA: 338/SpD: 205/Spe: 187) BST: 1430
 					 Psychic Power/Hightened Mind/Antipathy
- 					 [Dragon Memory/Dubious Disc/Ice Memory]
+ 					       [Grass Memory/Ice Memory]
 
 
 Description: Between its peerless offenses, blistering speed, and its perfectly distributed defenses; Mewtwo is an unparalleled force of mass destruction in this Meta. Whereas most Pokemon are biased toward specific sets, which serve as the primary cause for their exalted viability; Mewtwo is able to continuously adapt its sets on the fly, allowing it to always keep its opponents guessing. Its perfectly placed stats leave it with no major vulnerabilites, and its access to a nearly unlimited movepool, encompassing every Type in the game, makes it nigh uncounterable. Simply figuring out the opposing Mewtwo's set, is itself, a daunting task, and actually managing to successfully defeat it, is something that will usually only be possible after a very long struggle between both sides. Mewtwo's combination of attributes make it a force to be reckoned with, and when paired with its dangerous unpredictability, powerful teammates, signature items, and phenomenal abilities; This Genetic Masterpiece proves itself to be a powerful Pokemon that is second to none. We dreamed of creating the most powerful Pokemon, and we succeeded.
@@ -82,48 +83,49 @@ Note: Pokemon beneath the S-Tier(s), are listed alphabetically; Pokemon in the l
 Disclaimer: Any Pokemon from the B+ Tier downward are Tiered according to the Viability of their Standard (i.e. Non-Memorized) Forme(s). If a B- Pokemon has a Memory Set that would justify an A- Rank, they will be ranked A-, however if their strongest Memory Set is a B+ Set, they will still be ranked in the B- Tier.
 
 
-Current Tiered Shadow Pokemon: Azumarill-Shadow, Darkrai-Shadow, Dialga-Shadow, Entei-Shadow, Lucario-Shadow, Meloetta-Shadow, Mewtwo-Shadow, Palkia-Shadow, Rapidash-Shadow, Regigigas-Shadow, Stakataka-Shadow, Suicune-Shadow, Sunflora-Shadow, Victreebel-Shadow, Zacian-Shadow, Zekrom-Shadow
+Current Tiered Shadow Pokemon: Azumarill-Shadow, Darkrai-Shadow, Dialga-Shadow, Entei-Shadow, Landorus-Shadow, Lucario-Shadow, Meloetta-Shadow, Mewtwo-Shadow, Palkia-Shadow, Raikou-Shadow, Rapidash-Shadow, Regigigas-Shadow, Stakataka-Shadow, Suicune-Shadow, Sunflora-Shadow, Victreebel-Shadow, Zacian-Shadow, Zekrom-Shadow
 
 Banlist: Arceus-Origin, Eternatus-Eternamax, Groudon-Primal, Kyogre-Primal, Mewtwo-Mega-X, Mewtwo-Mega-Y, Mewtwo-Shadow*, Rayquaza-Mega, Stakataka-Shadow*
 
 Viability Rankings          
 
-S-Tier (4 Total)
+S-Tier (6 Total)
 
 S+
 Mewtwo
 Arceus-???
-Arceus-Dark
+Suicune-Shadow*
 
-S-
+S
 Phione (A+: Water Memory)
 
-A-Tier (15 Total)
+S-
+Zygarde-Complete
+Zacian-Crowned
+Arceus-Dark
+
+A-Tier (11 Total)
 The Pokemon in this Tier and the following Tiers are listed in Alphabetical Order
 
 A+
-Giratina-Origin
-Rapidash-Shadow*
-Suicune-Shadow*
 Yveltal
-Zacian-Crowned
-Zygarde-Complete
 
 A
-Calyrex-Shadow
 Dialga
+Giratina-Origin
 Groudon
-Lucario-Shadow*
 Meloetta-Shadow*
+Rapidash-Shadow*
 
 A-
+Calyrex-Shadow
+Genesect
+Landorus-Shadow*
 Necrozma-Ultra
-Tapu Koko
 Victreebel-Shadow*
-Zekrom-Shadow*
 
 
-B-Tier (52 Total)
+B-Tier (56 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
@@ -135,20 +137,25 @@ Deoxys-Attack
 Dialga-Shadow*
 Greninja-Ash
 Ho-Oh
-Kyogre
 Kyurem-Black
+Lucario-Shadow*
 Lugia
 Lunala
 Mew
+Raikou-Shadow*
+Simipour
+Tapu Koko
 Victini
 Victreebel
 Xerneas
+Zekrom-Shadow*
 Zygarde
 
 B
 Arceus*
 Articuno
 Beartic
+Kyogre
 Kyurem-White
 Necrozma-Dusk-Mane
 Palkia
@@ -185,7 +192,7 @@ Zacian-Shadow*
 Zamazenta-Crowned
 
 
-C-Tier (125 Total)
+C-Tier (124 Total)
 
 C+
 Amoonguss
@@ -205,7 +212,6 @@ Empoleon
 Entei-Shadow*
 Garchomp
 Gardevoir
-Genesect
 Giratina
 Glastrier
 Gyarados-Mega
@@ -766,6 +772,7 @@ Anything Goes Items
 - Strange Ball
 
 Common Memories
+- Grass Memory
 - Ice Memory
 
 Banned Memories
@@ -1261,41 +1268,45 @@ B-Tier: Compared to their peers, these Pokemon tend to have weaknesses that are 
 C-Tier: The "Borderline" Tier for Pokemon that are not entirely unviable, but are unlikely to be worth the investment under most circumstances. Oftentimes, a Pokemon may end up in this Tier either due to inhabiting a Meta that is irretrievably hostile to it, having no particular noteworthy qualities, or simply being left behind by the inexorable march of Power Creep.
 
 
-S-Tier (6 Total)
+S-Tier (9 Total)
 
 S+
-Arceus*
-
-S
 Braixen
+Dragapult
 Deoxys
-Meloetta
-Suicune
 
 S
+Arceus*
+Cresselia
+Simipour
+Zygarde-10% (B+; Fairy Memory)
+
+S-
+Meloetta
 Victreebel
 
 
-A-Tier (13 Total)
+A-Tier (14 Total)
 
 A+
-Arceus-Dragon
-Dragapult
 Electivire
-Ho-Oh
 Lugia
 Mew
-Zamazenta-Hero (B: Steel Memory)
-
-A
-Cresselia
-Gengar-Mega
-Rayquaza
 Zacian-Shadow
 
+A
+Arceus-Dragon
+Bellsprout
+Gengar-Mega
+Rayquaza
+Weavile
+Zamazenta-Hero (B: Steel Memory)
+
 A-
+Azelf
 Arceus-Fairy
 Sunflora-Shadow
+Zekrom-Shadow
 
 
 B-Tier (23 Total)
@@ -1303,15 +1314,15 @@ B-Tier (23 Total)
 B+
 Arcanine-Hisui
 Arceus-Water
-Azelf
-Bellsprout
 Carracosta
+Darkrai-Shadow
 Darmanitan-Galar
 Entei-Shadow
 Eternatus
 Garchomp-Mega
 Giratina
 Golurk
+Ho-Oh
 Rotom-Frost
 Spectrier
 Zoroark-Hisui
