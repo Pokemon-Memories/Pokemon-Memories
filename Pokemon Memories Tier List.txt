@@ -92,32 +92,31 @@ Banlist: Arceus-Origin, Eternatus-Eternamax, Groudon-Primal, Kyogre-Primal, Mewt
 
 Viability Rankings          
 
-S-Tier (6 Total)
+S-Tier (5 Total)
 
 S+
 Mewtwo
-Lunala (B+: Ice Memory)
+Arceus-???
 
 S
 Landorus-Shadow*
 
 S-
 Zacian-Crowned
-Arceus-???
 
-A-Tier (16 Total)
+A-Tier (17 Total)
 The Pokemon in this Tier and the following Tiers are listed in Alphabetical Order
 
 A+
 Arceus-Dark
-Phione (A; Water Memory)
+Lunala (B+: Ice Memory)
 Sunflora-Shadow*
 
 A
 Lucario-Shadow*
 Meloetta-Shadow*
+Phione (A-; Water Memory)
 Rapidash-Shadow*
-Sunflora
 Tornadus
 Zygarde-Complete
 
@@ -125,13 +124,14 @@ A-
 Calyrex-Shadow
 Floette-Eternal
 Giratina-Origin
-Sawsbuck-Winter
+Magearna
 Suicune-Shadow*
+Sunflora
 Victreebel-Shadow*
 Zamazenta-Crowned
 
 
-B-Tier (51 Total)
+B-Tier (53 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
@@ -150,10 +150,12 @@ Moltres
 Necrozma-Dusk-Mane
 Necrozma-Ultra
 Raikou-Shadow*
+Sawsbuck-Winter
 Tapu Koko
 Victini
 Victreebel
 Xerneas
+Zacian-Shadow*
 Zekrom-Shadow*
 Zygarde
 Yveltal
@@ -195,7 +197,7 @@ Sandslash-Alola
 Vaporeon
 
 
-C-Tier (126 Total)
+C-Tier (124 Total)
 
 C+
 Amoonguss
@@ -229,7 +231,6 @@ Leafeon
 Lilligant-Hisui
 Lopunny-Mega
 Lucario-Mega
-Magearna
 Magnezone
 Mamoswine
 Manaphy
@@ -314,7 +315,6 @@ Regidrago
 Regigigas
 Reuniclus
 Tapu Lele
-Zacian-Shadow*
 Zapdos
 Zapdos-Galar
 

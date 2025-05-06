@@ -11881,6 +11881,7 @@ Banlist Additions
 	- Landorus-Shadow
 	- Lucario-Shadow*
 	- Lunala*
+	- Magearna
 	- Meloetta-Shadow
 	- Mewtwo
 	- Necrozma-Ultra
@@ -11890,7 +11891,6 @@ Banlist Additions
 	- Rapidash-Shadow*
 	- Rayquaza
 	- Regigigas-Shadow*
-	- Sawsbuck-Winter!
 	- Suicune*
 	- Suicune-Shadow
 	- Sunflora

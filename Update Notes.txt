@@ -33,8 +33,8 @@ Formats
 			- Wepear Berry
 		- Pokemon
 			- Floette-Eternal
-			- Sawsbuck-Winter*
-				- *This Pokemon can no longer be accessed through Climate Change + Ice Stone, but can still be accessed through Climate Change + Hail
+			- Magearna
+				- This does not apply to Magearna-Original*
 			- Sunflora
 			- Sunflora-Shadow
 			- Tornadus
@@ -60,6 +60,8 @@ Abilities
 	- Super-Effective Damage Boost: x1.3 -> x1.5
 - Full Moon
 	- Additional Effect: Pokemon gains an Immunity to being forced out once per Switch-In.
+- Geomancy
+	- Mechanics: Corrected an oversight where this Move's effects would last indefinitely after being used.
 - Heartless
 	- Additional Effect: Pokemon's Moves with increased Priority receive a STAB Bonus.
 - Hightened Mind
