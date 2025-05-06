@@ -10,6 +10,9 @@ Section A
 	• Mewtwo Microanalysis
 	• Quick Sets
 	• Laboratory
+		• Flowchart
+		• Speed Tiers
+		• Damage Calculation
 Section B
 • Ubers Lite
 	• Viability Rankings
@@ -23,7 +26,7 @@ Section D
 	• Viability Rankings
 	• History of the Format
 
-(231 Total)
+(233 Total)
 						      Section A    
 						    Standard Ubers          
 						      Highlights        
@@ -93,106 +96,106 @@ S-Tier (6 Total)
 
 S+
 Mewtwo
-Arceus-???
-Suicune-Shadow*
+Lunala (B+: Ice Memory)
 
 S
-Phione (A+: Water Memory)
+Landorus-Shadow*
 
 S-
-Zygarde-Complete
 Zacian-Crowned
-Arceus-Dark
+Arceus-???
 
-A-Tier (11 Total)
+A-Tier (16 Total)
 The Pokemon in this Tier and the following Tiers are listed in Alphabetical Order
 
 A+
-Yveltal
+Arceus-Dark
+Phione (A; Water Memory)
+Sunflora-Shadow*
 
 A
-Dialga
-Giratina-Origin
-Groudon
+Lucario-Shadow*
 Meloetta-Shadow*
 Rapidash-Shadow*
+Sunflora
+Tornadus
+Zygarde-Complete
 
 A-
 Calyrex-Shadow
-Genesect
-Landorus-Shadow*
-Necrozma-Ultra
+Floette-Eternal
+Giratina-Origin
+Sawsbuck-Winter
+Suicune-Shadow*
 Victreebel-Shadow*
+Zamazenta-Crowned
 
 
-B-Tier (56 Total)
+B-Tier (51 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
 Arcanine-Hisui
 Arceus-Fire
 Braixen
-Carracosta
-Deoxys-Attack
-Dialga-Shadow*
+Dialga
+Genesect
 Greninja-Ash
+Groudon
 Ho-Oh
-Kyurem-Black
-Lucario-Shadow*
 Lugia
-Lunala
+Meowscarada
 Mew
+Moltres
+Necrozma-Dusk-Mane
+Necrozma-Ultra
 Raikou-Shadow*
-Simipour
 Tapu Koko
 Victini
 Victreebel
 Xerneas
 Zekrom-Shadow*
 Zygarde
+Yveltal
 
 B
 Arceus*
 Articuno
-Beartic
-Kyogre
+Deoxys-Attack
+Kyurem-Black
 Kyurem-White
-Necrozma-Dusk-Mane
-Palkia
+Magearna-Original
+Porygon-Z
 Regigigas-Shadow*
-Sunflora-Shadow*
+Simipour
+Suicune
 
 B-
 Arceus-Fairy
 Arceus-Grass
 Arceus-Ghost
 Arceus-Water
+Carracosta
 Cherrim-Sunshine
 Cobalion
 Cryogonal
 Deoxys
 Deoxys-Speed
+Entei-Shadow*
 Eternatus
-Gallade-Mega
 Gengar-Mega
-Gliscor
 Golurk
+Kyogre
 Lilligant
-Melmetal
-Meloetta
-Mismagius
-Moltres
+Palkia
 Palkia-Shadow*
-Rayquaza
+Porygon2
 Rotom-Fan
 Sandslash-Alola
-Tornadus
 Vaporeon
-Zacian-Shadow*
-Zamazenta-Crowned
 
 
-C-Tier (124 Total)
+C-Tier (126 Total)
 
 C+
 Amoonguss
@@ -207,42 +210,47 @@ Charizard-Mega X
 Darkrai
 Darkrai-Shadow*
 Darmanitan-Galar-Zen
+Dialga-Shadow*
 Dondozo
 Empoleon
-Entei-Shadow*
+Gallade-Mega
 Garchomp
 Gardevoir
 Giratina
 Glastrier
+Gliscor
 Gyarados-Mega
+Hoopa-Unbound
 Infernape
 Jellicent
 Jirachi
 Klinklang
+Leafeon
 Lilligant-Hisui
 Lopunny-Mega
 Lucario-Mega
 Magearna
-Magearna-Original
 Magnezone
 Mamoswine
 Manaphy
 Mantine
 Marshadow
+Melmetal
+Meloetta
 Meloetta-Pirouette
-Meowscarada
 Meowth
 Mesprit
 Mimikyu
 Mimikyu-Busted
 Minun
+Mismagius
 Muk-Alola
 Necrozma-Dawn-Wings
 Pheromosa
 Pikachu-Original
-Porygon-Z
 Raikou
 Rapidash
+Rayquaza
 Reshiram
 Rotom-Frost
 Rotom-Wash
@@ -254,7 +262,6 @@ Shaymin-Sky
 Skarmory
 Skeledirge
 Snorlax
-Suicune
 Solgaleo
 Spectrier
 Swampert
@@ -280,6 +287,7 @@ Abomasnow
 Articuno-Galar
 Azumarill
 Azumarill-Shadow*
+Beartic
 Cresselia
 Darmanitan
 Darmanitan-Galar
@@ -305,8 +313,8 @@ Rapidash-Galar
 Regidrago
 Regigigas
 Reuniclus
-Sunflora
 Tapu Lele
+Zacian-Shadow*
 Zapdos
 Zapdos-Galar
 
@@ -318,13 +326,12 @@ Corviknight
 Hoopa
 Keldeo
 Ludicolo
-Porygon2
 Regieleki
 Registeel
 Scovillain
 
 
-D-Tier/Unranked (33 Total)
+D-Tier/Unranked (31 Total)
 
 D
 Arceus-Bug
@@ -338,9 +345,7 @@ Gallade
 Gengar
 Gigalith
 Kartana
-Hoopa Unbound
 Latios-Mega
-Leafeon
 Maractus
 Milotic
 Starmie
@@ -979,7 +984,7 @@ Ability: Ice Scales
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Glacial Lance  
-- Memory Blast  
+- Memory Blast 
 - Swords Dance  
 - accelerate
 
@@ -992,7 +997,73 @@ Description: Calyrex-Ice's incredible natural 180/260/200 bulk, paired with its 
 						     Laboratory           
 Purpose: The Laboratory exists to document certain EV, Moveset, and Ability Sets that can assist in optimizing a Pokemon, and increasing their potential.
 
+Flowchart   
+Speed Tiers    
+Description: For Documenting the EVs that 
+Dictionary
++X = Speed Boosted by __ stages (e.g. (B: +1 196 EVs) means that this Pokemon outspeeds Deoxys-Attack/Porygon-Z if its Speed has been boosted by 1 Stage, and has 196 EVs)
++X+ = Speed Boosted by __ stages, with a Speed-Positive Nature
+* = Speed Tier held by important Pokemon (e.g 180 - Arceus; 160 - "Default" Speed for many Legendaries)
+Necleic Speed
+A. Mewtwo: Base 187 (252 EVs + Speed Nature: 520)
+B. Deoxys-Attack/Porygon-Z: Base 214 (252 EVs + Speed Nature: 579)
+C. Cryogonal: Base 225 (252 EVs + Speed Nature: 603)
+D. Ludicolo: Base 240 (252 EVs + Speed Nature: 636)
+E. Speed Blitzer Mewtwo (SBM): Base 187 (252 EVs + Speed Nature: 780)
+
+Thresholds (Note: Any Pokemon that reaches 586 Spe at +1 will outspeed +1 Mewtwo at +2
+Category: 180s   
+180: (A: +1 0 EVs) / (B: +1 0 EVs) / (C: +1 28 EVs) / (D: +1 116 EVs) / (E: +2 0 EVs)*
+
+Category: 170s    
+179: (A: +1 0 EVs) / (B: +1 0 EVs) / (C: +1 36 EVs) / (D: +1 124 EVs) / (E: +2 0 EVs)
+178: (A: +1 0 EVs) / (B: +1 0 EVs) / (C: +1 44 EVs) / (D: +1 132 EVs) / (E: +2 0 EVs)
+177: (A: +1 0 EVs) / (B: +1 0 EVs) / (C: +1 52 EVs) / (D: +1 140 EVs) / (E: +2 4 EVs)
+176: (A: +1 0 EVs) / (B: +1 0 EVs) / (C: +1 60 EVs) / (D: +1 148 EVs) / (E: +2 12 EVs)
+175: (A: +1 0 EVs) / (B: +1 4 EVs) / (C: +1 68 EVs) / (D: +1 156 EVs) / (E: +2 20 EVs)
+174: (A: +1 0 EVs) / (B: +1 12 EVs) / (C: +1 76 EVs) / (D: +1 164 EVs) / (E: +2 28 EVs)
+173: (A: +1 0 EVs) / (B: +1 20 EVs) / (C: +1 84 EVs) / (D: +1 172 EVs) / (E: +2 36 EVs)
+172: (A: +1 0 EVs) / (B: +1 28 EVs) / (C: +1 92 EVs) / (D: +1 180 EVs) / (E: +2 44 EVs)
+171: (A: +1 0 EVs) / (B: +1 36 EVs) / (C: +1 100 EVs) / (D: +1 188 EVs) / (E: +2 52 EVs)
+170: (A: +1 0 EVs) / (B: +1 44 EVs) / (C: +1 108 EVs) / (D: +1 196 EVs) / (E: +2 60 EVs)
+
+Category: 160s   
+169: (A: +1 0 EVs) / (B: +1 52 EVs) / (C: +1 116 EVs) / (D: +1 204 EVs) / (E: +2 68 EVs)
+168: (A: +1 0 EVs) / (B: +1 60 EVs) / (C: +1 124 EVs) / (D: +1 212 EVs) / (E: +2 76 EVs)
+167: (A: +1 0 EVs) / (B: +1 68 EVs) / (C: +1 132 EVs) / (D: +1 220 EVs) / (E: +2 84 EVs)
+166: (A: +1 0 EVs) / (B: +1 76 EVs) / (C: +1 140 EVs) / (D: +1 228 EVs) / (E: +2 92 EVs)
+165: (A: +1 0 EVs) / (B: +1 84 EVs) / (C: +1 148 EVs) / (D: +1 236 EVs) / (E: +2 100 EVs)
+164: (A: +1 0 EVs) / (B: +1 92 EVs) / (C: +1 156 EVs) / (D: +1 244 EVs) / (E: +2 108 EVs)
+163: (A: +1 0 EVs) / (B: +1 100 EVs) / (C: +1 164 EVs) / (D: +1 252 EVs) / (E: +2 116 EVs)
+162: (A: +1 0 EVs) / (B: +1 108 EVs) / (C: +1 172 EVs) / (D: +1+ 108 EVs) / (E: +2 124 EVs)
+161: (A: +1 0 EVs) / (B: +1 116 EVs) / (C: +1 180 EVs) / (D: +1+ 116 EVs) / (E: +2 132 EVs)
+160: (A: +1 0 EVs) / (B: +1 124 EVs) / (C: +1 188 EVs) / (D: +1+ 124 EVs) / (E: +2 140 EVs)*
+
+Category: 150s   
+159: (A: +1 0 EVs) / (B: +1 132 EVs) / (C: +1 196 EVs) / (D: +1+ 132 EVs) / (E: +2 148 EVs)
+158: (A: +1 0 EVs) / (B: +1 140 EVs) / (C: +1 204 EVs) / (D: +1+ 140 EVs) / (E: +2 156 EVs)
+157: (A: +1 0 EVs) / (B: +1 148 EVs) / (C: +1 212 EVs) / (D: +1+ 148 EVs) / (E: +2 164 EVs)
+156: (A: +1 0 EVs) / (B: +1 156 EVs) / (C: +1 220 EVs) / (D: +1+ 156 EVs) / (E: +2 172 EVs)
+155: (A: +1 8 EVs) / (B: +1 164 EVs) / (C: +1 228 EVs) / (D: +1+ 164 EVs) / (E: +2 180 EVs)
+154: (A: +1 16 EVs) / (B: +1 172 EVs) / (C: +1 236 EVs) / (D: +1+ 172 EVs) / (E: +2 188 EVs)
+153: (A: +1 24 EVs) / (B: +1 180 EVs) / (C: +1 244 EVs) / (D: +1+ 180 EVs) / (E: +2 196 EVs)
+152: (A: +1 32 EVs) / (B: +1 188 EVs) / (C: +1 252 EVs) / (D: +1+ 188 EVs) / (E: +2 204 EVs)
+151: (A: +1 40 EVs) / (B: +1 196 EVs) / (C: +1+ 116 EVs) / (D: +1+ 196 EVs) / (E: +2 212 EVs)
+150: (A: +1 48 EVs) / (B: +1 204 EVs) / (C: +1+ 124 EVs) / (D: +1+ 204 EVs) / (E: +2 220 EVs)
+
+Category: 140s   
+149: (A: +1 56 EVs) / (B: +1 212 EVs) / (C: +1+ 132 EVs) / (D: +1+ 212 EVs) / (E: +2 228 EVs)
+148: (A: +1 64 EVs) / (B: +1 220 EVs) / (C: +1+ 140 EVs) / (D: +1+ 220 EVs) / (E: +2 236 EVs)
+147: (A: +1 72 EVs) / (B: +1 228 EVs) / (C: +1+ 148 EVs) / (D: +1+ 228 EVs) / (E: +2 244 EVs)
+146: (A: +1 80 EVs) / (B: +1 236 EVs) / (C: +1+ 156 EVs) / (D: +1+ 236 EVs) / (E: +2 252 EVs)
+145: (A: +1 88 EVs) / (B: +1 244 EVs) / (C: +1+ 164 EVs) / (D: +1+ 244 EVs) / (E: +2+ 120 EVs)
+144: (A: +1 96 EVs) / (B: +1 252 EVs) / (C: +1+ 172 EVs) / (D: +1+ 252 EVs) / (E: +2+ 128 EVs)
+143: (A: +1 104 EVs) / (B: +1+ 120 EVs) / (C: +1+ 180 EVs) / (D: +2 0 EVs) / (E: +2+ 136 EVs)
+142: (A: +1 112 EVs) / (B: +1+ 128 EVs) / (C: +1+ 188 EVs) / (D: +2 0 EVs) / (E: +2+ 144 EVs)
+141: (A: +1 120 EVs) / (B: +1+ 136 EVs) / (C: +1+ 196 EVs) / (D: +2 4 EVs) / (E: +2+ 152 EVs)
+140: (A: +1 128 EVs) / (B: +1+ 144 EVs) / (C: +1+ 204 EVs) / (D: +2 12 EVs) / (E: +2+ 160 EVs)
 --------------------------
+						Damage Calculation    
 Arceus
 ------------------------------------------------------
 Mewtwo
@@ -1125,7 +1196,13 @@ EVs: 28 HP / 252 SpD
 Raw Stats: 320 HP / 207 SpD
 Explanation: Allocating exactly 527 EVs to Deoxys' Defenses allows it to preserve just enough EVs (228 Spe / Raw: 521) to stay ahead of opposing Mewtwo without the use of a Speed-Positive Nature. The primary benefit to this set is its ability to have a chance at surviving against opposing Mewtwo while being able to run other Items (such as a Protector) to insulate it from other Priority-Users in the Tier
 Example: 252 SpA Mewtwo Psycho Darts vs. 28 HP / 252+ SpD Deoxys-Attack: 241-284 (75.3 - 88.7%) -- 12.5% chance to OHKO after Stealth Rock
-==============================================================
+===================================================================
+Floette-Eternal
+Minimum Attack EVs to 2HKO Mewtwo using Floral Blade while holding a Pixie Plate
+Neutral Nature: 208 EVs
+Raw Stats: 658 Atk
+Example: 208 Atk Pixie Plate Floette-Eternal Floral Blade vs. 0 HP / 0 Def Mewtwo: 252-297 (50.2 - 59.2%) -- guaranteed 2HKO
+===================================================================
 Melmetal
 -------------------------------------------
 Speed Blitzer
@@ -1173,6 +1250,14 @@ Required Item: Assault Vest
 EVs: 8 HP / 152 SpD
 Raw Stats: 483 HP / 666 SpD
 Explanation: Although Mewtwo is capable of surviving this move even without any Defensive Investment, the aforementioned EVs can be allotted to allow Mewtwo to potentially survive against opposing Suicune-Shadow with more consistency. Alternatively, 180 HP/8 SpD can be used, if more general Bulk is desired
+-----------------------------
+Surviving Arceus-Enigma's Dimension Break + Mystery Speed, or SpA-Neutral Suicune-Shadow's Shadow Ball
+Required Item: Odd Incense (Arceus-Enigma)
+EVs: 88 HP / 164 SpD
+Raw Stats: 523 HP / 487 SpD
+Explanation: With 88 HP EVs invested, Mewtwo will have just enough Bulk to always survive a Dimension Break + Mystery Speed from the common Enigmaceus sets from full after factoring in Odd Incense's Passive Healing. This EV Spread also allows Mewtwo to always survive an uninvested neutral Shadow Ball from opposing Suicune-Shadow from Full, potentially eliminating its need to switch out in fear of its Speed Blitzer
+Examples
+- Suicune-Shadow: 0 SpA Shadow State Suicune-Shadow Shadow Ball vs. 88 HP / 164 SpD Mewtwo: 440-522 (84.1 - 99.8%) -- guaranteed 2HKO
 ----------------------------------------------
 Category: T  
 ----------------------------------------------
@@ -1271,18 +1356,18 @@ C-Tier: The "Borderline" Tier for Pokemon that are not entirely unviable, but ar
 S-Tier (9 Total)
 
 S+
-Braixen
-Dragapult
-Deoxys
+Magearna-Original
+Zacian-Shadow
 
 S
-Arceus*
-Cresselia
-Simipour
+Deoxys
 Zygarde-10% (B+; Fairy Memory)
 
 S-
-Meloetta
+Arceus*
+Cresselia
+Cryogonal (B+; Dark Memory)
+Dragapult
 Victreebel
 
 
@@ -1290,32 +1375,36 @@ A-Tier (14 Total)
 
 A+
 Electivire
+Leafeon
 Lugia
 Mew
-Zacian-Shadow
-
-A
-Arceus-Dragon
-Bellsprout
-Gengar-Mega
-Rayquaza
-Weavile
+Simipour
 Zamazenta-Hero (B: Steel Memory)
 
+A
+Darkrai-Shadow
+Dialga
+Meloetta
+
 A-
-Azelf
-Arceus-Fairy
-Sunflora-Shadow
-Zekrom-Shadow
+Braixen
+Gengar-Mega
+Kyogre
+Porygon-Z
+Weavile
 
 
-B-Tier (23 Total)
+B-Tier (28 Total)
 
 B+
 Arcanine-Hisui
+Arceus-Dragon
+Arceus-Fairy
 Arceus-Water
+Azelf
+Bellsprout
 Carracosta
-Darkrai-Shadow
+Corviknight
 Darmanitan-Galar
 Entei-Shadow
 Eternatus
@@ -1323,12 +1412,14 @@ Garchomp-Mega
 Giratina
 Golurk
 Ho-Oh
+Meowscarada
+Muk-Alola
+Rayquaza
 Rotom-Frost
 Spectrier
 Zoroark-Hisui
 
 B
-Kyogre
 Kyurem-White
 Melmetal
 Necrozma-Dawn-Wings
@@ -1336,12 +1427,11 @@ Tornadus
 Yveltal
 
 B-
-Porygon-Z
 Thundurus-Therian
 Urshifu-Single-Strike
 
 
-C-Tier (14 Total)
+C-Tier (12 Total)
 
 C+
 Amoonguss
@@ -1349,10 +1439,8 @@ Arceus-Electric
 Arceus-Grass
 Beartic
 Calyrex
-Cryogonal
 Jirachi
 Landorus-Therian
-Meowscarada
 Regigigas
 
 C

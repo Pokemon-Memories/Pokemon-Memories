@@ -1,10 +1,11 @@
 Compendium of Extraordinary Stats
 
-Attack (87 Total)
+Attack (88 Total)
 Standard: Equal or Above 300
 
 Mewtwo-Mega-X: 450
 Kartana: 441
+Entei-Shadow*: 423
 Zekrom-Shadow*: 420
 Deoxys-Attack: 405
 Suicune-Shadow*: 402
@@ -13,7 +14,6 @@ Rayquaza-Mega: 400
 Zacian-Shadow*: 400
 Lucario-Shadow*: 385
 Thundurus-Therian: 385
-Entei-Shadow*: 380
 Leafeon: 380
 Gallade-Mega: 370
 Garchomp-Mega: 370
@@ -53,6 +53,7 @@ Bellsprout: 315
 Glastrier: 315
 Diancie-Mega: 315
 Rampardos: 315
+Sunflora-Shadow*: 315
 Victreebel-Shadow*: 314
 Keldeo Resolute: 310
 Torterra: 309
@@ -91,7 +92,7 @@ Terrakion: 300
 Zacian: 300
 Zapdos-Galar: 300
 
-Special Attack (75 Total)
+Special Attack (76 Total)
 Standard: Equal or Above 300
 
 Mega-Mewtwo-Y: 450
@@ -128,6 +129,7 @@ Arceus-Ghost: 320
 Deoxys: 320
 Gardevoir-Mega: 320
 Kyogre: 320
+Magearna-Original: 320
 Rayquaza: 320
 Reshiram: 320
 Bellsprout: 315
