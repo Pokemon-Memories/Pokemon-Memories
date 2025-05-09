@@ -11848,7 +11848,7 @@ Banlist Additions
 Ubers Lite   
 Description: A variation of Standard Ubers which reduces the power level of the Tier by limiting the usable Pokemon to those at or below the B+ Tier (as determined by the Official Tier List)
 Ruleset
-- Deoxys-Shadow Clause: Deoxys cannot hold a Psychic Memory
+- Deoxys Clause: Deoxys cannot hold a Psychic Memory
 - Dialga Memory Clause: Dialga cannot hold a Memory Disc
 - Moltres Clause: Moltres cannot hold a Fire Memory
 - Necrozma-Dusk-Mane Clause: Necrozma-Dusk-Mane cannot hold a Steel Memory.
