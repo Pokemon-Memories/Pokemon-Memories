@@ -1,5 +1,210 @@
 Pokemon Memories Update Notes
 
+Pokemon Memories v2.1.0
+
+- General
+	- Mechanics
+		- Memorization
+			- Memory Abilities
+				- Oversight
+					- Normal threshold: 150 -> 120
+				- Perfect Form
+					- Threshold: 120 -> 90
+				- Strategist
+					- Psychic Threshold: 155 -> 125
+					- Non-Psychic Threshold: 120 -> 90
+		- Overdrives
+			- Rule Breaker
+				- Additional Effect: Pokemon's moves ignore any accuracy checks.
+			- Vengeance Buster
+				- Max HP Scaling: 1/2 -> 1/3
+- Formats
+	- Standard Ubers
+		- Banlist Additions
+			- Mewtwo Clause: Mewtwo can no longer hold a Ghost Memory or a Psychic Memory
+		- Banlist Removals
+			- Mewtwo Clause: Mewtwo can now hold a Fairy Memory
+- Abilties
+	- Candle Trap
+		- Damage: 1/4 -> 1/5
+	- Light Inversion
+		- Additional Effect: Has Mold-Breaking Properties
+	- Perpetuity/Prism Armor
+		- Recoil Restoration: 1/3 -> 1/5
+	- Power Spot
+		- Additional Effect: Deals x1.5 damage to opposing memorized Pokemon. Ignores the first effect that attempts to switch it out once per switch-in.
+	- Psychic Assault
+		- Threshold: 150 -> 120
+	- Soul-Heart
+		- Roller
+			- Applicability: All Pokemon -> Grounded Pokemon Only.
+	- Space Power
+		- Additional Effect: Pokemon does not receive damage from a Life Orb; Opponents lose an additional PP when attacking this Pokemon's side
+	- Technician
+		- Threshold: 110 -> 80
+
+
+- Items
+	- Black Sludge
+		- Healing: 1/7 -> 1/10
+	- Bright Powder/Chipped Pot/Lax Incense/Metal Coat/Odd Incense/Wave Incense/White Herb
+		- Health Restoration: 1/10 -> 1/12
+	- Elemental Orbs
+		- Boost: x1.3 -> x1.5
+	- Heavy-Duty Boots
+		- Mechanics: Pokemon with Abilities that ignore entry Hazards will now trigger this Item as well
+	- Ice Armor
+		- Implemented
+		- Effect: Pokemon receives x0.5 damage from opposing Special Attacks; Pokemon's Attack Stat is multiplied by x1.5 when it is at Max Hp. Ignores the first effect that attempts to switch it out once per switch-in.
+	- Leftovers
+		- Healing: 1/12 -> 1/16
+	- Strawberry Sweet
+		- Base Power Boost: x1.5 -> x1.3
+		- Switch-Out Health Restoration: 1/3 -> 1/6
+	- Tart Apple
+		- Additional Exemption: Dark-Types
+		- Additional Effect: Pokemon that do not have the Dark, Ghost, or Poison-Type deal x0.67 damage against opposing Pokemon that do. Pokemon without the aforementioned Types cannot use Field-Switch moves.
+
+
+- Moves
+	- General
+		- The base power for most moves with a base power over 100 have been reduced by around 20%
+	- Astral Barrage
+		- Additional Effect: +20 Base Power for each positive stat boost (Limit: 200 BP)
+	- Gene Therapy
+		- Corrected an oversight where this move bypassed Protect.
+	- Geomancy
+		- Boosts: +1 SpA/SpD; +2 Spe -> +2 SpA/SpD/Spe
+	- Glacial Lance
+		- Additional Effect: +20 Base Power for each positive stat boost (Limit: 200 BP)
+	- Glacial Sign
+		- Disabled Move after setting up: All Status Moves -> This move alone.
+	- Heaven Dance
+		- Deactivation Conditions: 3 Turns -> Upon successfully K.O.'ing two opposing Pokemon
+		- Attrition Boost: +1 -> __
+	- Nature's Voice
+		- Can now be used by all Arceus Formes
+	- Pressure Wave
+		- Additional Restrictions: The Status-Block and Stat-Halving Effects can only by activated once per the user's switch-in.
+	- Sacred Speed
+		- Boost: +2 -> +3
+		- Attrition Point: +2 -> +3
+	- Shadow Sign
+		- Disabled Move after setting up: All Status Moves -> This move alone.
+- Pokemon
+	- Arceus
+		- Learnset Additions
+			- Howl
+		- Arceus-Dark
+			- New Stats
+				- (Hp: 220/Atk: 290/Def: 200/SpA: 300/SpD: 210/Spe: 180)
+		- Arceus-Enigma
+			- Base Stats
+				- HP: 250 -> 200
+				- Atk: 250 -> 300
+	- Calyrex
+		- Ice-Rider
+			- Ability: Ice Scales -> Ice Armor
+			- Learnset Additions
+				- Rock Wrecker
+				- Seed Bomb
+		- Shadow-Rider
+			- Learnset Additions
+				- Heart Sap
+	- Dialga
+		- Learnset Additions
+			- Mystery Sphere
+			- Shield Dance
+	- Entei
+		- Learnset Additions
+			- Dragon Dance
+	- Eternatus
+		- Base Stats
+			- Spe: 181 -> 187
+		- Learnset Additions
+			- Agility
+			- Charge
+			- Fire Blast
+	- Lunala
+		- Learnset Additions
+			- Agility
+	- Reshiram
+		- Learnset Additions
+			- Gear Up
+	- Xerneas
+		- Learnset Additions
+			- Earth Power
+	- Yveltal
+		- Learnset Additions
+			- Earth Power
+			- Quiver Dance
+	- Zekrom
+		- Learnset Additions
+			- Dragon Dance
+- Shadow Pokemon
+	- Dialga-Shadow
+		- Time Shadow
+			- Additional Effect: The Base Power of the Pokemon's moves are multiplied by x1.3 if it has any positive boosts.
+	- Lucario-Shadow
+		- Aura Shadow
+			- Pokemon's Fighting-Type Moves are now double-resisted by opposing Ghost-Type Pokemon
+	- Zacian-Shadow
+		- Hero Shadow
+			- Boost Threshold: 120 -> 90
+
+- PP Reduction
+	- Origin Wave
+		- PP: 3 -> 1
+- Unlearned Moves
+	- Aromatic Mist
+		- Carracosta
+		- Golurk
+		- Magearna
+		- Melmetal
+		- Zygarde
+	- Cipher Flash
+		- Arceus
+		- Meloetta
+		- Mewtwo
+	- Flame Ring
+		- Arcanine-Hisui
+		- Moltres
+		- Mewtwo
+		- Rapidash
+		- Reshiram
+		- Victini
+	- Sparkle Wave
+		- Arceus
+		- Floette/Floette-Eternal
+		- Mewtwo
+		- Tapu Koko
+		- Xerneas
+	- Uproar
+		- Arceus
+		- Greninja
+		- Hoopa
+		- Muk-Alola
+		- Weavile
+	- Vine Split
+		- Breloom
+		- Leafeon
+		- Meowscarada
+		- Mewtwo
+		- Sawsbuck
+		- Shaymin
+		- Virizion
+	- Wave Splash
+		- Arceus
+		- Carracosta (replaced with Splash Turn)
+		- Greninja (replaced with Splash Turn)
+		- Phione
+		- Sawsbuck
+		- Simipour
+
+
+
+
+
 Pokemon Memories v2.2.0
 General
 - Animations

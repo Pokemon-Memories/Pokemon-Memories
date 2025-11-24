@@ -92,50 +92,51 @@ Banlist: Arceus-Origin, Eternatus-Eternamax, Groudon-Primal, Kyogre-Primal, Mewt
 
 Viability Rankings          
 
-S-Tier (3 Total)
-
-S+
-Mewtwo
-Arceus-???
+S-Tier (5 Total)
 
 S
-Landorus-Shadow*
+Eternatus (A; with Memorization)
+Giratina-Origin
 
-A-Tier (17 Total)
+S-
+Mewtwo (A+; with Memorization)
+Magearna
+Lunala
+
+A-Tier (13 Total)
 The Pokemon in this Tier and the following Tiers are listed in Alphabetical Order
 
 A+
-Arceus-Dark
-Sunflora-Shadow*
-Zacian-Crowned
-
-A
+Arceus-???
+Calyrex-Ice
+Landorus-Shadow*
 Lucario-Shadow*
-Lunala
-Phione (A-; Water Memory)
-Rapidash-Shadow*
-Tornadus
+Zacian-Shadow*
 Zygarde-Complete
 
+A
+Arceus*
+Kyogre
+
 A-
-Calyrex-Shadow
-Floette-Eternal
-Giratina-Origin
-Magearna
+Heatran
 Suicune-Shadow*
-Sunflora
 Victreebel-Shadow*
+Zacian-Crowned
 Zamazenta-Crowned
 
 
-B-Tier (54 Total)
+B-Tier (58 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
 Arcanine-Hisui
+Arceus-Dark
 Arceus-Fire
 Braixen
+Calyrex-Shadow
 Dialga
+Floette-Eternal
 Genesect
 Greninja-Ash
 Groudon
@@ -147,20 +148,22 @@ Mew
 Moltres
 Necrozma-Dusk-Mane
 Necrozma-Ultra
+Phione
 Raikou-Shadow*
 Regigigas-Shadow*
 Sawsbuck-Winter
+Sunflora-Shadow*
 Tapu Koko
+Tornadus
 Victini
 Victreebel
 Xerneas
-Zacian-Shadow*
+Yveltal
+Zekrom
 Zekrom-Shadow*
 Zygarde
-Yveltal
 
 B
-Arceus*
 Articuno
 Deoxys-Attack
 Kyurem-Black
@@ -182,20 +185,20 @@ Cryogonal
 Deoxys
 Deoxys-Speed
 Entei-Shadow*
-Eternatus
 Gengar-Mega
 Golurk
-Kyogre
 Lilligant
 Palkia
 Palkia-Shadow*
 Porygon2
+Rapidash-Shadow*
 Rotom-Fan
 Sandslash-Alola
+Sunflora
 Vaporeon
 
 
-C-Tier (124 Total)
+C-Tier (121 Total)
 
 C+
 Amoonguss
@@ -204,7 +207,6 @@ Arceus-Ground
 Arceus-Ice
 Bellsprout
 Blissey
-Calyrex-Ice
 Celebi
 Charizard-Mega X
 Darkrai
@@ -277,7 +279,6 @@ Volcanion
 Weavile
 Zamazenta
 Zebstrika
-Zekrom
 Zoroark-Hisui
 Zygarde 10%
 
@@ -301,7 +302,6 @@ Entei
 Excadrill
 Glaceon
 Haxorus
-Heatran
 Keldeo-Resolute
 Landorus-Therian
 Landorus-Incarnate
@@ -1351,7 +1351,7 @@ B-Tier: Compared to their peers, these Pokemon tend to have weaknesses that are 
 C-Tier: The "Borderline" Tier for Pokemon that are not entirely unviable, but are unlikely to be worth the investment under most circumstances. Oftentimes, a Pokemon may end up in this Tier either due to inhabiting a Meta that is irretrievably hostile to it, having no particular noteworthy qualities, or simply being left behind by the inexorable march of Power Creep.
 
 
-S-Tier (9 Total)
+S-Tier (10 Total)
 
 S+
 Magearna-Original
@@ -1366,12 +1366,14 @@ Arceus*
 Cresselia
 Cryogonal (B+; Dark Memory)
 Dragapult
+Meowscarada
 Victreebel
 
 
 A-Tier (14 Total)
 
 A+
+Braixen
 Electivire
 Leafeon
 Lugia
@@ -1380,19 +1382,18 @@ Simipour
 Zamazenta-Hero (B: Steel Memory)
 
 A
-Darkrai-Shadow
 Dialga
 Meloetta
 
 A-
-Braixen
+Darkrai-Shadow
 Gengar-Mega
 Kyogre
 Porygon-Z
 Weavile
 
 
-B-Tier (28 Total)
+B-Tier (27 Total)
 
 B+
 Arcanine-Hisui
@@ -1410,7 +1411,6 @@ Garchomp-Mega
 Giratina
 Golurk
 Ho-Oh
-Meowscarada
 Muk-Alola
 Rayquaza
 Rotom-Frost
