@@ -1,6 +1,6 @@
 Compendium of Extraordinary Stats
 
-Attack (88 Total)
+Attack (93 Total)
 Standard: Equal or Above 300
 
 Mewtwo-Mega-X: 450
@@ -8,26 +8,31 @@ Kartana: 441
 Entei-Shadow*: 423
 Zekrom-Shadow*: 420
 Deoxys-Attack: 405
+Genesect-Shadow*: 405
 Suicune-Shadow*: 402
 Groudon-Primal: 400
+Ho-Oh-Shadow*: 400
 Rayquaza-Mega: 400
 Zacian-Shadow*: 400
 Lucario-Shadow*: 385
 Thundurus-Therian: 385
 Leafeon: 380
+Shuckle-Shadow*: 380
 Gallade-Mega: 370
 Garchomp-Mega: 370
 Tyranitar-Mega: 364
 Hoopa-Unbound: 358
+Darkrai-Shadow*: 356
 Charizard-Mega-X: 353
 Arceus-Fighting: 350
 Azumarill-Shadow*: 350
 Calyrex-Ice: 350
+Carracosta-Shadow*: 350
 Landorus-Shadow*: 350
 Mimikyu-Busted: 350
+Rayquaza-Shadow*: 350
 Buzzwole: 339
 Necrozma-Ultra: 337
-Darkrai-Shadow*: 336
 Blaziken-Mega: 335
 Mewtwo: 335
 Mewtwo-Shadow*: 335
@@ -92,25 +97,27 @@ Terrakion: 300
 Zacian: 300
 Zapdos-Galar: 300
 
-Special Attack (76 Total)
+Special Attack (80 Total)
 Standard: Equal or Above 300
 
 Mega-Mewtwo-Y: 450
 Mewtwo-Shadow*: 428
 Dialga-Shadow*: 420
 Deoxys-Attack: 405
+Genesect-Shadow*: 405
 Kyogre-Primal: 400
 Rayquaza-Mega: 400
+Lugia-Shadow*: 385
 Thundurus: 385
 Rapidash-Shadow*: 383
 Gengar-Mega: 380
 Xurkitree: 373
 Hoopa-Unbound: 370
+Darkrai-Shadow*: 360
 Charizard-Mega-Y: 359
 Arceus-Psychic: 350
 Calyrex-Shadow: 350
 Sunflora-Shadow*: 350
-Darkrai-Shadow*: 340
 Giratina-Origin: 340
 Mewtwo-Mega-X: 340
 Palkia-Shadow*: 340
@@ -131,7 +138,9 @@ Gardevoir-Mega: 320
 Kyogre: 320
 Magearna-Original: 320
 Rayquaza: 320
+Rayquaza-Shadow*: 320
 Reshiram: 320
+Shuckle-Shadow*: 320
 Bellsprout: 315
 Diancie-Mega: 315
 Spectrier: 315

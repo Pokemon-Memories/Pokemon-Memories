@@ -1,4 +1,4 @@
-Pokemon Memories Developer Tier List
+﻿Pokemon Memories Developer Tier List
 Table of Contents
 Section A
 • Standard Ubers
@@ -88,87 +88,97 @@ Disclaimer: Any Pokemon from the B+ Tier downward are Tiered according to the Vi
 
 Current Tiered Shadow Pokemon: Azumarill-Shadow, Darkrai-Shadow, Dialga-Shadow, Entei-Shadow, Landorus-Shadow, Lucario-Shadow, Meloetta-Shadow, Mewtwo-Shadow, Palkia-Shadow, Raikou-Shadow, Rapidash-Shadow, Regigigas-Shadow, Stakataka-Shadow, Suicune-Shadow, Sunflora-Shadow, Victreebel-Shadow, Zacian-Shadow, Zekrom-Shadow
 
-Banlist: Arceus-Origin, Eternatus-Eternamax, Groudon-Primal, Kyogre-Primal, Mewtwo-Mega-X, Mewtwo-Mega-Y, Mewtwo-Shadow*, Rayquaza-Mega, Stakataka-Shadow*
+Banlist: Arceus-Origin, Deoxys-Attack, Eternatus-Eternamax, Groudon-Primal, Kyogre-Primal, Mewtwo-Mega-X, Mewtwo-Mega-Y, Mewtwo-Shadow*, Rayquaza-Mega, Stakataka-Shadow*
 
 Viability Rankings          
 
-S-Tier (5 Total)
+S-Tier (3 Total)
 
-S
-Eternatus (A; with Memorization)
-Giratina-Origin
+S+
+Mewtwo
+Calyrex-Shadow
 
 S-
-Mewtwo (A+; with Memorization)
-Magearna
-Lunala
+Victreebel-Shadow*
 
-A-Tier (13 Total)
+A-Tier (20 Total)
 The Pokemon in this Tier and the following Tiers are listed in Alphabetical Order
 
 A+
-Arceus-???
-Calyrex-Ice
-Landorus-Shadow*
-Lucario-Shadow*
+Arceus* (A-; Shuca Berry)
+Arceus-Dark
+Magearna
+Magearna-Original
+Regigigas-Shadow*
 Zacian-Shadow*
-Zygarde-Complete
 
 A
-Arceus*
-Kyogre
+Carracosta-Shadow*
+Eternatus (A; Fire Memory)
+Genesect (B+; Water Memory / Download: Health/Armor)
+Landorus-Shadow*
+Lugia
+Lunala (B+; Shadow Shield + Ghost Memory)
+Meloetta
+Tornadus
+Vaporeon
 
 A-
-Heatran
-Suicune-Shadow*
-Victreebel-Shadow*
-Zacian-Crowned
-Zamazenta-Crowned
+Giratina-Origin
+Koraidon (B+; Fire Memory)
+Lucario-Shadow*
+Meloetta-Shadow*
+Raikou-Shadow*
+Rapidash-Shadow*
+Zygarde-Complete
 
 
-B-Tier (58 Total)
+B-Tier (63 Total)
 Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
 
 B+
 Arcanine-Hisui
-Arceus-Dark
+Arceus-???
 Arceus-Fire
+Arceus-Water
 Braixen
-Calyrex-Shadow
+Calyrex-Ice
 Dialga
+Dialga-Shadow*
 Floette-Eternal
-Genesect
+Genesect-Shadow*
 Greninja-Ash
 Groudon
+Heatran
 Ho-Oh
-Lugia
-Meloetta-Shadow*
+Kyogre
 Meowscarada
 Mew
 Moltres
 Necrozma-Dusk-Mane
 Necrozma-Ultra
 Phione
-Raikou-Shadow*
-Regigigas-Shadow*
 Sawsbuck-Winter
+Suicune-Shadow*
 Sunflora-Shadow*
+Shuckle-Shadow*
 Tapu Koko
-Tornadus
 Victini
 Victreebel
 Xerneas
 Yveltal
+Zacian-Crowned
+Zamazenta-Crowned
 Zekrom
 Zekrom-Shadow*
 Zygarde
 
 B
 Articuno
-Deoxys-Attack
+Glastrier
 Kyurem-Black
 Kyurem-White
-Magearna-Original
+Lugia-Shadow*
 Porygon-Z
 Simipour
 Suicune
@@ -177,7 +187,6 @@ B-
 Arceus-Fairy
 Arceus-Grass
 Arceus-Ghost
-Arceus-Water
 Carracosta
 Cherrim-Sunshine
 Cobalion
@@ -187,18 +196,17 @@ Deoxys-Speed
 Entei-Shadow*
 Gengar-Mega
 Golurk
+Ho-Oh-Shadow*
 Lilligant
 Palkia
 Palkia-Shadow*
 Porygon2
-Rapidash-Shadow*
 Rotom-Fan
 Sandslash-Alola
 Sunflora
-Vaporeon
 
 
-C-Tier (121 Total)
+C-Tier (117 Total)
 
 C+
 Amoonguss
@@ -212,14 +220,12 @@ Charizard-Mega X
 Darkrai
 Darkrai-Shadow*
 Darmanitan-Galar-Zen
-Dialga-Shadow*
 Dondozo
 Empoleon
 Gallade-Mega
 Garchomp
 Gardevoir
 Giratina
-Glastrier
 Gliscor
 Gyarados-Mega
 Hoopa-Unbound
@@ -237,7 +243,6 @@ Manaphy
 Mantine
 Marshadow
 Melmetal
-Meloetta
 Meloetta-Pirouette
 Meowth
 Mesprit
